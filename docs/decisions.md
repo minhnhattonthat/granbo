@@ -6,9 +6,9 @@ decision replaces one, mark the old one "replaced by D<n>" instead of deleting i
 
 | # | Date | Question | Options offered | Decision and reason |
 |---|---|---|---|---|
-| D1 | <yyyy-mm-dd> | Honorifics and name order | keep (-san), drop; JP or Western order | <...> |
-| D2 | <yyyy-mm-dd> | Romanization source for names | official art, earlier patch, Hepburn | <...> |
-| D3 | <yyyy-mm-dd> | Credits | stay Japanese, translate | <...> |
-| D4 | <yyyy-mm-dd> | Abbreviations | engine work first (default), abbreviate | <...> |
-| D5 | <yyyy-mm-dd> | Graphics text left in Japanese | none (default), list | <...> |
-| D6 | <yyyy-mm-dd> | Specs and plans | need approval, pre-approved | <...> |
+| D1 | 2026-10-18 | Honorifics and name order | keep (-kun), drop; JP or Western order | Drop honorifics, Western order: kids' game, natural English. |
+| D2 | 2026-10-18 | Romanization source for names | official Capcom romaji, Hepburn | Official where known (e.g. GRANBO logo), else adapted freely for punch. |
+| D3 | 2026-10-18 | Credits | stay Japanese, translate | Translate. |
+| D4 | 2026-10-18 | Abbreviations | engine work first (default), abbreviate | Default (not asked separately): full names, engine work first. |
+| D5 | 2026-10-18 | Graphics text left in Japanese | translate all, credits stay JP, text only | Translate all tile-drawn Japanese. |
+| D6 | 2026-10-18 | Specs and plans | need approval, pre-approved | Pre-approved: run phases autonomously, report at end; never publish without user. |

@@ -12,4 +12,4 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 
 | File | Covers | State |
 |---|---|---|
-| <text.md> | <encoding, control codes, pointer tables> | <verified / partly guessed> |
+| text.md | encoding (u16 glyph codes), font, control codes, pointer tables, text ranges | encoding verified; codes partly guessed |

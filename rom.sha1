@@ -1,2 +1,2 @@
 # SHA-1 of the supported dump, in sha1sum format (`sha1sum -c rom.sha1` works too). One line per file for discs.
-<sha1>  rom/<file>
+8cc23cb007fb24583034fccf5f37f46d99f85747  rom/0291 - Granbo (J)(Lord Moyne).gba
