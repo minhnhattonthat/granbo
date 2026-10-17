@@ -14,9 +14,6 @@ END = 0x8500
 ALIASES = {0x8200: "\n"}  # plain newline; other 82xx stay hex (they set the next line's start column, guess)
 CHAR = {c: i for i, c in enumerate(GLYPHS) if c != " " or i == 0}
 CHAR.update({v: k for k, v in ALIASES.items()})
-# ASCII typed by translators -> the font's own glyphs
-ASCII = {"!": "！", "?": "？", ",": "、", ".": "。", "+": "＋", "-": "－", "/": "／", "=": "＝", "(": "（",
-         ")": "）", "~": "～", "'": "”", '"': "”"}
 
 
 def units(rom, off, limit=8000):
@@ -48,7 +45,8 @@ def decode(rom, off):
     return decode_units(us), 2 * len(us)
 
 
-def encode_units(text, ascii_map=False):
+def encode_units(text):
+    """Japanese text (as decoded) -> units."""
     out, i = [], 0
     while i < len(text):
         ch = text[i]
@@ -57,8 +55,6 @@ def encode_units(text, ascii_map=False):
             out.append(int(text[i + 1:j], 16))
             i = j + 1
             continue
-        if ascii_map and ch in ASCII:
-            ch = ASCII[ch]
         if ch not in CHAR:
             raise ValueError(f"no glyph for {ch!r} in {text!r}")
         out.append(CHAR[ch])
@@ -66,6 +62,32 @@ def encode_units(text, ascii_map=False):
     return out + [END]
 
 
-def encode(text, ascii_map=False):
-    us = encode_units(text, ascii_map)
+def encode(text):
+    us = encode_units(text)
+    return struct.pack("<%dH" % len(us), *us)
+
+
+def encode_en_units(s):
+    """English text -> units with the English font's codes (tools/engine.py EN_CODES); `{XXXX}` stays a code."""
+    from engine import EN_CODES
+    out, i = [], 0
+    while i < len(s):
+        ch = s[i]
+        if ch == "{":
+            j = s.index("}", i)
+            out.append(int(s[i + 1:j], 16))
+            i = j + 1
+            continue
+        if ch == "\n":
+            out.append(0x8200)
+        elif ch in EN_CODES:
+            out.append(EN_CODES[ch])
+        else:
+            raise ValueError(f"no English glyph for {ch!r} in {s!r}")
+        i += 1
+    return out + [END]
+
+
+def encode_en(s):
+    us = encode_en_units(s)
     return struct.pack("<%dH" % len(us), *us)

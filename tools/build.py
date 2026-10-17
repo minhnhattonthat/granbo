@@ -10,12 +10,14 @@ No `en` anywhere -> output == original (identity build, tests/test_build.py).
 """
 import argparse
 import json
+import re
 import struct
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import check_rom  # noqa: E402
+import engine  # noqa: E402
 import text  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -62,8 +64,18 @@ def load_script(root=ROOT / "script"):
 
 
 def MARKER(e):
-    """Marker text: the id in glyphs the font has (no [ or _)."""
-    return "〈" + e["id"].replace("_", "－") + "〉"
+    """Marker text: every control code of the jp kept (windows, waits and portraits need them), the first text
+    run replaced by the id in English-font glyphs (the font has no [ or _), later runs by '+'."""
+    out, first = [], True
+    for tok in re.findall(r"\{[0-9A-F]{4}\}|\n|[^{\n]+", e["jp"]):
+        if tok.startswith("{") or tok == "\n":
+            out.append(tok)
+        elif first:
+            out.append("<" + e["id"].replace("_", "-") + ">")
+            first = False
+        else:
+            out.append("+")
+    return "".join(out) if not first else "<" + e["id"].replace("_", "-") + ">" + "".join(out)
 
 
 def text_of(e, lang, marker):
@@ -72,8 +84,11 @@ def text_of(e, lang, marker):
     return e.get(lang) or None
 
 
-def build(orig, files, lang="en", marker=None):
+def build(orig, files, lang="en", marker=None, engine_patch=True):
+    """engine_patch=False with no translations gives the original ROM (identity build)."""
     r = Rom(orig)
+    if engine_patch:
+        engine.patch(r)
     for name, f in files.items():
         if not name.startswith("events/"):
             continue
@@ -87,7 +102,7 @@ def build(orig, files, lang="en", marker=None):
         blob = bytearray(orig[b:copy_end])
         offs = {}
         for e, s in new:
-            enc = text.encode(s if s else e["jp"], ascii_map=bool(s))
+            enc = text.encode_en(s) if s else text.encode(e["jp"])
             offs[e["id"]] = len(blob) // 2
             blob += enc
         if len(blob) > 0x20000:
@@ -108,7 +123,7 @@ def build(orig, files, lang="en", marker=None):
             s = text_of(e, lang, marker)
             if not s:
                 continue
-            enc = text.encode(s, ascii_map=True)
+            enc = text.encode_en(s)
             if enc not in placed:
                 placed[enc] = r.alloc(enc, f"str {e['id']}", align=2)
             at = int(e["at"], 16)

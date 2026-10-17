@@ -41,7 +41,7 @@ def test_roundtrip_every_entry(orig, files):
 def test_identity_build(orig):
     """No translations -> the build is the original ROM (phase 3)."""
     empty = {n: {**f, "entries": [{**e, "en": ""} for e in f["entries"]]} for n, f in build.load_script().items()}
-    assert build.build(orig, empty).finish() == orig
+    assert build.build(orig, empty, engine_patch=False).finish() == orig
 
 
 def test_marker_build_repoints(orig, files):
@@ -49,12 +49,12 @@ def test_marker_build_repoints(orig, files):
     rom = build.build(orig, files, marker=build.MARKER).finish()
     for name, f in files.items():
         for e in f["entries"]:
+            want = text.encode_en(build.MARKER(e))
             if name.startswith("events/"):
                 lit = int(f["block_lits"][0], 16)
                 b = struct.unpack_from("<I", rom, lit)[0] - build.GBA
-                at = b + 2 * struct.unpack_from("<H", rom, int(f["table"], 16) + 2 * e["idx"][0])[0]
-                assert text.decode(rom, at)[0] == build.MARKER(e), e["id"]
+                ats = [b + 2 * struct.unpack_from("<H", rom, int(f["table"], 16) + 2 * i)[0] for i in e["idx"]]
             else:
-                for p in e["ptrs"]:
-                    at = struct.unpack_from("<I", rom, int(p, 16))[0] - build.GBA
-                    assert text.decode(rom, at)[0] == build.MARKER(e), e["id"]
+                ats = [struct.unpack_from("<I", rom, int(p, 16))[0] - build.GBA for p in e["ptrs"]]
+            for at in ats:
+                assert rom[at:at + len(want)] == want, e["id"]

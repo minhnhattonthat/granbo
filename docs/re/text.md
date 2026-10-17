@@ -34,5 +34,26 @@ Codes >= 0x8000; high byte = command, low byte = argument (one u16, no extra wor
   dialogue 0x272D08-0x278C66), 0x1AA48C (names: ウッディーナ ...). More pointer runs: see `tools/` scans.
 - Code literal pools also point at text: 0x7F2A8 -> 0x27196A (intro subtitles, fixed-size zero-padded slots).
 
+## Event messages — verified
+- Map init code stores the map's message block into RAM 0x020038F0 and its u16 offset table into 0x0201B040;
+  message n = block + 2*table[n] (reader 0x08054554). **verified**: table 0x1B5A00 -> block 0x1B5B00, every
+  offset lands right after an 8500. `tools/map_blocks.py` finds all 254 block/table pairs; `tools/dump.py` dumps them.
+- Table length is not stored; the dump counts entries while offsets land on string starts. 90 tables end exactly
+  at their block, the rest at map data. The build copies each old block verbatim before the new messages, so a
+  missed index still reads valid Japanese (and shows up in QA) instead of garbage.
+
+## Message window pipeline — verified (hooks on the original ROM, play state after the intro)
+- 0x08056468 copies one page (up to {8300} or {8500}) of the message into IWRAM buffer 0x030026B0, expanding
+  {94xx} names (xx >= 0x1E: table 0x081AA48C[xx-0x1E]; else RAM 0x02016A90 + 16*xx, the player-set names) and
+  {96xx}. **The buffer is 0x110 bytes = 136 units** (next variable 0x030027C0): a page, names expanded, must fit.
+- 0x08055C60.. walks the buffer (window struct: +8 read pointer, +0x10 current unit, +0x27/+0x2B/+0x31 state set
+  by 89/88/92/93 codes).
+- draw_glyph(win r0, glyph r1, col r2) at 0x08056058: src = font + glyph*0x40, dst = canvas 0x03000CC0 + col*0x40;
+  CpuFastSet when colour (win+0x2F)==0x33 and (win+0x2B)==0, else the recolouring copy at 0x080560A8.
+- Canvas 0x03000CC0, 0x1500 bytes (cleared by CpuFastSet fill at 0x08056038), uploaded whole to VRAM 0x06000800
+  (call at 0x08056136). Columns are 2 tiles (top, bottom) = 0x40 bytes; a box line is 28 columns (BG0 map rows
+  13-14 use tiles 0x40-0x77 in the field box).
+- Other draw paths (fixed-length menu strings: 0x0800F9B0 copies N glyphs straight to VRAM) are separate.
+
 ## Text ranges (heuristic scan, to be replaced by the pointer-driven dump)
 Main bank ~0x1A9000-0x2A0000 (densest 0x26E28A-0x290532). Smaller hits up to 0x7F16D4 are mostly noise; check each.
