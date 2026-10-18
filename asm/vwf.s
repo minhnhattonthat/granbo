@@ -8,7 +8,7 @@
 @ the next code's glyph, drawn 8 px further.
 @ ARM7TDMI: Thumb-1 only. Low-register ops use the flag-setting forms (movs/adds/lsls...), low-to-low moves are
 @ `adds rd, rm, #0`; tools/asm.py rejects any 32-bit encoding except bl.
-@ Symbols filled in by tools/asm.py: STATE (16 bytes RAM), WIDTHS (512 bytes, advance per glyph code).
+@ Symbols filled in by tools/asm.py: STATE (16 bytes RAM), WIDTHS (512 bytes, advance per glyph code), GAP.
     .thumb
 vwf_draw:
     push {r4-r7, lr}
@@ -37,6 +37,11 @@ vwf_draw:
     b store
 reset:
     lsls r5, r2, #3
+@ a space that starts a run keeps its 8 px cell: choice lists (s26E2DE "...{8F01}Yes") draw the cursor's cell as a
+@ space right before the word, and a 3 px space put "Yes" under the cursor. GAP is blank with an 8 px advance.
+    cmp r1, #0
+    bne store
+    ldr r1, lit_gap
 store:
     str r0, [r3, #0]
     str r2, [r3, #4]
@@ -162,3 +167,4 @@ lit_recolor: .word 0x080560A9
 lit_canvas:  .word 0x03000CC0
 lit_ret1:    .word 0x08055BF9
 lit_ret2:    .word 0x08055C27
+lit_gap:     .word GAP

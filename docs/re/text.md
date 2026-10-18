@@ -33,6 +33,12 @@ Codes >= 0x8000; high byte = command, low byte = argument (one u16, no extra wor
 - Tables: 0x2905B4 (1790 entries, skill/item names + descriptions 0x2797F0-0x285BC0), 0x1A1568 (439, battle
   dialogue 0x272D08-0x278C66), 0x1AA48C (names: ウッディーナ ...). More pointer runs: see `tools/` scans.
 - Code literal pools also point at text: 0x7F2A8 -> 0x27196A (intro subtitles, fixed-size zero-padded slots).
+- **Base + offset** — verified: menu code often loads one string pointer and reaches its neighbours by adding
+  constants (`adds r2, #0xa`; a literal word added with `add r2, r8` or `adds r4, r4, r3`; `movs r2, #0x34` +
+  `rsbs` + `add r8, r2`, which also moves the base register). Those neighbours have no pointer, so the pointer scan
+  missed them (status labels, card/save labels, options values, Yes/No, shop/storage prompts), and relocating the
+  base sent the offsets into other strings. `tools/find_rel.py` traces them; the build places each linked group in
+  original order and rewrites every offset (`build.place_rel`); a test checks every derived string has an entry.
 
 ## Event messages — verified
 - Map init code stores the map's message block into RAM 0x020038F0 and its u16 offset table into 0x0201B040;

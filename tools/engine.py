@@ -58,7 +58,8 @@ def patch(r, lig=None):
         r.put(FONT + code * 0x40, left + right, f"font pair {p!r}")
     wt = CODE_BASE + 0x400
     r.put(wt, widths(pairs), "vwf widths")
-    code = asm.assemble(ROOT / "asm/vwf.s", 0x08000000 + CODE_BASE, {"STATE": VWF_STATE, "WIDTHS": 0x08000000 + wt})
+    code = asm.assemble(ROOT / "asm/vwf.s", 0x08000000 + CODE_BASE,
+                        {"STATE": VWF_STATE, "WIDTHS": 0x08000000 + wt, "GAP": EN_CODES[" "]})
     assert len(code) <= 0x400
     assert r.orig[CODE_BASE:CODE_BASE + 0x600] == b"\xff" * 0x600
     r.put(CODE_BASE, code, "vwf code")
