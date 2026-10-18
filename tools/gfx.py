@@ -52,6 +52,8 @@ def label(data, text):
     return sprite_bytes(px)
 
 
+SMALL_FONT = 0x310C58
+EN_CODES_HIGH = {"'": 0x1F0, ":": 0x1F1, ";": 0x1F2, "%": 0x1F3, "&": 0x1F4, "*": 0x1F5, "#": 0x1F6}  # = engine.EN_CODES
 TITLE_TILES = 0x31E878  # title screen: 8bpp tiles, map = row * 32 + col (tools/gen_title.py makes the PNG)
 TITLE_PNG = Path(__file__).resolve().parents[1] / "assets/title_en.png"
 
@@ -73,6 +75,13 @@ def patch(r):
             r.put(at, data, f"title tile {t:#x}")
     for off, text in LABELS:
         r.put(off, label(r.orig[off:off + 0x200], text), f"battle label {text}")
+    # the game's 8x8 small font (0x08310C58, 512 glyphs, 256+ blank): punctuation the English font put at 0x1F0+
+    import engine  # noqa: E402 (engine imports the assembler; gfx is otherwise standalone)
+    for ch, code in EN_CODES_HIGH.items():
+        assert engine.EN_CODES[ch] == code, ch
+        at = SMALL_FONT + code * 32
+        assert r.orig[at:at + 32] == b"\x33" * 32, hex(code)
+        r.put(at, font_small.tile(ch), f"small font {ch!r}")
     for i, art in enumerate(ELEMENTS):
         top, bottom = element_icon(r.orig, art)
         r.put(ELEM_TOP + 0x40 * i, top, f"element icon {i}")
