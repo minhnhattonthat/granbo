@@ -141,6 +141,13 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- Item tiers 小/中/大 -> 1/2/3 like moves ("HP Capsule 1", "Team EN Capsule 2"); X/全Xブレイカー -> X Breaker / Team X
+  Breaker; ストーンボンバー -> Stone Bomber; イカ10アタック -> Squid 10 Attack; にらみあい -> Stare-Down; 何が出るかな？ ->
+  What'll It Be?; アルティメット -> Ultimate; ハサミ -> Pincer (N); 3連続ハサミ -> Triple Pincer; みしようわざ -> Unused Move.
+- Status chances: する事がある -> May cause X; たまに -> Sometimes causes X; 高いカクリツ -> Likely to cause X; かなり高い ->
+  Very likely to cause X. ハリ -> Needle (AT/DF/SP/ALL Needle N); ドクバリ -> Poison Needle; ほえる -> Roar (Stop/Error
+  Roar N); はさみなげ -> Pincer Throw; ワザ止めビーム -> Move-Stop Beam; ムシくい -> Bug Eater; かわり身 -> Body Swap;
+  タマゴしょうかん -> Egg Summon; ケイトウ -> family (Granbo line); 敵はよけられない -> Undodgeable.
 - のコナ -> Dust (Virus/Error/Stop Dust N); ウイルスオンパ -> Virus Wave; リンプンをふりまき -> scatters powder; ガンで攻撃
   -> gun shot; カノンで攻撃 -> cannons all foes.
 - Move families: ストップオンパ -> Stop Wave (オンパ -> Wave); ATノイズ.. -> AT/DF/SP/ALL Noise N; ATバブル.. -> AT/DF/SP/ALL

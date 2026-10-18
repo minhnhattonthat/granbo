@@ -32,8 +32,8 @@ description, then its short battle description; a Granbo's name, then its two de
 - Copy every `{XXXX}` code exactly, same count, sensible position. `{8300}` (new box) and `{82xx}` (new line) count
   as codes here: keep them where they are.
 - Names (items, moves, Granbo, places) are title case and short: they sit in menu fields. Prefer the established
-  form even when a longer one reads better. Tiers: 弱/中/強 on moves -> 1/2/3 ("Virus Claw 2"); 小/中/大 on items
-  and on HP回復 moves -> S/M/L for items ("HP Capsule S"), 1/2/3 for moves ("HP Heal 2", as the dialogue uses).
+  form even when a longer one reads better. Tiers: 弱/中/強 and 小/中/大 -> 1/2/3 on moves and items alike
+  ("Virus Claw 2", "HP Heal 2", "HP Capsule 1", "Team EN Capsule 2", as the dialogue uses); 様 -> EX.
 - Descriptions: plain, short sentences; no ending period on one-line menu descriptions unless the JP has 。.
 - Staff credits: romanise Japanese names in Western order, given name first, Hepburn without macrons
   ("まつした くにおみ" -> "Kuniomi Matsushita"); job titles in English.
