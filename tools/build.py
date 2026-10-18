@@ -19,6 +19,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import check_rom  # noqa: E402
 import engine  # noqa: E402
 import fit  # noqa: E402
+import ligatures  # noqa: E402
 import text  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -88,8 +89,9 @@ def text_of(e, lang, marker):
 def build(orig, files, lang="en", marker=None, engine_patch=True):
     """engine_patch=False with no translations gives the original ROM (identity build)."""
     r = Rom(orig)
+    lig = ligatures.plan(files) if engine_patch and lang == "en" else {"names": {}, "pairs": {}}
     if engine_patch:
-        engine.patch(r)
+        engine.patch(r, lig)
     for name, f in files.items():
         if not name.startswith("events/"):
             continue
@@ -124,7 +126,11 @@ def build(orig, files, lang="en", marker=None, engine_patch=True):
             s = text_of(e, lang, marker)
             if not s:
                 continue
-            enc = text.encode_en(s)
+            if not marker and e["id"] in lig["names"]:  # Granbo name: <= 6 codes with letter pairs
+                us = [lig["pairs"][c] if len(c) == 2 else engine.EN_CODES[c] for c in lig["names"][e["id"]]]
+                enc = struct.pack("<%dH" % (len(us) + 1), *us, text.END)
+            else:
+                enc = text.encode_en(s)
             if enc not in placed:
                 placed[enc] = r.alloc(enc, f"str {e['id']}", align=2)
             at = int(e["at"], 16)

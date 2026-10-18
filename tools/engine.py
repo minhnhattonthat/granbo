@@ -12,6 +12,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import asm  # noqa: E402
 import font_en  # noqa: E402
+import ligatures  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 FONT = 0x308BF8
@@ -33,19 +34,25 @@ assert len(set(EN_CODES.values())) == len(EN_CODES)
 assert set(EN_CODES) <= set(font_en.ART), set(EN_CODES) - set(font_en.ART)
 
 
-def widths():
+def widths(pairs=None):
     w = bytearray([8] * 512)
     for ch, code in EN_CODES.items():
         w[code] = font_en.advance(ch)
+    for p, code in (pairs or {}).items():  # two-letter glyphs (tools/ligatures.py): c draws both halves
+        w[code], w[code + 1] = ligatures.pair_px(p), 0
     return bytes(w)
 
 
-def patch(r):
-    """Apply the engine patches to build.Rom r (writes logged through r.put)."""
+def patch(r, lig=None):
+    """Apply the engine patches to build.Rom r (writes logged through r.put). lig: ligatures.plan() result."""
+    pairs = (lig or {}).get("pairs", {})
     for ch, code in EN_CODES.items():
         r.put(FONT + code * 0x40, font_en.glyph_bytes(ch), f"font {ch!r}")
+    for p, code in pairs.items():
+        left, right = ligatures.glyphs(p)
+        r.put(FONT + code * 0x40, left + right, f"font pair {p!r}")
     wt = CODE_BASE + 0x400
-    r.put(wt, widths(), "vwf widths")
+    r.put(wt, widths(pairs), "vwf widths")
     code = asm.assemble(ROOT / "asm/vwf.s", 0x08000000 + CODE_BASE, {"STATE": VWF_STATE, "WIDTHS": 0x08000000 + wt})
     assert len(code) <= 0x400
     assert r.orig[CODE_BASE:CODE_BASE + 0x600] == b"\xff" * 0x600

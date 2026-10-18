@@ -101,6 +101,45 @@ counted:
     adds r3, #1
     str r3, [r7, #32]
     push {r1}
+    bl blit_glyph
+@ wide glyph (width > 8): step one cell, draw the right half (the next code) at the same offset, advance the rest
+    ldr r1, [sp]
+    ldr r3, lit_widths
+    ldrb r3, [r3, r1]
+    cmp r3, #8
+    ble narrow
+    ldr r0, [r7, #16]
+    adds r0, #8
+    bl move_pen
+    ldr r1, [sp]
+    adds r1, #1
+    bl blit_glyph
+    ldr r1, [sp]
+    ldr r3, lit_widths
+    ldrb r3, [r3, r1]
+    subs r3, #8
+    b advance_pen
+narrow:
+advance_pen:
+    pop {r1}
+    ldr r0, [r7, #16]
+    adds r0, r0, r3
+    bl move_pen
+retvals:
+    ldr r0, [r7, #0]
+    adds r0, #2
+    str r0, [r7, #20]
+    ldr r1, [r7, #4]
+    adds r1, #2
+    str r1, [r7, #24]
+    pop {r4-r7}
+    pop {r3}
+    bx r3
+
+@ blit_glyph(r1 = code): the glyph's ink at the pen of the current cell (cells allocated as pixels land).
+@ Keeps r7.
+blit_glyph:
+    push {r1-r6, lr}
     ldr r3, lit_fontptr
     ldr r3, [r3]
     lsls r4, r1, #6
@@ -153,22 +192,7 @@ nextpx:
     adds r5, #4
     cmp r5, #0x40
     blt row
-    pop {r1}
-    ldr r3, lit_widths
-    ldrb r3, [r3, r1]
-    ldr r0, [r7, #16]
-    adds r0, r0, r3
-    bl move_pen
-retvals:
-    ldr r0, [r7, #0]
-    adds r0, #2
-    str r0, [r7, #20]
-    ldr r1, [r7, #4]
-    adds r1, #2
-    str r1, [r7, #24]
-    pop {r4-r7}
-    pop {r3}
-    bx r3
+    pop {r1-r6, pc}
 
 @ move_pen(r0 = new pen, from the current cell's left edge): walks into later cells, making sure every cell the pen
 @ passes (and the one it stops inside) exists, so the tilemap has entries for blank cells too. Keeps r1-r7.

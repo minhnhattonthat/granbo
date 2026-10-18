@@ -58,6 +58,9 @@ def names_header(h):
     import names
     return names.english_header(h) if names.INLINE.search(h) else h
 ID_PX = {"s26E5B8": 46}  # default player name (カケル -> Kakeru): a name-entry field, 7 glyphs like the RAM slots
+# strings the game copies into fixed RAM buffers: at most this many units (found by tools/bisect_entries.py: a
+# longer name-entry title overran into the keyboard task at 0x02026398 and the keyboard stopped taking input)
+ID_UNITS = {"s26FB04": 10}
 
 
 def limits(jp, group=None):
@@ -130,6 +133,8 @@ def split(size, chars):
 def issues(e, en, group=None):
     jp = e["jp"]
     out = lint.issues({**e, "en": en}, "ptr")
+    if e["id"] in ID_UNITS and len(fit.TOKEN.findall(en)) > ID_UNITS[e["id"]]:
+        out.append(f"{len(fit.TOKEN.findall(en))} units > {ID_UNITS[e['id']]} (copied into a fixed RAM buffer)")
     jl, el = lines(jp), lines(en)
     if len(jl) != len(el):
         out.append(f"{len(el)} lines, JP has {len(jl)} (' / ' and {{82xx}} are line breaks)")

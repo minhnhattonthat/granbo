@@ -97,6 +97,32 @@ draw:
     lsls r1, r4, #6
     adds r0, r0, r1
     push {r4}
+    bl blit_rows
+    pop {r4}
+    ldr r7, lit_widths
+    ldrb r0, [r7, r4]
+    cmp r0, #8
+    ble adv
+@ wide glyph: the right half is the next code's glyph, 8 px further
+    push {r4}
+    adds r6, #8
+    ldr r0, lit_fontptr
+    ldr r0, [r0]
+    adds r1, r4, #1
+    lsls r1, r1, #6
+    adds r0, r0, r1
+    bl blit_rows
+    subs r6, #8
+    pop {r4}
+    ldr r7, lit_widths
+    ldrb r0, [r7, r4]
+adv:
+    adds r6, r6, r0
+    b draw
+
+@ blit_rows(r0 = glyph src, r6 = pen): the glyph's non-background pixels into the cells, clipped to n cells.
+blit_rows:
+    push {r4-r7, lr}
     movs r1, #0
 row_loop:
     ldr r2, [r0, r1]
@@ -139,11 +165,7 @@ next_px:
     adds r1, #4
     cmp r1, #0x40
     blt row_loop
-    pop {r4}
-    ldr r7, lit_widths
-    ldrb r0, [r7, r4]
-    adds r6, r6, r0
-    b draw
+    pop {r4-r7, pc}
 done:
     mov r0, lr
     pop {r4-r7}
