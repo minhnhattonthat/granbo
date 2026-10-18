@@ -2,8 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9 - playtest fixes in; the v1.0 zip in release/ predates them (has the Yes/No crash) and must be
-  rebuilt (`tools/release.py`). Visual QA gate passes on the new build: full re-tour, 419 sheets re-reviewed
+- **Phase:** 9 - playtest fixes in; release/Granbo_EN_v1.0.zip rebuilt 2026-10-19 from 14d7d0d (patched CRC32
+  5DC2BC16; all release steps pass). Visual QA gate passes on the new build: full re-tour, 419 sheets re-reviewed
   (`work/qa/verdicts/`; v1.0 verdicts archived in `work/qa/verdicts_v1.0/`). Not published: the user's call.
   QA gotchas: `regen_states.py` defaults to the JP ROM (pass build/granbo_en.gba); the manifest's warp sheets are
   copies `work/qa/tour/warp_<scene>.png` of `work/qa/warp_<scene>/sheet.png` (copy them after a regen); the map
@@ -28,7 +28,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     indexed palette and 600-tile budget retained. Regeneration is byte-identical; 10 tests, build and cold-boot
     smoke pass; independent visual review and `title_logo_manifest.tsv` QA gate pass (1 sheet).
     Before: `work/qa/title_logo_before/final.png`; after: `work/qa/title_logo/final.png`.
-    The local build includes this redesign; the existing v1.0 release archive predates it.
+    The local build and the rebuilt v1.0 release archive include this redesign.
   - Playtest fixes: Yes/No prompt line keeps the JP newline (an {8207} one pushed "No" past the canvas at
     0x03000CC0 into game state 0x03002320: crash at ev1BC98C_012); speaker text starts at x=64 on every line
     (D8: 「 tabs there in vwf.s, fit adds it after RAM-slot names); GAP drawn opaque so the choice cursor erases.
