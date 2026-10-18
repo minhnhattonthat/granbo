@@ -12,6 +12,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import asm  # noqa: E402
 import font_en  # noqa: E402
+import font_small  # noqa: E402
 import ligatures  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -20,6 +21,7 @@ CODE_BASE = 0x7F3000  # 0xFF padding after the original data (ends 0x7F207B); in
 VWF_STATE = 0x0203F000  # 16 bytes; only boot-time clears touch 0x0203E000-0x0203F5CF (docs/re/text.md)
 NAMEBUF = VWF_STATE + 0x70  # u32: last output buffer of name6 (asm/name6.s), after the two vwf_menu states
 NAME6 = 0x04B71C  # name6(src bytes, dst units): a Granbo name's 6 RAM bytes -> 6 units + 8500
+HUD_BUF = VWF_STATE + 0x80  # 6 x 192 bytes: battle HUD name tiles (asm/hud_name.s), up to 0x0203F500
 DRAW_GLYPH = 0x056058
 MENU_GLYPH = 0x04B4C8  # 8x16 per-glyph block inside draw_menu_string (0x0804B3AC)
 TYPE_GLYPH = 0x04B6C0  # 8x16 per-glyph block inside the typewriter window printer (0x0804B524)
@@ -132,3 +134,24 @@ def patch(r, lig=None):
     code = asm.assemble(ROOT / "asm/name6.s", 0x08000000 + NAME6, {"NAMEBUF": NAMEBUF})
     assert len(code) == 32, len(code)
     r.put(NAME6, code, "name6: record the name buffer")
+    # battle HUD names (0x08014790): proportional compact font instead of one small-font tile per byte
+    pt = bytearray(512)
+    for c in range(256):
+        pt[2 * c] = c
+    for p, c in pairs.items():
+        pt[2 * c], pt[2 * c + 1] = EN_CODES[p[0]], EN_CODES[p[1]]
+    syms = {"BUF": HUD_BUF, "PAIRS": 0x08000000 + r.alloc(bytes(pt), "hud name pairs"),
+            "FONT": 0x08000000 + r.alloc(font_small.tiles(EN_CODES), "hud name font"),
+            "ADV": 0x08000000 + r.alloc(font_small.advances(EN_CODES), "hud name advances")}
+    hud = r.alloc(b"\0" * 0x100, "hud_name code")
+    code = asm.assemble(ROOT / "asm/hud_name.s", 0x08000000 + hud, syms)
+    assert len(code) <= 0x100
+    r.put(hud, code, "hud_name code")
+    assert r.orig[0x0147EE:0x014814] == bytes.fromhex(
+        "288800194001c023db04c01839190a785201534619688918202238f03cfd0134052cedd91be0")
+    stub = bytes.fromhex("28884001c023db04c018391c024b00f001f824e01847") + struct.pack("<I", 0x08000000 + hud + 1) \
+        + bytes.fromhex("c046") * 6
+    # ldrh r0,[r5]; lsls r0,r0,#5; movs r3,#0xc0; lsls r3,r3,#19; adds r0,r0,r3 (VRAM tile address); adds r1,r7,#0
+    # (name); ldr r3,[pc,#8]; bl +2 (-> bx r3); b 0x0801484C; bx r3; .word hud_name|1; nops
+    assert len(stub) == 38
+    r.put(0x0147EE, stub, "hud name call")
