@@ -1,0 +1,204 @@
+@ vwf_menu.s: proportional 8x16 text for draw_menu_string (0x0804B3AC: menus, lists, shops, status screens).
+@ The original block at 0x0804B4C8 draws one glyph per cell: glyph16(sl + slot*32, code) recolours and queues two
+@ tiles, then writes tilemap entries attr|slot at map and attr|slot+1 at map+0x40; slot += 2, map += 2.
+@ The hook there calls vwf_menu(r0 slot, r1 code, r2 map) -> r0 new slot, r1 new map and resumes at 0x0804B4EC.
+@ vwf_menu keeps a pen inside the current cell. A call whose slot/map equal what the previous call returned
+@ continues the same run of text; anything else (new string, newline, other window) starts a new run at slot/map.
+@ Cells are allocated lazily when a pixel lands in them or the pen passes them: a 0x40-byte buffer from the game's
+@ per-frame staging allocator (pointer at 0x02023C40), filled with the background, queued to VRAM with the game's
+@ copy queue (0x0804D284, flushed at vblank), plus the two tilemap entries. Pixels are then written into the
+@ buffer, which is fine until the vblank flush. Colours as glyph16: ink 1/2 + ([0x020260C5] & 15) when that byte
+@ is non-zero; background 3, or 0 (transparent) when [0x020260C4] == 1.
+@ Uses sl (VRAM base) and r8 (tilemap attribute) of the caller read-only. Thumb-1 only. Symbols: STATE (28 bytes
+@ RAM), WIDTHS.
+    .thumb
+vwf_menu:
+    push {r4-r7, lr}
+    ldr r7, lit_state
+    ldr r3, [r7, #20]
+    cmp r0, r3
+    bne newrun
+    ldr r3, [r7, #24]
+    cmp r2, r3
+    beq blit
+newrun:
+    str r0, [r7, #0]
+    str r2, [r7, #4]
+    movs r3, #0
+    str r3, [r7, #8]
+    str r3, [r7, #12]
+    str r3, [r7, #16]
+blit:
+    push {r1}
+    ldr r3, lit_fontptr
+    ldr r3, [r3]
+    lsls r4, r1, #6
+    adds r6, r3, r4
+    movs r5, #0
+row:
+    ldr r4, [r6, r5]
+    movs r3, #0
+px:
+    lsls r0, r3, #2
+    adds r1, r4, #0
+    lsrs r1, r0
+    movs r0, #0xf
+    ands r1, r0
+    cmp r1, #3
+    beq nextpx
+    cmp r1, #0
+    beq nextpx
+    ldr r0, lit_c5
+    ldrb r0, [r0]
+    cmp r0, #0
+    beq nocol
+    lsls r0, r0, #28
+    lsrs r0, r0, #28
+    adds r1, r1, r0
+nocol:
+    push {r1, r3, r4}
+    ldr r0, [r7, #16]
+    adds r0, r0, r3
+    push {r0}
+    lsrs r0, r0, #3
+    bl ensure
+    pop {r2}
+    lsls r2, r2, #29
+    lsrs r2, r2, #27
+    adds r0, r0, r5
+    pop {r1}
+    lsls r1, r2
+    movs r3, #0xf
+    lsls r3, r2
+    ldr r2, [r0]
+    bics r2, r3
+    orrs r2, r1
+    str r2, [r0]
+    pop {r3, r4}
+nextpx:
+    adds r3, #1
+    cmp r3, #8
+    blt px
+    adds r5, #4
+    cmp r5, #0x40
+    blt row
+    pop {r1}
+    ldr r3, lit_widths
+    ldrb r3, [r3, r1]
+    ldr r0, [r7, #16]
+    adds r0, r0, r3
+advance:
+    cmp r0, #8
+    blt advanced
+    push {r0}
+    movs r0, #0
+    bl ensure
+    ldr r1, [r7, #0]
+    adds r1, #2
+    str r1, [r7, #0]
+    ldr r1, [r7, #4]
+    adds r1, #2
+    str r1, [r7, #4]
+    ldr r1, [r7, #12]
+    str r1, [r7, #8]
+    movs r1, #0
+    str r1, [r7, #12]
+    pop {r0}
+    subs r0, #8
+    b advance
+advanced:
+    str r0, [r7, #16]
+    cmp r0, #0
+    beq retvals
+    movs r0, #0
+    bl ensure
+retvals:
+    ldr r0, [r7, #0]
+    adds r0, #2
+    str r0, [r7, #20]
+    ldr r1, [r7, #4]
+    adds r1, #2
+    str r1, [r7, #24]
+    pop {r4-r7}
+    pop {r3}
+    bx r3
+
+@ ensure(r0 = 0: current cell, 1: next cell) -> r0 = its buffer, allocating it on first use. Keeps r1-r7.
+ensure:
+    push {r1-r6, lr}
+    cmp r0, #0
+    bne ens_next
+    ldr r0, [r7, #8]
+    cmp r0, #0
+    bne ens_ret
+    ldr r1, [r7, #0]
+    ldr r2, [r7, #4]
+    bl alloc
+    str r0, [r7, #8]
+    b ens_ret
+ens_next:
+    ldr r0, [r7, #12]
+    cmp r0, #0
+    bne ens_ret
+    ldr r1, [r7, #0]
+    adds r1, #2
+    ldr r2, [r7, #4]
+    adds r2, #2
+    bl alloc
+    str r0, [r7, #12]
+ens_ret:
+    pop {r1-r6, pc}
+
+@ alloc(r1 slot, r2 map) -> r0 buffer: staging buffer filled with the background, queued to sl + slot*32,
+@ tilemap entries attr|slot at map and attr|slot+1 at map+0x40. Keeps r1-r7.
+alloc:
+    push {r1-r6, lr}
+    ldr r3, lit_stage
+    ldr r0, [r3]
+    adds r4, r0, #0
+    adds r4, #0x40
+    str r4, [r3]
+    ldr r3, lit_c4
+    ldrb r3, [r3]
+    movs r4, #0
+    cmp r3, #1
+    beq fill
+    ldr r4, lit_bg
+fill:
+    movs r3, #0
+fill_loop:
+    str r4, [r0, r3]
+    adds r3, #4
+    cmp r3, #0x40
+    blt fill_loop
+    mov r3, r8
+    orrs r3, r1
+    strh r3, [r2]
+    mov r3, r8
+    adds r4, r1, #1
+    orrs r3, r4
+    adds r5, r2, #0
+    adds r5, #0x40
+    strh r3, [r5]
+    push {r0}
+    lsls r3, r1, #5
+    mov r4, sl
+    adds r3, r3, r4
+    adds r1, r0, #0
+    adds r0, r3, #0
+    movs r2, #0x40
+    ldr r3, lit_queue
+    bl call_r3
+    pop {r0}
+    pop {r1-r6, pc}
+call_r3:
+    bx r3
+    .align 2
+lit_state:   .word STATE
+lit_fontptr: .word 0x0829FE04
+lit_widths:  .word WIDTHS
+lit_c5:      .word 0x020260C5
+lit_c4:      .word 0x020260C4
+lit_stage:   .word 0x02023C40
+lit_bg:      .word 0x33333333
+lit_queue:   .word 0x0804D285

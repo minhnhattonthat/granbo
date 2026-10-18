@@ -18,6 +18,7 @@ FONT = 0x308BF8
 CODE_BASE = 0x7F3000  # 0xFF padding after the original data (ends 0x7F207B); inside the original 8 MiB
 VWF_STATE = 0x0203F000  # 16 bytes; only boot-time clears touch 0x0203E000-0x0203F5CF (docs/re/text.md)
 DRAW_GLYPH = 0x056058
+MENU_GLYPH = 0x04B4C8  # 8x16 per-glyph block inside draw_menu_string (0x0804B3AC)
 DRAW_CELLS = 0x00F9B0  # draw_cells(dst, tile, str, n, big, centre): menus and lists (docs/re/text.md)
 
 EN_CODES = {" ": 0x000}
@@ -59,6 +60,20 @@ def patch(r):
     assert r.orig[DRAW_CELLS:DRAW_CELLS + 12] == bytes.fromhex("f0b557464e464546e0b484b0")
     hook = bytes.fromhex("014c2047c046") + struct.pack("<I", 0x08000000 + cells + 1)  # ldr r4,[pc,#4]; bx r4; nop
     r.put(DRAW_CELLS + 2, hook, "vwf_cells hook")
+    # menu strings: draw_menu_string's 8x16 glyph block (0x0804B4C8-0x0804B4E5) -> asm/vwf_menu.s
+    menu = CODE_BASE + 0xC00
+    code = asm.assemble(ROOT / "asm/vwf_menu.s", 0x08000000 + menu,
+                        {"STATE": VWF_STATE + 0x10, "WIDTHS": 0x08000000 + wt})
+    assert len(code) <= 0x400 and r.orig[menu:menu + 0x400] == b"\xff" * 0x400
+    r.put(menu, code, "vwf_menu code")
+    assert r.orig[MENU_GLYPH:MENU_GLYPH + 30] == bytes.fromhex(
+        "680150443188fff7f5fd404628432080211c4031681c424610430880a81c")
+    stub = bytes.fromhex("3188281c221c044b00f004f8051c0c1c08e0c0461847c046") \
+        + struct.pack("<I", 0x08000000 + menu + 1) + bytes.fromhex("c046")
+    # ldrh r1,[r6]; adds r0,r5,#0; adds r2,r4,#0; ldr r3,[pc,#16]; bl +8 (-> bx r3); adds r5,r0,#0;
+    # adds r4,r1,#0; b 0x0804B4EC; nop; bx r3; nop; .word vwf_menu|1; nop
+    assert len(stub) == 30
+    r.put(MENU_GLYPH, stub, "vwf_menu hook")
     # speaker-name copy loops (`cmp r4,#5`: 6 units) pad the name with spaces: inline labels from the message (<= 9
     # glyphs) -> 10 units, RAM name slots (16 bytes: <= 7 glyphs + end) -> 8, so a padding space always separates
     # name and text. fit.first_x computes where the text then starts; fit.NAME_PX gates the name width.
