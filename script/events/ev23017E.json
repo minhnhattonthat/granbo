@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}女の子「だれもいなくなっちゃった・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Everyone's gone...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23017E_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}女の子「まだおきゃくさんは少ないけど・・・{8207}いつかみんな来てくれるわ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「We don't have many customers yet... but someday everyone will come!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23017E_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}女の子「あなたのおかげでみんなが{8207}やる気をとりもどしたみたい！」{8300}{94C8}女の子「店もしめずにすみそう！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thanks to you, everyone seems to have their spirit back!{8300}{94C8}Girl「Looks like I won't have to close the shop!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23017E_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}女の子「あなたのおかげでみんなが{8207}やる気をとりもどしたわ！」{8300}{94C8}女の子「店も今より大きくできそうだわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thanks to you, everyone has their spirit back!{8300}{94C8}Girl「I think I can even make the shop bigger!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23017E_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}ワーク00のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 00 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23017E_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}ワーク01のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23017E_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23017E_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23017E_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}てんいん「いらっしゃいませ！{8207}どのようなごようけんですか？」{9200}\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Clerk「Welcome! How may I help you?{9200} {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23017E_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}てんいん「ほかに何かございますか？」\n\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Clerk「Is there anything else?  {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   }
  ]
 }

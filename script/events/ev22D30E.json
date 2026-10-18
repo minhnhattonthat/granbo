@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おじさん「私はセイバー本部で{8207}はたらいているんだ！」{8300}{94C8}おじさん「今日はシゴトがやすみなので{8207}こうして家でのんびりとしている{8207}というワケさ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「I work at Saver HQ!{8300}{94C8}Man「I've got the day off today, so I'm just taking it easy at home like this!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22D30E_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}おばさん「うちの人・・・たまにしか休みがとれないの」{8300}{94C8}おばさん「世界を守るシゴトってのも{8207}大変なのね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「My husband... only gets a day off once in a while.{8300}{94C8}Lady「Protecting the world must be hard work...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22D30E_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}女の子「お父さん、せっかくのお休みなのに{8207}お母さんと話してばっかり！」{8300}{94C8}女の子「つまんない！{8207}つまんない！{8207}つまんな～～～い！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Dad, it's your day off and all you do is talk to Mom!{8300}{94C8}Girl「Boring! Boring! Booooring!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22D30E_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}おじさん「ここは{9405}博士によって{8207}つくられた町さ」{8300}{94C8}おじさん「博士のスゴイちしきで{8207}こんなに住みにくい所でも{8207}カイテキな町ができたのさっ！」{8300}{94C8}おじさん「でもさいきん・・・{8207}博士とその娘の{9403}ちゃんを{8207}見ないんだ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「This town was built by Dr. {9405}.{8300}{94C8}Man「Thanks to the doctor's amazing knowledge, he made a comfy town even in a place this hard to live in!{8300}{94C8}Man「But lately... nobody's seen the doctor or his daughter {9403}...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22D30E_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}おばさん「うちの人、お休みなのに{8207}シゴトに行っちゃったわ！」{8300}{94C8}おばさん「{9400}君達ががんばっているのに{8207}自分だけ休んではいられないって！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「My husband went off to work even though it's his day off!{8300}{94C8}Lady「He said he couldn't be the only one resting while {9400} and the others are working so hard!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22D30E_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}女の子「お父さん、ケッキョク{8207}またシゴトに行っちゃった・・・」{8300}{94C8}女の子「つまんなーい・・・」{8300}{94C8}女の子「・・・けど、今回はシカタないよね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Dad went off to work again after all...{8300}{94C8}Girl「Boooring...{8300}{94C8}Girl「...But I guess it can't be helped this time.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22D30E_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}おじさん「キミをみていると{8207}セイバー本部ではたらいている事が{8207}ほこらしく思えてくるよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Watching you makes me proud to work at Saver HQ.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22D30E_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}おばさん「うちの人、最近はお休みが多いの！」{8300}{94C8}おばさん「これも世界が平和になったからね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「My husband gets lots of days off lately!{8300}{94C8}Lady「It's because the world is at peace now...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22D30E_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}女の子「まいにちお父さんがあそんでくれるの！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Dad plays with me every day!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22D30E_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}おじさん「{9400}くん・・・{8207}がんばってくれ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「{9400}... Please, do your best...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22D30E_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}おばさん「こんなことになるなんて・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「I never thought it would come to this...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22D30E_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}女の子「お父さん、なんとかしてくれないかな？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Can't Dad do something about it?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22D30E_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{9201}メッセージボードに\nメッセージが入っている{8300}『お父さんなんて大キライ！！』{9200}\n{8900}                    {9300}{9201}むすめより{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There's a message on the Message Board.{8300}\"I hate you, Dad!!\"{9200} {8900}{9300}{9201}From your daughter{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22D30E_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}ワーク01のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22D30E_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22D30E_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22D30E_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}ワーク04のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22D30E_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22D30E_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}ワーク06のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

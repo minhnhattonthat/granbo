@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おじさん「オレのヨメのリョウリは{8207}大陸一・・・いや、世界一さ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「My wife's cooking is the best on the continent... no, the best in the world!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22CD88_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}おばさん「まったく、うちの男連中は{8207}食べる事しか頭にないんだから！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Honestly, the men in this house can't think about anything but eating!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22CD88_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}男の子「かあちゃん～{8207}ゴハンまだ～？？？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Mooom~ Isn't dinner ready yet~??{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22CD88_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}おじさん「がんばれよ！」{8300}{94C8}おじさん「オレ達も自分にできることが{8207}何かないかかんがえてみるよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Hang in there!{8300}{94C8}Man「We'll think about whether there's something we can do, too!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22CD88_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}おばさん「無事に帰ってきたら私のジマンの{8207}リョウリを食べさせてあげるわ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Come back safe, and I'll treat you to my famous cooking!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22CD88_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}男の子「{9400}君・・・」{8300}{94C8}男の子「ゼッタイ、ゼッタイ無事に{8207}帰ってきてね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「{9400}...{8300}{94C8}Boy「You have to come back safe! You absolutely have to!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22CD88_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}おじさん「キミのようなセイバーがいれば・・・」{8300}{94C8}おじさん「もうどんな敵もおそれるシンパイは{8207}ないな！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「With a Saver like you around...{8300}{94C8}Man「we've got no reason to fear any enemy anymore!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22CD88_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}おばさん「私のジマンのリョウリ・・・{8207}食べていく？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「My famous cooking... want to stay and eat?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22CD88_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}男の子「{9400}君！」{8300}{94C8}男の子「ボクを弟子にして下さい！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「{9400}!{8300}{94C8}Boy「Please make me your apprentice!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22CD88_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}おじさん「がんばれよ！」{8300}{94C8}おじさん「オレ達も自分にできることが{8207}何かないかかんがえてみるよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Hang in there!{8300}{94C8}Man「We'll think about whether there's something we can do, too!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22CD88_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}おばさん「無事に帰ってきたら私のジマンの{8207}リョウリを食べさせてあげるわ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Come back safe, and I'll treat you to my famous cooking!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22CD88_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}男の子「{9400}君・・・」{8300}{94C8}男の子「ゼッタイ、ゼッタイ無事に{8207}帰ってきてね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「{9400}...{8300}{94C8}Boy「You have to come back safe! You absolutely have to!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22CD88_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{9201}メッセージボードに\nメッセージが入っている{8300}『今日のばんゴハンはビーフシチューよ！』{9200}\n{8900}                    {9300}{9201}お母さんより{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There's a message on the Message Board.{8300}\"Dinner tonight is beef stew!\"{9200} {8900}{9300}{9201}From Mom{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22CD88_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{9201}シンプルなキッチンだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A simple kitchen.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22CD88_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22CD88_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22CD88_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}ワーク04のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22CD88_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22CD88_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}ワーク06のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

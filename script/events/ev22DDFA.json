@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おじさん「スカイシャークめ！{8207}来るなら来いっ！！」{8300}{94C8}おじさん「かえりうちにしてやるぜっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Sky Shark! Come and get me if you dare!!{8300}{94C8}Man「I'll send you packing!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DDFA_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}おじさん「あんた、すげえな・・・」{8300}{94C8}おじさん「オレもあんたに負けないように{8207}がんばるぜ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Man, you're amazing...{8300}{94C8}Man「I'll work hard so I don't fall behind you!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DDFA_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おじさん「はぁ・・・」{8300}{94C8}おじさん「あんたには負けたよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Sigh...{8300}{94C8}Man「I've gotta hand it to you...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DDFA_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}おじさん「なんてこった・・・」{8300}{94C8}おじさん「まだ終わってなかったのかよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「What the heck...{8300}{94C8}Man「You mean it still wasn't over...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DDFA_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{9201}メッセージボードに\nメールが入っている{8300}『町のシュウヘンのケイビをおこたらないように！』{9200}\n{8900}                      {9300}{9201}町内会より{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There's mail on the Message Board.{8300}\"Do not slack off on guarding the area around town!\"{9200} {8900}{9300}{9201}From the Neighborhood Association{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DDFA_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}ワーク01のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DDFA_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DDFA_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DDFA_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}ワーク04のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DDFA_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DDFA_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}ワーク06のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

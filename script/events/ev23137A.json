@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おばさん「わかっとくれ・・・{8207}お前までキケンな目にあわせたく{8207}なかったのよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Please understand... I didn't want to put you in danger, too...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23137A_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}男の子「母ちゃんがオレを外に出して{8207}くれなかったんだ！！」{8300}{94C8}男の子「友達がみんな戦ってたのに・・・{8207}チクショウ・・・チクショウ・・・！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Mom wouldn't let me go outside!!{8300}{94C8}Boy「All my friends were out there fighting... Dang it... Dang it...!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23137A_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おばさん「この子は私の大事な{8207}一人ムスコなんだ・・・」{8300}{94C8}おばさん「スカイシャークがこの大陸から{8207}いなくなるまで、外には出さないよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「This boy is my precious only son...{8300}{94C8}Lady「I won't let him outside until Sky Shark is gone from this continent!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23137A_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}男の子「母ちゃんのせいでオレは{8207}みんなのわらい者だよ・・・」{8300}{94C8}男の子「母ちゃんにはオレの{8207}気持ちなんかわからないんだ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Thanks to Mom, everyone's laughing at me...{8300}{94C8}Boy「Mom doesn't understand how I feel at all!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23137A_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}おばさん「やっぱりムスコを外に出すわけには{8207}いかないわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「I just can't let my son go outside after all!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23137A_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}男の子「ちきしょう・・・こんな家{8207}出てってやるぜ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Dang it... I'm running away from this house!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23137A_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}おばさん「ムスコを止めようとしていたのが{8207}今ではバカバカしいわ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Now it seems so silly that I tried to stop my son...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23137A_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}男の子「オレも少しずつキミに{8207}近づいているよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「I'm getting a little closer to you every day!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23137A_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{9201}メッセージボードに\nデンゴンは入っていない{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There are no messages on the Message Board.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23137A_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}ちょっとゴウカなかんじのおフロだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}A rather fancy-looking bath.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23137A_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23137A_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23137A_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}ワーク04のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23137A_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23137A_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{9201}メッセージボードに\nデンゴンは入っていない{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There are no messages on the Message Board.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

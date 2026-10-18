@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}元セイバー「スカイシャークがこの大陸でも{8207}動きだしおったか！！」{8300}{94C8}元セイバー「こうなったらワシがゲンエキに{8207}ふっきして・・・」{8300}{94C8}元セイバー「アダダ・・・こ、こしが・・・{8207}としはとりたくないもんじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「So Sky Shark's started moving on this continent too!!{8300}{94C8}Ex-Saver「If it's come to this, I'll come out of retirement and...{8300}{94C8}Ex-Saver「Ow-ow-ow... M-my back... Getting old is no fun...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DA04_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}元セイバー「ワシもこしさえちゃんとしていれば{8207}おヌシ達を手助けできるんじゃが・・・」{8300}{94C8}元セイバー「すまぬ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「If only my back were in good shape, I could lend you kids a hand...{8300}{94C8}Ex-Saver「Forgive me...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DA04_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}元セイバー「ワシもこしさえちゃんとしていれば{8207}おヌシ達を手助けできるんじゃが・・・」{8300}{94C8}元セイバー「すまぬ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「If only my back were in good shape, I could lend you kids a hand...{8300}{94C8}Ex-Saver「Forgive me...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DA04_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}元セイバー「ワシもこしさえちゃんとしていれば{8207}おヌシ達を手助けできるんじゃが・・・」{8300}{94C8}元セイバー「すまぬ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「If only my back were in good shape, I could lend you kids a hand...{8300}{94C8}Ex-Saver「Forgive me...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DA04_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{9201}メッセージボードに\nメッセージが入っている{8300}『家、売ります！セイバー本部の近くで安心なくらしを！』{9200}\n{8900}                     {9300}{9201}元住人より{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There's a message on the Message Board.{8300}\"House for sale! Live safe and sound near Saver HQ!\"{9200} {8900}{9300}{9201}From the former resident{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DA04_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{9201}シンプルなキッチンだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A simple kitchen.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DA04_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DA04_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DA04_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}ワーク04のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DA04_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22DA04_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}ワーク06のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

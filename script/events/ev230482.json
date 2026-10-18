@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おばあさん「今回ほどスカイシャークがおそろしいと{8207}思ったことはないよ・・・」{8300}{94C8}おばあさん「あいつら・・・子どもにたいしても{8207}エンリョなしじゃないか・・・{8207}話がちがうよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「I've never been as scared of Sky Shark as I was this time...{8300}{94C8}Old Lady「Those brutes... They don't hold back even against children... That's not how it's supposed to go!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}大人セイバー「なさけない、コシがぬけちまって{8207}戦えずじまいさ・・・」{8300}{94C8}大人セイバー「アナがあったら入りたいよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「How pathetic. My legs gave out, and I never got to fight...{8300}{94C8}Saver「I wish I could crawl into a hole and hide...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}女の子「セイバー本部があるローズタウンに{8207}レンラクをとろうとしたんだけど・・・」{8300}{94C8}女の子「どうしてもつながらなかったの・・・{8207}なんで・・・？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I tried to contact Rose Town, where the Saver HQ is...{8300}{94C8}Girl「But I just couldn't get through... Why...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{8610}{9497}「この町のグランボセイバーは{8207}ほとんどバミューダにやられたみたい」{8300}{8610}{9497}「ゼッタイゆるせないわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}Looks like Bermuda beat almost every Granbo Saver in this town.{8300}{8610}{9497}I'll never forgive him!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}おばあさん「スカイシャークめ、今度は{8207}セイバー本部を？」{8300}{94C8}おばあさん「くっ・・・やりたいほうだいじゃないか！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「That Sky Shark... Now they're after the Saver HQ?{8300}{94C8}Old Lady「Grr... They do whatever they please!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}大人セイバー「ヤツらがセイバー本部を？」{8300}{94C8}大人セイバー「よ、よし・・・今度こそ・・・」{8300}{94C8}大人セイバー「・・・・・・・・・」{8300}{94C8}大人セイバー「・・・だめだ、前はコシがぬけたなんて{8207}ウソをついたけど・・・」{8300}{94C8}大人セイバー「本当はこわいだけなんだよ～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「They're going after the Saver HQ?{8300}{94C8}Saver「R-right... This time for sure...{8300}{94C8}Saver「.........{8300}{94C8}Saver「...It's no good. I lied before when I said my legs gave out...{8300}{94C8}Saver「The truth is, I'm just scared!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}女の子「あいかわらず、セイバー本部には{8207}レンラクがつかないわ・・・」{8300}{94C8}女の子「まんまとヤツらのしかけたワナに{8207}はめられたってワケね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I still can't get through to the Saver HQ...{8300}{94C8}Girl「So we fell right into the trap they set...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}おばあさん「なんと・・・あの女の子が{8207}バミューダにつれさられた！？」{8300}{94C8}おばあさん「ええい、私が後5つ{8207}わかかったら、ほうってはおかないものを！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「What... That girl was carried off by Bermuda?!{8300}{94C8}Old Lady「Bah, if I were just five years younger, I wouldn't let that stand!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}大人セイバー「あの女の子が{8207}バミューダにつかまった？」{8300}{94C8}大人セイバー「ああ・・・私に彼女の100分の1でも{8207}ユウキがあればな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「That girl was captured by Bermuda?{8300}{94C8}Saver「Oh... If only I had a hundredth of her courage...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}女の子「あなた達のカツヤクはきいてるわ！{8207}すごいじゃない！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I've heard all about what you've done! That's amazing!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}おばあさん「おお、あんたか・・・」{8300}{94C8}おばあさん「まぁ、みんなにボウケンの事を{8207}話してやっておくれ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Oh, it's you...{8300}{94C8}Old Lady「Well, tell everyone about your adventures...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}大人セイバー「オレもキミをみならいたいよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「I want to follow your example, too.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{94C8}女の子「ふふふ・・・{8207}あなたのコウケイ者はこの私よっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Hee hee... Your successor is going to be me!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{9201}グランボセイバーの作戦カイギ用ディスプレイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A display for Granbo Saver strategy meetings.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{9201}グランボを使った戦いのシミュレーターだ\n向かい合わせにすわって対戦するらしい{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a battle simulator for Granbo. It seems you sit facing each other to compete.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{9201}ダミー{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{94C8}おばあさん「バミューダめ・・・{8207}すきほうだいやりおって・・・{8207}ゆるせん！！」{8300}{94C8}おばあさん「{8833}ローバッファ{8800}をやろう！じゃから{8207}ヤツをなんとしてもたおしてくれい！！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「That Bermuda... Doing whatever he likes... Unforgivable!!{8300}{94C8}Old Lady「I'll give you {8833}Robuffa{8800}! So beat him, no matter what!!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev230482_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{94C8}おばあさん「たのんだぞ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「I'm counting on you...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{94C8}おばあさん「むむ、なさけない！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Hmph, how pathetic!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{94C8}おばあさん「がんばるんじゃぞ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Do your best!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8001}{94C8}こども「{9409}・・・」{8300}{94C8}こども「あんなものを使うなんて{8207}ヒキョウもいいとこだぜ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Kid「{9409}...{8300}{94C8}Kid「Using something like that is as dirty as it gets!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8001}{94C8}こども「攻撃が通じないんじゃ{8207}勝てっこないよ・・・」{8300}{94C8}こども「ボク、もう戦うのやめようかな・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Kid「If our attacks don't even work, there's no way we can win...{8300}{94C8}Kid「Maybe I should just quit fighting...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8001}{94C8}こども「何いってんのよ、このいくじなし！！{8207}そんなカンタンにあきらめて{8207}どうすんのよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Kid「What are you saying, you big chicken!! What good is giving up that easily?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8001}{8602}{9497}「回復マシンはしばらく使えそうにないね」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9497}Looks like the healing machine won't work for a while.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8001}{8603}{9499}「こまった事になりました・・・」{8300}{8603}{9499}「{940A}使いをやめたいと{8207}いう人まで出てくるとは・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8603}{9499}This is troubling...{8300}{8603}{9499}Now there are even people who want to stop using {940A}...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8001}{8602}{9497}「そりゃ、子分に手も足でなかったら・・・」{8300}{8602}{9497}「ショックだろうね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9497}Well, if you can't lay a finger on mere Grunts...{8300}{8602}{9497}That'd be a shock, huh...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_026",
@@ -220,7 +246,8 @@
     26
    ],
    "jp": "{8001}{8602}{9498}「で、でもそのシールドとか言うヤツは{8207}まだカンセイしていないんだよね～！？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}B-but that shield thingy isn't finished yet, right?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_027",
@@ -228,7 +255,8 @@
     27
    ],
    "jp": "{8001}{8603}{9499}「ええ・・・{8207}今はまだ使える時間が{8207}短いようです・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8603}{9499}Yes... For now, it seems it can only be used for a short time...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_028",
@@ -236,7 +264,8 @@
     28
    ],
    "jp": "{8001}{8602}{9497}「じゃあ、きえるまでたえていれば{8207}なんとかなるんだ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9497}So if we just hold out until it disappears, we'll be fine!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_029",
@@ -244,7 +273,8 @@
     29
    ],
    "jp": "{8001}{94C8}こども「それも今だけのはなしさ・・・」{8300}{94C8}こども「もうしばらくしたら{8207}『{8833}パーフェクトシールド{8800}』は{8207}カンセイするよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Kid「That's only true for now...{8300}{94C8}Kid「Pretty soon the \"{8833}Perfect Shield{8800}\" will be finished...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_030",
@@ -252,7 +282,8 @@
     30
    ],
    "jp": "{8001}{8602}{9498}「そ、それはどういうことだい～？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}Wh-what do you mean by that?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_031",
@@ -260,7 +291,8 @@
     31
    ],
    "jp": "{8001}{94C8}こども「知らないのかい？」{8300}{94C8}こども「{9409}が{8207}有名な博士をつれてきたって{8207}もっぱらのウワサさ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Kid「You don't know?{8300}{94C8}Kid「Everyone's saying that {9409} brought in a famous professor...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_032",
@@ -268,7 +300,8 @@
     32
    ],
    "jp": "{8001}{8603}{9499}「博士って・・・」{8300}{8603}{9499}「男の人ですか！？{8207}トシはどのくらいですか！？{8207}どんなかんじの人でしたか！？！？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8603}{9499}A professor...?{8300}{8603}{9499}Is it a man?! How old is he?! What does he look like?!?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_033",
@@ -276,7 +309,8 @@
     33
    ],
    "jp": "{8001}{94C8}こども「え？い、いや、たしか・・・」{8300}{94C8}こども「そう、男の人で・・・・・・」{8300}{94C8}こども「ネンレイは40くらいかな？{8207}ボサボサ頭で白い服{8207}いかにも科学者ってかんじらしいよ」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Kid「Huh? W-well, I think...{8300}{94C8}Kid「Yeah, it's a man...{8300}{94C8}Kid「He's about 40, maybe? Messy hair, white coat... He looks every bit the scientist, I hear.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_034",
@@ -284,7 +318,8 @@
     34
    ],
    "jp": "{8001}{8602}{9497}「ねぇ、{9403}・・・」{8300}{8602}{9497}「その人に何か心あたりでも？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9497}Hey, {9403}...{8300}{8602}{9497}Do you know something about him?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev230482_035",
@@ -292,7 +327,8 @@
     35
    ],
    "jp": "{8001}{8603}{9499}「あ・・・い、いえ・・・！」{8300}{8603}{9499}「べつにそういうわけでは・・・」{8300}{8603}{9499}「とにかく、まずは{9409}の{8207}研究シセツを目ざすしかないようですね」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8603}{9499}Oh... N-no...!{8300}{8603}{9499}It's not anything like that...{8300}{8603}{9499}Anyway, it looks like all we can do is head for {9409}'s research facility.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おばあさん「なさけない・・・」{8300}{94C8}おばあさん「子ども達がひっしに戦っているのに{8207}わたしゃ、見ている事しか{8207}できなんだ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「How pathetic...{8300}{94C8}Old Lady「The children were fighting with all they had, and all I could do was watch...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}少年セイバー「ヤツら・・・ボク達の{8207}メカエッグまでこわしていったんだ！」{8300}{94C8}少年セイバー「ひどいよ・・・ひどすぎるよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Those guys... they even wrecked our Mecha Eggs!{8300}{94C8}Kid Saver「That's awful... way too awful...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}少年セイバー「うう・・・・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Ugh......{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}少年セイバー「妹を最後まで守れないなんて・・・」{8300}{94C8}少年セイバー「オレってなさけねぇ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「I couldn't protect my little sister to the end...{8300}{94C8}Kid Saver「I'm so pathetic...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}女の子「お兄ちゃんが・・・{8207}お兄ちゃんがスカイシャークに・・・！」{8300}{94C8}女の子「おねがい、お兄ちゃんのカタキをうって！！」{8300}{94C8}女の子「アタシの持っている{8833}ATカノン中{8800}の{8207}ワザをあげるから・・・おねがい！！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「My big brother... Sky Shark got my big brother...!{8300}{94C8}Girl「Please, get revenge for my brother!!{8300}{94C8}Girl「I'll give you my {8833}AT Cannon 2{8800} move... please!!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}女の子「それじゃあ、あげるわ！{8207}これであいつらをやっつけてね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Then here you go! Use it to beat those guys!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}女の子「そう・・・こうなったら{8207}アタシ一人でも・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I see... then I'll just have to do it myself...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}女の子「がんばってね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Good luck!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{8603}{9499}「バミューダ・・・{8207}どうしてここまで・・・？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}Bermuda... why would you go this far...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{8602}{9498}「最近、{8833}大陸の東の方{8800}に新しいタテモノが{8207}できたらしいんだな！」{8300}{8602}{9498}「ちょっと気になるんだな～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Lately a new building went up in the {8833}east of the continent{8800}, y'know!{8300}{8602}{9498}It's kinda bugging me, y'know~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}おばあさん「なんと、ヤツら今度は{8833}南のローズタウン{8800}に{8207}あるセイバー本部を・・・？」{8300}{94C8}おばあさん「まったく、なんということじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「What, now those villains are after the Saver HQ in {8833}Rose Town to the south{8800}...?{8300}{94C8}Old Lady「Good heavens, what a dreadful thing...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}少年セイバー「ええっ、セイバー本部が・・・？」{8300}{94C8}少年セイバー「くそっ・・・かけつけたいけど{8207}メカエッグすらないんじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Wha... Saver HQ...?{8300}{94C8}Kid Saver「Darn... I want to rush over there, but I don't even have a Mecha Egg...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{94C8}少年セイバー「本部がヤツらに・・・？」{8300}{94C8}少年セイバー「でも、ボクが行ってもなんのやくにも{8207}立たないよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「They're going after HQ...?{8300}{94C8}Kid Saver「But even if I went, I'd be no help at all...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{94C8}少年セイバー「・・・・・・・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「.........{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94C8}女の子「お兄ちゃんが・・・{8207}お兄ちゃんがスカイシャークに・・・！」{8300}{94C8}女の子「おねがい、お兄ちゃんのカタキをうって！！」{8300}{94C8}女の子「アタシの持っている{8833}ATカノン中{8800}の{8207}ワザをあげるから・・・おねがい！！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「My big brother... Sky Shark got my big brother...!{8300}{94C8}Girl「Please, get revenge for my brother!!{8300}{94C8}Girl「I'll give you my {8833}AT Cannon 2{8800} move... please!!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{94C8}女の子「それじゃあ、あげるわ！{8207}これであいつらをやっつけてね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Then here you go! Use it to beat those guys!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{94C8}女の子「そう・・・こうなったら{8207}アタシ一人でも・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I see... then I'll just have to do it myself...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{94C8}女の子「がんばってね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Good luck!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{94C8}おばあさん「そうか、おぬしらの戦いは{8207}まだまだ続くんじゃな・・・」{8300}{94C8}おばあさん「がんばれよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「I see, so your fight still goes on...{8300}{94C8}Old Lady「Hang in there...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{94C8}少年セイバー「ボクのメカエッグもシュウリが{8207}終わったんだ」{8300}{94C8}少年セイバー「ボクもがんばってみるよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「My Mecha Egg's done being repaired too.{8300}{94C8}Kid Saver「I'm gonna give it my best too!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8002}{94C8}少年セイバー「キミって本当にすごいね！」{8300}{94C8}少年セイバー「そうだ・・・あ、あくしゅしてよ！{8207}そうしたら、ボクもグランボを{8207}うまく使えるようになるかも・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「You're really amazing!{8300}{94C8}Kid Saver「Oh, I know... sh-shake my hand! Then maybe I'll get good at using Granbo too...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8002}{94C8}少年セイバー「そうか・・・まだキミは戦うのか・・・」{8300}{94C8}少年セイバー「でも、ボクはまだたちなおれないよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「I see... you're still going to fight...{8300}{94C8}Kid Saver「But I still can't get back on my feet...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8002}{94C8}女の子「お兄ちゃんが・・・{8207}まだたちなおれないの・・・」{8300}{94C8}女の子「おねがい、お兄ちゃんのカタキをうって！！」{8300}{94C8}女の子「アタシの持っている{8833}ATカノン中{8800}の{8207}ワザをあげるから・・・おねがい！！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「My big brother... still can't get back on his feet...{8300}{94C8}Girl「Please, get revenge for my brother!!{8300}{94C8}Girl「I'll give you my {8833}AT Cannon 2{8800} move... please!!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8002}{94C8}女の子「それじゃあ、あげるわ！{8207}これで敵をやっつけてね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Then here you go! Use it to beat the enemy!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8002}{94C8}女の子「そう・・・こうなったら{8207}アタシ一人でも・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I see... then I'll just have to do it myself...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8002}{94C8}女の子「がんばってね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Good luck!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_026",
@@ -220,7 +246,8 @@
     26
    ],
    "jp": "{8002}{94C8}おばあさん「ありがとう・・・」{8300}{94C8}おばあさん「それしか言う事はないよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Thank you...{8300}{94C8}Old Lady「That's all I can say...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_027",
@@ -228,7 +255,8 @@
     27
    ],
    "jp": "{8002}{94C8}少年セイバー「あっ、{9400}くん！！」{8300}{94C8}少年セイバー「ボクもがんばってるよ！{8207}キミに少しでも近づけるように・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Ah, {9400}!!{8300}{94C8}Kid Saver「I'm working hard too! So I can get even a little closer to you...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_028",
@@ -236,7 +264,8 @@
     28
    ],
    "jp": "{8002}{94C8}少年セイバー「ローズタウンのセイバーが{8207}この前さわいでいたよ」{8300}{94C8}少年セイバー「{8833}町の東{8800}に何かができた・・・{8207}とか何とか・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「A Saver from Rose Town was making a fuss the other day.{8300}{94C8}Kid Saver「Something about something being built {8833}east of town{8800}... or whatever...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_029",
@@ -244,7 +273,8 @@
     29
    ],
    "jp": "{8002}{94C8}女の子「お兄ちゃんっ！！！」{8300}{94C8}女の子「ガンバって！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Big Brother!!{8300}{94C8}Girl「Go for it!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_030",
@@ -252,7 +282,8 @@
     30
    ],
    "jp": "{8002}{94C8}少年セイバー「ボクとグランボで勝負しないか？{8207}キミが勝ったら{8833}ウイルスクロー強{8800}の{8207}アイテムをあげるよ！」{8300}{94C8}少年セイバー「ボクもやっと戦えるようになってね・・・{8207}ここでキミと戦えば完全に{8207}立ちなおれそうなんだ」{8300}{94C8}少年セイバー「たのむ・・・妹のためにも立ちなおり{8207}たいんだ・・・戦ってくれ！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Want to have a Granbo battle with me? If you win, I'll give you the {8833}Virus Claw 3{8800} item!{8300}{94C8}Kid Saver「I've finally gotten so I can fight again... If I battle you here, I think I can get completely back on my feet.{8300}{94C8}Kid Saver「Please... I want to recover for my sister's sake too... battle me!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_031",
@@ -260,7 +291,8 @@
     31
    ],
    "jp": "{8002}{94C8}少年セイバー「ハァハァ・・・{8207}ありがとう、戦いのカンカクが{8207}とりもどせたよ！！」{8300}{94C8}少年セイバー「ヤクソクどおり{8207}{8833}ウイルスクロー強{8800}をわたすよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Huff, huff... Thanks, I got my feel for battle back!!{8300}{94C8}Kid Saver「Like I promised, here's {8833}Virus Claw 3{8800}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_032",
@@ -268,7 +300,8 @@
     32
    ],
    "jp": "{8002}{94C8}少年セイバー「あれっ・・・{8207}そんなはずは・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Huh... That can't be...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_033",
@@ -276,7 +309,8 @@
     33
    ],
    "jp": "{8002}{94C8}少年セイバー「そう言わずたのむよ！{8207}じっさいに戦わないと、戦いのカンカクは{8207}とりもどせないんだ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Don't say that, please! I can't get my feel for battle back unless I actually fight!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_034",
@@ -284,7 +318,8 @@
     34
    ],
    "jp": "{8002}{94C8}少年セイバー「これで妹を守れるよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Now I can protect my sister!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_035",
@@ -292,7 +327,8 @@
     35
    ],
    "jp": "{8002}{94C8}女の子「あっ、{9400}君！！」{8300}{94C8}女の子「ありがとう！あなたのおかげで{8207}やっとお兄ちゃんも立ちなおったみたい！」{8300}{94C8}女の子「そうだ、おれいに{8833}HPチップ{8800}を{8207}あげるよ！！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Ah, {9400}!!{8300}{94C8}Girl「Thank you! Thanks to you, my brother finally seems to be back on his feet!{8300}{94C8}Girl「Oh, I know, I'll give you an {8833}HP Chip{8800} as thanks!!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_036",
@@ -300,7 +336,8 @@
     36
    ],
    "jp": "{8002}{94C8}女の子「それじゃあ、わたすわ！{8207}うまく使ってね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Then here you go! Use it well!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_037",
@@ -308,7 +345,8 @@
     37
    ],
    "jp": "{8002}{94C8}女の子「え、いらないの？{8207}エンリョぶかいなぁ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Huh, you don't want it? You're so modest...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_038",
@@ -316,7 +354,8 @@
     38
    ],
    "jp": "{8002}{94C8}女の子「本当にありがとう！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thank you so much!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_039",
@@ -324,7 +363,8 @@
     39
    ],
    "jp": "{8002}ワーク00のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 00 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_040",
@@ -332,7 +372,8 @@
     40
    ],
    "jp": "{8002}ワーク01のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_041",
@@ -340,7 +381,8 @@
     41
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_042",
@@ -348,7 +390,8 @@
     42
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_043",
@@ -356,7 +399,8 @@
     43
    ],
    "jp": "{8002}ワーク04のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_044",
@@ -364,7 +408,8 @@
     44
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_045",
@@ -372,7 +417,8 @@
     45
    ],
    "jp": "{8002}ワーク06のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_046",
@@ -380,7 +426,8 @@
     46
    ],
    "jp": "{8001}{94C8}少年セイバー「ワ～～～ン！{8207}ボクの・・・ボクの{940A}が～～～！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Kid Saver「Waaaaah! My... My {940A}...!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_047",
@@ -388,7 +435,8 @@
     47
    ],
    "jp": "{8001}{94C8}女の子「お兄ちゃんっ・・・{8207}しっかり！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Girl「Big brother... Hang in there!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_048",
@@ -396,7 +444,8 @@
     48
    ],
    "jp": "{8001}{94C8}少年セイバー「ダメだ・・・{8207}アイツに勝てるワケがない・・・」{8300}{94C8}少年セイバー「ボクはもう戦いたくないよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Kid Saver「It's no use... There's no way I can beat him...{8300}{94C8}Kid Saver「I don't want to fight anymore...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_049",
@@ -404,7 +453,8 @@
     49
    ],
    "jp": "{8002}{8610}{9497}「{9400}ーっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}{9400}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_050",
@@ -412,7 +462,8 @@
     50
    ],
    "jp": "{8002}{8611}{9497}「これ・・・ひどすぎるよね・・・{8207}みんなバミューダとその子分に{8207}やられたみたいなんだけど・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8611}{9497}This is... just too awful... Looks like Bermuda and his Grunts beat everyone...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_051",
@@ -420,7 +471,8 @@
     51
    ],
    "jp": "{8002}{8612}{9498}「どこもかしこも{8207}こわれたグランボだらけだよ～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8612}{9498}There are broken Granbo everywhere you look...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22EDB4_052",
@@ -428,7 +480,8 @@
     52
    ],
    "jp": "{8002}{8603}{9499}「バミューダ達はこの町をおそった後{8207}いったいどこに行ったんでしょう？」{8300}{8603}{9499}「とにかく町の人に話を{8207}きいてみましょう・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}After attacking this town, where on earth did Bermuda and the others go?{8300}{8603}{9499}Anyway, let's ask the townspeople...{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

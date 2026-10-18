@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「キャプテン！このアジトは{8207}かならず守ってみせます！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Captain! We'll protect this hideout no matter what!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev232210_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{8602}{9498}「おいしそうなオカシがのってるんだな～」{8300}{8602}{9498}「・・・って、今はそれどころじゃないんだな！{8207}でも、出てくる敵が大した事なくて{8207}気がぬけるんだな・・・」{8300}{8602}{9498}「でも、こういう時こそシンチョウにね～！{8207}{8833}全HPカプセル中{8800}を持っていくといいよ～」\n{8D00}",
-   "en": ""
+   "en": "{8002}{8602}{9498}There are yummy-looking snacks on here, y'know...{8300}{8602}{9498}...Wait, this is no time for that, y'know! But the enemies here are no big deal, so it's hard to stay on guard, y'know...{8300}{8602}{9498}But that's exactly when you gotta be careful! You should take a {8833}Team HP Capsule 2{8800}!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev232210_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{8602}{9498}「それじゃあ、あげるよ～！{8207}くれぐれも気はぬかないでね～！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Okay, here you go! Don't let your guard down, okay?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev232210_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{8612}{9498}「まぁ、なくてもダイジョウブだろうけど{8207}・・・やっぱり持って行った方がいいよ？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8612}{9498}Well, you'd probably be fine without it... but you'd better take it after all, okay?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev232210_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{8602}{9498}「それじゃ、気をつけてね～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Okay, be careful!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev232210_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{8601}{9497}「あっ、{9400}！{8207}この先の子分がすごくチュウイぶかいヤツで{8207}こまってるの！！」{8300}{8601}{9497}「・・・それにしてもここの敵って{8207}何だかヒョウシぬけだね？{8207}本当にここにバミューダがいるの？」{8300}{8601}{9497}「まぁ、ハントはしやすそうかな・・・{8207}そうだ！{8833}ほえる中{8800}のワザをあげるわ」\n{8D00}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Oh, {9400}! The Grunt up ahead is super cautious, and I'm stuck!!{8300}{8601}{9497}...Still, the enemies here are kind of a letdown, huh? Is Bermuda really here?{8300}{8601}{9497}Well, at least it looks easy to hunt... Oh, I know! I'll give you the {8833}Roar 2{8800} move!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev232210_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8001}{8601}{9497}「うん、じゃああげるよ！{8207}うまく使ってよね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8601}{9497}Okay, then here you go! Use it well!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev232210_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8001}{8611}{9497}「まぁ・・・{8207}いらないっていうならいいけど・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8611}{9497}Well... If you say you don't want it, fine...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev232210_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{8601}{9497}「それじゃ、この後もがんばろう！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Okay, let's keep up the good work!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev232210_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{9201}スカイシャークのキャプテンのにがおえだ！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a portrait of Sky Shark's Captain!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev232210_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{9201}すわり心地の良さそうなソファーだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A sofa that looks comfy to sit on.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev232210_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232210_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232210_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232210_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232210_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232210_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{8605}{949B}「まぁ、そういうわけで{8207}{940A}をカイハツしたのは{8207}たしかに私だが・・・」{8300}{8605}{949B}「データパッドやハントグローブは{8207}私と{9403}が2人で{8207}作った物なのだよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8605}{949B}Well, that's how it is. It's true that I'm the one who developed {940A}...{8300}{8605}{949B}But the Data Pad and Hunt Glove are things {9403} and I made together.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev232210_017",
