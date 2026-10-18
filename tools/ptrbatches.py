@@ -57,7 +57,12 @@ def box_limits(s):
 def names_header(h):
     import names
     return names.english_header(h) if names.INLINE.search(h) else h
-ID_PX = {"s26E5B8": 46}  # default player name (カケル -> Kakeru): a name-entry field, 7 glyphs like the RAM slots
+ID_PX = {"s26E5B8": 46,  # default player name (カケル -> Kakeru): a name-entry field, 7 glyphs like the RAM slots
+         # base+offset strings (find_rel), wider than the JP; card/save labels checked on screen (moved columns),
+         # the shop/storage/Data Ball/link prompts not yet (docs/status.md)
+         "s27055A": 24, "s27055E": 32, "s2705FC": 17, "s26E428": 50, "s26FD16": 49, "s26FEFE": 50, "s26F652": 46,
+         "s26F24C": 127, "s26F2A2": 45, "s26F2AC": 32, "s26F2BC": 151, "s26F2DC": 161, "s26F666": 45, "s26FB70": 112,
+         "s26FBB8": 104, "s26FECC": 83, "s26FEDC": 98, "s27081E": 102, "s270834": 166, "s272CE4": 31}
 # strings the game copies into fixed RAM buffers: at most this many units (found by tools/bisect_entries.py: a
 # longer name-entry title overran into the keyboard task at 0x02026398 and the keyboard stopped taking input)
 ID_UNITS = {"s26FB04": 10}
@@ -162,10 +167,8 @@ def check(pid):
             continue
         e, group = by_id[i]
         errs += [f"{i}: {m}" for m in issues(e, en, group)]
-        # a JP tail that follows a name or number ("をおあずかりしました") starts with a particle: give the English a
-        # space (after the width check: the limit is the tail's own text)
-        if re.match(r"[をがはのにでともへや]", e["jp"]) and en[:1].isalnum():
-            en = " " + en
+        # no automatic leading space for JP "tails" any more: a kana like は/と/の also starts ordinary words
+        # (はんしゃバリア, とまどい) and gave 81 move names a stray space; the English carries its own spacing
         merged[i] = en
     return errs, merged
 
