@@ -36,7 +36,25 @@ def padded(jp):
     return any(re.search(r"\S {3,}\S", l) for l in lines(jp))
 
 
-BOX_PX = {"t1A1568": 200, "t098F4C": 200, "t1A952C": 200, "r290000": 216}  # message boxes / credits: whole width
+BOX_PX = {"r290000": 216}  # credits / Data Pad help: whole width
+MSG_BOX = {"t1A1568", "t098F4C", "t1A952C"}  # battle message window: event-box geometry (fit.first_x / line_x)
+
+
+def box_limits(s):
+    """Per-line limits in the message window: a box's first line starts after its speaker field, later lines at
+    the column their {82xx} sets; text may run to fit.LINE_END."""
+    out = []
+    for box in re.split(r"\{83[0-9A-F]{2}\}", s):
+        h = fit.header(box)
+        codes = re.findall(r"\{82[0-9A-F]{2}\}|\n", box)
+        out.append(fit.LINE_END - fit.first_x(names_header(h)))
+        out += [fit.LINE_END - fit.line_x(c) for c in codes]
+    return out
+
+
+def names_header(h):
+    import names
+    return names.english_header(h) if names.INLINE.search(h) else h
 ID_PX = {"s26E5B8": 46}  # default player name (カケル -> Kakeru): a name-entry field, 7 glyphs like the RAM slots
 
 
@@ -44,6 +62,8 @@ def limits(jp, group=None):
     """Hard pixel limit per line: the JP width plus a little slack (fields usually have spare cells), never over
     the 216 px a full-width box holds; lines in battle message boxes and the credits get the box width.
     Screen QA catches the fields that are tighter."""
+    if group in MSG_BOX:
+        return box_limits(jp)
     out = []
     for l in lines(jp):
         px = 8 * len(fit.TOKEN.findall(l))

@@ -7,7 +7,8 @@
     "0x1b3f78"
    ],
    "jp": "    グランドチェンジタワーはヤクワリを終え・・・",
-   "en": ""
+   "en": "     The Grand Change Tower, its work done...",
+   "status": "translated"
   },
   {
    "id": "s271EDE",
@@ -16,7 +17,8 @@
     "0x1b3f98"
    ],
    "jp": "         そのキノウをテイシした",
-   "en": ""
+   "en": "                            was shut down.",
+   "status": "translated"
   },
   {
    "id": "s271F08",
@@ -25,7 +27,8 @@
     "0x1b3fb8"
    ],
    "jp": "       ・・・しかし博士はショウライ",
-   "en": ""
+   "en": "              ...But for the future, the doctor,",
+   "status": "translated"
   },
   {
    "id": "s271F34",
@@ -34,7 +37,8 @@
     "0x1b3fd8"
    ],
    "jp": "      ふたたび同じような事がおきた時のために",
-   "en": ""
+   "en": "         in case the same thing happened again,",
+   "status": "translated"
   },
   {
    "id": "s271F68",
@@ -43,7 +47,8 @@
     "0x1b3ff8"
    ],
    "jp": "           大陸ごとではなく",
-   "en": ""
+   "en": "   built not a tower for each continent",
+   "status": "translated"
   },
   {
    "id": "s271F90",
@@ -52,7 +57,8 @@
     "0x1b4018"
    ],
    "jp": "    世界全体を1度に作りなおせる力を持ったタワー",
-   "en": ""
+   "en": " but one to remake the whole world at once...",
+   "status": "translated"
   },
   {
    "id": "s271FC6",
@@ -61,7 +67,8 @@
     "0x1b4038"
    ],
    "jp": "    ・・・ワールドチェンジタワーを作ったのだ",
-   "en": ""
+   "en": "                   ...the World Change Tower.",
+   "status": "translated"
   }
  ]
 }

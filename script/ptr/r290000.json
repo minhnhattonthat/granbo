@@ -7,7 +7,8 @@
     "0x293840"
    ],
    "jp": "グランボ用コマンドです",
-   "en": ""
+   "en": "Granbo commands",
+   "status": "translated"
   },
   {
    "id": "s2700CE",
@@ -16,7 +17,8 @@
     "0x29384c"
    ],
    "jp": "アイテムを使います",
-   "en": ""
+   "en": "Use items",
+   "status": "translated"
   },
   {
    "id": "s2700E2",
@@ -25,7 +27,8 @@
     "0x293858"
    ],
    "jp": "ジョウホウをひょうじします",
-   "en": ""
+   "en": "Show information",
+   "status": "translated"
   },
   {
    "id": "s2700FE",
@@ -34,7 +37,8 @@
     "0x293864"
    ],
    "jp": "システムコマンドです",
-   "en": ""
+   "en": "System commands",
+   "status": "translated"
   },
   {
    "id": "s270114",
@@ -43,7 +47,8 @@
     "0x2937ac"
    ],
    "jp": "ワザを使います",
-   "en": ""
+   "en": "Use moves",
+   "status": "translated"
   },
   {
    "id": "s270124",
@@ -52,7 +57,8 @@
     "0x2937b8"
    ],
    "jp": "ヘンシンします",
-   "en": ""
+   "en": "Transform",
+   "status": "translated"
   },
   {
    "id": "s270134",
@@ -61,7 +67,8 @@
     "0x2937c4"
    ],
    "jp": "じょうたいをかくにんします",
-   "en": ""
+   "en": "Check status",
+   "status": "translated"
   },
   {
    "id": "s270150",
@@ -70,7 +77,8 @@
     "0x2937d0"
    ],
    "jp": "つうじょうアイテムを使います",
-   "en": ""
+   "en": "Use normal items",
+   "status": "translated"
   },
   {
    "id": "s27016E",
@@ -79,7 +87,8 @@
     "0x2937dc"
    ],
    "jp": "じゅうようアイテムを使います",
-   "en": ""
+   "en": "Use key items",
+   "status": "translated"
   },
   {
    "id": "s27018C",
@@ -88,7 +97,8 @@
     "0x2937e8"
    ],
    "jp": "ワザをがくしゅうします",
-   "en": ""
+   "en": "Learn Move",
+   "status": "translated"
   },
   {
    "id": "s2701CE",
@@ -97,7 +107,8 @@
     "0x2937f4"
    ],
    "jp": "マップを見ることができます",
-   "en": ""
+   "en": "View the map",
+   "status": "translated"
   },
   {
    "id": "s2701EA",
@@ -106,7 +117,8 @@
     "0x293800"
    ],
    "jp": "データベースです",
-   "en": ""
+   "en": "Database",
+   "status": "translated"
   },
   {
    "id": "s2701FC",
@@ -115,7 +127,8 @@
     "0x29380c"
    ],
    "jp": "プレイヤーデータをひょうじします",
-   "en": ""
+   "en": "Show Player Data",
+   "status": "translated"
   },
   {
    "id": "s27021E",
@@ -124,7 +137,8 @@
     "0x293818"
    ],
    "jp": "セーブすることができます",
-   "en": ""
+   "en": "Save your game",
+   "status": "translated"
   },
   {
    "id": "s270238",
@@ -133,7 +147,8 @@
     "0x293824"
    ],
    "jp": "通信対戦ができます",
-   "en": ""
+   "en": "Link battles",
+   "status": "translated"
   },
   {
    "id": "s27024C",
@@ -142,7 +157,8 @@
     "0x293830"
    ],
    "jp": "せっていをへんこうできます",
-   "en": ""
+   "en": "Change settings",
+   "status": "translated"
   },
   {
    "id": "s271AB6",
@@ -151,7 +167,8 @@
     "0x2940f8"
    ],
    "jp": "          ふっふっふっ・・・・",
-   "en": ""
+   "en": "                             Heh heh heh....",
+   "status": "translated"
   },
   {
    "id": "s271AE0",
@@ -160,7 +177,8 @@
     "0x294100"
    ],
    "jp": "          ハーッハッハッハ！！",
-   "en": ""
+   "en": "                          Hah hah hah hah!!",
+   "status": "translated"
   },
   {
    "id": "s271B0A",
@@ -169,7 +187,8 @@
     "0x294108"
    ],
    "jp": "    ワールドチェンジタワーをシュツゲンさせるには",
-   "en": ""
+   "en": "     To make the World Change Tower appear,",
+   "status": "translated"
   },
   {
    "id": "s271B40",
@@ -178,7 +197,8 @@
     "0x294110"
    ],
    "jp": "   全てのグランドチェンジタワーをキドウさせたうえで",
-   "en": ""
+   "en": "   you must activate all Grand Change Towers",
+   "status": "translated"
   },
   {
    "id": "s271B78",
@@ -187,7 +207,8 @@
     "0x294118"
    ],
    "jp": "     それぞれにモンスターがたのデータボールを",
-   "en": ""
+   "en": "       and set a monster-type Data Ball in each",
+   "status": "translated"
   },
   {
    "id": "s271BAC",
@@ -196,7 +217,8 @@
     "0x294120"
    ],
    "jp": "      同時にはめるヒツヨウがあるのだよ！",
-   "en": ""
+   "en": "                         all at the same time!",
+   "status": "translated"
   },
   {
    "id": "s271BDC",
@@ -205,7 +227,8 @@
     "0x294128"
    ],
    "jp": "    さぁ、これで全てのデータボールがそろったぞ",
-   "en": ""
+   "en": "           Now, all the Data Balls are gathered.",
+   "status": "translated"
   },
   {
    "id": "s271C10",
@@ -215,7 +238,8 @@
     "0x294138"
    ],
    "jp": "     ・・・それでは始めようではないか！！",
-   "en": ""
+   "en": "                        ...So, shall we begin!!",
+   "status": "translated"
   },
   {
    "id": "s271C40",
@@ -224,7 +248,8 @@
     "0x29491c"
    ],
    "jp": "             はるか昔",
-   "en": ""
+   "en": "                            Long, long ago",
+   "status": "translated"
   },
   {
    "id": "s271C64",
@@ -233,7 +258,8 @@
     "0x294924"
    ],
    "jp": "           この大地はあれはて",
-   "en": ""
+   "en": "                        this land fell to ruin",
+   "status": "translated"
   },
   {
    "id": "s271C8E",
@@ -242,7 +268,8 @@
     "0x29492c"
    ],
    "jp": "         人がすめない世界になった",
-   "en": ""
+   "en": "        and became a world unfit for people.",
+   "status": "translated"
   },
   {
    "id": "s271CBA",
@@ -251,7 +278,8 @@
     "0x294934"
    ],
    "jp": "        あれはてた大地を元にもどすため",
-   "en": ""
+   "en": "                  To restore the ruined land,",
+   "status": "translated"
   },
   {
    "id": "s271CEA",
@@ -260,7 +288,8 @@
     "0x29493c"
    ],
    "jp": "    ある博士が生物の力をかりる事を思いついたのだ",
-   "en": ""
+   "en": "   a doctor sought the power of living things.",
+   "status": "translated"
   },
   {
    "id": "s271D20",
@@ -269,7 +298,8 @@
     "0x294944"
    ],
    "jp": "      博士はさまざまな生物を元に・・・",
-   "en": ""
+   "en": "            Modeled on all kinds of creatures...",
+   "status": "translated"
   },
   {
    "id": "s271D4E",
@@ -278,7 +308,8 @@
     "0x29494c"
    ],
    "jp": "          ロボットを作り出した",
-   "en": ""
+   "en": "                  the doctor created robots.",
+   "status": "translated"
   },
   {
    "id": "s271D78",
@@ -287,7 +318,8 @@
     "0x294954"
    ],
    "jp": "         ・・・それがグランボなのだ",
-   "en": ""
+   "en": "                    ...Those were the Granbo.",
+   "status": "translated"
   },
   {
    "id": "s271DA6",
@@ -296,7 +328,8 @@
     "0x29495c"
    ],
    "jp": "     さらに博士はグランボに命令を出すために",
-   "en": ""
+   "en": "           To command the Granbo, he also built",
+   "status": "translated"
   },
   {
    "id": "s271DD8",
@@ -305,7 +338,8 @@
     "0x294964"
    ],
    "jp": "     全ての大陸にグランドチェンジタワーを作った",
-   "en": ""
+   "en": "    Grand Change Towers on every continent.",
+   "status": "translated"
   },
   {
    "id": "s271E0E",
@@ -314,7 +348,8 @@
     "0x29496c"
    ],
    "jp": "    タワーからの命令でその大陸に住むグランボは",
-   "en": ""
+   "en": "    On tower orders, each continent's Granbo",
+   "status": "translated"
   },
   {
    "id": "s271E42",
@@ -323,7 +358,8 @@
     "0x294974"
    ],
    "jp": "       いっせいにその大陸をカイゾウし",
-   "en": ""
+   "en": "             remade their continent all at once",
+   "status": "translated"
   },
   {
    "id": "s271E70",
@@ -332,7 +368,8 @@
     "0x29497c"
    ],
    "jp": "     ふたたび人がくらせるカンキョウを作った・・・",
-   "en": ""
+   "en": "  and made it a place people could live again...",
+   "status": "translated"
   },
   {
    "id": "s271FF8",
@@ -341,7 +378,8 @@
     "0x294984"
    ],
    "jp": "     そしてそのワールドチェンジタワーを・・・",
-   "en": ""
+   "en": "    And to manage that World Change Tower...",
+   "status": "translated"
   },
   {
    "id": "s27202C",
@@ -350,7 +388,8 @@
     "0x29498c"
    ],
    "jp": "      カンリする目的で作られたのがこの我！",
-   "en": ""
+   "en": "          the one created for that purpose is I!",
+   "status": "translated"
   },
   {
    "id": "s27205E",
@@ -359,7 +398,8 @@
     "0x294994"
    ],
    "jp": "          バミューダなのだ！！",
-   "en": ""
+   "en": "                                Bermuda!!",
+   "status": "translated"
   },
   {
    "id": "s272088",
@@ -368,7 +408,8 @@
     "0x29499c"
    ],
    "jp": "       ふふふ・・・シズクもそう言って・・・",
-   "en": ""
+   "en": "            Heh heh heh... Shizuku said so too...",
+   "status": "translated"
   },
   {
    "id": "s2720BC",
@@ -377,7 +418,8 @@
     "0x2949a4"
    ],
    "jp": "     我の元からフォングのデータボールを持って",
-   "en": ""
+   "en": "              and took Fong's Data Ball from me",
+   "status": "translated"
   },
   {
    "id": "s2720F0",
@@ -386,7 +428,8 @@
     "0x2949ac"
    ],
    "jp": "        逃げだしおったな・・・！！",
-   "en": ""
+   "en": "                             and ran off...!!",
+   "status": "translated"
   },
   {
    "id": "s27211C",
@@ -396,7 +439,8 @@
     "0x2949bc"
    ],
    "jp": "     おかげでヨケイな手間がかかってしまった",
-   "en": ""
+   "en": "Thanks to her, I was put to needless trouble.",
+   "status": "translated"
   },
   {
    "id": "s27214E",
@@ -405,7 +449,8 @@
     "0x295134"
    ],
    "jp": "          うう・・・う・・・・",
-   "en": ""
+   "en": "                               Ugh... ugh....",
+   "status": "translated"
   },
   {
    "id": "s272178",

@@ -13,7 +13,8 @@
     "0x25b8c8"
    ],
    "jp": "{8002}{9201}このエレベーターはケイビのツゴウ上\nそのフロアに行った事のある人にしか使えません{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}For security reasons, this elevator\nonly goes to floors you have visited before.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }
