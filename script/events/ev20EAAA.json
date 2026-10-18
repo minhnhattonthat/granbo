@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{9201}変わった地形だ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}What strange terrain.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20EAAA_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20EAAA_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20EAAA_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20EAAA_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

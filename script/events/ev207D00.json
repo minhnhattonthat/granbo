@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}オーナーの娘「せっかく逃げられたのにどうして{8207}もどってきたんですか！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}Owner's Daughter: You finally managed to escape, so why did you come back?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev207D00_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}大人    「子分が言っていたが・・・{8207}『{8833}左は青{8800}』ってどういうイミだろうな？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}Adult: A grunt was saying... \"{8833}Left is blue{8800}.\" What could that mean?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev207D00_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}大人    「子分が言っていたけど・・・{8207}『{8833}右は左に勝つ{8800}』ってどういうイミかな？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}Adult: A grunt said... \"{8833}Right beats left{8800}.\" I wonder what that means?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev207D00_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}カギをさしこまないと、このスイッチは動かないようだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}This switch won't work unless you insert a key.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev207D00_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev207D00_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev207D00_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev207D00_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{861F}{94A5}「ええっと左が{8855}青{8800}で・・・」{8300}{861F}{94A5}「{8833}右は左に勝つ{8800}って{8207}言ってたよな・・・」{8300}{861F}{94A5}「でもそれってどういうイミだ・・・？」{8300}{861F}{94A5}「ダメだ！{8207}このままじゃ、エーゲさまの所には{8207}一生行けないぞ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Umm, the left is {8855}blue{8800}...{8300}{861F}{94A5}And they said {8833}right beats left{8800}...{8300}{861F}{94A5}But what does that even mean...?{8300}{861F}{94A5}It's no good! At this rate, I'll never make it to Boss Aegean's place in my whole life!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

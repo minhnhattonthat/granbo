@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「{9408}さまっ！！」{8300}{860F}{94A5}「{8833}ハントグローブ{8800}のつみこみ{8207}ただいま終わりましたっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Boss {9408}!!{8300}{860F}{94A5}Loading of the {8833}Hunt Glove{8800} is now complete!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFE9C_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{8608}{949E}「そう・・・やっと終わったのね！{8207}それじゃあ、いとしのカリブさまの所に{8207}急いで向かいましょう！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8608}{949E}Is that so... Finally done! Then let's hurry to my darling Lord Caribbean!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFE9C_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{8608}{949E}「・・・そこにいるのはだれっ！？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8608}{949E}...Who's there?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFE9C_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{8608}{949E}「あなた・・・さっきの町にいたボウヤ？」{8300}{8608}{949E}「さっき子分からホウコクがあって{8207}まさかとは思っていたんだけど・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8608}{949E}You... the little boy from that town earlier?{8300}{8608}{949E}A grunt reported it a moment ago, but I never thought...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFE9C_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{8618}{949E}「あれだけボコボコにされたのに{8207}まだこりていなかったのね・・・」{8300}{8618}{949E}「いいわ・・・私がアイテをしてあげる！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8618}{949E}After that thorough beating you took, you still haven't learned your lesson...{8300}{8618}{949E}Fine... I'll take you on myself!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFE9C_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{8608}{949E}「あなた達！{8207}私のうつくしい{940A}ちゃんの{8207}戦いっぷりをよ～っく見ておきなさい！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8608}{949E}You lot! Watch closely how my lovely {940A} fights!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFE9C_006",

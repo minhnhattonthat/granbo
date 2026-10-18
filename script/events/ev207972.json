@@ -75,7 +75,8 @@
     7
    ],
    "jp": "{8002}{9201}クリスタルを下におとした！{9200}{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}You dropped the crystal down below!{9200}{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev207972_008",
@@ -83,7 +84,8 @@
     8
    ],
    "jp": "{8002}{9201}持っているクリスタルを下におとしますか？{9200}\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Drop a crystal you're holding down below?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev207972_009",
@@ -91,7 +93,8 @@
     9
    ],
    "jp": "{8002}{9201}どのクリスタルを下におとしますか？{9200}\n\n{8E02}                   {8F01}{8833}赤 {8F00}{8855}青{8100}",
-   "en": ""
+   "en": "{8002}{9201}Which crystal will you drop?{9200}  {8E02}                   {8F01}{8833}Red {8F00}{8855}Blue{8100}",
+   "status": "translated"
   },
   {
    "id": "ev207972_010",
@@ -99,7 +102,8 @@
     10
    ],
    "jp": "{8002}{9201}どのクリスタルを下におとしますか？{9200}\n\n{8E02}                   {8F01}{8833}赤 {8F00}{8877}緑{8100}",
-   "en": ""
+   "en": "{8002}{9201}Which crystal will you drop?{9200}  {8E02}                   {8F01}{8833}Red {8F00}{8877}Green{8100}",
+   "status": "translated"
   },
   {
    "id": "ev207972_011",
@@ -107,7 +111,8 @@
     11
    ],
    "jp": "{8002}{9201}どのクリスタルを下におとしますか？{9200}\n\n{8E02}                   {8F01}{8855}青 {8F00}{8877}緑{8100}",
-   "en": ""
+   "en": "{8002}{9201}Which crystal will you drop?{9200}  {8E02}                   {8F01}{8855}Blue {8F00}{8877}Green{8100}",
+   "status": "translated"
   },
   {
    "id": "ev207972_012",
@@ -115,7 +120,8 @@
     12
    ],
    "jp": "{8002}{9201}どのクリスタルを下におとしますか？{9200}\n\n{8E03}                   {8F01}{8833}赤 {8F00}{8855}青 {8F00}{8877}緑{8100}",
-   "en": ""
+   "en": "{8002}{9201}Which crystal will you drop?{9200}  {8E03}                   {8F01}{8833}Red {8F00}{8855}Blue {8F00}{8877}Green{8100}",
+   "status": "translated"
   },
   {
    "id": "ev207972_013",
@@ -123,7 +129,8 @@
     13
    ],
    "jp": "{8002}{9201}下を見ると、オブジェ右のあなに\nクリスタルがはまっているのが見えた{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Looking down, you can see a crystal set in the hole on the right of the sculpture.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev207972_014",
@@ -131,7 +138,8 @@
     14
    ],
    "jp": "{8002}{9201}ここから物をおとせば、下のオブジェの\n右のあなにはまりそうだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}If you drop something from here, it looks like it would land in the right hole of the sculpture below.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

@@ -13,7 +13,8 @@
     35
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_001",
@@ -21,7 +22,8 @@
     1
    ],
    "jp": "{8002}{94C8}少女セイバー「え？スカイシャーク・・・{8207}私は見かけてないけど・・・？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Huh? Sky Shark... I haven't seen them around...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_002",
@@ -29,7 +31,8 @@
     2
    ],
    "jp": "{8002}{94C8}おじいさん「ふくびきで当てたオンセンリョコウ！{8207}とことんたのしむぞい！！」{8300}{94C8}おじいさん「ホテルのある町の場所はたしか・・・」{8300}{94C8}おじいさん「この東にある{8833}マグマの川をこえた{8800}後{8207}まっすぐ東にすすみ・・・{8833}タワーが見えたら{8800}{8207}ハシをわたって北にすすむ、と・・・」{8300}{94C8}おじいさん「で、後はハシの先にある{8833}火山{8800}をのぼれば{8207}いいんじゃったな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「A hot spring trip I won in the raffle! I'm gonna enjoy every minute of it!!{8300}{94C8}Old Man「Now, the town with the hotel is...{8300}{94C8}Old Man「After crossing {8833}the magma river to the east{8800}, keep going straight east... {8833}when you see the tower{8800}, cross the bridge and head north...{8300}{94C8}Old Man「And then you just climb the {8833}volcano{8800} past the bridge, wasn't it...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_003",
@@ -37,7 +40,8 @@
     3
    ],
    "jp": "{8002}{94C8}おばあさん「おじいさんったら{8207}子どもみたいにはしゃいじゃって・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Oh, honestly, he's carrying on like a little kid...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_004",
@@ -45,7 +49,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_005",
@@ -53,7 +58,8 @@
     5
    ],
    "jp": "{8002}{94C8}少女セイバー「町がスカイシャークに！？{8207}あなただけがたよりよ、ガンバって！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Sky Shark in the town?! You're our only hope. Go get 'em!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_006",
@@ -61,7 +67,8 @@
     6
    ],
    "jp": "{8002}{94C8}おじいさん「何、町に行くなじゃと！？{8207}せっかくここまで来たと言うに・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「What, don't go to the town?! After we came all this way...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_007",
@@ -69,7 +76,8 @@
     7
    ],
    "jp": "{8002}{94C8}おばあさん「町はキケンですか・・・{8207}しかたありませんね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「The town is dangerous... Well, it can't be helped...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_008",
@@ -77,7 +85,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_009",
@@ -85,7 +94,8 @@
     9
    ],
    "jp": "{8002}{94C8}少女セイバー「あのおじいさん達なら{8207}ホテルに行ったわよ{8207}大きいヘヤにとまるとか言ってたわ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Those old folks? They went to the hotel. They said they were staying in a big room.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_010",
@@ -93,7 +103,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_011",
@@ -101,7 +112,8 @@
     11
    ],
    "jp": "{8002}{94C8}少女セイバー「町は平和そのものよ！{8207}良かったらオンセンに入っていったら？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「The town's as peaceful as can be! Why not take a dip in the hot spring?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_012",
@@ -109,7 +121,8 @@
     12
    ],
    "jp": "{8002}{9201}{8833}ボルカニア{8800}は火山が中心の大陸のようだ\n町はここから東に行った後\n北へのハシをわたれば良いらしい{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}{8833}Volcania{8800} seems to be a continent built around a volcano. To reach the town, go east from here, then cross the bridge north.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_013",
@@ -117,7 +130,8 @@
     13
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_014",
@@ -125,7 +139,8 @@
     14
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_015",
@@ -133,7 +148,8 @@
     15
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_016",
@@ -141,7 +157,8 @@
     16
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_017",
@@ -149,7 +166,8 @@
     17
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_018",
@@ -157,7 +175,8 @@
     18
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_019",
@@ -165,7 +184,8 @@
     19
    ],
    "jp": "{8002}{94C8}かいさついん「次のスカイシップは{8207}まもなくシュッパツですよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「The next Skyship departs shortly.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_020",
@@ -173,7 +193,8 @@
     20
    ],
    "jp": "{8002}{8603}{9499}「もうすぐ、スカイシップが出ます{8207}さっそくのりこみましょう」\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}The Skyship leaves soon. Let's get on board right away!{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_021",
@@ -181,7 +202,8 @@
     21
    ],
    "jp": "{8002}{8603}{9499}「では、ジュンビができるまで{8207}私達はここでまっていますね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}Then we'll wait here until you're ready.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_022",
@@ -189,7 +211,8 @@
     22
    ],
    "jp": "{8002}{8601}{9497}「おそいじゃない！{8207}早いところ、次の大陸へ向かおうよ！」\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}You're late! Let's hurry on to the next continent!{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_023",
@@ -197,7 +220,8 @@
     23
    ],
    "jp": "{8002}{8601}{9497}「アタシ達はここでまってるから、{8207}早くジュンビしてきてよね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}We'll wait here, so hurry up and get ready!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_024",
@@ -205,7 +229,8 @@
     24
    ],
    "jp": "{8002}{8602}{9498}「もうすぐスカイシップが出るみたいだよ～{8207}はやくのろうよ～！」\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Looks like the Skyship's leaving soon~ Let's hurry and get on~!{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_025",
@@ -213,7 +238,8 @@
     25
    ],
    "jp": "{8002}{8602}{9498}「ジュンビができるまで{8207}オイラ達はここでまってるよ～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}We'll wait here till you're ready~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_026",
@@ -221,7 +247,8 @@
     26
    ],
    "jp": "{8002}{94C8}かいさついん「ごりようありがとうございます」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Thank you for flying with us.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_027",
@@ -229,7 +256,8 @@
     27
    ],
    "jp": "{8002}{94C8}かいさついん「スカイシップにのりますか？」{8207}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Will you board the Skyship?{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_028",
@@ -237,7 +265,8 @@
     28
    ],
    "jp": "{8002}{94C8}かいさついん「それではごとうじょうください」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Then please come aboard.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_029",
@@ -245,7 +274,8 @@
     29
    ],
    "jp": "{8002}{94C8}かいさついん「ごりようありがとうございます」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Thank you for flying with us.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_030",
@@ -253,7 +283,8 @@
     30
    ],
    "jp": "{8000}{94C8}かいさついん「ごりようありがとうございました{8207}これからもよろしくおねがいします」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Gatekeep「Thank you for flying with us. We look forward to serving you again.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_031",
@@ -261,7 +292,8 @@
     31
    ],
    "jp": "{8000}{8603}{9499}「町がシンパイです{8207}早く町にむかいましょう」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8603}{9499}I'm worried about the town. Let's hurry there.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_032",
@@ -269,7 +301,8 @@
     32
    ],
    "jp": "{8000}{8611}{9497}「だいぶおそくなっちゃったね{8207}もう町はおそわれた後かも・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8611}{9497}We're really late... The town may already have been attacked...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_033",
@@ -277,7 +310,8 @@
     33
    ],
    "jp": "{8000}{8602}{9498}「おんせんか・・・{8207}スカイシャークがいなかったら・・・{8207}入ってみたいな～」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8602}{9498}A hot spring, huh... If Sky Shark weren't around... I'd sure like to take a dip~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev210BD8_034",
@@ -285,7 +319,8 @@
     34
    ],
    "jp": "{8000}{94C8}かいさついん「ごりようありがとうございました」{8300}{94C8}かいさついん「これからも{8207}よろしくおねがいいたします」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Gatekeep「Thank you for flying with us.{8300}{94C8}Gatekeep「We look forward to serving you again.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

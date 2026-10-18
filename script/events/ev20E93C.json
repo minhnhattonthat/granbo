@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{9201}カギがかかっていて入る事ができない！！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's locked. You can't get in!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20E93C_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{9201}カギを使って中に入りますか？{9200}\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Use the key to go inside?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20E93C_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20E93C_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20E93C_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20E93C_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}おじさん「くそっ！だれだ！」{8300}{94C8}おじさん「勝手にこんな所に{8207}サクを作ったヤツは！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Dang it! Who's the guy{8300}{94C8}Man「who went and put up a fence in a place like this?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20E93C_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}おじさん「なんだか、この中から不気味な{8207}うなり声がするんだ・・・」{8300}{94C8}おじさん「ウデに自信がないなら{8207}入らない方が身のためだぜ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「There's some kind of creepy growling coming from in there...{8300}{94C8}Man「If you're not sure of your skills, you'd better stay out, for your own good...{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

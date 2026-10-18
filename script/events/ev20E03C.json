@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{9201}いわにヒビが入っている\n{8833}ショウゲキをあたえれば{8800}下はんぶんをおとせそうだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The rock is cracked. {8833}If it takes a hard hit{8800}, the bottom half looks like it could break off.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20E03C_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20E03C_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20E03C_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20E03C_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20E03C_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20E03C_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20E03C_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{9201}いわにヒビが入っている{8300}レーザードリルを使っていわをこわしますか？{9200}\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The rock is cracked.{8300}Use Laser Drill to break the rock?{9200}{8D00}{8100}",
+   "status": "translated"
   }
  ]
 }

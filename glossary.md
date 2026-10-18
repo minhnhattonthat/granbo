@@ -141,6 +141,9 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- 北の研究所 -> Northern Lab; アジト -> hideout; 本きょ地 -> headquarters; カンシ室 -> Monitor Room; Kansai-dialect
+  grunt -> casual "Whaddaya" voice; クラッシュボム -> Crash Bomb; レーザードリル -> Laser Drill; ボウガイデンパ -> jamming
+  signals; ロウヤ -> jail; フウイン -> seal; {9408}さま -> Boss {9408}.
 - Menus in dialogue: のらない (elevator) -> Cancel; floors "2F"; keep the JP's spacing runs. メッセージボード -> Message
   Board (capitalised). 通信対戦 -> link battle (menu "Link Battle"); バトルスタイル -> Battle Style; クリスタル -> crystal;
   VIP用エレベーター -> VIP elevator; 闇グランドチェンジ -> Dark Grand Change; ルーレットボム強 -> Roulette Bomb 3;

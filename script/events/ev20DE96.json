@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おじさん「いきなりイワがおちてきて{8207}ビックリしたよ・・・」{8300}{94C8}おじさん「ともかく、これで{8207}{8833}マグマだった所も歩ける{8800}し{8207}動けるハンイは広がったはすだ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Rocks suddenly came falling down... Gave me quite a fright...{8300}{94C8}Man「Anyway, now you can {8833}walk where the magma used to be{8800}, so the area you can explore should be bigger...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20DE96_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20DE96_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20DE96_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{9201}いわが少しぐらついている\n{8833}ショウゲキをあたえれば{8800}横にたおす事ができそうだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The rock is wobbling a little. {8833}If it takes a hard hit{8800}, it looks like it could be knocked over sideways.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20DE96_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{9201}ハシがおちていて先にすすめない！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The bridge has fallen. You can't go any farther!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20DE96_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20DE96_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20DE96_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20DE96_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20DE96_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20DE96_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{9201}いわが少しぐらついている{8300}クラッシュボムを使っていわをたおしますか？{9200}\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The rock is wobbling a little.{8300}Use Crash Bomb to knock the rock over?{9200}{8D00}{8100}",
+   "status": "translated"
   }
  ]
 }

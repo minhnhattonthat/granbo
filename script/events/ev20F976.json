@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{9201}今グランドチェンジをすると町の人にメイワクがかかる{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Doing a Grand Change now would cause trouble for the townspeople.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20F976_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8001}{860F}{94A5}「お前は{9400}っ！！」{8300}{861F}{94A5}「どっ、どうしてっ！？{8207}ロウヤに入れられてたんじゃ・・・？」{8300}{860F}{94A5}「まぁいい！もういちど{8207}ロウヤにおくりかえしてやるっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}It's {9400}!!{8300}{861F}{94A5}Wh-what?! How?! Weren't you thrown in jail...?{8300}{860F}{94A5}Whatever! I'll send you right back to jail!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20F976_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8001}{861F}{94A5}「まずい・・・ここでオレが逃げたら、{8207}グランドチェンジに使った{88BB}闇{8800}データボールが{8207}こいつにとられちまう」{8300}{861F}{94A5}「たしか、このデータボール・・・」{8300}{861F}{94A5}「エーゲさまが後でキャプテンに{8207}プレゼントするから、ゼッタイたにんの手に{8207}わたすなって言ってたよな・・・」{8300}{861F}{94A5}「それに、グランドチェンジを{8207}カイジョしても・・・」{8300}{861F}{94A5}「町があのジョウタイなら、{8207}どちらにせよヤツらは{8207}オレ達にしたがうしかあるまい！」{8300}{861F}{94A5}「・・・・・・・・・よし！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{861F}{94A5}Uh-oh... If I run off now, this kid'll get the {88BB}Dark{8800} Data Ball we used for the Grand Change.{8300}{861F}{94A5}If I remember right, this Data Ball...{8300}{861F}{94A5}Boss Aegean said she's giving it to the Captain as a present later, so we can't let anyone else get their hands on it...{8300}{861F}{94A5}Besides, even if they undo the Grand Change...{8300}{861F}{94A5}with the town in that state, they'll have no choice but to obey us either way!{8300}{861F}{94A5}.........Right!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20F976_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8001}{861F}{94A5}「これでよしっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{861F}{94A5}That does it!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20F976_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8000}{861F}{94A5}「いてて・・・{8207}カギをかけておいたのをわすれてたぜ！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{861F}{94A5}Ow, ow... I forgot I'd locked it!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20F976_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8000}{861F}{94A5}「よし・・・あいた！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{861F}{94A5}Okay... it's open!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20F976_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{9201}・・・カギがしまっていて開かない・・・{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}...It's locked and won't open...{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おじさん「やあ、キミもボウケンがすきで{8207}こんな所に来たのかい？」{8300}{94C8}おじさん「ええっ・・・町がスカイシャークに{8207}メチャクチャにされた？」{8300}{94C8}おじさん「せっかくこの火口をせきとめて{8207}新しいボウケンのルートを作ろうと{8207}思っていたのにな・・・」{8300}{94C8}おじさん「・・・え？キミはこの先にすすむ？」{8300}{94C8}おじさん「なら、私の持っている{8207}{8833}かいひレーダー{8800}を持っていくといいよ！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Hey there! Did you come to a place like this because you love adventure too?{8300}{94C8}Man「Whaaat... The town got wrecked by Sky Shark?{8300}{94C8}Man「And here I was, planning to dam up this crater and make a new adventure route...{8300}{94C8}Man「...Huh? You're going on ahead?{8300}{94C8}Man「Then you should take the {8833}Evade Radar{8800} I've got!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev20DBBC_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}おじさん「よし、ではわたすよ！{8207}これを使うと敵の数がへるから、ちょっとは{8207}安全に先にすすめるはずさ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「All right, here you go! Using this cuts down the number of enemies, so you should be able to go ahead a little more safely!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20DBBC_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おじさん「おいおい・・・{8207}大した自信だな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Whoa, whoa... That's some confidence you've got...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20DBBC_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}おじさん「では、がんばってくれ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Well then, give it your all!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20DBBC_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20DBBC_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20DBBC_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{9201}ハシがおちていて先にすすめない！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The bridge has fallen, so you can't go any farther!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20DBBC_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{9201}ハシがおちていて先にすすめない！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The bridge has fallen, so you can't go any farther!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20DBBC_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20DBBC_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20DBBC_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20DBBC_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20DBBC_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

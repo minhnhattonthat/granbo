@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「ん？なんだ？」{8300}{860F}{94A5}「{9408}さまに用でもあるのか？」\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Hm? What is it?{8300}{860F}{94A5}Got business with Boss {9408}?{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFB9A_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{860F}{94A5}「{9408}さまならこの先のヘヤだ」{8300}{860F}{94A5}「ニモツのつみこみが終わったら{8207}シュッパツだからな・・・{8207}急いだ方がいいぞっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Boss {9408} is in the room up ahead.{8300}{860F}{94A5}We're heading out once the cargo's loaded... You'd better hurry!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFB9A_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{860F}{94A5}「おいっ！{8207}オレだっていそがしいんだっ！！」{8300}{860F}{94A5}「用がないなら{8207}話しかけないでくれっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Hey! I'm busy too, y'know!!{8300}{860F}{94A5}If you don't need anything, quit talking to me!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFB9A_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{860F}{94A5}「そろそろここで作っていた{8207}{8833}ハントグローブ{8800}のつみこみも{8207}終わったころかな？」{8300}{860F}{94A5}「あれさえあれば、{940A}を{8207}つかまえるのも楽になるはずだ・・・」{8300}{860F}{94A5}「きっと{9406}にも{8207}ほめてもらえるぞっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}The loading of the {8833}Hunt Glove{8800} they were making here oughta be about done by now?{8300}{860F}{94A5}With that thing, catching {940A} should be a snap...{8300}{860F}{94A5}I bet {9406} will praise me for sure!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFB9A_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{860F}{94A5}「やる事がなくなっちまった・・・{8207}ヒマだな・・・・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Nothing left to do... I'm so bored......{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFB9A_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{860F}{94A5}「フフフ・・・今ごろは{8207}{8833}ハントグローブ{8800}が大カツヤク{8207}しているにちがいない・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Heh heh... Right about now, the {8833}Hunt Glove{8800} must be working wonders...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFB9A_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{9201}きたないツクエだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}What a filthy desk.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFB9A_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{9201}このツクエで何かを作っていたようだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Looks like something was being made at this desk.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

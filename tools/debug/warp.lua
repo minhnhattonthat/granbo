@@ -177,17 +177,26 @@ function W.program(id)
   W.wait(W.in_field, "field before program")
   W.w8(A.mode + 0x35, id); W.w8(A.mode + 0x34, 1)
   W.wait(function() return W.r32(A.mode) == 9 end, "program " .. id)
-  W.wait(function() return not W.screen_lit() end, "program screen black")
-  W.wait(W.screen_lit, "program screen lit")
-  W.wait(W.fade_done, "program fade-in")
+  W.wait(W.fade_done, "program fade-out")
+  W.palette_settled()
 end
--- Programs start black and fade in: lit = more than 16 non-black BG palette colours.
-function W.screen_lit()
-  local n = 0
-  for i = 0, 0x1FE, 2 do
-    if emu.read16(i, emu.memType.gbaPaletteRam) & 0x7FFF ~= 0 then n = n + 1 end
-  end
-  return n > 16
+-- Programs fade their picture in by rewriting BG palette RAM themselves (no fade object), some after a long
+-- black pause: wait until the BG palette changes from its value now, then holds still for `n` frames (def. 30).
+local function bg_palette_sum()
+  local sum = 0
+  for i = 0, 0x1FE, 2 do sum = sum + (emu.read16(i, emu.memType.gbaPaletteRam) & 0x7FFF) end
+  return sum
+end
+function W.palette_settled(n)
+  local start = bg_palette_sum()
+  W.wait(function() return bg_palette_sum() ~= start end, "palette fade-in")
+  local last, same = -1, 0
+  W.wait(function()
+    local sum = bg_palette_sum()
+    same = sum == last and same + 1 or 0
+    last = sum
+    return same >= (n or 30)
+  end, "palette settled")
 end
 -- On a "whose ...?" Granbo picker (game +8 == 2), A opens the page for the first Granbo (+8 == 3).
 function W.menu_enter()
