@@ -27,7 +27,7 @@
     "0x1a1570"
    ],
    "jp": "{8A01}{8609}{949F}「思ったより手ごたえがないですね！」{8400}{8B00}",
-   "en": "{8A01}{8609}{949F}Less of a challenge than I expected!{8400}{8B00}",
+   "en": "{8A01}{8609}{949F}Less of a challenge than I thought!{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -177,7 +177,7 @@
     "0x1a15b4"
    ],
    "jp": "{8A01}{860F}{94A5}「グランドチェンジキーはわたさん！！」{8400}{8B00}",
-   "en": "{8A01}{860F}{94A5}You ain't getting the Grand Change Key!!{8400}{8B00}",
+   "en": "{8A01}{860F}{94A5}No Grand Change Key for you!!{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -197,7 +197,7 @@
     "0x1a15bc"
    ],
    "jp": "{8A01}{860F}{94A5}「どうした～？後がないぞ～！？」{8400}{8B00}",
-   "en": "{8A01}{860F}{94A5}What's wrong~? Nowhere left to run~?!{8400}{8B00}",
+   "en": "{8A01}{860F}{94A5}What's wrong~? Nowhere to run~?!{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -877,7 +877,7 @@
     "0x1a16ec"
    ],
    "jp": "{8A01}{861F}{94A5}「そ、そんなバカな・・・」{8300}{861F}{94A5}「こんな子どもに負けたら{8205}オレはスカイシャークのわらいものだ・・・」{8400}{8B00}",
-   "en": "{8A01}{861F}{94A5}N-no way...{8300}{861F}{94A5}If I lose to a kid like this,{8205}I'll be the laughingstock of Sky Shark...{8400}{8B00}",
+   "en": "{8A01}{861F}{94A5}N-no way...{8300}{861F}{94A5}If I lose to a kid like this,{8205}I'll be Sky Shark's laughingstock...{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -1017,7 +1017,7 @@
     "0x1a172c"
    ],
    "jp": "{8A01}{8609}{949F}「これにこりたら{8205}おとなしくしてるんだな・・・ですね！」{8400}{8B00}",
-   "en": "{8A01}{8609}{949F}Learn your lesson{8205}and pipe down, punk... I mean, behave!{8400}{8B00}",
+   "en": "{8A01}{8609}{949F}Learn your lesson{8205}and pipe down, punk... er, behave!{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -1027,7 +1027,7 @@
     "0x1a1730"
    ],
    "jp": "{8A01}{8609}{949F}「どうってことねぇっ・・・ですよ」{8400}{8B00}",
-   "en": "{8A01}{8609}{949F}That was nothin'... I mean, nothing at all.{8400}{8B00}",
+   "en": "{8A01}{8609}{949F}That was nothin'... I mean, nothing.{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -2177,7 +2177,7 @@
     "0x1a1930"
    ],
    "jp": "{8A01}{860A}{949F}「あそびにもならんか・・・{8205}さぁ、ワールドチェンジタワーはつどうだ！！」{8400}{8B00}",
-   "en": "{8A01}{860A}{949F}Not even worth playing...{8205}Now, the World Change Tower activates!!{8400}{8B00}",
+   "en": "{8A01}{860A}{949F}Not even worth playing...{8205}Now, World Change Tower, activate!!{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -3654,7 +3654,7 @@
     "0x1a1bb8"
    ],
    "jp": "{8A01}{8608}{949E}「今たおしたグランボをカリブさまに{8205}さしあげます！・・・え？ダメ？ケチねぇ」{8400}{8B00}",
-   "en": "{8A01}{8608}{949E}I'll present the Granbo I just beat{8205}to Lord Caribbean! ...Huh? No? Stingy!{8400}{8B00}",
+   "en": "{8A01}{8608}{949E}I'll present the Granbo I just beat{8205}to Lord Caribbean! ...No? Stingy!{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -3704,7 +3704,7 @@
     "0x1a1bcc"
    ],
    "jp": "{8A01}{8618}{949E}「目にゴミが入ってまともに戦えなかったわ！{8205}次はカクゴすることね！！」{8400}{8B00}",
-   "en": "{8A01}{8618}{949E}I got dust in my eye and couldn't fight!{8205}Next time, be prepared!!{8400}{8B00}",
+   "en": "{8A01}{8618}{949E}I had dust in my eye! It wasn't fair!{8205}Next time, be prepared!!{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -3804,7 +3804,7 @@
     "0x1a1bfc"
    ],
    "jp": "{8A01}{8604}{949A}「さぁ、今日もいいアセをながそう！！」{8400}{8B00}",
-   "en": "{8A01}{8604}{949A}Okay, let's work up a good sweat today!!{8400}{8B00}",
+   "en": "{8A01}{8604}{949A}Okay, let's work up a sweat today!!{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -3824,7 +3824,7 @@
     "0x1a1c04"
    ],
    "jp": "{8A01}{8604}{949A}「グランボバトルは最後の1体のHPが0に{8205}なるまでわからない・・・そうだろう？」{8400}{8B00}",
-   "en": "{8A01}{8604}{949A}In a Granbo battle, it's anyone's game{8205}till the last one's HP hits 0... right?{8400}{8B00}",
+   "en": "{8A01}{8604}{949A}In Granbo battles, it's anyone's game{8205}till the last one's HP hits 0... right?{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -3894,7 +3894,7 @@
     "0x1a1c24"
    ],
    "jp": "{8A01}{8604}{949A}「ユダンかい？キミらしくないな・・・！」{8400}{8B00}",
-   "en": "{8A01}{8604}{949A}Getting careless? That's not like you...!{8400}{8B00}",
+   "en": "{8A01}{8604}{949A}Getting careless? Not like you...!{8400}{8B00}",
    "status": "translated"
   },
   {
