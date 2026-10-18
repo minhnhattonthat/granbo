@@ -15,14 +15,18 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Batch tools: `tools/batches.py` (events), `tools/ptrbatches.py` (pointer strings, per-group pixel limits,
     `ID_UNITS` for strings copied into fixed RAM buffers), `tools/bisect_entries.py` (find the entry that breaks a
     warp scene).
-- **Next (screen QA + fixes, see the warp tour `work/qa/all_scenes.png` after `regen_states.py`):**
-  - skills list: name field ~52 px before the "E 4" cost (drawn by 0x0806A47C into its own tiles; row text from
-    0x0804B71C at x=40): move the cost right; many move names are wider.
-  - status screen: labels こうげき/ぼうぎょ/すばやさ overrun the AT./DF./SP. icons (32 px); evolution-EXP label garbled.
-  - card screen ("NameKakeru", "Record 0d 0Type 0urn Limit"): composed strings + numbers overlap.
-  - options screen: "◀sic▶" (value field truncated), "y" labels (所持数 also shows "y" in the shop).
-  - prologue/attract narration (r1B0000, leading-space centring) still monospace and truncated: find its routine.
-  - save prompt shows leftover prologue tiles under it: compare with the original.
+  - Base+offset strings (docs/re/text.md): `tools/find_rel.py` traces code that adds offsets to a string pointer;
+    the build places each linked group in order and rewrites the offsets; ~70 such strings added to code.json.
+    Status, card, save, options, shop, storage/Data Ball menus, Yes/No prompts fixed by it.
+  - Screens fixed: skills list (no per-row cost; description pads without cutting, `asm/pad_col.s`), name fields
+    draw all 6 cells (`asm/name6.s` + vwf_menu name_fill), battle HUD names (`asm/hud_name.s`, compact font
+    `tools/font_small.py`), stat/card/save column moves (engine.py), dialogue choice cursor (vwf.s run-start space =
+    8 px), narration subtitles centred by the build (`build.centre`).
+  - QA helpers: `tools/lua/setmoves.lua`, `setname.lua` (force move slots / name bytes), warp scene battle_moves.
+- **Next (screen QA + fixes, see the warp tour after `regen_states.py`):**
+  - the second status page using the stat labels (0x0808AF70, icons moved to x=160) is not reached by a warp scene:
+    find and check it. Link-battle screens (Record W/L composite, FLAGGED 1-cell W/L) unverified.
+  - intro subtitles (code.json s27196A.., fixed zero-padded slots, new-game opening) unchecked.
   - battle message lines: 12 merged lines over the box width (`ptrbatches.issues` over t1A1568); p002/p005/p006
     battle lines over-trimmed under an older check: restore fuller wording.
   - padded choice menus (278 strings): check alignment after the column snap.
