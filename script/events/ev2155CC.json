@@ -13,7 +13,8 @@
     31
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_001",
@@ -21,7 +22,8 @@
     1
    ],
    "jp": "{8002}{94C8}少女セイバー「あ、あなたは{9400}さん！！{8207}お会いできるなんてコウエイですっ！！」{8300}{94C8}少女セイバー「え・・・？バルトがこの大陸を{8207}ねらっている・・・ですか？」{8300}{94C8}少女セイバー「でも、{9400}さんが来てくれたのなら{8207}ゼンゼンこわくなんかないですよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Ah, you're {9400}!! It's an honor to meet you!!{8300}{94C8}Gal Saver「Huh...? Baltic is after this continent...?{8300}{94C8}Gal Saver「But now that you're here, {9400}, I'm not scared one bit!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_002",
@@ -29,7 +31,8 @@
     2
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_003",
@@ -37,7 +40,8 @@
     3
    ],
    "jp": "{8002}{94C8}少女セイバー「この大陸に来て初めて日の光を見ました！{8207}さすがは{9400}さんですね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「This is the first time I've seen sunlight since I came to this continent! Just what I'd expect of you, {9400}!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_004",
@@ -45,7 +49,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_005",
@@ -53,7 +58,8 @@
     5
    ],
    "jp": "{8002}{94C8}少女セイバー「ハルナちゃんとチロの話{8207}私もききましたよ！」{8300}{94C8}少女セイバー「{9400}さんも今回はいい所を{8207}持って行かれちゃいましたね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「I heard the story about Haruna and Chiro too!{8300}{94C8}Gal Saver「Looks like they stole the spotlight from you this time, {9400}...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_006",
@@ -61,7 +67,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_007",
@@ -69,7 +76,8 @@
     7
    ],
    "jp": "{8002}{94C8}少女セイバー「あっ！{9400}さん！！{8207}おひさしぶりです！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Ah! {9400}!! It's been so long!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_008",
@@ -77,7 +85,8 @@
     8
    ],
    "jp": "{8002}{9201}この大陸のあんないエイゾウだ・・・\n大陸の中心に大きな木があるようだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a guide display for this continent... There seems to be a big tree at its center.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_009",
@@ -85,7 +94,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_010",
@@ -93,7 +103,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_011",
@@ -101,7 +112,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_012",
@@ -109,7 +121,8 @@
     12
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_013",
@@ -117,7 +130,8 @@
     13
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_014",
@@ -125,7 +139,8 @@
     14
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_015",
@@ -133,7 +148,8 @@
     15
    ],
    "jp": "{8002}{94C8}かいさついん「次のスカイシップは{8207}まもなくシュッパツですよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「The next Skyship departs shortly.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_016",
@@ -141,7 +157,8 @@
     16
    ],
    "jp": "{8002}{8603}{9499}「もうすぐ、スカイシップが出ます{8207}さっそくのりこみましょう」\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}The Skyship is leaving soon. Let's get on board right away.{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_017",
@@ -149,7 +166,8 @@
     17
    ],
    "jp": "{8002}{8603}{9499}「では、ジュンビができるまで{8207}私達はここでまっていますね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}Then we'll wait here until you're ready.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_018",
@@ -157,7 +175,8 @@
     18
    ],
    "jp": "{8002}{8601}{9497}「おそいじゃない！{8207}早いところ、次の大陸へ向かおうよ！」\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}You're late! Let's hurry up and head for the next continent!{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_019",
@@ -165,7 +184,8 @@
     19
    ],
    "jp": "{8002}{8601}{9497}「アタシ達はここでまってるから、{8207}早くジュンビしてきてよね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}We'll be waiting here, so hurry up and get ready!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_020",
@@ -173,7 +193,8 @@
     20
    ],
    "jp": "{8002}{8602}{9498}「もうすぐスカイシップが出るみたいだよ～{8207}はやくのろうよ～！」\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Looks like the Skyship's leaving soon~ Let's hurry and get on~!{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_021",
@@ -181,7 +202,8 @@
     21
    ],
    "jp": "{8002}{8602}{9498}「ジュンビができるまで{8207}オイラ達はここでまってるよ～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}We'll wait here till you're ready~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_022",
@@ -189,7 +211,8 @@
     22
    ],
    "jp": "{8002}{94C8}かいさついん「ごりようありがとうございます」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Thank you for flying with us.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_023",
@@ -197,7 +220,8 @@
     23
    ],
    "jp": "{8002}{94C8}かいさついん「スカイシップにのりますか？」{8207}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Will you board the Skyship?{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_024",
@@ -205,7 +229,8 @@
     24
    ],
    "jp": "{8002}{94C8}かいさついん「それではごとうじょうください」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Then please come aboard.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_025",
@@ -213,7 +238,8 @@
     25
    ],
    "jp": "{8002}{94C8}かいさついん「ごりようありがとうございます」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Thank you for flying with us.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_026",
@@ -221,7 +247,8 @@
     26
    ],
    "jp": "{8002}{94C8}かいさついん「ごりようありがとうございました{8207}これからもよろしくおねがいします」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Thank you for flying with us. We look forward to serving you again.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_027",
@@ -229,7 +256,8 @@
     27
    ],
    "jp": "{8002}{8603}{9499}「{9407}に先をこされるとやっかいです{8207}町へ急ぎましょう」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}It'll be trouble if {9407} gets there before us. Let's hurry to the town.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_028",
@@ -237,7 +265,8 @@
     28
    ],
    "jp": "{8002}{8601}{9497}「町はここから{8833}南西にすぐ{8800}の所に{8207}あるらしいよ！そこでまた会おうね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}They say the town is {8833}just southwest{8800} of here! See you there!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_029",
@@ -245,7 +274,8 @@
     29
    ],
    "jp": "{8002}{8602}{9498}「木の大陸か・・・{8207}おいしいフルーツとかは{8207}あるのかなぁ・・・？」{8300}{8602}{9498}「あっ・・・いけないいけない！{8207}まずはスカイシャークをやっつける事を{8207}かんがえないとね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}The Wood Continent, huh... I wonder if they have yummy fruit and stuff...?{8300}{8602}{9498}Oh... no, no, no! First we gotta think about beating Sky Shark!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2155CC_030",
@@ -253,7 +283,8 @@
     30
    ],
    "jp": "{8000}{94C8}かいさついん「ごりようありがとうございました」{8300}{94C8}かいさついん「これからも{8207}よろしくおねがいいたします」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Gatekeep「Thank you for flying with us.{8300}{94C8}Gatekeep「We look forward to serving you again.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

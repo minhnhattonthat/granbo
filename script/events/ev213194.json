@@ -158,7 +158,8 @@
     16
    ],
    "jp": "{8000}{8603}{9499}「バミューダのネライが{8207}わかりました・・・」{8300}{8603}{9499}「彼のネライはおそらく・・・{8207}{8833}全大陸のグランドチェンジタワーを{8207}キドウさせる{8800}事！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8603}{9499}I've figured out what Bermuda is after...{8300}{8603}{9499}What he's after is most likely... {8833}activating the Grand Change Towers on every continent{8800}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev213194_017",
@@ -166,7 +167,8 @@
     17
    ],
    "jp": "{8000}{8602}{9498}「そ、それって一体どういう事～？」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8602}{9498}Wh-what's that supposed to mean~?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev213194_018",
@@ -174,7 +176,8 @@
     18
    ],
    "jp": "{8000}{8603}{9499}「スカイシャークの作戦は全て{8207}バミューダがかんがえているよう{8207}なんですが・・・」{8300}{8603}{9499}「その作戦にことごとく{8207}グランドチェンジタワーがカンケイ{8207}しているんです！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8603}{9499}It seems Bermuda plans every one of Sky Shark's operations...{8300}{8603}{9499}And every single one of those operations has something to do with the Grand Change Towers!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev213194_019",
@@ -182,7 +185,8 @@
     19
    ],
    "jp": "{8000}{8601}{9497}「たしかに今も『グランドチェンジタワーを{8207}キドウさせる事をおわすれなく』って{8207}言ってたね」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8601}{9497}Right, just now he said \"Do be sure not to forget to activate the Grand Change Tower\" too.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev213194_020",
@@ -190,7 +194,8 @@
     20
    ],
    "jp": "{8000}{8603}{9499}「ええ、でもどうしてバミューダは{8207}そんな事を・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8603}{9499}Yes, but why would Bermuda want such a thing...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev213194_021",
@@ -198,7 +203,8 @@
     21
    ],
    "jp": "{8000}{8601}{9497}「まさか、あの変なグランドチェンジタワー{8207}研究家の言っていた・・・えーっと・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8601}{9497}Don't tell me it's what that weird Grand Change Tower researcher was talking about... Um, what was it...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev213194_022",
@@ -206,7 +212,8 @@
     22
    ],
    "jp": "{8000}{8603}{9499}「・・・ワールドチェンジタワー・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8603}{9499}...The World Change Tower...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev213194_023",
@@ -214,7 +221,8 @@
     23
    ],
    "jp": "{8000}{8610}{9497}「そう！それと何かカンケイが{8207}あるんじゃない？」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8610}{9497}Yeah! Don't you think it has something to do with that?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev213194_024",
@@ -222,7 +230,8 @@
     24
    ],
    "jp": "{8000}{8603}{9499}「ともかく、今言えるのは・・・」{8300}{8603}{9499}「これいじょう、スカイシャークに{8207}{8833}グランドチェンジタワーをキドウ{8207}させてはいけない{8800}って事ですね」{8300}{8603}{9499}「それと彼らが言っていた{8833}アレ{8800}とは{8207}何か・・・それも気になります」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8603}{9499}In any case, all we can say right now is...{8300}{8603}{9499}We can't let Sky Shark {8833}activate any more Grand Change Towers{8800}.{8300}{8603}{9499}And what is {8833}that thing{8800} they mentioned... That worries me too.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev213194_025",
@@ -230,7 +239,8 @@
     25
    ],
    "jp": "{8000}{8602}{9498}「{8833}アレ{8800}さえあれば世界征服が{8207}できるって言ってたもんね～」{8300}{8602}{9498}「ちょっと信じられないけど・・・{8207}気になるんだな～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8602}{9498}They said that with {8833}that thing{8800} they could take over the world~{8300}{8602}{9498}It's kinda hard to believe... but I wanna know, y'know~!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev213194_026",
@@ -238,7 +248,8 @@
     26
    ],
    "jp": "{8000}{8601}{9497}「とりあえず{8877}フォレスティア{8800}についたら{8207}スカイシャークが何をねらっているか・・・{8207}それからたしかめようよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8601}{9497}Anyway, once we reach {8877}Forestia{8800}, let's find out what Sky Shark is after first!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}大人セイバー「おかしいな・・・{8207}北の町との通信がとぎれたぞ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「That's odd... We've lost contact with the northern town...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}大人セイバー「ここではグランボセイバーが安全に{8207}戦えるためのアイテムを作ってるの」{8300}{94C8}大人セイバー「あなたがこれまで使ったアイテムの中には{8207}ここで作られた物もあるかもね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「We make items here so Granbo Savers can battle safely.{8300}{94C8}Saver「Some of the items you've used so far might have been made right here!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}大人セイバー「北の町との通信をセツダンしていた{8207}のはスカイシャークだったのか・・・」{8300}{94C8}大人セイバー「くそっ、私が本部長にホウコクしておけば{8207}こんな事には・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「So it was the Sky Shark who cut off contact with the northern town...{8300}{94C8}Saver「Darn it, if only I'd reported it to the Chief, this never would have happened...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}大人セイバー「ここではグランボセイバーが安全に{8207}戦えるためのアイテムを作ってるの」{8300}{94C8}大人セイバー「あなたがこれまで使ったアイテムの中には{8207}ここで作られた物もあるかもね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「We make items here so Granbo Savers can battle safely.{8300}{94C8}Saver「Some of the items you've used so far might have been made right here!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}大人セイバー「くれぐれも{8207}気をつけてくれよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Please, be very careful!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}大人セイバー「ここで作ったアイテムは{8207}ショップにならんでいるわ！」{8300}{94C8}大人セイバー「本きょ地にのりこむ前にアイテムは{8207}じゅうぶんにそろえていってね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「The items we make here are sold in the shop!{8300}{94C8}Saver「Stock up on plenty of items before you storm their headquarters!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}大人セイバー「やったな、{9400}君！」{8300}{94C8}大人セイバー「ここで作られたアイテムが{8207}やくに立ったかと思うと私もうれしいよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「You did it, {9400}!{8300}{94C8}Saver「It makes me happy too, thinking the items made here were of use to you!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}大人セイバー「HPチップやATチップとかの{8207}アイテム・・・もしあまっているなら{8207}どんどん使った方がいいよ！」{8300}{94C8}大人セイバー「うまく使えばグランボの弱てんを{8207}カバーできるからね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Items like HP Chips and AT Chips... if you have any left over, you should use them freely!{8300}{94C8}Saver「Used well, they can cover your Granbo's weak points!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{9201}ここで色々なアイテムが作られているらしい{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}All sorts of items seem to be made here.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{94C8}大人セイバー「{9400}君・・・{8207}がんばれよ・・・」{8300}{94C8}大人セイバー「キケンな時にはキチョウなアイテムでも{8207}思いきって使った方がいいぞ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「{9400}... Hang in there...{8300}{94C8}Saver「When things get dangerous, don't hold back, even with your rare items!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{94C8}大人セイバー「HPチップやATチップとかの{8207}アイテム・・・もしあまっているなら{8207}そろそろ使った方がいいんじゃない？」{8300}{94C8}大人セイバー「うまく使えばグランボの弱てんを{8207}カバーできるはずよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Items like HP Chips and AT Chips... if you have any left over, isn't it about time you used them?{8300}{94C8}Saver「Used well, they should cover your Granbo's weak points!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{8602}{9497}「あの・・・博士{8207}ソウチはまだ完成しないんですか？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9497}Um... Professor, isn't the device finished yet?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{8605}{949B}「うむ・・・後少しだ・・・{8207}もう少しだけまってくれ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8605}{949B}Mm... Almost there... Just wait a little longer...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{8602}{9497}「な・・・なんだろう？{8207}アタシ、ちょっと外を見てくるね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9497}Wh-What was that? I'm gonna go take a look outside!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8002}{8602}{9497}「たったったっ、たいへんっ！！」{8300}{8602}{9497}「こ、子分達が・・・」{8300}{8602}{9497}「子分達が{8207}完成したパーフェクトシールドを持って{8207}町の中であばれまわってるよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9497}Th-th-this is baaad!!{8300}{8602}{9497}Th-the Grunts...{8300}{8602}{9497}The Grunts have the finished Perfect Shield, and they're running wild all over town!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8002}{8602}{9498}「ど、ど、ど、どうしよう～！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Wh-wh-wh-what do we do~!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8002}{8605}{949B}「キミ達にたのみがある・・・」{8300}{8605}{949B}「シールドブレイカーが完成するまで{8207}時間をかせいでくれないか！？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8605}{949B}I have a favour to ask of you...{8300}{8605}{949B}Could you buy me some time until the Shield Breaker is finished?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8002}{8602}{9497}「とにかく時間をかせげば{8207}いいんだねっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9497}So we just have to buy some time, right?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev229EF0_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8002}{8602}{9498}「ま、まってよ{9401}ちゃ～ん！{8207}オイラも手つだうよ～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}W-Wait for me, {9401}~! I'll help too~!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

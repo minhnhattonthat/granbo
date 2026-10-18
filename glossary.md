@@ -141,6 +141,8 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- ウォンライ -> Wonrai; 研究シセツ -> research facility; セイバーブタイ -> Saver forces; グランボセイバー本部 -> Granbo
+  Saver HQ; セイバー本部長 -> Chief of Saver HQ. (Review: ev225624_081 is labelled Grazie but reads as a father.)
 - ベルドー -> Beldo; ドルッピー -> Doruppy; ラザルス -> Lazarus; スナイパー -> Sniper; ショットガン中 -> Shotgun 2;
   ウイルスキバ強 -> Virus Fang 3; エラーボム中 -> Error Bomb 2; ALLカノン強 -> ALL Cannon 3; パーフェクトシールド -> Perfect
   Shield; シールドブレイカー -> Shield Breaker; 犬猿の仲 joke (dog vs monkey) -> "dogs and monkeys really can't get along".

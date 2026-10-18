@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}男の子「どんなネガイでもかなえてくれる{8207}あの花さえあれば・・・」{8300}{94C8}男の子「ベンキョウしなくても頭が良くなるんだ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「If I just had that flower that grants any wish...{8300}{94C8}Boy「I'd get smart without even studying!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}女の子「弟もそうだけど・・・」{8300}{94C8}女の子「この町の人達は、こまった事がおきたら{8207}すぐあの花にたよろうとする{8207}悪いクセがあるの・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「My little brother's the same, but...{8300}{94C8}Girl「The people in this town have a bad habit of running to that flower the moment anything goes wrong...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94A0}「ウキキッ、ウキキ～～～～ッ！！」{8207}（あの花を使ってバナナを出すウキ！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Ookie, ookiiiiiie!! (I'm gonna use that flower to make bananas, ook!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}ならず者「くそっ、ここにすんでいるバアさんが{8207}あの花のさいている場所を{8207}知っているはずなんだがな！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Thug「Blast it, the old lady who lives here should know where that flower blooms!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}おじさん「ここはブルーベリータウン{8207}・・・何？スカイシャーク？{8207}いや、見かけてねぇよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「This is Blueberry Town. ...What? Sky Shark? Nope, haven't seen 'em!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}おばさん「あの花を手に入れて・・・」{8300}{94C8}おばさん「この私のうつくしさを{8207}エイエンの物にしてやるわ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Once I get my hands on that flower...{8300}{94C8}Lady「I'll make this beauty of mine last forever!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{8601}{9497}「この町ってなんかフンイキが悪いね・・・」{8300}{8601}{9497}「なんかこわそうな人が多いし・・・{8207}みんなあの花、あの花って・・・」{8300}{8601}{9497}「スカイシャークもどうしてこんな所を{8207}ねらうんだろうね・・・？」{8300}{8601}{9497}「とりあえずセイバーステーションに{8207}行ってみようかな」{8300}{8601}{9497}「シズクやダイゴロウが何かジョウホウを{8207}つかんでいるかも知れないし・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}This town has kind of a bad vibe...{8300}{8601}{9497}There are lots of scary-looking people... and everyone keeps going \"that flower, that flower\"...{8300}{8601}{9497}Why would Sky Shark go after a place like this...?{8300}{8601}{9497}Guess I'll try the Saver Station for now.{8300}{8601}{9497}Shizuku or Daigoro might have picked up some info...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}男の子「あの花さえあれば{8207}ベンキョウしなくても頭が良くなるんだ！」{8300}{94C8}男の子「なんとかして手に入れたいなぁ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「If I just had that flower, I'd get smart without even studying!{8300}{94C8}Boy「I really wanna get it somehow...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}女の子「弟もそうだけど・・・」{8300}{94C8}女の子「この町の人達は、こまった事がおきたら{8207}すぐあの花にたよろうとする{8207}悪いクセがあるの・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「My little brother's the same, but...{8300}{94C8}Girl「The people in this town have a bad habit of running to that flower the moment anything goes wrong...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94A0}「ウキキッ、ウキキ～～～～ッ！！」{8207}（あの花でバナナを出すウキ！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Ookie, ookiiiiiie!! (I'm gonna make bananas with that flower, ook!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}ならず者「くそっ、ここにすんでいるバアさんが{8207}あの花のさいている場所を{8207}知っているはずなんだがな！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Thug「Blast it, the old lady who lives here should know where that flower blooms!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}男の人「くそっ！『{8833}食べ物ドロボウ{8800}』に{8207}またやられたっ！！」{8300}{94C8}男の人「あの花を手に入れたら{8207}ゼッタイにヤツをつかまえてやる！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Blast it! The \"{8833}Food Thief{8800}\" got me again!!{8300}{94C8}Man「Once I get that flower, I'll catch that thing for sure!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{94C8}おばさん「今の『{8833}食べ物ドロボウ{8800}』・・・」{8300}{94C8}おばさん「グランボに見えたのは私だけ・・・？」{8300}{94C8}おばさん「どっちにしろ、このままじゃすまさないわ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「That \"{8833}Food Thief{8800}\" just now...{8300}{94C8}Lady「Am I the only one who thought it looked like a Granbo...?{8300}{94C8}Lady「Either way, I won't let this slide!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{8610}{9497}「今のが『{8833}食べ物ドロボウ{8800}』ねっ！{8207}このアタシがぜったいつかまえるわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}So that was the \"{8833}Food Thief{8800}\"! I'm gonna catch it, no matter what!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94C8}男の子「あの花が{8207}どこにさいているか？」{8300}{94C8}男の子「そんなのボクが{8207}知りたいくらいだよ！！」{8300}{94C8}男の子「ドリ－ムフラワーさえあれば{8207}ボクはテストでマンテンがとれるんだ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Where that flower blooms?{8300}{94C8}Boy「I'm the one who wants to know that!!{8300}{94C8}Boy「If I just had the Dream Flower, I could get a perfect score on my tests...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{94C8}女の子「ドリームフラワーのさいてる場所？」{8300}{94C8}女の子「それは知らないけど、ならず者達が{8207}町の西に行くのを見たわ」{8300}{94C8}女の子「タワーがどうとか言っていたけど・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Where the Dream Flower blooms?{8300}{94C8}Girl「I don't know that, but I saw some thugs heading west of town.{8300}{94C8}Girl「They were saying something about a tower...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{94A0}「ウキキッ、ウキキ～～～～ッ！！」{8207}（ドリームフラワーでバナナを出すウキ！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Ookie, ookiiiiiie!! (I'm gonna make bananas with the Dream Flower, ook!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{94C8}ならず者「ドリームフラワーのさいてる場所？」{8300}{94C8}ならず者「この家にすんでいるバアさんが{8207}知っているはずなんだがな・・・」{8300}{94C8}ならず者「口のかたいバアさんで{8207}何もおしえちゃくれねぇんだ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Thug「Where the Dream Flower blooms?{8300}{94C8}Thug「The old lady who lives in this house should know...{8300}{94C8}Thug「But she's a tight-lipped old lady and won't tell us a thing!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{94C8}ならず者「ドリームフラワーの事をおしえろ？」{8300}{94C8}ならず者「い・や・だ・ね！！{8207}ドリームフラワーを手に入れるのは{8207}このオレだからな！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Thug「Tell you about the Dream Flower?{8300}{94C8}Thug「Not. A. Chance!! I'm the one who's getting the Dream Flower!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{94C8}おばさん「ドリームフラワー？{8207}・・・知っててもおしえてあげないわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「The Dream Flower? ...Even if I knew, I wouldn't tell you!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8002}{94C8}男の子「すごい！大陸が明るくなった！」{8300}{94C8}男の子「キミがやってくれたの？{8207}なんだか心がはれたよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Wow! The continent got bright!{8300}{94C8}Boy「Did you do that? I feel all cheered up!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8002}{94C8}女の子「すごい・・・」{8300}{94C8}女の子「私達のすんでいた大陸って{8207}本当はこんなにきれいだったんだ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Wow...{8300}{94C8}Girl「So the continent we live on was really this pretty all along...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8002}{94A0}「ウキッ、ウキッ！！」{8207}（町の外に出てみたいウキ！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Ook, ook!! (I wanna go outside the town, ook!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8002}{94C8}ならず者「外が明るくなったな・・・」{8300}{94C8}ならず者「もしかしたら、これでドリームフラワーが{8207}さくかも知れねえな・・・」{8300}{94C8}ならず者「しかし、さくとしても{8207}一体どこに・・・？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Thug「It's gotten bright outside...{8300}{94C8}Thug「Maybe now the Dream Flower will bloom...{8300}{94C8}Thug「But even if it does bloom, where would it be...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8002}{94C8}ならず者「スカイシャークの連中も{8207}ドリームフラワーをねらっているらしい！」{8300}{94C8}ならず者「こうしてはおれん！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Thug「Sounds like those Sky Shark guys are after the Dream Flower too!{8300}{94C8}Thug「I can't just sit around!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8002}{94C8}おばさん「大陸がうつくしさを{8207}とりもどしたわね・・・」{8300}{94C8}おばさん「後はドリームフラワーの力を使って{8207}私のうつくしさもエイエンにするだけ！」{8300}{94C8}おばさん「・・・え？エーゲににてる？{8207}その人も私ににて身も心もキレイな人{8207}なのね、きっと！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「The continent has gotten its beauty back...{8300}{94C8}Lady「Now all that's left is to use the Dream Flower's power to make my beauty last forever too!{8300}{94C8}Lady「...What? I look like Aegean? Then she must be beautiful inside and out just like me, I'm sure of it!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_026",

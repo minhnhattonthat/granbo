@@ -13,7 +13,8 @@
     25
    ],
    "jp": "{8002}{94C8}男の子「なんだよ、お前！{8207}ここから先はオヤジとアニキいがい{8207}立入禁止なんだからな！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Hey, who are you?! Nobody but my dad and my big brother is allowed past here!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_001",
@@ -21,7 +22,8 @@
     1
    ],
    "jp": "{8002}{94C8}ならず者「くそっ！！{8207}あれじゃ手が出せないぞ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Thug「Blast!! We can't lay a finger on it like that!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_002",
@@ -29,7 +31,8 @@
     2
    ],
    "jp": "{8002}{94C8}ならず者「あいつさえ何とかすれば{8207}後はオレ達のものなんだが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Thug「If we could just deal with that thing, the rest would be ours...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_003",
@@ -37,7 +40,8 @@
     3
    ],
    "jp": "{8002}{94C8}男の子「キミにたのみがある！」{8300}{94C8}男の子「オレのオヤジとアニキをこんな目にあわせた{8207}グランボをやっつけてくれ！！」{8300}{94C8}男の子「そうだ！オレの持っている{8207}{8833}全ENカプセル中{8800}もやるよ！！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「I've got a favor to ask you!{8300}{94C8}Boy「Beat the Granbo that did this to my dad and my big brother!!{8300}{94C8}Boy「I know! I'll even give you my {8833}Team EN Capsule 2{8800}!!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_004",
@@ -45,7 +49,8 @@
     4
    ],
    "jp": "{8002}{94C8}男の子「それじゃあ、やるよ！{8207}ヤツはこのドウクツをぬけた先にあるタワー{8207}の中だ！気をつけてくれ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Then here you go! It's inside the tower past this cave! Be careful!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_005",
@@ -53,7 +58,8 @@
     5
    ],
    "jp": "{8002}{94C8}男の子「ちっ、そうかい！{8207}キミにたのんだオレがバカだったよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Tch, fine! I was a fool to ask you!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_006",
@@ -61,7 +67,8 @@
     6
    ],
    "jp": "{8002}{94C8}男の子「それじゃ、たのんだぜ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「I'm counting on you!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_007",
@@ -69,7 +76,8 @@
     7
    ],
    "jp": "{8002}{94C8}ならず者「ううううう・・・{8207}ダメだ・・・勝てっこない・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Thug「Ugggh... It's no use... We can't win...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_008",
@@ -77,7 +85,8 @@
     8
    ],
    "jp": "{8002}{94C8}ならず者「いたた・・・{8207}うごけねぇ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Thug「Ow ow... I can't move...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_009",
@@ -85,7 +94,8 @@
     9
    ],
    "jp": "{8002}ワーク00のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 00 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_010",
@@ -93,7 +103,8 @@
     10
    ],
    "jp": "{8002}ワーク01のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_011",
@@ -101,7 +112,8 @@
     11
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_012",
@@ -109,7 +121,8 @@
     12
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_013",
@@ -117,7 +130,8 @@
     13
    ],
    "jp": "{8002}ワーク04のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_014",
@@ -125,7 +139,8 @@
     14
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_015",
@@ -133,7 +148,8 @@
     15
    ],
    "jp": "{8002}ワーク06のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_016",
@@ -141,7 +157,8 @@
     16
    ],
    "jp": "{8002}{94C8}かいさついん「ごりようありがとうございました{8207}これからもよろしくおねがいします」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Thank you for flying with us. We look forward to serving you again.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_017",
@@ -149,7 +166,8 @@
     17
    ],
    "jp": "{8002}{8603}{9499}「{9407}に先をこされるとやっかいです{8207}町へいそぎましょう」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}It'll be trouble if {9407} gets there before us. Let's hurry to the town.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_018",
@@ -157,7 +175,8 @@
     18
    ],
    "jp": "{8002}{8602}{9497}「じゃあ、サロンでまた会おうね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9497}Okay, see you back in the salon!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_019",
@@ -165,7 +184,8 @@
     19
    ],
    "jp": "{8002}{8602}{9498}「木の大陸か・・・{8207}おいしいフルーツとかは{8207}あるのかなぁ・・・？」{8300}{8602}{9498}「あっ・・・いけないいけない！{8207}まずはスカイシャークをやっつける事を{8207}かんがえないとね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}The Wood Continent, huh... I wonder if they have yummy fruit and stuff...?{8300}{8602}{9498}Oh... no, no, no! First we gotta think about beating Sky Shark!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_020",
@@ -173,7 +193,8 @@
     20
    ],
    "jp": "{8002}{94C8}こども「ボク達の町をおそうのがよりによって{8207}{9407}だなんて・・・{8207}ついてないなぁ・・・」{8300}{94C8}こども「キミだけがたよりだ！{8207}ここはボクにまかせて{8207}早く町に向かってくれ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid「Of all people to attack our town, it had to be {9407}... What rotten luck...{8300}{94C8}Kid「You're our only hope! Leave this place to me and hurry to the town!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_021",
@@ -181,7 +202,8 @@
     21
    ],
    "jp": "{8002}{94C8}かいさついん「火大陸1へむかわれますか？」\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Will you head for Fire Continent 1?{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_022",
@@ -189,7 +211,8 @@
     22
    ],
    "jp": "{8002}{94C8}かいさついん「それではごとうじょう下さい」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Then please come aboard.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_023",
@@ -197,7 +220,8 @@
     23
    ],
    "jp": "{8002}{94C8}かいさついん「ごりようありがとうございます」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Thank you for flying with us.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2148FC_024",
@@ -205,7 +229,8 @@
     24
    ],
    "jp": "{8002}{94C8}かいさついん「ごりようありがとうございました{8207}これからもよろしくおねがいいたします」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Thank you for flying with us. We look forward to serving you again.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

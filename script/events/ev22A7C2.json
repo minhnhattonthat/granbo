@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860C}{94A2}「ここはチリョウしつよ」{8300}{860C}{94A2}「戦いでケガを負ったセイバーがここで{8207}チリョウをうけるの」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860C}{94A2}This is the treatment room.{8300}{860C}{94A2}Savers who get hurt in battle come here for treatment.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{860C}{94A2}「ここにもカトレアタウンからケガ人が{8207}何人かはこばれてきたわ・・・」{8300}{860C}{94A2}「さいわい、みんな大したケガじゃ{8207}なかったから良かったわ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860C}{94A2}Some injured people from Cattleya Town were brought here too...{8300}{860C}{94A2}Luckily, none of them were badly hurt, so that's a relief...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{860C}{94A2}「くれぐれもムリはしないでね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860C}{94A2}Please don't push yourself too hard...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{860C}{94A2}「{9400}君、{8207}ケガはしていない？」{8300}{860C}{94A2}「あんまりムリはしないようにね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860C}{94A2}{9400}, you're not hurt, are you?{8300}{860C}{94A2}Try not to push yourself too hard.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{9201}チリョウ用のマシンだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a medical machine.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{9201}最新のレスキューカプセルだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's the latest Rescue Capsule.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{9201}カリブは目をさましそうにない{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Caribbean doesn't look like he'll wake up.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{860C}{94A2}「{9400}君、{8207}ムリしないでね」{8300}{860C}{94A2}「あぶないと思ったら、時には{8207}引きかえす事もヒツヨウよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860C}{94A2}{9400}, don't push yourself.{8300}{860C}{94A2}If you think it's dangerous, sometimes you need to turn back.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8000}{860C}{94A2}「あら、{9400}君・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{860C}{94A2}Oh, {9400}...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8000}{860C}{94A2}「スカイシャークのキャプテン{8207}あれからずっと目をさまさないの・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{860C}{94A2}The Sky Shark Captain hasn't woken up since then...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8000}{8616}{949D}「何？バミューダをたおすのに{8207}手をかせだと・・・？」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8616}{949D}What? You want me to lend a hand in defeating Bermuda...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8001}{8608}{949E}「そう・・・アンタ達{8207}アイツと戦うつもりなのね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8608}{949E}I see... So you lot are planning to fight that man...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8000}{8617}{949D}「くそっ！{8207}どうして目をさましてくれないんだ！？」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8617}{949D}Blast it! Why won't you wake up?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8001}{8619}{949E}「カリブさま・・・{8207}あなたがいなければ私は・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8619}{949E}Lord Caribbean... Without you, I...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8000}{8617}{949D}「キャプテンは・・・」{8300}{8617}{949D}「みよりのないボクをひろって{8207}ここまでそだててくれた、{8207}父親みたいなそんざいなんだ」{8300}{8616}{949D}「そんなキャプテンを{8207}こんな目に合わせたバミューダ{8207}ヤツはゼッタイにゆるせない！」{8300}{8616}{949D}「ヤツをたおすためなら・・・{8207}ボクはキミにキョウリョクしよう！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8617}{949D}The Captain...{8300}{8617}{949D}He took me in when I had no family, and raised me all this way. He's like a father to me.{8300}{8616}{949D}I will never forgive Bermuda for doing this to the Captain!{8300}{8616}{949D}If it means defeating him... I will cooperate with you!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8001}{8619}{949E}「カリブさまは私にとって{8207}見た目もセイカクも全てが{8207}リソウの人なの・・・」{8300}{8618}{949E}「そのカリブさまを{8207}こんな目に合わせたバミューダは{8207}ゼッタイにゆるせないわ！」{8300}{8618}{949E}「このさい、アンタ達が{8207}本当のうつくしさをリカイできないことには{8207}目をつぶってあげるから・・・」{8300}{8618}{949E}「いっしょにヤツ・・・{8207}バミューダをやっつけましょう！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8619}{949E}To me, Lord Caribbean is the ideal man, in looks, in personality, in everything...{8300}{8618}{949E}I will never forgive Bermuda for doing this to Lord Caribbean!{8300}{8618}{949E}For now, I'll overlook the fact that you lot can't understand true beauty...{8300}{8618}{949E}So let's take him down together... Let's beat Bermuda!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8000}{8607}{949D}「・・・そうだ」{8300}{8607}{949D}「キミにはこれをわたしておこう」{8300}{8607}{949D}「ボクとのケッチャクをつける前に{8207}やられてしまってはこまるからな」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8607}{949D}...Right.{8300}{8607}{949D}I'll hand this over to you.{8300}{8607}{949D}It would be a problem if you got beaten before we settle things between us.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8000}『{8833}ヴォルグ{8800}』のデータボールをもらった！{8400}{8100}",
-   "en": ""
+   "en": "{8000}You got the \"{8833}Volg{8800}\" Data Ball!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8000}{8607}{949D}「それでは、スカイシップの{8207}シュッパツじゅんびを急がせよう」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8607}{949D}Now then, I'll have them hurry the Skyship's launch preparations.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8001}{8608}{949E}「いっしょに行動するからには{8207}アンタのグランボにもちょっとは{8207}かんばってもらわないとね」{8300}{8608}{949E}「これをあげるわ{8207}ありがたくうけとりなさい」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8608}{949E}If we're going to work together, your Granbo had better pull its weight a little too.{8300}{8608}{949E}Here, take this. Accept it gratefully.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8000}『HP回復大』のワザをもらった！{8400}{8100}",
-   "en": ""
+   "en": "{8000}You got the \"HP Heal 3\" move!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev22A7C2_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8001}{8608}{949E}「それじゃ、私はシュッパツ前に{8207}おケショウをしてくるわ」{8300}{8608}{949E}「ねんいりにおケショウしないと{8207}気合いが入らないからね！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8608}{949E}Well then, I'm going to do my makeup before we set off.{8300}{8608}{949E}If I don't do my makeup carefully, I just can't get fired up!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

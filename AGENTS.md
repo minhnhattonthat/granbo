@@ -6,7 +6,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 - Build:    not yet (phase 3)                  -> build/granbo_en.gba (checks the dump against `rom.sha1` first)
 - Check:    `python -X utf8 tools/check.py`  (tests + lint; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 $SKILL/scripts/emu.py build/granbo_en.gba --out work/qa/smoke --route tools/routes/boot.txt --smoke`
-- Warp:     not yet (phase 2: `tools/debug/warp.lua`; never ask the user to play to a scene)
+- Warp:     `python -X utf8 $SKILL/scripts/emu.py build/granbo_en.gba --out work/qa/warp_<scene> --script tools/debug/warp.lua --var "SCENE='<scene>'" --frames 900 --sheet` (scenes: `tools/debug/scenes.lua`; all states: `python -X utf8 tools/debug/regen_states.py --jobs 4`; RAM map `docs/re/debug.md`; never ask the user to play to a scene)
 - Release:  not yet (patch + verify; never publish without the user)
 
 ## Paths
