@@ -102,3 +102,19 @@ Options and reasons for each ruling: `docs/decisions.md`.
 | グランボバトル | Granbo battle | | | |
 
 ## Decisions from earlier batches
+- Move tiers 弱/中/強 -> 1/2/3 after the name: ウイルスボム中 -> Virus Bomb 2, ATアップ中 -> AT Up 2, ほえる強 -> Roar 3
+  (b001/b003 used M/Mid; fixed before merge).
+- Granbo names: バタキチ/バタきち -> Hopper (its cry ばた -> "hop!"), バブルス -> Bubbles (monkey, ウキ -> "ook!"),
+  ブトム -> Butom, ピヨリカ -> Piyorika, ヤブッサ -> Yabussa, フォックル -> Foxle, バズメッカ -> Buzzmecha,
+  ワオン -> Woofon.
+- Terms: ゾクセイ -> element; ハント -> hunt; しんか -> evolve/evolution; ランクポイント -> Rank Points;
+  セイバーランク -> Saver Rank; スカイシップ -> Skyship (not Sky Ship); データパッド -> Data Pad; メカエッグ -> Mecha Egg;
+  ハントグローブ -> Hunt Glove; ドリームフラワー -> Dream Flower; リサイクルボックス -> Recycle Box; コンテナ -> Container;
+  アイテムロッカー -> Item Locker; ノラグランボ -> stray Granbo; セイバー本部 -> Saver HQ; グランボショップ -> Granbo Shop;
+  データボールシステム -> Data Ball System; チョトッツ -> Headlong Rush; ウイルスミサイル -> Virus Missile;
+  じゅうじボタン -> +Control Pad; 買う/売る/やめる -> Buy / Sell / Quit.
+- People: カリブさま -> Lord Caribbean (Sky Shark top boss, sea name); {9409}さま from grunts -> Boss {9409};
+  かんぶ -> boss; ゲンゾウさん from polite speakers -> Mr. Genzo (allowed: natural English politeness, not an
+  honorific suffix); Beardy's ばみうだ -> "Bermooda".
+- Grazie (グラッチェ) says ミー/ユー: flamboyant faux-foreign speech -> "moi" for ミー, "you" stays; light flourish
+  ("Magnifico!"), never mocking.

@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}女の子「ベンキョウなんて大キライッ！！」{8300}{94C8}女の子「あ～あ、私も外であそびたいな～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I hate studying!!{8300}{94C8}Girl「Aww, I wanna go play outside too~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BC056_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}おっちゃん「今、グランボバトルの{8207}テレビちゅうけいを見ているんだ！{8207}すまんが話しかけないでくれ！！」{8300}{94C8}おっちゃん「そこだーっ！行けーっ！！」{8400}{8100}{9801}{9801}",
-   "en": ""
+   "en": "{8002}{94C8}Mister「I'm watching a Granbo battle on TV right now! Sorry, but don't talk to me!!{8300}{94C8}Mister「That's it! Go! Goooo!!{8400}{8100}{9801}{9801}",
+   "status": "translated"
   },
   {
    "id": "ev1BC056_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おばちゃん「おや、ゲンゾウじいさんの所の{8207}{9400}君じゃないか！！」{8300}{94C8}おばちゃん「何をしてるかって？」{8300}{94C8}おばちゃん「べんきょうギライの娘が{8207}シュクダイをせずにあそびに行かないか{8207}見はっているんだよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Auntie「Well, if it isn't {9400}, from old Genzo's place!!{8300}{94C8}Auntie「What am I doing, you ask?{8300}{94C8}Auntie「I'm keeping an eye on my study-hating daughter so she doesn't run off to play without doing her homework!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BC056_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{860F}{94A5}「おおっ、タナのうらに{8207}何かかくしてあるぞっ！！」{8300}{860F}{94A5}「さてはヘソクリだなっ！{8207}よーし、ぜんぶイタダキだっ！！」{8300}{860F}{94A5}「・・・・・・・・・・・・」{8300}{860F}{94A5}「・・・なんだこりゃ！{8207}テストのとうあんじゃねえか・・・{8207}ひどいな・・・最高でも18てんか！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Ooh, there's something hidden behind the shelf!!{8300}{860F}{94A5}Must be a secret stash of cash! All right, I'm taking all of it!!{8300}{860F}{94A5}..................{8300}{860F}{94A5}...What the heck is this! Test answer sheets... Yikes... The best one's only 18 points!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BC056_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{860F}{94A5}「今、グランボバトルの{8207}テレビちゅうけいを見ているんだ！{8207}話しかけんじゃねーよ！！」{8300}{860F}{94A5}「よしっ！！そこだっ！！いけっ！！」{8400}{8100}{9801}{9801}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}I'm watching a Granbo battle on TV right now! Don't you talk to me!!{8300}{860F}{94A5}Yeah!! That's it!! Go!!{8400}{8100}{9801}{9801}",
+   "status": "translated"
   },
   {
    "id": "ev1BC056_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{860F}{94A5}「おっ、うまそうっ！！」{8300}{860F}{94A5}「いっただっきまーすっ！{8207}・・・モグモグ・・・ムシャムシャ・・・{8207}うまいっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Ooh, that looks tasty!!{8300}{860F}{94A5}Time to dig in! ...Munch munch... Chomp chomp... Delicious!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BC056_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}女の子「子分が家の中をあらしたから・・・」{8300}{94C8}女の子「かくしておいたテストのとうあんが{8207}お母さんに見つかって{8207}サンザンおこられたわ・・・」{8300}{94C8}女の子「スカイシャーク・・・{8207}ゼッタイにゆるせない！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Because the Grunts trashed our house...{8300}{94C8}Girl「Mom found the test sheets I'd hidden, and I got a huge scolding...{8300}{94C8}Girl「Sky Shark... I'll never, ever forgive them!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BC056_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}おっちゃん「ひさしぶりにグランボバトルの{8207}テレビちゅうけいを見ているんだ！{8207}すまんが話しかけないでくれ！！」{8300}{94C8}おっちゃん「そこだーっ！行けーっ！！」{8400}{8100}{9801}{9801}",
-   "en": ""
+   "en": "{8002}{94C8}Mister「I'm watching a Granbo battle on TV for the first time in ages! Sorry, but don't talk to me!!{8300}{94C8}Mister「That's it! Go! Goooo!!{8400}{8100}{9801}{9801}",
+   "status": "translated"
   },
   {
    "id": "ev1BC056_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}おばちゃん「おや、{9400}君じゃないか！{8207}助けてくれてありがとうね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Auntie「Oh, if it isn't {9400}! Thank you for saving us!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BC056_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{9201}何も書かれていないプリントが\n山づみになっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Blank worksheets are piled up high.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BC056_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{9201}メッセージボードは\nテレビモードになっている{8300}{9201}今はグランボバトルのテレビちゅうけいを\n行っているようだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The message board is in TV mode.{8300}{9201}It seems to be showing a Granbo battle broadcast right now.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BC056_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{9201}シンプルなキッチンだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A simple kitchen.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BC056_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{9201}正体不明の食べ物がのっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Some mystery food is sitting here.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BC056_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{9201}テーブルの上のコーヒーはすっかりさめてしまっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The coffee on the table has gone completely cold.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BC056_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Examine message for Work 05{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BC056_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}ワーク06のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Examine message for Work 06{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BC056_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{94C8}女の子「スカイシャークがいてもいなくても・・・」{8300}{94C8}女の子「ベンキョウしなきゃいけない事に{8207}変わりはないのね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Sky Shark or no Sky Shark...{8300}{94C8}Girl「I still have to study, don't I...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BC056_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{94C8}おっちゃん「スカイシャークの連中が{8207}グランボバトルにサンカするように{8207}なって・・・」{8300}{94C8}おっちゃん「グランボバトルがますます{8207}あつくなってきたよ！！」{8300}{94C8}おっちゃん「そこだーっ！行けーっ！！」{8400}{8100}{9801}{9801}",
-   "en": ""
+   "en": "{8002}{94C8}Mister「Now that the Sky Shark gang has started taking part in Granbo battles...{8300}{94C8}Mister「Granbo battles are getting more exciting than ever!!{8300}{94C8}Mister「That's it! Go! Goooo!!{8400}{8100}{9801}{9801}",
+   "status": "translated"
   },
   {
    "id": "ev1BC056_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{94C8}おばちゃん「おや、{9400}君！！{8207}あんたには本当にカンシャしてるよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Auntie「Oh, {9400}!! I'm truly grateful to you!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

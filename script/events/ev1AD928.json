@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}男の子「うう・・・{8207}向こうまでわたりきれるかな～？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Ugh... Can I make it all the way across~?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AD928_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{8609}{949F}「でんせつのグランボセイバー{8207}ゲンゾウのマゴ、{9400}ですか・・・{8207}おぼえておきましょう！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8609}{949F}The grandchild of the legendary Granbo Saver Genzo... {9400}, is it? I shall remember that!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AD928_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8001}{8609}{949F}「{8833}グランドチェンジ{8800}・・・開始！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8609}{949F}{8833}Grand Change{8800}... begin!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AD928_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8001}{860F}{94A5}「アイアイサー！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}Aye aye, sir!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AD928_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8001}{8609}{949F}「私が中に入ったらすみやかに{8207}元にもどしておいて下さい」{8300}{8609}{949F}「だれかに見られでもしたら{8207}こまりますからね！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8609}{949F}Once I am inside, put everything back the way it was, and be quick about it.{8300}{8609}{949F}It would be most inconvenient if anyone were to see!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AD928_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8001}{860F}{94A5}「アイアイサー！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}Aye aye, sir!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AD928_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8001}{8606}{949C}「2人ともたのんだぞ！ガッハッハ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8606}{949C}I'm counting on you both! Gahahaha!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AD928_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8001}{8609}{949F}「ははっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8609}{949F}Yes, sir!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AD928_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8001}{8608}{949E}「カリブさまのごキタイに{8207}こたえてみせますわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8608}{949E}I'll live up to Lord Caribbean's expectations, just watch!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AD928_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{8620}{94A7}「ハントをする前にお前の{8207}{940A}を回復しておいてやろう」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8620}{94A7}Before you go hunting, let me heal your {940A} for you.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AD928_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{8620}{94A7}「手ごろなグランボが来おったわい！{8207}さぁ、がんばるんじゃぞ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8620}{94A7}A nice little Granbo has turned up! Now, give it your all!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AD928_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{8620}{94A7}「これでハントのやり方は{8207}わかったじゃろう？」{8300}{8620}{94A7}「ハントを使ってたくさんの{8207}データボールを手に入れれば・・・」{8300}{8620}{94A7}「相手に合わせて{8207}いろんな戦い方ができるようになる！」{8300}{8620}{94A7}「それに{8833}データボールを使って{8207}手持ちのグランボをしんかさせる{8800}事も{8207}できるんじゃ！！」{8300}{8621}{94A7}「他にも、ハントする事で{8207}{8833}ランクポイントをため、セイバーランクを{8207}上げる{8800}事もできるぞい」{8300}{8620}{94A7}「それではいったん町にもどるかの」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8620}{94A7}Now you know how to hunt, eh?{8300}{8620}{94A7}If you hunt and collect lots of Data Balls...{8300}{8620}{94A7}you'll be able to fight in all sorts of ways to suit your opponent!{8300}{8620}{94A7}And you can also {8833}use Data Balls to evolve the Granbo you carry{8800}!!{8300}{8621}{94A7}Hunting also lets you {8833}build up Rank Points and raise your Saver Rank{8800}, y'see.{8300}{8620}{94A7}Now then, let's head back to town for a bit.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AD928_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{8614}{949B}「グランドチェンジしたゾクセイと{8207}同じゾクセイの{940A}を使うと{8207}何がおきるか・・・」{8300}{8614}{949B}「ミーみずからが戦って{8207}おしえてあげるわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8614}{949B}What happens when you use a {940A} of the same element as the Grand Changed element...?{8300}{8614}{949B}I'll fight you myself and show you!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AD928_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{8614}{949B}「さぁ、見てなさい！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8614}{949B}Now, watch closely!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AD928_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{8614}{949B}「どうかしら？」{8300}{8614}{949B}「グランドチェンジをすると{8207}こんなふうに・・・」{8300}{8614}{949B}「グランドチェンジしたゾクセイと{8207}同じゾクセイのグランボが助けに{8207}来てくれる事があるのよ！！」{8300}{8614}{949B}「グランボのくみあわせは{8207}良くかんがえてから決めるのね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8614}{949B}How was that?{8300}{8614}{949B}When you Grand Change, like this...{8300}{8614}{949B}a Granbo of the same element as the Grand Changed one may come to help you!!{8300}{8614}{949B}So think hard before you decide which Granbo to team up.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AD928_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{8614}{949B}「ミーにおしえられるのは{8207}ここまで・・・」{8300}{8614}{949B}「ミーは家にもどるけど・・・」{8300}{8614}{949B}「何かわからない事・・・たとえば{8207}{8833}しんか{8800}の事なんかでききたい事があったら{8207}また、いつでもミーの家にいらっしゃい！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8614}{949B}That's all I can teach you...{8300}{8614}{949B}I'm going back home, but...{8300}{8614}{949B}if there's anything you don't understand... like {8833}evolution{8800}, for example... come visit my house anytime!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

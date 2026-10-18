@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おじさん「くそっ、なんて事を・・・」{8300}{94C8}おじさん「これでは{8833}バトルスタジアム{8800}に{8207}行けないじゃないか・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Blast, how could they...{8300}{94C8}Man「Now we can't get to the {8833}Battle Stadium{8800}...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AF5C4_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}お兄さん「ここまでこわされると{8207}カンタンにはなおせないぞ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lad「With this much damage, it won't be easy to fix!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AF5C4_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}かかりいん「スカイシップのシュウリには{8207}しばらく時間がかかりそうです」{8300}{94C8}かかりいん「いったん南の町で休んでこられては{8207}いかがですか？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「Repairing the Skyship looks like it will take a while.{8300}{94C8}Staff「Why not go rest in the town to the south for now?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AF5C4_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{8602}{9498}「あっ、{9400}くん！！{8207}{9400}ちゃんにきいたんだけど・・・」{8300}{8602}{9498}「{9407}の使っている{940A}は{8207}意外なアイテに弱いそうなんだ」{8300}{8602}{9498}「さっき、それらしい{9407}を{8207}この中で見かけたんだけど{8207}見うしなっちゃった・・・」{8300}{8612}{9498}「う～ん、ザンネンだよ～・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Oh, {9400}!! I heard from {9400}...{8300}{8602}{9498}that the {940A} {9407} uses is weak against something unexpected, y'know.{8300}{8602}{9498}I saw someone who looked like {9407} in here just now, but I lost sight of him...{8300}{8612}{9498}Awww, what a shame...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AF5C4_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}かかりいん「スカイシップのシュウリは終わりました」{8300}{94C8}かかりいん「お友達はもうのっていますよ{8207}シュッパツしますか？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「The Skyship repairs are finished.{8300}{94C8}Staff「Your friends are already aboard. Shall we depart?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AF5C4_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}かかりいん「それではシュッパツします」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「Then we'll depart.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AF5C4_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}かかりいん「それではここでおまちしていますので{8207}用事をすませたら、またおこしください」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「Then I'll wait for you here. Come back once you've finished your business.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AF5C4_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy",
+   "status": "translated"
   },
   {
    "id": "ev1AF5C4_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{8607}{949D}「キミは・・・」{8300}{8607}{949D}「ふっ・・・{8207}話はきいているよ」{8300}{8607}{949D}「マグレとはいえエーゲやバミューダに{8207}勝ったらしいね・・・」{8300}{8607}{949D}「キミの力・・・{8207}本物かどうか{8207}たしかめさせてもらうよっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8607}{949D}You...{8300}{8607}{949D}Heh... I've heard about you.{8300}{8607}{949D}Seems you beat Aegean and Bermuda, even if it was just a fluke...{8300}{8607}{949D}Your power... Let me see whether it's the real thing!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AF5C4_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{8607}{949D}「やれやれ・・・」{8300}{8607}{949D}「キタイはずれもいいところだよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8607}{949D}Good grief...{8300}{8607}{949D}What a total letdown...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AF5C4_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{8607}{949D}「2度と変な気をおこさないように{8207}キミのデータパッドとメカエッグは{8207}あずからせてもらうよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8607}{949D}So you never get any funny ideas again, I'll be taking your Data Pad and Mecha Egg!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AF5C4_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{8610}{9497}「ちょっと{9407}！！{8207}まちなさいよっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}Hey, {9407}!! Hold it right there!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AF5C4_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{8610}{9497}「アタシと勝負しろって言ってるのが{8207}きこえないのっ！？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}Can't you hear me telling you to battle me?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AF5C4_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{94C8}とりまき女「どうせアカリちゃんに{8207}ボコボコにされるのがこわいんでしょ！！{8207}このヨワムシッ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Groupie「You're just scared Akari will beat you to a pulp!! You big chicken!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AF5C4_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94C8}とりまき男「それだったら{8207}さっさとバトルスタジアムから{8207}出ていけっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Groupie「In that case, get out of the Battle Stadium already!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AF5C4_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{8607}{949D}「ふっ・・・」{8300}{8607}{949D}「相手をしてやりたい所だが・・・{8207}ボクの{940A}も多少キズついていてね」{8300}{8607}{949D}「悪いがこの場はシツレイするよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8607}{949D}Heh...{8300}{8607}{949D}I'd love to take you on, but... my {940A} is a little hurt, too.{8300}{8607}{949D}Sorry, but I'll be taking my leave...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AF5C4_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{8610}{9497}「逃がさないわよっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}You're not getting away!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1AF5C4_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{8610}{9497}「まちなさい！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}Wait!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

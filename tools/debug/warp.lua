@@ -51,8 +51,9 @@ local A = {
   px = 0x0201B182, py = 0x0201B186,  -- s16 player pixel position (actor 0x0201B170, +0x12/+0x16)
   msg = 0x0201ACA0,      -- message window: u8 +0 3 = open, +1 1 typing / 2 closed, +2 1 = page done (waits for A),
                          -- +4 script ptr, +8 text cursor
+  menu_top = 0x020262D0, menu_sub = 0x020262D2,  -- u8 field-menu cursors
+  enc = 0x0201B270,      -- s16 encounter meter (player actor +0x100): battle when > 0xFF after a step
   namekb = 0x02026398,   -- name-entry keyboard task (+4 u8 state: 1 input, 2 accepted, 4 done; +0x1C 0x0826E5B8)
-  fade_mask = 0x0201B054,            -- u32 palette mask of the palette-fade object 0x0201B050 (fn 0x08047130)
 }
 W.A = A
 
@@ -139,12 +140,53 @@ function W.warp(map, var, x, y, dir)
   W.wait(W.in_field, "field before warp")
   W.w16(A.dmap, map); W.w16(A.dvar, var); W.w16(A.dx, x or 0); W.w16(A.dy, y or 0); W.w16(A.ddir, dir or 0)
   W.w16(A.map, map); W.w16(A.var, var)
-  W.w8(A.mode + 0x31, 1)  -- "map changed" flag the request sets
-  W.w32(A.fade_mask, 0xFFFFFFFF)  -- the naming room leaves the fade mask on 2 palettes: the map would load black
+  W.w8(A.mode + 0x31, 1)  -- "map changed" flag the request sets (full reload in mode 2)
   W.w32(A.mode, 1); W.w32(A.sub, 0)
   W.frames(2)
   W.wait(W.in_field, "map " .. map .. "/" .. var .. " loaded")
   W.show_palette()
+end
+
+-- Field menu (mode 7): B opens it once story flag 3/0x90 is set. Top cursor 0x020262D0 (0 Granbo, 1 items,
+-- 2 info, 3 system), sub cursor 0x020262D2 (0..2, left/right). Mode 7 sub 3 = top list idle, 4 = sub list,
+-- 6 = the chosen screen.
+function W.menu_open()
+  W.set_flag(3, 0x90)
+  W.wait(W.in_field, "field before menu")
+  W.mash_until(function() return W.r32(A.mode) == 7 and W.r32(A.sub) == 3 end, "b", "menu", 40)
+end
+function W.menu_pick(top, sub)
+  W.menu_open()
+  while W.r8(A.menu_top) ~= top do W.press("down", 6, 24) end
+  W.press("a")
+  W.wait(function() return W.r32(A.sub) == 4 end, "sub list")
+  if sub then
+    while W.r8(A.menu_sub) < sub do W.press("right", 6, 24) end
+    W.press("a")
+    W.wait(function() return W.r32(A.sub) == 6 end, "menu screen")
+  end
+end
+
+-- Battle: a step with the encounter meter (player actor +0x100) above 0xFF starts a random battle on maps that
+-- have an encounter table (game +0x20). Mode 4 = battle intro, mode 5 = battle. The command window is OBJ tile
+-- 0x320 at (0, 6) while the player's gauge is full.
+function W.battle_menu()
+  for i = 0, 127 do
+    local a0 = emu.read16(i * 8, emu.memType.gbaSpriteRam)
+    local a2 = emu.read16(i * 8 + 4, emu.memType.gbaSpriteRam)
+    if a0 & 0x300 ~= 0x200 and a0 & 0xFF == 6 and a2 & 0x3FF == 0x320 then return true end
+  end
+  return false
+end
+function W.encounter(dir)
+  W.wait(W.in_field, "field before encounter")
+  W.w16(A.enc, 0x100)
+  W.wait(function()
+    if W.r32(A.mode) ~= 3 then return true end
+    L.press(dir or "up", 1)
+    return false
+  end, "battle start")
+  W.wait(function() return W.r32(A.mode) == 5 and W.battle_menu() end, "battle command window")
 end
 -- Palette RAM is copied from a work palette (0x02023600) only while a fade runs; fades compute the work copy
 -- from the base palette (0x02023A00). A warp out of a faded-out scene (the naming room) loads the base but

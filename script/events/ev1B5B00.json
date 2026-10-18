@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{8620}{94A7}「どこに行くつもりじゃ！」{8300}{8620}{94A7}「ショップはここから北に{8207}行った所にある、緑色のたてものじゃぞ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8620}{94A7}Where do you think you're going?!{8300}{8620}{94A7}The shop is the green building just north of here!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}カギがかかっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}It's locked.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{9201}にっくきスカイシャークの{9406}だ！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's that rotten Sky Shark {9406}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}男の子「あっ、{9400}君！！{8207}今、お母さんに2つ目の{940A}を{8207}おねがいしていたところなんだ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Oh, {9400}!! I was just asking my mom for a second {940A}!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}おばさん「あら、ゲンゾウさん！{8207}ちょうどいいところに来てくれたわ！！」{8300}{94C8}おばさん「ゲンゾウさんからもこの子に{8207}言ってやって下さいよ！！」{8300}{94C8}おばさん「{940A}を1人で2つ持つなんて{8207}ゼイタクだって！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Oh, Genzo! You came at just the right time!!{8300}{94C8}Lady「Please, Genzo, tell this child too!!{8300}{94C8}Lady「Having 2 {940A} all to yourself is just spoiled!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94A0}「ばた、ば～～～った！」{8207}（ママのいうとおりバタ！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Bata, baaaata! (Mom's right, bata!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}男の子「あっ、{9400}兄ちゃん！{8207}見てよ！たんじょう日のおいわいに{8207}買ってもらったんだ！」{8300}{94C8}男の子「名前はバブルスって言うんだ・・・{8207}ボクがつけたんだよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Oh, {9400}! Look! I got it for my birthday!{8300}{94C8}Boy「His name is Bubbles... I named him myself!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94A0}「ウィッキ～～～ッ！」{8207}（いい名前ウキー！！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Wikkiiii! (Great name, ooky!!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}ヒゲじい「おお、{9400}・・・{8207}そこにあるハコの事をおしえてやろうか？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Beardy「Oh, {9400}... Shall I tell you about the boxes over there?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}ヒゲじい「下にある小さいハコは{8207}{8833}リサイクルボックス{8800}というんじゃ」{8300}{94C8}ヒゲじい「これにはフヨウヒンが入っておるので{8207}中を見てほしい物があったら{8207}持って行ってええぞ」{8300}{94C8}ヒゲじい「そして大きい方は{8207}{8833}コンテナ{8800}というんじゃ」{8300}{94C8}ヒゲじい「この中に入っている物は{8207}町におる人間みんなの物・・・」{8300}{94C8}ヒゲじい「みんなのためになるなら{8207}何でも自由に持って行ってええんじゃ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Beardy「The small box down below is called a {8833}Recycle Box{8800}.{8300}{94C8}Beardy「It's full of things folks don't need, so if you see anything you want, go ahead and take it.{8300}{94C8}Beardy「And the big one is called a {8833}Container{8800}.{8300}{94C8}Beardy「What's inside belongs to everyone in town...{8300}{94C8}Beardy「So long as it helps everyone, you're free to take anything you like!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}ヒゲじい「ほう、ゲンじいにきいておったか・・・{8207}それはカンシンじゃ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Beardy「Oh, so Old Gen already told you... Good for you.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}男の子「いらっしゃいませ！{8207}ここはグランボショップです！！」{8300}{94C8}男の子「って・・・{8207}なんだ、{9400}君じゃないか！」{8300}{94C8}男の子「何をしてるかって？{8207}ボクはショウライこの店をつぐから{8207}今からシュギョウしてるのさ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Welcome! This is the Granbo Shop!!{8300}{94C8}Boy「Wait... oh, it's just you, {9400}!{8300}{94C8}Boy「What am I doing? I'm taking over this shop someday, so I'm training for it starting now!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{94C8}おじさん「ああ、{9400}君{8207}町の外に出ちゃいけないよ！」{8300}{94C8}おじさん「町の外には{8207}人をおそう{8833}ノラグランボ{8800}が{8207}たくさんいるからね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Ah, {9400}, you mustn't go outside town!{8300}{94C8}Man「There are lots of {8833}stray Granbo{8800} out there that attack people!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{94C8}女の子「あっ！{9400}っちにゲンじい！！{8207}ねぇねぇ、きいたきいた？」{8300}{94C8}女の子「何って・・・{8207}町の外で飛び回ってるっていう{8207}ブキミなスカイシップの話よ！」{8300}{94C8}女の子「何かをさがすように{8207}飛び回ってるって話だけど・・・{8207}一体何をさがしてるんだろーね？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Oh! {9400} and Old Gen!! Hey, hey, did you hear? Did you hear?{8300}{94C8}Girl「Hear what? About the creepy Skyship flying around outside town!{8300}{94C8}Girl「They say it's flying around like it's searching for something... I wonder what it's looking for?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94C8}おばさん「あら、ゲンゾウさん！{8207}今日はどちらに？」{8300}{94C8}おばさん「え？グランボショップで買い物ですか？{8207}それでしたらここから右手に{8207}まっすぐ行った所ですよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Oh, Genzo! Where are you off to today?{8300}{94C8}Lady「Eh? Shopping at the Granbo Shop? Then just go right from here and keep going straight!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{94C8}男の子「ボク、もう何もほしがらないから・・・」{8300}{94C8}男の子「だから、だから・・・{8207}ボクのお母さんをかえしてっ・・・」{8300}{94C8}男の子「うくっ・・・ううっ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「I won't ever ask for anything again...{8300}{94C8}Boy「So, so... please give me back my mom...{8300}{94C8}Boy「Sniff... sob...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{94A0}「ばた・・・ばった！」{8207}（元気だせバタ！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Hop... hopper! (Cheer up, hop!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{861F}{94A5}「キャプテン・・・ヒック！！」{8300}{861F}{94A5}「なっとくできませぇん！{8207}どぉしてこのオ～レ～がぁ！{8207}こ～んな町の見はりやくなんですかぁ！」{8300}{861F}{94A5}「何とか言って下さいよぉ・・・{8207}キャプテン・・・・・・ウィ～ヒック！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Captain... hic!!{8300}{861F}{94A5}I don't geeet it! Whyyy did meee get stuck as lookout for a dinky town like thiiis?!{8300}{861F}{94A5}C'mon, say somethin'... Captain...... wheee~hic!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{94C8}男の子「ねぇねぇ！{8207}この前{9400}君とゲンじいが助けた{8207}女の子はどうなったの？」{8300}{8100}{9700}{9A0F}{8002}{94C8}男の子「スカイシャークにつかまった！？{8207}そ、そんな・・・・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Hey, hey! What happened to the girl {9400} and Old Gen saved the other day?{8300}{8100}{9700}{9A0F}{8002}{94C8}Boy「Sky Shark caught her?! N-No way......{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{94A0}「ウキ・・・ウキィ！」{8207}（ひどいヤツらウキ！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Ooki... ookii! (Those guys are awful, ook!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8002}{860F}{94A5}「最高の気分だっ！！」{8300}{860F}{94A5}「オ～レ～さ～ま～が～っ{8207}こ～の～ま～ち～でぇ～」{8300}{860F}{94A5}「い～ち～ばぁ～ん～{8207}え～ら～い～ん～だ～ぜぇ～っ！！」{8300}{860F}{94A5}「おっと、気分が良すぎてうたまで{8207}うたっちまったぜっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}I feel fantastic!!{8300}{860F}{94A5}In~ thiiis~ towwwn~, I~ aaam~{8300}{860F}{94A5}the~ biiig~gest~ shooot~ of~ aaall~!!{8300}{860F}{94A5}Whoops, I'm in such a good mood I even burst into song!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8002}{94C8}ヒゲじい「おお、{9400}！{8207}おヌシがスカイシャークの『ばみうだ』と{8207}戦っているのを見ておったぞ！」{8300}{94C8}ヒゲじい「ワシもグランボさえ持っておれば・・・{8207}くやしいわい・・・」{8300}{94C8}ヒゲじい「それにしても、ヤツがグランボを{8207}ベツの物に変身させたとたん、おヌシの{8207}グランボは手も足も出なくなったのう」{8300}{94C8}ヒゲじい「やはり1シュルイのグランボだけで{8207}ヤツらと戦うのはむずかしいのかも知れん」{8300}{94C8}ヒゲじい「とは言え、ベツのグランボを手に入れるには{8207}どうすれば良いのやら・・・」{8300}{94C8}ヒゲじい「・・・そうじゃ！{8207}そこの{8833}赤いたてもの{8800}の中に{8207}おるヤツなら知っておるかも知れんぞ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Beardy「Oh, {9400}! I saw you fighting Sky Shark's \"Bermooda\"!{8300}{94C8}Beardy「If only I had a Granbo myself... It's so frustrating...{8300}{94C8}Beardy「Still, the moment that scoundrel transformed a Granbo into something else, your Granbo couldn't lift a finger, could it?{8300}{94C8}Beardy「Maybe fighting them with just one kind of Granbo is too hard after all...{8300}{94C8}Beardy「Even so, how would you go about getting another Granbo...?{8300}{94C8}Beardy「...I've got it! Whoever's inside that {8833}red building{8800} over there might know!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8002}{860F}{94A5}「・・・はっ？{9409}さまっ！？」{8300}{861F}{94A5}「け、決してさぼっていたわけでは・・・{8207}そ、そう！空をみはっていたのです！！」{8300}{860F}{94A5}「って、なんだ・・・この町のガキか{8207}まぎらわしいんだよっ！！{8207}あっち行ってろ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}...Huh? B-Boss {9409}?!{8300}{861F}{94A5}I-I wasn't slacking off, honest... Th-That's right! I was keeping watch on the sky!!{8300}{860F}{94A5}Wait, what...? It's just some town brat. Don't scare me like that!! Get lost!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8002}{94C8}女の子「ママがスカイシャークに{8207}つれさられちゃったの！」{8300}{94C8}女の子「私がもうちょっと高くとべたら{8207}ママを助けられたのに・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Sky Shark took my mom away!{8300}{94C8}Girl「If only I could jump a little higher, I could've saved her...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8002}{94C8}女の子「あっ、{9400}！{8207}おねがい・・・助けてっ！！」{8300}{94C8}女の子「あいつら、アタシのうちを{8207}センリョウしちゃったんだよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Ah, {9400}! Please... help me!!{8300}{94C8}Girl「Those guys took over my house!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8002}{94C8}男の子「さっきの男の子・・・」{8300}{94C8}男の子「{8833}東のアプリコットタウン{8800}から来たって{8207}言っていたけど・・・」{8300}{94C8}男の子「その町からここまでは{8207}池やジャングルをこえないと{8207}来られないんだよ」{8300}{94C8}男の子「ボクにはマネができない行動だよ{8207}・・・とほほ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「That boy from earlier...{8300}{94C8}Boy「He said he came from {8833}Apricot Town to the east{8800}...{8300}{94C8}Boy「But to get here from that town, you have to cross ponds and jungles!{8300}{94C8}Boy「I could never pull off something like that... Boo-hoo...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_026",
@@ -220,7 +246,8 @@
     26
    ],
    "jp": "{8002}{94A0}「ばた・・・ばった！」{8207}（元気だせバタ！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Hop... hopper! (Cheer up, hop!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_027",
@@ -228,7 +255,8 @@
     27
    ],
    "jp": "{8002}{860F}{94A5}「さっきの子ども・・・」{8300}{860F}{94A5}「ずいぶんあわてていたようだが{8207}アンマンを食べる手は{8207}止まらなかったな・・・」{8300}{860F}{94A5}「しょうらいはきっと{8207}大物になるんじゃねえか？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}That kid from earlier...{8300}{860F}{94A5}He sure seemed in a hurry, but his hand never stopped stuffing steamed buns in his mouth...{8300}{860F}{94A5}I bet he'll be a real big shot someday, huh?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_028",
@@ -236,7 +264,8 @@
     28
    ],
    "jp": "{8002}{94C8}男の子「え？スカイシャークのかんぶの一人を{8207}やっつけた！？」{8300}{94C8}男の子「すごいや！そのチョウシであの子{8207}・・・シズクちゃんをさらったカンブも{8207}やっつけちゃってよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「What? You beat one of Sky Shark's bosses?!{8300}{94C8}Boy「Awesome! Keep it up and beat the boss who kidnapped that girl... Shizuku, too!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_029",
@@ -244,7 +273,8 @@
     29
    ],
    "jp": "{8002}{94A0}「ウキキキ・・・ウキィ！」{8207}（すごいウキ！かっこいいウキ！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Ookikiki... ookii! (Amazing, ook! So cool, ook!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_030",
@@ -252,7 +282,8 @@
     30
    ],
    "jp": "{8002}{860F}{94A5}「ふふふ・・・{8207}{8833}東のアプリコットタウン{8800}でも{8207}作戦はうまくいったようだな！」{8300}{860F}{94A5}「ますます気分がいいぞっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Heh heh heh... Looks like the operation went well in {8833}Apricot Town to the east{8800} too!{8300}{860F}{94A5}I'm in an even better mood now!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_031",
@@ -260,7 +291,8 @@
     31
    ],
    "jp": "{8002}{94C8}ヒゲじい「ん・・・{9400}！それは何じゃ？」{8300}{94C8}ヒゲじい「・・・・・・・・・」{8300}{94C8}ヒゲじい「ほほう、そのグローブがあればおヌシも{8207}{8833}グランボをハントしたり変身させたり{8207}する事ができる{8800}と言うんじゃな？」{8300}{94C8}ヒゲじい「これでスカイシャークの『ばみうだ』を{8207}たおし、シズクをとりもどせるじゃろう！」{8300}{94C8}ヒゲじい「がんばれよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Beardy「Hm... {9400}! What's that you've got?{8300}{94C8}Beardy「.........{8300}{94C8}Beardy「Oho, so you're saying that glove lets you {8833}hunt Granbo and transform them{8800} too?{8300}{94C8}Beardy「With that, you ought to be able to beat Sky Shark's \"Bermooda\" and get Shizuku back!{8300}{94C8}Beardy「Go get 'em!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_032",
@@ -268,7 +300,8 @@
     32
    ],
    "jp": "{8002}{860F}{94A5}「・・・はっ？{9409}さまっ！？」{8300}{861F}{94A5}「け、決してさぼっていたわけでは・・・{8207}そ、そう！空をみはっていたのです！！」{8300}{860F}{94A5}「って、なんだ・・・この町のガキか{8207}まぎらわしいんだよっ！！{8207}あっち行ってろ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}...Huh? B-Boss {9409}?!{8300}{861F}{94A5}I-I wasn't slacking off, honest... Th-That's right! I was keeping watch on the sky!!{8300}{860F}{94A5}Wait, what...? It's just some town brat. Don't scare me like that!! Get lost!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_033",
@@ -276,7 +309,8 @@
     33
    ],
    "jp": "{8002}{94C8}女の子「ママがスカイシャークに{8207}つれさられちゃったの！」{8300}{94C8}女の子「私がもうちょっと高くとべたら{8207}ママを助けられたのに・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Sky Shark took my mom away!{8300}{94C8}Girl「If only I could jump a little higher, I could've saved her...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_034",
@@ -284,7 +318,8 @@
     34
    ],
    "jp": "{8002}{94C8}女の子「ああ・・・家の中からゴソゴソ{8207}音がするよ～！！」{8300}{94C8}女の子「どうしよう・・・」{8300}{94C8}女の子「アタシの0てんのテストが{8207}見つかったら大変だよ～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Oh no... I hear rustling inside the house!!{8300}{94C8}Girl「What do I do...{8300}{94C8}Girl「If they find my test where I got a zero, I'm in big trouble!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_035",
@@ -292,7 +327,8 @@
     35
    ],
    "jp": "{8002}{94C8}少年セイバー「ボクと勝負しない？{8207}キミが勝ったら{8855}バズメッカ{8800}をあげるよ！」{8300}{94C8}少年セイバー「悪いけど、ボクにはキミがバミューダに{8207}勝ったって事がしんじられなくてね」{8300}{94C8}少年セイバー「ちょくせつ戦ってキミの力を{8207}たしかめたいんだ！さぁ、どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Wanna battle me? If you win, I'll give you {8855}Buzzmecha{8800}!{8300}{94C8}Kid Saver「Sorry, but I just can't believe you beat Bermuda.{8300}{94C8}Kid Saver「I want to fight you myself and see how strong you really are! So, what'll it be?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_036",
@@ -300,7 +336,8 @@
     36
    ],
    "jp": "{8002}{94C8}少年セイバー「うたがってゴメン！{8207}バミューダをたおしたのは{8207}本当みたいだね・・・」{8300}{94C8}少年セイバー「ヤクソクどおり{8207}{8855}バズメッカ{8800}のデータボールをあげるよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Sorry I doubted you! Looks like you really did beat Bermuda...{8300}{94C8}Kid Saver「Just like I promised, here's the {8855}Buzzmecha{8800} Data Ball!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_037",
@@ -308,7 +345,8 @@
     37
    ],
    "jp": "{8002}{94C8}少年セイバー「バミューダをたおしたのは{8207}マグレみたいだね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Guess beating Bermuda was just a fluke...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_038",
@@ -316,7 +354,8 @@
     38
    ],
    "jp": "{8002}{94C8}少年セイバー「このボクと戦えない？{8207}ふん、どうせバミューダを{8207}たおしたってのもウソなんだろ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「You can't battle me? Hmph, I bet that story about beating Bermuda was a lie anyway!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_039",
@@ -324,7 +363,8 @@
     39
    ],
    "jp": "{8002}{94C8}少年セイバー「またいつか勝負しようね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Let's battle again sometime!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_040",
@@ -332,7 +372,8 @@
     40
    ],
    "jp": "{8002}{94C8}お姉さん「ねぇ、{8833}ウイルスミサイル{8800}のワザを{8207}{8833}チョトッツ{8800}とコウカンしてくれないかな？」{8300}{94C8}お姉さん「コウカンしてくれたら、あなたのグランボを{8207}回復してあげるけど、どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Miss「Hey, would you trade me your {8833}Headlong Rush{8800} for my {8833}Virus Missile{8800} move?{8300}{94C8}Miss「If you trade, I'll heal your Granbo for you. What do you say?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_041",
@@ -340,7 +381,8 @@
     41
    ],
    "jp": "{8002}{94C8}お姉さん「ありがとっ！{8207}それじゃあコウカンねっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Miss「Thanks! It's a trade, then!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_042",
@@ -348,7 +390,8 @@
     42
    ],
    "jp": "{8002}{94C8}お姉さん「う～ん、ザンネン！{8207}気が変わったら、また話しかけてね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Miss「Awww, too bad! If you change your mind, come talk to me again!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_043",
@@ -356,7 +399,8 @@
     43
    ],
    "jp": "{8002}{94C8}お姉さん「ホントにありがとっ！{8207}これ、前からほしかったのよ～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Miss「Thank you so much! I've wanted this one forever!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_044",
@@ -364,7 +408,8 @@
     44
    ],
    "jp": "{8002}{94C8}お姉さん「{8833}チョトッツ{8800}は{8207}・・・持ってないみたいね」{8300}{94C8}お姉さん「{8833}チョトッツ{8800}を手に入れたら{8207}また話しかけてね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Miss「Looks like you... don't have {8833}Headlong Rush{8800}.{8300}{94C8}Miss「Once you get {8833}Headlong Rush{8800}, come talk to me again!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_045",
@@ -372,7 +417,8 @@
     45
    ],
    "jp": "{8002}{94C8}男の子「はずかしくてお母さんには{8207}言えないけど・・・」{8300}{94C8}男の子「ぼく、もう何もいらない！{8207}お母さんとバタきちさえいれば{8207}それでじゅうぶんなんだ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「I'm too embarrassed to tell my mom...{8300}{94C8}Boy「but I don't need anything anymore! As long as I've got Mom and Hopper, that's plenty...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_046",
@@ -380,7 +426,8 @@
     46
    ],
    "jp": "{8002}{94C8}おばさん「町に平和がもどったキネンに{8207}この子に新しい{940A}を買ってやろうと{8207}思ったんだけど・・・」{8300}{94C8}おばさん「この子、新しい{940A}は{8207}いらないって言うの」{8300}{94C8}おばさん「一体どうしちゃったのかしらね・・・？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「To celebrate peace coming back to town, I thought I'd buy this boy a new {940A}...{8300}{94C8}Lady「But he says he doesn't want a new {940A}.{8300}{94C8}Lady「What on earth has gotten into him...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_047",
@@ -388,7 +435,8 @@
     47
    ],
    "jp": "{8002}{94A0}「ばた、ば～～～った！」{8207}（これでいい・・・これでいいバタ！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Hop, hoooopper! (This is fine... this is just fine, hop!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_048",
@@ -396,7 +444,8 @@
     48
    ],
    "jp": "{8002}{94C8}男の子「{9400}兄ちゃん！！{8207}ボクもバブルスを使って戦えるように{8207}がんばってみるよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「{9400}!! I'm gonna work hard so I can fight with Bubbles too!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_049",
@@ -404,7 +453,8 @@
     49
    ],
    "jp": "{8002}{94A0}「ウキキッ？」{8207}（本気かウキ？）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Ookiki? (Are you serious, ook?){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_050",
@@ -412,7 +462,8 @@
     50
    ],
    "jp": "{8002}{94C8}ヒゲじい「そうか・・・『ばみうだ』を{8207}たおしてシズクを助け出したか！」{8300}{94C8}ヒゲじい「ワシが思うに・・・」{8300}{94C8}ヒゲじい「おヌシはゲンじいをこえるでんせつを{8207}作り出す・・・そんな気がするぞい！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Beardy「I see... So you beat \"Bermooda\" and rescued Shizuku!{8300}{94C8}Beardy「If you ask me...{8300}{94C8}Beardy「I've got a feeling you'll make a legend that outdoes even Old Gen!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_051",
@@ -420,7 +471,8 @@
     51
    ],
    "jp": "{8002}{94C8}男の子「やっぱり父ちゃんがレジにたたないと{8207}店がカッキづかないよ」{8300}{94C8}男の子「もっとシュギョウしないとね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Just like I thought, the shop's no fun unless Dad's at the register.{8300}{94C8}Boy「I've gotta train a lot more!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_052",
@@ -428,7 +480,8 @@
     52
    ],
    "jp": "{8002}{94C8}おじさん「ああ、{9400}君{8207}町の外に出ちゃいけないよ！」{8300}{94C8}おじさん「町の外には{8207}人をおそうノラグランボが{8207}たくさんいるから・・・」{8300}{94C8}おじさん「もっとも、今の{9400}君なら{8207}このあたりのノラグランボはもう{8207}敵じゃないかもな！！」{8300}{94C8}おじさん「ただ、ノラグランボはどの大陸にもいるし{8207}大陸によってあらわれるシュルイも{8207}トクチョウもちがう・・・」{8300}{94C8}おじさん「初めて出会ったグランボと戦う時は{8207}くれぐれも気をつけるんだよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Ah, {9400}, you mustn't go outside town!{8300}{94C8}Man「Out there are lots of stray Granbo that attack people...{8300}{94C8}Man「Then again, the stray Granbo around here might be no match for you anymore, {9400}!!{8300}{94C8}Man「But there are stray Granbo on every continent, and the kinds that appear and their traits change from continent to continent...{8300}{94C8}Man「Whenever you battle a Granbo you've never met before, be very careful.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_053",
@@ -436,7 +489,8 @@
     53
    ],
    "jp": "{9801}{9801}{9801}{9904}{8002}{94C8}女の子「うん、これでよし！」{8300}{94C8}女の子「これだけジャンプできたら{8207}次におそわれた時はゼッタイ{8207}ママを助けられるはずだわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{9801}{9801}{9801}{9904}{8002}{94C8}Girl「Okay, that should do it!{8300}{94C8}Girl「If I can jump this high, next time they attack, I'm sure I can save Mom!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_054",
@@ -444,7 +498,8 @@
     54
    ],
    "jp": "{8002}{94C8}おばさん「ありがとう、{9400}君！」{8300}{94C8}おばさん「さすが、ゲンゾウさんのマゴだね！{8207}これからが楽しみだよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Thank you, {9400}!{8300}{94C8}Lady「Just what I'd expect from Genzo's grandkid! I can't wait to see what you do next!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_055",
@@ -452,7 +507,8 @@
     55
    ],
    "jp": "{8002}ワーク00のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 00 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_056",
@@ -460,7 +516,8 @@
     56
    ],
    "jp": "{8002}ワーク01のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_057",
@@ -468,7 +525,8 @@
     57
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_058",
@@ -476,7 +534,8 @@
     58
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_059",
@@ -484,7 +543,8 @@
     59
    ],
    "jp": "{8002}ワーク04のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_060",
@@ -492,7 +552,8 @@
     60
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_061",
@@ -500,7 +561,8 @@
     61
    ],
    "jp": "{8002}ワーク06のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_062",
@@ -508,7 +570,8 @@
     62
    ],
    "jp": "{8002}{94C8}少年セイバー「ボクと勝負しない？{8207}キミが勝ったら{8855}バズメッカ{8800}をあげるよ！」{8300}{94C8}少年セイバー「悪いけど、ボクにはキミがバミューダに{8207}勝ったって事がしんじられなくてね」{8300}{94C8}少年セイバー「ちょくせつ戦ってキミの力を{8207}たしかめたいんだ！さぁ、どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Wanna battle me? If you win, I'll give you {8855}Buzzmecha{8800}!{8300}{94C8}Kid Saver「Sorry, but I just can't believe you beat Bermuda.{8300}{94C8}Kid Saver「I want to fight you myself and see how strong you really are! So, what'll it be?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_063",
@@ -516,7 +579,8 @@
     63
    ],
    "jp": "{8002}{94C8}少年セイバー「うたがってゴメン！{8207}バミューダをたおしたのは{8207}本当みたいだね・・・」{8300}{94C8}少年セイバー「ヤクソクどおり{8207}{8855}バズメッカ{8800}のデータボールをあげるよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Sorry I doubted you! Looks like you really did beat Bermuda...{8300}{94C8}Kid Saver「Just like I promised, here's the {8855}Buzzmecha{8800} Data Ball!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_064",
@@ -524,7 +588,8 @@
     64
    ],
    "jp": "{8002}{94C8}少年セイバー「バミューダをたおしたのは{8207}マグレみたいだね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Guess beating Bermuda was just a fluke...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_065",
@@ -532,7 +597,8 @@
     65
    ],
    "jp": "{8002}{94C8}少年セイバー「このボクと戦えない？{8207}ふん、どうせバミューダを{8207}たおしたってのもウソなんだろ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「You can't battle me? Hmph, I bet that story about beating Bermuda was a lie anyway!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_066",
@@ -540,7 +606,8 @@
     66
    ],
    "jp": "{8002}{94C8}少年セイバー「またいつか勝負しようね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Let's battle again sometime!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_067",
@@ -548,7 +615,8 @@
     67
    ],
    "jp": "{8002}{94C8}お姉さん「ねぇ、{8833}ウイルスボム中{8800}のワザを{8207}{8833}チョトッツ{8800}とコウカンしてくれないかな？」{8300}{94C8}お姉さん「コウカンしてくれたら、あなたのグランボを{8207}回復してあげるけど、どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Miss「Hey, would you trade me your {8833}Headlong Rush{8800} for my {8833}Virus Bomb 2{8800} move?{8300}{94C8}Miss「If you trade, I'll heal your Granbo for you. What do you say?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_068",
@@ -556,7 +624,8 @@
     68
    ],
    "jp": "{8002}{94C8}お姉さん「ありがとっ！{8207}それじゃあコウカンねっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Miss「Thanks! It's a trade, then!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_069",
@@ -564,7 +633,8 @@
     69
    ],
    "jp": "{8002}{94C8}お姉さん「う～ん、ザンネン！{8207}気が変わったら、また話しかけてね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Miss「Awww, too bad! If you change your mind, come talk to me again!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_070",
@@ -572,7 +642,8 @@
     70
    ],
    "jp": "{8002}{94C8}お姉さん「ホントにありがとっ！{8207}これ、前からほしかったのよ～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Miss「Thank you so much! I've wanted this one forever!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_071",
@@ -580,7 +651,8 @@
     71
    ],
    "jp": "{8002}{94C8}お姉さん「{8833}チョトッツ{8800}は{8207}・・・持ってないみたいね」{8300}{94C8}お姉さん「{8833}チョトッツ{8800}を手に入れたら{8207}また話しかけてね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Miss「Looks like you... don't have {8833}Headlong Rush{8800}.{8300}{94C8}Miss「Once you get {8833}Headlong Rush{8800}, come talk to me again!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_072",
@@ -588,7 +660,8 @@
     72
    ],
    "jp": "{8002}{94C8}お姉さん「本当にありがとう！{8207}おれいにグランボも回復してあげるわ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Miss「Thank you so much! As thanks, I'll heal your Granbo too!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_073",
@@ -596,7 +669,8 @@
     73
    ],
    "jp": "{8002}{94C8}少年セイバー「ボクと勝負してよ！{8207}キミが勝ったら{8833}ブトム{8800}をあげるよ！」{8300}{94C8}少年セイバー「あ、べつにキミが世界をすくった事を{8207}うたがってるわけじゃないよ！」{8300}{94C8}少年セイバー「世界をすくったキミと戦う事で自分の力を{8207}たしかめたいんだ！さぁ、どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Battle me! If you win, I'll give you {8833}Butom{8800}!{8300}{94C8}Kid Saver「Oh, it's not that I doubt you saved the world or anything!{8300}{94C8}Kid Saver「I just want to test my own strength by fighting the one who saved the world! So, what do you say? /{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_074",
@@ -604,7 +678,8 @@
     74
    ],
    "jp": "{8002}{94C8}少年セイバー「さすがだね・・・{8207}世界をすくうだけの事はあるよ・・・」{8300}{94C8}少年セイバー「じゃあヤクソクの物・・・{8207}{8833}ブトム{8800}のデータボールをあげるよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「You're as good as they say... No wonder you saved the world...{8300}{94C8}Kid Saver「Well then, here's what I promised... The {8833}Butom{8800} Data Ball!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_075",
@@ -612,7 +687,8 @@
     75
    ],
    "jp": "{8002}{94C8}少年セイバー「キミに勝てるなんて・・・{8207}もしかしてボクってけっこうスゴイ？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「I actually beat you...? Maybe I'm pretty amazing after all?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_076",
@@ -620,7 +696,8 @@
     76
    ],
    "jp": "{8002}{94C8}少年セイバー「このボクと戦えない？{8207}やっぱりボクていどじゃ相手にして{8207}もらえないんだね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「You won't battle me? I guess someone at my level just isn't worth your time...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_077",
@@ -628,7 +705,8 @@
     77
    ],
    "jp": "{8002}{94C8}少年セイバー「またいつか勝負してね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Let's battle again sometime!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_078",
@@ -636,7 +714,8 @@
     78
    ],
    "jp": "{8002}{94C8}男の子「あれからはお母さんとバタキチの{8207}3人でなかよくやってるよ！」{8300}{94C8}男の子「どうもありがとう！{8207}お兄ちゃん！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Since then, Mom, Hopper and I have been getting along great, just the 3 of us!{8300}{94C8}Boy「Thank you so much, big brother!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_079",
@@ -644,7 +723,8 @@
     79
    ],
    "jp": "{8002}{94C8}おばさん「世界に平和がもどったキネンに{8207}この子に新しい{940A}を買ってやろうと{8207}思ったんだけど・・・」{8300}{94C8}おばさん「この子、新しい{940A}は{8207}ゼッタイいらないって言うの」{8300}{94C8}おばさん「なんだか不安になってきたわ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「To celebrate peace coming back to the world, I thought I'd buy my boy a new {940A}...{8300}{94C8}Lady「But he says he absolutely doesn't want a new {940A}.{8300}{94C8}Lady「I'm starting to get a little worried...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_080",
@@ -652,7 +732,8 @@
     80
    ],
    "jp": "{8002}{94A0}「ばた、ばった！」{8207}（親子ってむずかしいバタ！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Bata, batta! (Parents and kids are complicated, bata!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_081",
@@ -660,7 +741,8 @@
     81
    ],
    "jp": "{8002}{94C8}男の子「{9400}兄ちゃん！！{8207}ボクもバブルスでケッコウ戦えるように{8207}なったよ！！」{8300}{94C8}男の子「それでこの前、{8833}外が暗くなった{8800}時・・・」{8300}{94C8}男の子「{8833}すなはまのまん中{8800}にあらわれたドウクツに{8207}思いきって入ってみたんだ」{8300}{94C8}男の子「中にはたからばこがイッパイあったんだけど{8207}{8833}大きなグランボ{8800}が目の前をとおりすぎたので{8207}ビックリして逃げてきちゃった！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「{9400}!! I've gotten pretty good at battling with Bubbles too!!{8300}{94C8}Boy「And the other day, {8833}when it got dark outside{8800}...{8300}{94C8}Boy「I worked up my nerve and went into the cave that appeared {8833}in the middle of the beach{8800}.{8300}{94C8}Boy「It was full of treasure chests, but {8833}a big Granbo{8800} walked right past me, so I got scared and ran away!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_082",
@@ -668,7 +750,8 @@
     82
    ],
    "jp": "{8002}{94A0}「ウキキィ・・・」{8207}（あのダンジョンはこわかったウキ・・・）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Ookee... (That dungeon was scary, ook...){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_083",
@@ -676,7 +759,8 @@
     83
    ],
    "jp": "{8002}{94C8}ヒゲじい「おヌシが・・・『ばみうだ』を{8207}たおして世界をすくったのか！」{8300}{94C8}ヒゲじい「ワシが思ったとおり・・・」{8300}{94C8}ヒゲじい「おヌシ・・・ついにゲンじいを{8207}こえるでんせつを作り出したのう」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Beardy「So you're the one who beat... \"Bermooda\" and saved the world!{8300}{94C8}Beardy「Just as I thought...{8300}{94C8}Beardy「You... have finally made a legend greater than Old Gen's.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_084",
@@ -684,7 +768,8 @@
     84
    ],
    "jp": "{8002}{94C8}男の子「世界が平和になっても{8207}売り上げは変わらないよ」{8300}{94C8}男の子「これもグランボバトルのおかげだね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Even with the world at peace, sales haven't changed a bit.{8300}{94C8}Boy「That's thanks to Granbo battles too!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_085",
@@ -692,7 +777,8 @@
     85
    ],
    "jp": "{8002}{94C8}おじさん「ああ、{9400}君！{8207}{8833}外が暗い時にすなはまのまん中に出てくる{8800}{8207}ドウクツには入っちゃいけないよ！」{8300}{94C8}おじさん「なんでも{8833}バミューダがつれていた{8800}{8207}あのグランボを見かけたって人がいる{8207}くらいだからね・・・」{8300}{94C8}おじさん「まぁ、今の{9400}君を{8207}たおせるグランボは、もうこの世界には{8207}いないと思うけど・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Ah, {9400}! Don't go into the cave that appears {8833}in the middle of the beach when it's dark out{8800}!{8300}{94C8}Man「Some folks even say they've seen that Granbo {8833}Bermuda had with him{8800}...{8300}{94C8}Man「Well, I doubt there's a Granbo left in this world that could beat you now, {9400}...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_086",
@@ -700,7 +786,8 @@
     86
    ],
    "jp": "{9801}{9801}{9801}{9904}{8002}{94C8}女の子「どう？アタシのジャンプ？」{8300}{94C8}女の子「あれからジャンプのレンシュウを{8207}続けてたら、ジャンプの世界キロクを{8207}作っちゃったの！！」{8400}{8100}",
-   "en": ""
+   "en": "{9801}{9801}{9801}{9904}{8002}{94C8}Girl「How was that? My jump?{8300}{94C8}Girl「I kept practicing my jumps after that, and I set a world record for jumping!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_087",
@@ -708,7 +795,8 @@
     87
    ],
    "jp": "{8002}{94C8}おばさん「本当にありがとう、{9400}君！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Thank you so much, {9400}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_088",
@@ -716,7 +804,8 @@
     88
    ],
    "jp": "{8002}{94C8}ヒゲじい「おヌシが・・・『ばみうだ』を{8207}たおして世界をすくったのか！」{8300}{94C8}ヒゲじい「ワシが思ったとおり・・・」{8300}{94C8}ヒゲじい「おヌシ・・・ついにゲンじいを{8207}こえるでんせつを作り出したのう」{8300}{94C8}ヒゲじい「ワシからのほうびじゃ！{8207}この{8833}ほえる強{8800}のワザを持っていくがいい！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Beardy「So you're the one who beat... \"Bermooda\" and saved the world!{8300}{94C8}Beardy「Just as I thought...{8300}{94C8}Beardy「You... have finally made a legend greater than Old Gen's.{8300}{94C8}Beardy「Here's a reward from me! Take this {8833}Roar 3{8800} move with you! /{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_089",
@@ -724,7 +813,8 @@
     89
    ],
    "jp": "{8002}{94C8}ヒゲじい「それでは、わたすぞ！{8207}ハントにうまく使うがいい！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Beardy「Here you go, then! Put it to good use in your hunts!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_090",
@@ -732,7 +822,8 @@
     90
    ],
    "jp": "{8002}{94C8}ヒゲじい「なんと・・・いらんと言うのか？{8207}それもまたよかろう・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Beardy「What... you don't want it? Well, that's fine too...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_091",
@@ -740,7 +831,8 @@
     91
    ],
    "jp": "{8002}{94C8}ヒゲじい「それでは、気をつけるんじゃぞ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Beardy「Well then, take care.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_092",
@@ -748,7 +840,8 @@
     92
    ],
    "jp": "{8002}{8621}{94A7}「な、なんの音じゃ・・・？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8621}{94A7}Wh-What was that noise...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_093",
@@ -756,7 +849,8 @@
     93
    ],
    "jp": "{8002}{8620}{94A7}「どうやら気をうしなって{8207}おるだけのようじゃな・・・{8207}とにかくワシらの家にはこぼう！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8620}{94A7}Looks like she's just passed out... Anyway, let's carry her to our house!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_094",
@@ -764,7 +858,8 @@
     94
    ],
    "jp": "{8001}{8602}{9498}「もぐもぐもぐ・・・」{8300}{8602}{9498}「もぐもぐ・・・」{8300}{8602}{9498}「・・・あっ！アンマンを{8207}食べてる場合じゃなかったんだな！！」{8300}{8602}{9498}「ゲンゾウさ～ん、ゲンゾウさ～ん！{8207}どこにいるのかな～！？」{8300}{8602}{9498}「ゲンゾウさ～～～んっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}Munch munch munch...{8300}{8602}{9498}Munch munch...{8300}{8602}{9498}...Oh! This is no time to be eating steamed buns, y'know!!{8300}{8602}{9498}Mr. Genzooo, Mr. Genzooo! Where are youuu?!{8300}{8602}{9498}Mr. Genzoooooo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_095",
@@ -772,7 +867,8 @@
     95
    ],
    "jp": "{8002}{8620}{94A7}「一体どうしたんじゃろう？{8207}とりあえず話をきいてみるか」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8620}{94A7}What on earth is the matter? Well, let's hear what he has to say.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_096",
@@ -780,7 +876,8 @@
     96
    ],
    "jp": "{8001}{8602}{9498}「もっ、もしかして{8207}でんせつのグランボセイバーの{8207}ゲンゾウさんなんだな～？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}Wh-Wait, could you be... Mr. Genzo, the legendary Granbo Saver?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_097",
@@ -788,7 +885,8 @@
     97
    ],
    "jp": "{8001}{8620}{94A7}「あ、ああ・・・そうじゃが？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8620}{94A7}Y-Yes... that I am. Why?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_098",
@@ -796,7 +894,8 @@
     98
    ],
    "jp": "{8001}{8602}{9498}「オ、オイラ・・・{8207}{8833}東のアプリコットタウン{8800}に{8207}すんでいる{9402}！！」{8300}{8612}{9498}「ゲンゾウさん、おねがいなんだな！{8207}オイラの町の大人達を{8207}助けてほしいんだな！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}I-I'm... {9402}, from {8833}Apricot Town to the east{8800}!!{8300}{8612}{9498}Mr. Genzo, please, I'm begging you! Help the grown-ups in my town, y'know!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_099",
@@ -804,7 +903,8 @@
     99
    ],
    "jp": "{8001}{8621}{94A7}「まさか・・・{8833}アプリコットタウン{8800}も{8207}スカイシャークにおそわれたのか！？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8621}{94A7}Don't tell me... {8833}Apricot Town{8800} was attacked by Sky Shark too?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_100",
@@ -812,7 +912,8 @@
     100
    ],
    "jp": "{8001}{8602}{9498}「そうなんだな～・・・もぐもぐ・・・{8207}それでオイラどうしようかと・・・{8207}もぐもぐ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}That's right, y'know... munch munch... So I didn't know what to do... munch munch...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_101",
@@ -820,7 +921,8 @@
     101
    ],
    "jp": "{8001}{8621}{94A7}「話すか食べるかどっちかにせんか！！」{8300}{8621}{94A7}「・・・・・・・・・」{8300}{8621}{94A7}「まぁいい、ようするにワシに助けを{8207}もとめに来たと言うワケじゃな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8621}{94A7}Either talk or eat, one or the other!!{8300}{8621}{94A7}.........{8300}{8621}{94A7}Well, never mind. In short, you came here to ask me for help...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_102",
@@ -828,7 +930,8 @@
     102
    ],
    "jp": "{8001}{8621}{94A7}「・・・・・・・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8621}{94A7}.........{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_103",
@@ -836,7 +939,8 @@
     103
    ],
    "jp": "{8002}{8621}{94A7}「うおおっ！・・・10年前の{8207}きょう悪グランボとの戦いで負った{8207}古キズが急にいたみだしたわい！！」{8300}{8621}{94A7}「もうグランボを使って戦う事は{8207}できそうにない・・・」{8300}{8620}{94A7}「と言うワケで{8207}ザンネンながら{8207}おヌシのキタイにはこたえられん！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8621}{94A7}Oooogh! ...The old wound I got 10 years ago fighting a vicious Granbo is suddenly acting up!!{8300}{8621}{94A7}Looks like I can't fight with Granbo anymore...{8300}{8620}{94A7}And so, sad to say, I can't live up to your hopes!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_104",
@@ -844,7 +948,8 @@
     104
    ],
    "jp": "{8001}{8612}{9498}「そ、そんな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8612}{9498}B-But...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_105",
@@ -852,7 +957,8 @@
     105
    ],
    "jp": "{8001}{8620}{94A7}「しかしダイジョウブじゃ！」{8300}{8620}{94A7}「ワシの後をつぐ者が{8207}ここにおるからな！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8620}{94A7}But don't you worry!{8300}{8620}{94A7}The one who'll carry on after me is right here!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_106",
@@ -860,7 +966,8 @@
     106
    ],
    "jp": "{8001}{8620}{94A7}「何をボーッとしておる！{8207}お前の事に決まっておろうが！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8620}{94A7}What are you spacing out for?! I mean you, obviously!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_107",
@@ -868,7 +975,8 @@
     107
    ],
    "jp": "{8001}{8620}{94A7}「こいつはワシのマゴで{9400}{8207}というんじゃ」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8620}{94A7}This is my grandchild, {9400}.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_108",
@@ -876,7 +984,8 @@
     108
    ],
    "jp": "{8001}{8602}{9498}「そ、それはすごいや！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}Th-That's amazing!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_109",
@@ -884,7 +993,8 @@
     109
    ],
    "jp": "{8001}{8602}{9498}「じゃ、じゃあキミがみんなを{8207}助けだしてくれるんだね～？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}S-So you're gonna rescue everybody for us?{9200} /{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_110",
@@ -892,7 +1002,8 @@
     110
    ],
    "jp": "{8001}{8602}{9498}「う、うれしいんだな～！！」{8300}{8602}{9498}「オイラ、グランボをあつめるのが{8207}すきで、グランボの事はだれよりも{8207}くわしいつもりなんだ～」{8300}{8602}{9498}「だから、キミが安全に戦えるように{8207}色んなグランボの事をおしえてあげるよ～」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}I-I'm so happy, y'know!!{8300}{8602}{9498}I love collecting Granbo, so I figure I know more about Granbo than anybody.{8300}{8602}{9498}So I'll teach you all about different Granbo, so you can battle safely.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_111",
@@ -900,7 +1011,8 @@
     111
    ],
    "jp": "{8001}{8620}{94A7}「{9400}、良かったではないか！！」{8300}{8620}{94A7}「これからの戦い、グランボにくわしい者が{8207}おるのとおらんのでは{8207}大ちがいじゃからな！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8620}{94A7}{9400}, isn't that splendid!!{8300}{8620}{94A7}In the battles ahead, having someone who knows Granbo with you makes all the difference in the world!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_112",
@@ -908,7 +1020,8 @@
     112
    ],
    "jp": "{8001}{8602}{9498}「それじゃあオイラ、先に行って{8207}この大陸にいるグランボの事を{8207}しらべておくよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}Well then, I'll go on ahead and look into the Granbo on this continent!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_113",
@@ -916,7 +1029,8 @@
     113
    ],
    "jp": "{8001}{8612}{9498}「そ、そんなあ～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8612}{9498}N-No waaay!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_114",
@@ -924,7 +1038,8 @@
     114
    ],
    "jp": "{8001}{8612}{9498}「オイラもできるかぎり{8207}キョウリョクするからさ～」{8300}{8612}{9498}「だから、おねがいだよ～」{9200}\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8001}{8612}{9498}I'll help out as much as I can...{8300}{8612}{9498}So won't you please help us?{9200} /{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_115",
@@ -932,7 +1047,8 @@
     115
    ],
    "jp": "{8001}{8621}{94A7}「もう、これはお前一人の戦いではない！{8207}大きな敵にたいしてはみなで{8207}力をあわさねばならん！！」{8300}{8621}{94A7}「この左にある{8833}セイバーステーション{8800}に行けば{8207}みながお前のためにアドバイスを{8207}くれるじゃろう・・・」{8300}{8621}{94A7}「さっきやり方をおしえたハントの事も{8207}よりくわしく知っている者が{8207}おるはずじゃ！」{8300}{8620}{94A7}「ではワシは家にもどる・・・{8207}今言うた事・・・わすれるでないぞ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8621}{94A7}This is no longer your fight alone! Against a great enemy, we must all join forces!!{8300}{8621}{94A7}Go to the {8833}Saver Station{8800} to the left here, and everyone there should give you advice...{8300}{8621}{94A7}There should also be someone who knows even more about hunting, which I showed you earlier!{8300}{8620}{94A7}Now, I'll head back home... Don't you forget what I just told you!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_116",
@@ -940,7 +1056,8 @@
     116
    ],
    "jp": "{8002}{8603}{9499}「{9400}さん・・・？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}{9400}...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_117",
@@ -948,7 +1065,8 @@
     117
    ],
    "jp": "{8002}{8603}{9499}「どうしたんですか？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}What's wrong?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_118",
@@ -956,7 +1074,8 @@
     118
    ],
    "jp": "{8002}{8603}{9499}「私の力になってくれるのは{8207}とてもうれしいんですが・・・」{8300}{8603}{9499}「私といっしょにいたら{8207}{9400}さんの身にも{8207}何がおきるかわかりません・・・」{8300}{8603}{9499}「どんなおそろしい目にあってもいいと{8207}言うんですか？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}I'm very glad you want to help me, but...{8300}{8603}{9499}If you stay with me, there's no telling what might happen to you, {9400}...{8300}{8603}{9499}Are you saying you don't mind, no matter how frightening things get?{9200} /{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_119",
@@ -964,7 +1083,8 @@
     119
    ],
    "jp": "{8002}{8603}{9499}「2度とゲンゾウさんに{8207}会えなくなるかも知れないんですよ？」{8300}{8603}{9499}「スカイシャークはもっとおそろしい事を{8207}してくるかも知れないんですよ？」{8300}{8603}{9499}「命にかかわるかも知れないんですよ？」{8300}{8603}{9499}「それでも・・・・・・{8207}いいんですか？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}You might never see Mr. Genzo again.{8300}{8603}{9499}Sky Shark might do something even more frightening.{8300}{8603}{9499}It could even cost you your life.{8300}{8603}{9499}Even so...... are you sure?{9200} /{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_120",
@@ -972,7 +1092,8 @@
     120
    ],
    "jp": "{8002}{8603}{9499}「{9400}さん・・・・・・」{8300}{8603}{9499}「そこまで言ってもらえるなんて・・・」{8300}{8603}{9499}「何とおれいを言えばいいのか・・・」{8300}{8613}{9499}「ありがとうございます！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}{9400}......{8300}{8603}{9499}To think you would go that far for me...{8300}{8603}{9499}I don't know how I can ever thank you...{8300}{8613}{9499}Thank you so much!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_121",
@@ -980,7 +1101,8 @@
     121
    ],
    "jp": "{8002}{8603}{9499}「では、お話しします・・・」{8300}{8603}{9499}「私のつれていた{940A}{8207}グリーシャ・・・」{8300}{8603}{9499}「じつはあの子にはヒミツがあって{8207}悪用されると大変な事がおこるのです」{8300}{8603}{9499}「ですから、スカイシャークをおいかけて{8207}グリーシャをとりもどさなければなりません」{8300}{8603}{9499}「そして、先ほどつかまっている時に{8207}{9409}達の会話をきいたんですが・・・」{8300}{8603}{9499}「スカイシャークの次の作戦は{8207}どうやら{8855}水の大陸{941F}{8800}で{8207}行われるようなんです！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}Then I'll tell you...{8300}{8603}{9499}The {940A} I had with me... Grisha...{8300}{8603}{9499}The truth is, Grisha has a secret, and if it's misused, something terrible will happen.{8300}{8603}{9499}That's why I have to go after Sky Shark and get Grisha back.{8300}{8603}{9499}And earlier, while I was captured, I overheard {9409} and the others talking...{8300}{8603}{9499}It seems Sky Shark's next operation will take place on {8855}{941F}, the Water Continent{8800}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_122",
@@ -988,7 +1110,8 @@
     122
    ],
    "jp": "{8002}{8603}{9499}「{9400}さん・・・」{8300}{8603}{9499}「{8833}アプリコットタウンの南{8800}にある{8207}スカイポートへいっしょに{8207}行っていただけますか？」{8300}{8603}{9499}「スカイポートからスカイシップにのれば{8207}{8855}ウォーティア{8800}へ行く事が{8207}できますから・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}{9400}...{8300}{8603}{9499}Would you come with me to the Skyport {8833}south of Apricot Town{8800}?{8300}{8603}{9499}If we board a Skyship at the Skyport, we can get to {8855}Wateria{8800}...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_123",
@@ -996,7 +1119,8 @@
     123
    ],
    "jp": "{8002}{9201}{9403}がなかまになった！！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}{9403} joined the party!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_124",
@@ -1004,7 +1128,8 @@
     124
    ],
    "jp": "{8002}{8603}{9499}「気になさらないでください」{8300}{8603}{9499}「だれだってこんなキケンな事に{8207}まきこまれたくはないですから・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}Please don't worry about it.{8300}{8603}{9499}Nobody wants to get dragged into something this dangerous...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_125",
@@ -1012,7 +1137,8 @@
     125
    ],
    "jp": "{8002}{8603}{9499}「えっ？{8207}やっぱり私の力になると{8207}言ってくださるんですか？」{8300}{8603}{9499}「でも・・・・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}Huh? You're saying you'll help me after all?{8300}{8603}{9499}But......{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_126",
@@ -1020,7 +1146,8 @@
     126
    ],
    "jp": "{8002}{8621}{94A7}「な、なんの音じゃ・・・！？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8621}{94A7}Wh-What was that noise...?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B5B00_127",
@@ -1028,7 +1155,8 @@
     127
    ],
    "jp": "{8002}{8620}{94A7}「どうやら気をうしなって{8207}おるだけのようじゃな・・・{8207}とにかくワシらの家にはこぼう！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8620}{94A7}Looks like she's just passed out... Anyway, let's carry her to our house!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

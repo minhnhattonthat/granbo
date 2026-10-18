@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}男の子「オレの父ちゃんはこのブロッサムタウンで{8207}ただ一人のスカイシップのパイロット{8207}なんだぜ！すげえだろ！！」{8300}{94C8}男の子「オレもショウライはゼッタイ{8207}スカイシップのパイロットになるぞ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「My dad's the only Skyship pilot here in Blossom Town! Pretty cool, huh?!{8300}{94C8}Boy「When I grow up, I'm totally gonna be a Skyship pilot too!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BB92A_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}おじさん「私は大陸と大陸の間をむすぶ{8207}スカイシップのパイロットをしているんだ」{8300}{94C8}おじさん「え？スカイシップにのった事がない？」{8300}{94C8}おじさん「ははは、キミも早く{8207}スカイシップにのれるといいね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「I'm a pilot of the Skyships that link one continent to another.{8300}{94C8}Man「What? You've never ridden a Skyship?{8300}{94C8}Man「Ha ha ha, I hope you get to ride one soon!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BB92A_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}男の子「くっそー！{8207}人の家ですきほうだいやりやがって！！」{8300}{94C8}男の子「でも、テイコウしたら{8207}何されるかわからないしなぁ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Rrgh! Doing whatever they want in somebody else's house!!{8300}{94C8}Boy「But if I fight back, who knows what they'll do to me...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BB92A_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{860F}{94A5}「こんなリッパなデスクに向かうと{8207}何だか自分がえらくなった気がするなぁ！」{8300}{860F}{94A5}「思わず・・・」{8300}{860F}{94A5}「おい、バミューダ君！{8207}そこのニモツをかたづけて{8207}おいてくれたまえ！！」{8300}{860F}{94A5}「な～んて、言いそうになるぜ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Sitting at a fancy desk like this, I kinda feel like a big shot!{8300}{860F}{94A5}So much that I almost...{8300}{860F}{94A5}\"Ahem, Bermuda, my boy! Be a good chap and tidy up that luggage over there!!\"{8300}{860F}{94A5}...almost say something like that!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BB92A_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{860F}{94A5}「うおおっ、やわらかそうなソファー！！」{8300}{860F}{94A5}「いつもユカの上でねてるからな・・・{8207}こういうソファーの上でねるのが{8207}オレのユメだったんだよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Whoa, a soft-looking sofa!!{8300}{860F}{94A5}I always sleep on the floor... so sleeping on a sofa like this has been my dream!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BB92A_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}男の子「父ちゃんはさっそく{8207}パイロットのシゴトにもどったぜ！」{8300}{94C8}男の子「{8833}大陸の南東{8800}にある{8207}スカイポートに行ってみな！」{8300}{94C8}男の子「父ちゃんのソウジュウする{8207}スカイシップにのれるはずさ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「My dad went right back to work as a pilot!{8300}{94C8}Boy「Go check out the Skyport in the {8833}southeast of the continent{8800}!{8300}{94C8}Boy「You should be able to ride the Skyship my dad flies!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BB92A_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{9201}コンピューターがナイゾウされたゴウカなツクエだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A fancy desk with a built-in computer.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BB92A_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{9201}メッセージボードに\nデンゴンが入っている{8300}{9201}『マサルへ 父さんと休日を楽しんでね』{9200}{820E}{9201}スカイポートうけつけの母より{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There's a message on the message board.{8300}{9201}\"Masaru, have fun on your holiday with Dad!\"{9200} {9201}From Mom, at the Skyport front desk{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BB92A_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1BB92A_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1BB92A_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1BB92A_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1BB92A_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1BB92A_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{94C8}男の子「父ちゃんが自分のスカイシップに{8207}{9400}君がのった事をよろこんでたぜ」{8300}{94C8}男の子「世界に平和をとりもどすのに少しでも{8207}キョウリョクできたのがよっぽど{8207}うれしかったんだろうな！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「My dad was so happy you rode on his Skyship, {9400}!{8300}{94C8}Boy「I bet he was really glad he could help bring peace back to the world, even just a little!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BB92A_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{9201}あなたの名前は『{8855}{9400}{8800}』ですね？\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Your name is \"{8855}{9400}{8800}\", right?  /{8D00}{8100}",
+   "status": "translated"
   }
  ]
 }

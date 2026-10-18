@@ -50,7 +50,10 @@ two in game; that is fine and not reported).
 - Voices (more in the style reference): Old Gen - gruff, folksy old man ("Bah!", "Kakakaka!"); Shizuku - polite,
   gentle, reserved; Akari - bossy, energetic girl; Daigoro - slow, easygoing big guy ("...y'know!" for ～なんだな);
   Sky Shark bosses - Bermuda is coldly polite and sarcastic; grunts say "Aye aye, sir!".
-- Mistakes to avoid (from earlier batches): none yet.
+- Mistakes to avoid (from earlier batches): check "Decisions from earlier batches" in `glossary.md` for every
+  Granbo, move and term already named (one name per Granbo: two batches named the same one differently). Move tiers
+  弱/中/強 are 1/2/3 ("Virus Claw 2"). Debug placeholder lines (ワーク05のしらべるメッセージ, ダミー) -> translate
+  literally and short. Trailing " / " at the end of a page may be kept or dropped.
 
 ## Consistency
 Never edit `glossary.md`. For a recurring name or term not in it, pick a form, use it consistently, and report it.

@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}ならず者「くそっ！！{8207}あれじゃ手が出せないぞ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Thug「Dang it!! We can't lay a finger on it with that thing there!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B24C8_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}ならず者「アレさえ何とかすれば{8207}後はオレ達のものなんだが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Thug「If we could just deal with that, the rest would be ours...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B24C8_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おじいさん「この山はワシとばあさんの{8207}思い出の場所なんじゃ・・・」{8300}{94C8}おじいさん「山の中に{8833}きれいな花{8800}がさいておってな・・・{8207}2人でその花をながめているだけで{8207}ワシらはしあわせじゃった・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「This mountain is where my old lady and I made our memories...{8300}{94C8}Old Man「{8833}Beautiful flowers{8800} bloom up on the mountain... Just gazing at those flowers together made us happy...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B24C8_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}ならず者「うう・・・{8207}いてえ、いてぇよぉ・・・・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Thug「Ugh... it hurts, it huuurts...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B24C8_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}ならず者「ちきしょう！ちきしょう！」{8300}{860F}{94C8}ならず者「ヤツは強い・・・{8207}強すぎるぜ・・・・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Thug「Dang it! Dang it!{8300}{860F}{94C8}Thug「He's strong... way too strong...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B24C8_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}おじいさん「この山はワシとばあさんの{8207}思い出の場所なんじゃ・・・」{8300}{94C8}おじいさん「山の中に{8833}きれいな花{8800}がさいておってな・・・{8207}2人でその花をながめているだけで{8207}ワシらはしあわせじゃった・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「This mountain is where my old lady and I made our memories...{8300}{94C8}Old Man「{8833}Beautiful flowers{8800} bloom up on the mountain... Just gazing at those flowers together made us happy...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1B24C8_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1B24C8_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1B24C8_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1B24C8_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1B24C8_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1B24C8_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1B24C8_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1B24C8_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{8607}{949D}「キミのおかげで手間がはぶけたよ」{8300}{8607}{949D}「さぁ、後はドリームフラワーのさいている{8207}あの場所に行くだけだ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8607}{949D}Thanks to you, I was spared some trouble.{8300}{8607}{949D}Now all that's left is to go where the Dream Flowers bloom!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }
