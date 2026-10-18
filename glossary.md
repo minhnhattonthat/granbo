@@ -141,6 +141,9 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- More Granbo: グースン Goosun, バメッツ Bamets, バズメス Buzzmes, ピチュトル Pichutol, ガリチョン Garichon, ワルピヨ
+  Warupiyo, ブログ Brog, パタウオ Patauo, ペラペレイ Perapelay. Database comments in 「」 with no speaker -> "..." quotes;
+  バージョンアップ -> upgrade; もうコンプリート -> "Looks like this one's complete."; ステミワザ -> all-out moves.
 - Item tiers 小/中/大 -> 1/2/3 like moves ("HP Capsule 1", "Team EN Capsule 2"); X/全Xブレイカー -> X Breaker / Team X
   Breaker; ストーンボンバー -> Stone Bomber; イカ10アタック -> Squid 10 Attack; にらみあい -> Stare-Down; 何が出るかな？ ->
   What'll It Be?; アルティメット -> Ultimate; ハサミ -> Pincer (N); 3連続ハサミ -> Triple Pincer; みしようわざ -> Unused Move.

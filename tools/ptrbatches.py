@@ -80,6 +80,8 @@ def show(s):
 
 
 def unshow(s):
+    if s.endswith(" /"):  # an empty last line: the editors strip the space after the final " / "
+        s += " "
     return s.replace(" / ", "\n")
 
 
