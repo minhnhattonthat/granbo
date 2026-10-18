@@ -414,7 +414,8 @@
     "0x29513c"
    ],
    "jp": "        この声は・・・まさか！？",
-   "en": ""
+   "en": "This voice... could it be?!",
+   "status": "translated"
   },
   {
    "id": "s2721A2",
@@ -423,7 +424,8 @@
     "0x295144"
    ],
    "jp": "          ガーッハッハッハ！！",
-   "en": ""
+   "en": "Gwahahahaha!!",
+   "status": "translated"
   },
   {
    "id": "s2721CC",
@@ -432,7 +434,8 @@
     "0x29514c"
    ],
    "jp": "        どうやら間に合ったようだな",
-   "en": ""
+   "en": "Looks like I made it in time",
+   "status": "translated"
   },
   {
    "id": "s2721F8",
@@ -441,7 +444,8 @@
     "0x295154"
    ],
    "jp": "         みんなとわかれるの・・・",
-   "en": ""
+   "en": "Saying goodbye to everyone...",
+   "status": "translated"
   },
   {
    "id": "s272224",
@@ -450,7 +454,8 @@
     "0x29515c"
    ],
    "jp": "         やっぱりさびしいよ～～～",
-   "en": ""
+   "en": "...is still so lonely~~~",
+   "status": "translated"
   },
   {
    "id": "s272250",
@@ -459,7 +464,8 @@
     "0x295164"
    ],
    "jp": "             バカ！",
-   "en": ""
+   "en": "You dummy!",
+   "status": "translated"
   },
   {
    "id": "s272272",
@@ -468,7 +474,8 @@
     "0x29516c"
    ],
    "jp": "       なかないってヤクソクでしょ！？",
-   "en": ""
+   "en": "You promised you wouldn't cry, right?!",
+   "status": "translated"
   },
   {
    "id": "s2722A0",
@@ -478,7 +485,8 @@
     "0x29517c"
    ],
    "jp": "     良かった・・・無事だったのね・・・！！",
-   "en": ""
+   "en": "Thank goodness... You're safe...!!",
+   "status": "translated"
   },
   {
    "id": "s2722FA",
@@ -487,7 +495,8 @@
     "0x295260"
    ],
    "jp": "{8833}きかく{8800}",
-   "en": ""
+   "en": "{8833}Planning{8800}",
+   "status": "translated"
   },
   {
    "id": "s272306",
@@ -496,7 +505,8 @@
     "0x295268"
    ],
    "jp": "よしまつ さとし",
-   "en": ""
+   "en": "Satoshi Yoshimatsu",
+   "status": "translated"
   },
   {
    "id": "s272328",
@@ -505,7 +515,8 @@
     "0x295270"
    ],
    "jp": "やまだ まさあき",
-   "en": ""
+   "en": "Masaaki Yamada",
+   "status": "translated"
   },
   {
    "id": "s27233A",
@@ -514,7 +525,8 @@
     "0x295278"
    ],
    "jp": "{8855}プログラマー{8800}",
-   "en": ""
+   "en": "{8855}Programmers{8800}",
+   "status": "translated"
   },
   {
    "id": "s27234C",
@@ -523,7 +535,8 @@
     "0x295280"
    ],
    "jp": "ばんどう ひろき",
-   "en": ""
+   "en": "Hiroki Bando",
+   "status": "translated"
   },
   {
    "id": "s27235E",
@@ -532,7 +545,8 @@
     "0x295288"
    ],
    "jp": "えのもと たけし",
-   "en": ""
+   "en": "Takeshi Enomoto",
+   "status": "translated"
   },
   {
    "id": "s272370",
@@ -541,7 +555,8 @@
     "0x295290"
    ],
    "jp": "やまのうち たかあき",
-   "en": ""
+   "en": "Takaaki Yamanouchi",
+   "status": "translated"
   },
   {
    "id": "s272386",
@@ -550,7 +565,8 @@
     "0x2952a0"
    ],
    "jp": "おおたに のりゆき",
-   "en": ""
+   "en": "Noriyuki Otani",
+   "status": "translated"
   },
   {
    "id": "s27239A",
@@ -559,7 +575,8 @@
     "0x295298"
    ],
    "jp": "やまむら みゆき",
-   "en": ""
+   "en": "Miyuki Yamamura",
+   "status": "translated"
   },
   {
    "id": "s2723AC",
@@ -568,7 +585,8 @@
     "0x2952a8"
    ],
    "jp": "{8877}キャラクター{8800}",
-   "en": ""
+   "en": "{8877}Characters{8800}",
+   "status": "translated"
   },
   {
    "id": "s2723BE",
@@ -577,7 +595,8 @@
     "0x2952b0"
    ],
    "jp": "たざき かずのり",
-   "en": ""
+   "en": "Kazunori Tazaki",
+   "status": "translated"
   },
   {
    "id": "s2723D0",
@@ -586,7 +605,8 @@
     "0x2952b8"
    ],
    "jp": "あらき かおる",
-   "en": ""
+   "en": "Kaoru Araki",
+   "status": "translated"
   },
   {
    "id": "s2723E0",
@@ -595,7 +615,8 @@
     "0x2952c0"
    ],
    "jp": "かい ひでとし",
-   "en": ""
+   "en": "Hidetoshi Kai",
+   "status": "translated"
   },
   {
    "id": "s2723F0",
@@ -604,7 +625,8 @@
     "0x2952c8"
    ],
    "jp": "{8899}はいけい{8800}",
-   "en": ""
+   "en": "{8899}Backdrops{8800}",
+   "status": "translated"
   },
   {
    "id": "s2723FE",
@@ -613,7 +635,8 @@
     "0x2952d0"
    ],
    "jp": "なかだい ゆうこ",
-   "en": ""
+   "en": "Yuko Nakadai",
+   "status": "translated"
   },
   {
    "id": "s272410",
@@ -622,7 +645,8 @@
     "0x2952d8"
    ],
    "jp": "ごとう じゅんこ",
-   "en": ""
+   "en": "Junko Goto",
+   "status": "translated"
   },
   {
    "id": "s272422",
@@ -631,7 +655,8 @@
     "0x2952e0"
    ],
    "jp": "いわもと たつろう",
-   "en": ""
+   "en": "Tatsuro Iwamoto",
+   "status": "translated"
   },
   {
    "id": "s272436",
@@ -640,7 +665,8 @@
     "0x2952e8"
    ],
    "jp": "すえかね くみこ",
-   "en": ""
+   "en": "Kumiko Suekane",
+   "status": "translated"
   },
   {
    "id": "s272448",
@@ -649,7 +675,8 @@
     "0x2952f0"
    ],
    "jp": "{88BB}デザイン{8800}",
-   "en": ""
+   "en": "{88BB}Design{8800}",
+   "status": "translated"
   },
   {
    "id": "s272456",
@@ -658,7 +685,8 @@
     "0x2952f8"
    ],
    "jp": "つかだ だいご",
-   "en": ""
+   "en": "Daigo Tsukada",
+   "status": "translated"
   },
   {
    "id": "s272466",
@@ -667,7 +695,8 @@
     "0x295310"
    ],
    "jp": "{8855}こうかおん{8800}",
-   "en": ""
+   "en": "{8855}Sound FX{8800}",
+   "status": "translated"
   },
   {
    "id": "s272476",
@@ -676,7 +705,8 @@
     "0x295318"
    ],
    "jp": "はま わたる",
-   "en": ""
+   "en": "Wataru Hama",
+   "status": "translated"
   },
   {
    "id": "s272484",
@@ -685,7 +715,8 @@
     "0x295300"
    ],
    "jp": "{8877}おんがく{8800}",
-   "en": ""
+   "en": "{8877}Music{8800}",
+   "status": "translated"
   },
   {
    "id": "s272492",
@@ -694,7 +725,8 @@
     "0x295308"
    ],
    "jp": "ふじた さやか",
-   "en": ""
+   "en": "Sayaka Fujita",
+   "status": "translated"
   },
   {
    "id": "s2724A2",
@@ -703,7 +735,8 @@
     "0x295320"
    ],
    "jp": "{8899}バグかんり{8800}",
-   "en": ""
+   "en": "{8899}Bug Tracking{8800}",
+   "status": "translated"
   },
   {
    "id": "s2724B2",
@@ -712,7 +745,8 @@
     "0x295328"
    ],
    "jp": "おかもと まさひろ",
-   "en": ""
+   "en": "Masahiro Okamoto",
+   "status": "translated"
   },
   {
    "id": "s2724C6",
@@ -721,7 +755,8 @@
     "0x295330"
    ],
    "jp": "みやざき ごう",
-   "en": ""
+   "en": "Go Miyazaki",
+   "status": "translated"
   },
   {
    "id": "s2724D6",
@@ -730,7 +765,8 @@
     "0x295338"
    ],
    "jp": "{88BB}せんでんプロデューサー{8800}",
-   "en": ""
+   "en": "{88BB}Promotion Producer{8800}",
+   "status": "translated"
   },
   {
    "id": "s2724F2",
@@ -739,7 +775,8 @@
     "0x295340"
    ],
    "jp": "いなば あつし",
-   "en": ""
+   "en": "Atsushi Inaba",
+   "status": "translated"
   },
   {
    "id": "s272502",
@@ -748,7 +785,8 @@
     "0x295348"
    ],
    "jp": "{8833}そうごうプロデューサー{8800}",
-   "en": ""
+   "en": "{8833}General Producer{8800}",
+   "status": "translated"
   },
   {
    "id": "s27251E",
@@ -757,7 +795,8 @@
     "0x295350"
    ],
    "jp": "みかみ しんじ",
-   "en": ""
+   "en": "Shinji Mikami",
+   "status": "translated"
   },
   {
    "id": "s27252E",
@@ -766,7 +805,8 @@
     "0x295358"
    ],
    "jp": "{8855}ディレクター{8800}",
-   "en": ""
+   "en": "{8855}Director{8800}",
+   "status": "translated"
   },
   {
    "id": "s272540",
@@ -776,7 +816,8 @@
     "0x295368"
    ],
    "jp": "まつした くにおみ",
-   "en": ""
+   "en": "Kuniomi Matsushita",
+   "status": "translated"
   }
  ]
 }

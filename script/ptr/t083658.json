@@ -10,7 +10,8 @@
     "0x08440c"
    ],
    "jp": "所持数",
-   "en": ""
+   "en": "Owned",
+   "status": "translated"
   },
   {
    "id": "s26F3EE",
@@ -19,7 +20,8 @@
     "0x083660"
    ],
    "jp": "いくつおあずかりしましょうか？",
-   "en": ""
+   "en": "How many shall I store?",
+   "status": "translated"
   }
  ]
 }

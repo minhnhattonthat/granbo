@@ -8,7 +8,8 @@
     "0x091064"
    ],
    "jp": "ターン数の制限   ",
-   "en": ""
+   "en": "Turn Limit",
+   "status": "translated"
   },
   {
    "id": "s270C24",
@@ -17,7 +18,8 @@
     "0x091018"
    ],
    "jp": "回",
-   "en": ""
+   "en": "x",
+   "status": "translated"
   }
  ]
 }

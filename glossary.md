@@ -141,6 +141,12 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- Menus/data: しょうひEN -> EN Cost; 通算成績 -> Record; しゅるい -> Type; 所持数 -> Owned; ターン数の制限 -> Turn Limit;
+  つよさ -> Stats; つぎのLVまで あと -> To next LV; ゼンメツしました -> Team wiped out; 通信に失敗しました -> Link failed!;
+  グランドヘルプ -> Grand Help; 3ぞくせいコンボ -> 3-element combo. Moves: ワザ止めキック -> Move-Stop Kick, プレス -> Press,
+  ストップボム -> Stop Bomb, ビーム -> Beam, エラーオンパ -> Error Wave, シングルビーム -> Single Beam. Credits titles:
+  Planning, Programmers, Characters, Backdrops, Design, Sound FX, Music, Bug Tracking, Promotion Producer, General
+  Producer, Director; staff names given-name first, Hepburn.
 - Tournaments: XセイバーX大会 -> "X Saver Tournament", N回戦 -> Round N, 決勝戦 -> the Final, オールスター大会 -> All-Star
   Tournament; Emcee's アミ～ゴ -> "amiigo" (stretched when the JP stretches). {940A}使い -> {940A} user; 子分の服 -> Grunt
   outfit; ヘンソウ -> disguise; ニセ物 -> fake; 本タイ -> main force; つるぎ -> sword. DFアップ (no tier) -> DF Up.

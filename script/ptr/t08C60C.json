@@ -7,7 +7,8 @@
     "0x08c610"
    ],
    "jp": "をとれます",
-   "en": ""
+   "en": "can take",
+   "status": "translated"
   },
   {
    "id": "s270A5A",
@@ -16,7 +17,8 @@
     "0x08c60c"
    ],
    "jp": "アイテム",
-   "en": ""
+   "en": "Items",
+   "status": "translated"
   }
  ]
 }

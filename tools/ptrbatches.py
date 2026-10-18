@@ -24,7 +24,7 @@ import lint  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 TL = ROOT / "work/tl"
-NL = re.compile(r"\{82[0-9A-F]{2}\}|\n")
+NL = re.compile(r"\{8[23][0-9A-F]{2}\}|\n")  # new line {82xx}/"\n" and new box {83xx} both end a line
 SKIP = {"ptr/t1A9A18.json"}  # character names: translated by hand (RAM name slots, 7 glyphs)
 
 
@@ -36,13 +36,17 @@ def padded(jp):
     return any(re.search(r"\S {3,}\S", l) for l in lines(jp))
 
 
-def limits(jp):
+BOX_PX = {"t1A1568": 200, "t098F4C": 200, "t1A952C": 200, "r290000": 216}  # message boxes / credits: whole width
+
+
+def limits(jp, group=None):
     """Hard pixel limit per line: the JP width plus a little slack (fields usually have spare cells), never over
-    the 216 px a full-width box holds. Screen QA catches the fields that are tighter."""
+    the 216 px a full-width box holds; lines in battle message boxes and the credits get the box width.
+    Screen QA catches the fields that are tighter."""
     out = []
     for l in lines(jp):
         px = 8 * len(fit.TOKEN.findall(l))
-        out.append(min(216, max(px + 8, px * 6 // 5)) if px else 0)
+        out.append(BOX_PX.get(group) or (min(216, max(px + 8, px * 6 // 5)) if px else 0))
     return out
 
 
@@ -82,7 +86,7 @@ def split(size, chars):
         rows = []
         for name, e in b:
             form = "padded" if padded(e["jp"]) else "text"
-            lim = "/".join(str(x) for x in limits(e["jp"])) + "px"
+            lim = "/".join(str(x) for x in limits(e["jp"], Path(name).stem)) + "px"
             rows.append(f"{e['id']}\t{Path(name).stem}\t{form}\t{lim}\t{show(e['jp'])}")
         (TL / f"{pid}.tsv").write_text("\n".join(rows) + "\n", encoding="utf-8", newline="\n")
         text = "".join(e["jp"] for _, e in b)
@@ -96,14 +100,14 @@ def split(size, chars):
     print(f"{len(out)} batches ({start}..{start + len(out) - 1}), {sum(map(len, out))} entries")
 
 
-def issues(e, en):
+def issues(e, en, group=None):
     jp = e["jp"]
     out = lint.issues({**e, "en": en}, "ptr")
     jl, el = lines(jp), lines(en)
     if len(jl) != len(el):
         out.append(f"{len(el)} lines, JP has {len(jl)} (' / ' and {{82xx}} are line breaks)")
     elif not padded(jp):
-        for i, (lim, line) in enumerate(zip(limits(jp), el), 1):
+        for i, (lim, line) in enumerate(zip(limits(jp, group), el), 1):
             w = fit.width(line)
             if w > lim:
                 out.append(f"line {i}: {w} px > {lim} px")
@@ -114,16 +118,17 @@ def check(pid):
     want = [l.split("\t", 1)[0] for l in (TL / f"{pid}.tsv").read_text(encoding="utf-8").splitlines() if l]
     got = batches.read_out(pid)
     errs = [f"missing id {i}" for i in want if i not in got] + [f"extra id {i}" for i in got if i not in want]
-    by_id = {e["id"]: e for _, e in entries()}
+    by_id = {e["id"]: (e, Path(name).stem) for name, e in entries()}
     merged = {}
     for i in want:
         if i not in got:
             continue
-        en = unshow(got[i].strip(" "))
+        en = unshow(got[i].rstrip("\r"))  # leading spaces centre some lines: keep them
         if not en.isascii():
             errs.append(f"{i}: non-ASCII: {''.join(sorted(set(c for c in en if not c.isascii())))}")
             continue
-        errs += [f"{i}: {m}" for m in issues(by_id[i], en)]
+        e, group = by_id[i]
+        errs += [f"{i}: {m}" for m in issues(e, en, group)]
         merged[i] = en
     return errs, merged
 

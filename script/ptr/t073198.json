@@ -7,7 +7,8 @@
     "0x07319c"
    ],
    "jp": "通算成績",
-   "en": ""
+   "en": "Record",
+   "status": "translated"
   },
   {
    "id": "s2705E0",
@@ -17,7 +18,8 @@
     "0x073550"
    ],
    "jp": "しゅるい",
-   "en": ""
+   "en": "Type",
+   "status": "translated"
   }
  ]
 }
