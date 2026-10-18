@@ -2,7 +2,9 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8 (QA) - text, engine, graphics and both review passes done; visual QA gate and release remain.
+- **Phase:** 9 - release candidate v1.0 built locally (`release/Granbo_EN_v1.0.zip`, patched CRC32 4F834541):
+  build, tests, jp_left, visual QA gate (419 sheets: 396 map variants + warp scenes, `work/qa/verdicts/`), smoke
+  and BPS re-apply all pass. Not published: that is the user's call.
 - **Done:**
   - Recon, extraction, build with relocation, roundtrip/identity/marker tests; debug warp tool (21 scenes,
     `docs/re/debug.md`, `tools/debug/regen_states.py`); map tour of every map variant (`tools/debug/map_tour.py`,
@@ -21,9 +23,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     battle command labels, element pictograms, 通信中 -> Linking, small-font punctuation.
   - Release tooling: `tools/release.py <ver>` (build, tests, jp_left with `docs/jp_known.txt`, qa_gate, smoke, BPS,
     README from `docs/README-release.txt`, zip in release/; never publishes).
-- **Next:**
-  - Visual QA gate: `qa_gate.py init work/qa/manifest.tsv work/qa/tour` (+ the warp sheets), dispatch read-only
-    sheet reviewers per `$SKILL/references/emulator-qa.md` §Visual QA, fix issues, then `tools/release.py 1.0`.
+  - QA-pass fixes: battle dialogue clears the portrait (`build.clear_portrait`), battle move popup 12 cells in a
+    14-wide box, small-font pair glyphs (Data Ball grids), element icon copies, fit width fixes for name codes.
+- **Next (after user playtesting):**
   - Unverified screens (no warp scene): the second status page (0x0808AF70, icons moved to x=160), storage /
     Data Ball / shop prompts added by find_rel (ID_PX limits in ptrbatches are their current widths), link-battle
     screens (Record W/L composite with 1-cell W/L, FLAGGED), intro subtitles (s27196A.., new-game opening).
