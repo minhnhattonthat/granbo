@@ -85,7 +85,15 @@ def _path(rom, a, end, regs, work, seen):
                 regs[r] = ("B", hw & 0xFF)
             else:
                 regs.pop(r, None)
-        elif op5 in (0b00000, 0b00001, 0b00010, 0b00111, 0b01011, 0b01101, 0b01111, 0b10001, 0b10011, 0b10100,
+        elif op5 == 0b00111:  # subs rd, #imm8
+            r = (hw >> 8) & 7
+            v = regs.get(r)
+            if v and v[0] == "B" and v[1] == 0:
+                yield -(hw & 0xFF), "subs", a
+                regs[r] = ("B", -(hw & 0xFF))
+            else:
+                regs.pop(r, None)
+        elif op5 in (0b00000, 0b00001, 0b00010, 0b01011, 0b01101, 0b01111, 0b10001, 0b10011, 0b10100,
                      0b10101):
             regs.pop((hw >> 8) & 7 if op5 >= 0b00111 and op5 not in (0b01011, 0b01101, 0b01111, 0b10001)
                      else rd, None)

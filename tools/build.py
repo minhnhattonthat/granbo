@@ -102,7 +102,7 @@ def centre(s):
 
 def place_rel(r, orig, files, lang, marker):
     """Strings code reaches as base pointer + fixed offset (tools/find_rel.py: kind "adds" = `adds rX, #off` at
-    site, "word" = a literal word holding off, "neg" = `movs rX, #-off`, then negated). Every string linked this way
+    site, "subs" = `subs rX, #-off`, "word" = a literal word holding off, "neg" = `movs rX, #-off`, then negated). Every string linked this way
     is placed in one block, in original order (offset signs stay), and each site rewritten. Targets without a script
     entry are skipped (find_rel.py --missing lists them). Returns {id: new offset} for the ptr loop."""
     ents = {e["id"]: e for n, f in files.items() if n.startswith("ptr/") for e in f["entries"]}
@@ -132,7 +132,8 @@ def place_rel(r, orig, files, lang, marker):
             continue
         hw = struct.unpack_from("<H", orig, site)[0]
         sign = 1 if kind == "adds" else -1
-        assert hw >> 11 == (0b00110 if kind == "adds" else 0b00100), (a, hex(site))  # adds/movs rX, #imm8
+        op = {"adds": 0b00110, "subs": 0b00111, "neg": 0b00100}[kind]  # adds/subs/movs rX, #imm8
+        assert hw >> 11 == op, (a, hex(site))
         assert hw & 0xFF == sign * old and 0 <= sign * off < 256, (a, hex(site), off)
         r.put(site, struct.pack("<H", hw & 0xFF00 | sign * off), f"rel {a}")
     return new

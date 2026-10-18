@@ -56,7 +56,7 @@ def test_rel_strings_follow_their_base(orig, files):
     for t, b, kind, site in rels:
         base = struct.unpack_from("<I", rom, int(by_id[b]["ptrs"][0], 16))[0] - build.GBA
         hw = struct.unpack_from("<H", rom, site)[0]
-        off = {"adds": hw & 0xFF, "neg": -(hw & 0xFF), "word": struct.unpack_from("<i", rom, site)[0]}[kind]
+        off = {"adds": hw & 0xFF, "neg": -(hw & 0xFF), "subs": -(hw & 0xFF), "word": struct.unpack_from("<i", rom, site)[0]}[kind]
         want = text.encode_en(build.MARKER(by_at[t]))
         assert rom[base + off:base + off + len(want)] == want, (by_at[t]["id"], b, hex(site))
 
