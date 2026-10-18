@@ -5,8 +5,8 @@ pixel width (font_en advances), inserts the newline code the Japanese page used,
 than LINES lines into extra pages, repeating its portrait/speaker codes (not the 80xx message-start code).
 Box geometry (docs/re/text.md, measured in the field box with --qa builds): text may run to x=224; {8200} starts
 the next line at x=8, {82xx} at x=8+8*xx ({8207}: x=64, right of the portrait). A speaker page's first line starts
-right after the name field: the name padded with spaces (3 px each under the VWF) to 7 units (RAM name slots) or
-9 units (inline {94C8} labels), from x=8.
+right after the name field: the name padded with spaces (3 px each under the VWF) to 8 units (RAM name slots) or
+10 units (inline {94C8} labels), from x=8 (tools/engine.py widens the game's 6-unit loops).
     fit(en, jp) -> fitted en string;  problems(fitted) -> list of lint messages
 """
 import re
@@ -65,12 +65,12 @@ def first_x(h):
     m = names_mod.INLINE.search(h)
     if m:
         label = m.group(2)
-        return LINE_X + width(label) + 3 * max(0, 9 - len(label))
+        return LINE_X + width(label) + 3 * max(1, 10 - len(label))
     m = re.search(r"\{94([0-9A-F]{2})\}", h)
     if m and int(m.group(1), 16) >= 0x96:
         k = int(m.group(1), 16) - 0x96
         name = names_mod.SLOTS[k] if 0 < k < len(names_mod.SLOTS) else None
-        return LINE_X + (width(name) + 3 * (7 - len(name)) if name else NAME_PX)
+        return LINE_X + (width(name) + 3 * (8 - len(name)) if name else NAME_PX + 3)
     return LINE_X
 
 

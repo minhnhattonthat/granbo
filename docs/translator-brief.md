@@ -56,7 +56,9 @@ two in game; that is fine and not reported).
   literally and short. Trailing " / " at the end of a page may be kept or dropped.
 
 ## Consistency
-Never edit `glossary.md`. For a recurring name or term not in it, pick a form, use it consistently, and report it.
+Before naming a Granbo, move, item or place that is not in the glossary, look for an existing English form in the
+merged script: `grep -h -o '"en": "[^"]*KEYWORD[^"]*' script/events/*.json | head` (search the English you would
+use, or grep the `jp` field for the Japanese term and read its `en`). Reuse it. Never edit `glossary.md`. For a recurring name or term not in it, pick a form, use it consistently, and report it.
 
 ## Report (reply with only this)
 File written and entry count; then any lines: `NEW TERM: jp -> en`, `UNSURE: id - note`, `LONG: id - note`.
