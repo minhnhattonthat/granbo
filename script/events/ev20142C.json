@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}お姉さん「なかなかいいヘヤじゃない！{8207}気に入ったわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Miss「What a nice room! I love it!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20142C_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}ワーク00のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 00 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20142C_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}ワーク01のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20142C_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20142C_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20142C_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}お姉さん「あなたがこの大陸をすくってから{8207}もう何度もとまりに来てるの！」{8300}{94C8}お姉さん「このホテルは本当に最高だわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Miss「I've come to stay here so many times since you saved this continent!{8300}{94C8}Miss「This hotel really is the best!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

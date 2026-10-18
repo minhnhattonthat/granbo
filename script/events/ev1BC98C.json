@@ -399,7 +399,7 @@
     43
    ],
    "jp": "{8002}{94C8}男の子「この店は父ちゃんのかわりに{8207}ボクが守るんだい！！！」{8300}{94C8}男の子「いらっしゃいませ！{8207}どのようなごようけんですか？」\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": "{8002}{94C8}Boy「I'm gonna protect this shop in Dad's place!!{8300}{94C8}Boy「Welcome! How may I help you? {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "en": "{8002}{94C8}Boy「I'm gonna protect this shop in Dad's place!!{8300}{94C8}Boy「Welcome! How may I help you? {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
    "status": "translated"
   },
   {
@@ -408,7 +408,7 @@
     44
    ],
    "jp": "{8002}{94C8}男の子「ほかに何かございますか？」\n\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": "{8002}{94C8}Boy「Is there anything else? {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "en": "{8002}{94C8}Boy「Is there anything else?  {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
    "status": "translated"
   },
   {
@@ -417,7 +417,7 @@
     45
    ],
    "jp": "{8002}{94C8}てんいん「いらっしゃいませ！{8207}どのようなごようけんですか？」\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": "{8002}{94C8}Clerk「Welcome! How may I help you? {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "en": "{8002}{94C8}Clerk「Welcome! How may I help you? {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
    "status": "translated"
   },
   {
@@ -426,7 +426,7 @@
     46
    ],
    "jp": "{8002}{94C8}てんいん「ほかに何かございますか？」\n\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": "{8002}{94C8}Clerk「Is there anything else? {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "en": "{8002}{94C8}Clerk「Is there anything else?  {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
    "status": "translated"
   },
   {

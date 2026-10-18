@@ -101,6 +101,16 @@ S.ending = { desc = "ending event in the town plaza (map 1/10, debug name ENDING
   W.msg_page("ending dialogue")
 end }
 
+S.prologue = { desc = "event program 17: prologue narration 'この大地はあれはて...' over a storm (graphics text)",
+  run = function(W)
+  W.new_game(); W.warp(1, 0, 400, 300, 0); W.program(17)
+end }
+
+-- Any event program: --var "SCENE='program'" --var PROG=24
+S.program = { manual = true, desc = "event program (mode 9) from --var PROG", run = function(W)
+  W.new_game(); W.warp(1, 0, 400, 300, 0); W.program(assert(PROG, "--var PROG=n"))
+end }
+
 -- Any map: --var "SCENE='map'" --var MAP=1 --var VAR=0 [--var X=400 --var Y=300 --var DIR=0]
 S.map = { manual = true, desc = "any map/variant from --var MAP/VAR/X/Y/DIR (list: docs/re/debug.md)",
   run = function(W)

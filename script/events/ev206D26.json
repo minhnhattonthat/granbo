@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{9201}色々なニモツがおかれている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}All sorts of cargo is piled up here.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev206D26_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev206D26_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev206D26_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev206D26_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev206D26_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev206D26_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev206D26_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{860F}{94A5}「なんだよ！{8207}どうせオレは{9400}に負けたバツで{8207}カタヅケとうばんだよ！！」{8300}{860F}{94A5}「まぁ、{9400}もクリスタルを{8207}そろえないかぎり、{9408}さまの所には{8207}行けないからな！！」{8300}{860F}{94A5}「それにそろえたとしても・・・」{8300}{860F}{94A5}「まさかクリスタルをはめる場所に{8207}{8833}ゾクセイがカンケイしている{8800}とは{8207}思うまい！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}What?! I'm stuck on cleanup duty as punishment for losing to {9400}, okay?!{8300}{860F}{94A5}Well, {9400} can't get to Boss {9408} without collecting all the crystals anyway!!{8300}{860F}{94A5}And even with all of them...{8300}{860F}{94A5}Who'd ever guess that where the crystals go {8833}depends on their element{8800}!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

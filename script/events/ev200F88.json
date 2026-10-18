@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}コック「やっとみんなにオレのリョウリを{8207}ふるまえるよ！！」{8300}{94C8}コック「そうそう、そこのリサイクルボックスに{8207}良い物を入れておいたぜ！」{8300}{94C8}コック「オレの自信作だ！持って行ってくれ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Cook「At last I can serve my cooking to everyone!!{8300}{94C8}Cook「Oh yeah, I put something good in that Recycle Box over there!{8300}{94C8}Cook「It's my proudest creation! Take it with you!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev200F88_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{9201}ホンカクテキなチョウリダイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A professional-grade cooking station.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev200F88_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{9201}ホンカクテキなチョウリダイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A professional-grade cooking station.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev200F88_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev200F88_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev200F88_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}コック「おう！アンタか！！」{8300}{94C8}コック「あれからメニューに{9400}ランチを{8207}くわえたら、これが大人気！！」{8300}{94C8}コック「オレも今じゃ、ゆうめいリョウリ人さ！{8207}なにもかもアンタのおかげだ！{8207}ありがとう！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Cook「Hey! It's you!!{8300}{94C8}Cook「After that, I added the {9400} Lunch to the menu, and it's a huge hit!!{8300}{94C8}Cook「Now I'm a famous chef! It's all thanks to you! Thanks!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

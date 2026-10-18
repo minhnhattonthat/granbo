@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{9201}メッセージボードにはホテルのセンデンがながれている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The Message Board is showing hotel advertisements.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20126C_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}ワーク01のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20126C_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20126C_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20126C_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{8614}{94A8}「あら、ユーが{9400}ね！{8207}兄のグラッチェから話はきいてるわよ！」{8300}{8614}{94A8}「で、用は何かしら？{8207}ミーに{940A}を見てほしいの？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{8614}{94A8}Oh my, so you're {9400}! I've heard all about you from my brother Grazie!{8300}{8614}{94A8}So, what do you want? You want moi to look at your {940A}?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20126C_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20126C_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{8614}{94A8}「グランボを見てほしかったら{8207}いつでも来なさい、まってるわよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8614}{94A8}If you want moi to look at your Granbo, come by anytime. I'll be waiting!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20126C_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{8614}{94A8}「ほかの{940A}も見る？」{9200}\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{8614}{94A8}Shall moi look at another {940A}?{9200}{8D00}{8100}",
+   "status": "translated"
   }
  ]
 }

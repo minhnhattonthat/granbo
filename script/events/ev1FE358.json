@@ -174,7 +174,8 @@
     18
    ],
    "jp": "{8002}{861F}{94A5}「なんで{88BB}闇{8800}グランドチェンジを{8207}カイジョしちまったんだ！？」{8300}{860F}{94A5}「まぁ、町がこのジョウタイなら{8207}どちらにせよこの町の人間はエーゲさまに{8207}したがうしかねえだろうな！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Why'd the {88BB}Dark{8800} Grand Change get undone?!{8300}{860F}{94A5}Well, with the town in this state, the people here have no choice but to obey Boss Aegean either way!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_019",
@@ -182,7 +183,8 @@
     19
    ],
    "jp": "{8002}{860F}{94A5}「ふふふ、まだまだカイゾウは{8207}終わっちゃいないぜ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Heh heh heh, the remodeling's not over yet!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_020",
@@ -190,7 +192,8 @@
     20
    ],
    "jp": "{8002}{9201}にっくきスカイシャークの{9406}だ！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's that hateful Sky Shark {9406}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_021",
@@ -198,7 +201,8 @@
     21
    ],
    "jp": "{8002}{9201}地下にたまったスチームを外に逃がすソウチだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A device that lets out the steam built up underground.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_022",
@@ -206,7 +210,8 @@
     22
    ],
    "jp": "{8002}{9201}近くのショップのせんでん用カンバンだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}An advertising sign for a nearby shop.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_023",
@@ -214,7 +219,8 @@
     23
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_024",
@@ -222,7 +228,8 @@
     24
    ],
    "jp": "{8002}{9201}地下にたまったスチームを外に逃がすソウチだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A device that lets out the steam built up underground.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_025",
@@ -230,7 +237,8 @@
     25
    ],
    "jp": "{8002}{9201}近くのショップのせんでん用カンバンだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}An advertising sign for a nearby shop.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_026",
@@ -238,7 +246,8 @@
     26
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_027",
@@ -246,7 +255,8 @@
     27
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_028",
@@ -254,7 +264,8 @@
     28
    ],
    "jp": "{8002}{9201}地下にたまったスチームを外に逃がすソウチだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A device that lets out the steam built up underground.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_029",
@@ -262,7 +273,8 @@
     29
    ],
    "jp": "{8002}{9201}近くのショップのせんでん用カンバンだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}An advertising sign for a nearby shop.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_030",
@@ -270,7 +282,8 @@
     30
    ],
    "jp": "{8002}{94C8}少年セイバー「オレと勝負しな！！{8207}お前が勝ったら{8877}チッピー{8800}をやるぜ！」{8300}{94C8}少年セイバー「お前に勝ってオレの力を{8207}見せつけるんだ！さぁ、どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Battle me!! If you win, I'll give you a {8877}Chippy{8800}!{8300}{94C8}Kid Saver「I'm gonna beat you and show off my strength! So, what'll it be?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_031",
@@ -278,7 +291,8 @@
     31
    ],
    "jp": "{8002}{94C8}少年セイバー「げっ・・・{8207}お前・・・思ったより強いな・・・」{8300}{94C8}少年セイバー「ヤクソクどおり{8207}{8877}チッピー{8800}のデータボールをやるよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Geh... You're... stronger than I thought...{8300}{94C8}Kid Saver「Like I promised, here's the {8877}Chippy{8800} Data Ball!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_032",
@@ -286,7 +300,8 @@
     32
    ],
    "jp": "{8002}{94C8}少年セイバー「ふっ・・・スカイシャークを{8207}たおすのはこのオレだ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Hmph... I'm the one who's gonna take down Sky Shark!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_033",
@@ -294,7 +309,8 @@
     33
    ],
    "jp": "{8002}{94C8}少年セイバー「おいおい！{8207}戦う前から逃げ出そうってのか！？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Hey, hey! You're running away before we even fight?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_034",
@@ -302,7 +318,8 @@
     34
    ],
    "jp": "{8002}{94C8}少年セイバー「自信なくしたよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「I've lost all my confidence...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_035",
@@ -310,7 +327,8 @@
     35
    ],
    "jp": "{8002}{94C8}おばさん「ちょいとあんた、{8877}ククージャ{8800}を{8207}{8877}チッピー{8800}とコウカンしてくれないかい？」{8300}{94C8}おばさん「娘がどうしても{8877}チッピー{8800}がほしいって{8207}きかなくてね・・・」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Say, you there, would you trade me a {8877}Chippy{8800} for my {8877}Kukuja{8800}?{8300}{94C8}Lady「My daughter just won't stop asking for a {8877}Chippy{8800}...{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_036",
@@ -318,7 +336,8 @@
     36
    ],
    "jp": "{8002}{94C8}おばさん「ありがとう・・・{8207}それじゃコウカンしようか」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Thank you... Then let's make the trade.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_037",
@@ -326,7 +345,8 @@
     37
    ],
    "jp": "{8002}{94C8}おばさん「そうかい・・・{8207}じゃあ、よそをあたるよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「I see... Well, I'll look elsewhere...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_038",
@@ -334,7 +354,8 @@
     38
    ],
    "jp": "{8002}{94C8}おばさん「ありがとう・・・{8207}たすかったよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Thank you... You've really helped me out...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_039",
@@ -342,7 +363,8 @@
     39
    ],
    "jp": "{8002}{94C8}おばさん「だれか・・・{8877}チッピー{8800}を{8207}持っている人はいないかい？」{8300}{94C8}おばさん「{8877}チッピー{8800}を持っていたら{8207}声をかけておくれ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Isn't there anyone... who has a {8877}Chippy{8800}?{8300}{94C8}Lady「If you have a {8877}Chippy{8800}, please give me a shout...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_040",
@@ -350,7 +372,8 @@
     40
    ],
    "jp": "{8002}{94C8}おばさん「ありがとう！{8207}おれいにグランボを回復してやるよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Thank you! As thanks, I'll heal your Granbo!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_041",
@@ -358,7 +381,8 @@
     41
    ],
    "jp": "{8002}{94C8}オーナー「もうしわけありません・・・」{8300}{94C8}オーナー「{9408}にこの町は征服しないでおくと{8207}言われ、ついマがさしてしまいました」{8300}{94C8}オーナー「けっきょく町はこのありさまです・・・」{8300}{94C8}オーナー「・・・おねがいです、助けて下さい！」{8300}{94C8}オーナー「どんなキョウリョクでもします！」\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Owner「I'm terribly sorry...{8300}{94C8}Owner「{9408} told me she would leave this town unconquered, and I gave in to temptation.{8300}{94C8}Owner「And in the end, look at the state of the town...{8300}{94C8}Owner「...Please, I beg you, help us!{8300}{94C8}Owner「I'll cooperate in any way I can!{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_042",
@@ -366,7 +390,8 @@
     42
    ],
    "jp": "{8002}{94C8}オーナー「あ、ありがとうございます！{8207}ではさっそくホテルに行きましょう！」{8300}{94C8}オーナー「私は今でも{8207}スカイシャークのキョウリョク者という事に{8207}なっています」{8300}{94C8}オーナー「彼らも私なら入り口を開けるはずです」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Owner「Th-thank you so much! Then let's head to the hotel right away!{8300}{94C8}Owner「As far as they know, I'm still cooperating with Sky Shark.{8300}{94C8}Owner「They should open the entrance even for me.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_043",
@@ -374,7 +399,8 @@
     43
    ],
    "jp": "{8002}{94C8}オーナー「そうですか・・・でもあなたはケッキョク{8207}なかまを助けに行くのでしょう？」{8300}{94C8}オーナー「では、せめて私に入り口を開ける{8207}手つだいくらいはさせて下さい」{8300}{94C8}オーナー「私は今でも{8207}スカイシャークのきょうりょく者という事に{8207}なっています」{8300}{94C8}オーナー「彼らも私なら入り口を開けるはずです」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Owner「I see... But in the end, you'll go to rescue your friends anyway, won't you?{8300}{94C8}Owner「Then at least let me help you get the entrance open.{8300}{94C8}Owner「As far as they know, I'm still cooperating with Sky Shark.{8300}{94C8}Owner「They should open the entrance even for me.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_044",
@@ -382,7 +408,8 @@
     44
    ],
    "jp": "{8002}{94C8}オーナー「では私はホテルへつうじる{8207}カイダンの前でまっています」{8300}{94C8}オーナー「ホテルにトツニュウするジュンビが{8207}できたらカイダンの前に来て下さい」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Owner「Then I'll wait in front of the stairs that lead to the hotel.{8300}{94C8}Owner「When you're ready to storm the hotel, please come to the stairs.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_045",
@@ -390,7 +417,8 @@
     45
    ],
    "jp": "{8002}{94C8}オーナー「ジュンビはできましたか？」\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Owner「Are you ready?{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_046",
@@ -398,7 +426,8 @@
     46
    ],
    "jp": "{8002}{94C8}オーナー「では、行きましょう！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Owner「Then let's go!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_047",
@@ -406,7 +435,8 @@
     47
    ],
    "jp": "{8002}{94C8}オーナー「そうですか・・・{8207}では、ジュンビができたら{8207}また話しかけて下さい」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Owner「I see... Then please talk to me again once you're ready.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

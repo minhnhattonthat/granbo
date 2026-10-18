@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{861F}{94A5}「ううっ・・・やだなぁ・・・{8207}クリスタルの場所を変えろって{8207}言われたけど・・・」{8300}{861F}{94A5}「ダメだ・・・{8207}オレにはここに入るユウキがねぇ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Ugh... I hate this... They told me to move the crystals around, but...{8300}{861F}{94A5}It's no good... I don't have the guts to go in there!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev20777E_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20777E_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20777E_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev20777E_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

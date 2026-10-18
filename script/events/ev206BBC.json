@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}コック「スカイシャークの命令で{8207}食事を作らされるなんて・・・{8207}ちくしょう！！」{8300}{94C8}コック「そういえば、ヒトジチに食事をはこんだ時{8207}こどもを3人見かけたな・・・」{8300}{94C8}コック「え・・・？{8207}どんな子だったかって？」{8300}{94C8}コック「おとなしそうな女の子に、元気な女の子{8207}・・・それに太目の男の子だったよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Cook「Sky Shark is making me cook for them... Darn it!!{8300}{94C8}Cook「Come to think of it, when I took food to the hostages, I saw three kids...{8300}{94C8}Cook「Huh...? What were they like?{8300}{94C8}Cook「A quiet-looking girl, a lively girl... and a chubby boy.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev206BBC_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{9201}ホンカクテキなチョウリダイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A real professional kitchen counter.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev206BBC_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev206BBC_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev206BBC_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

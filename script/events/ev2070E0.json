@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おじいさん「ん・・・君は？」{8300}{94C8}おじいさん「なんと！そのわかさで{8207}スカイシャークと戦っていると！？」{8300}{94C8}おじいさん「ワシもマゴのためにスカイシャークを{8207}おいだそうとここまで来たんじゃが{8207}もうゲンカイじゃ・・・」{8300}{94C8}おじいさん「たのむ！ワシにかわって{8207}スカイシャークをおいだしてくれ！！」{8300}{94C8}おじいさん「そうじゃ！ワシの持ってきた{8207}{8833}全ENカプセル中{8800}も持っていくといい！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Hm... And who are you?{8300}{94C8}Old Man「What?! At your age, you're fighting Sky Shark?!{8300}{94C8}Old Man「I came all this way to drive Sky Shark out for my grandchild's sake too, but I've reached my limit...{8300}{94C8}Old Man「Please! Drive Sky Shark out in my place!!{8300}{94C8}Old Man「I know! Why don't you take the {8833}Team EN Capsule 2{8800} I brought along?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev2070E0_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}おじいさん「よし、ではわたすぞ！{8207}がんばってスカイシャークをこの大陸から{8207}おいだしてくれ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「All right, here you go! Do your best and drive Sky Shark off this continent!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2070E0_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おじいさん「そ、そうか？{8207}やくにたつと思うんじゃが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「R-really? I thought it would come in handy...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2070E0_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}おじいさん「では、がんばるんじゃぞ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Well then, give it your all!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2070E0_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}ワーク00のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 00 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2070E0_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}ワーク01のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2070E0_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2070E0_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

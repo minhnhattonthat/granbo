@@ -12,7 +12,8 @@
     0
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2066AC_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2066AC_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2066AC_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2066AC_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2066AC_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{9201}カギがかかっていて入る事ができない！！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's locked, so you can't get in!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2066AC_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{9201}にっくきスカイシャークの{9406}だ！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's that rotten Sky Shark {9406}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2066AC_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2066AC_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2066AC_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2066AC_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2066AC_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2066AC_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{94C8}オーナー「私が子分をおびき出しますから{8207}その間にホテルの中に入って下さい」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Owner「I'll lure the Grunts out, so slip into the hotel while they're gone.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2066AC_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{94C8}オーナー「ホテルのオーナーです{8207}ここを開けて下さい」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Owner「I'm the hotel owner. Please open up!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2066AC_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{860F}{94A5}「なんのようだっ！？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}What do you want?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2066AC_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{94C8}オーナー「{9400}を町の外で見つけたんですっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Owner「I found {9400} outside of town!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2066AC_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{860F}{94A5}「何っ、一体どこで見たんだ！？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}What?! Where exactly did you see 'em?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2066AC_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{94C8}オーナー「町の外ですっ！！！」{8300}{94C8}オーナー「どうやらグランドチェンジで{8207}大陸を元にもどしたのも{8207}ヤツのようですっ！」{8300}{94C8}オーナー「とにかくあんないしますので{8207}ついてきて下さいっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Owner「Outside of town!!{8300}{94C8}Owner「And it looks like that's the one who used Grand Change to put the continent back the way it was, too!{8300}{94C8}Owner「Anyway, I'll show you the way, so follow me!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2066AC_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{860F}{94A5}「わ、わかった！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}R-right!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

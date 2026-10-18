@@ -170,6 +170,25 @@ function W.menu_pick(top, sub)
     W.wait(function() return W.r32(A.sub) == 6 end, "menu screen")
   end
 end
+-- Event programs (mode 9, id at game +0x35; the event-script command at 0x080655C4 sets it with +0x34 = 1):
+-- 2/11 intro cutscenes, 5 shop list, 13 area map, 15 tournament loss, 17 prologue narration, 24 COMPLETE...
+-- (survey of ids 0-39: docs/re/debug.md). Some need state a cold boot lacks and show garbage.
+function W.program(id)
+  W.wait(W.in_field, "field before program")
+  W.w8(A.mode + 0x35, id); W.w8(A.mode + 0x34, 1)
+  W.wait(function() return W.r32(A.mode) == 9 end, "program " .. id)
+  W.wait(function() return not W.screen_lit() end, "program screen black")
+  W.wait(W.screen_lit, "program screen lit")
+  W.wait(W.fade_done, "program fade-in")
+end
+-- Programs start black and fade in: lit = more than 16 non-black BG palette colours.
+function W.screen_lit()
+  local n = 0
+  for i = 0, 0x1FE, 2 do
+    if emu.read16(i, emu.memType.gbaPaletteRam) & 0x7FFF ~= 0 then n = n + 1 end
+  end
+  return n > 16
+end
 -- On a "whose ...?" Granbo picker (game +8 == 2), A opens the page for the first Granbo (+8 == 3).
 function W.menu_enter()
   W.wait(function() return W.r8(A.menu_page) == 2 end, "Granbo picker")

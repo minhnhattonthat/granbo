@@ -141,6 +141,12 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- Menus in dialogue: のらない (elevator) -> Cancel; floors "2F"; keep the JP's spacing runs. メッセージボード -> Message
+  Board (capitalised). 通信対戦 -> link battle (menu "Link Battle"); バトルスタイル -> Battle Style; クリスタル -> crystal;
+  VIP用エレベーター -> VIP elevator; 闇グランドチェンジ -> Dark Grand Change; ルーレットボム強 -> Roulette Bomb 3;
+  パンチ強 -> Punch 3; バナナバクダン -> Banana Bomb; おんせんくみあい -> Hot Spring Association; Xより -> "From X".
+  Granbo/pets: ウッキィ -> Ukky (pet), パタフラン -> Patafran, マーキエリ -> Markieri, アルマル -> Armaru.
+  Grazie/Grazio say "Ciao!!" for それじゃあね; グラッチェの妹 is Grazio (sister; "my brother Grazie").
 - ゲージカノン中 -> Gauge Cannon 2; プロハント -> Pro Hunt; ヘッドハマー -> Head Hammer; オンセン -> hot spring;
   SPA stays SPA; dog cry ワン -> "Woof!".
 - オウオウ -> Owow (sea-lion species; Ashikamaru is one; cry オウッ -> "Ork!"); ストップアタック -> Stop Attack;

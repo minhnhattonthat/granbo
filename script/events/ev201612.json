@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{9201}メッセージボードにはホテルのセンデンがながれている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The Message Board is playing an ad for the hotel.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201612_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev201612_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev201612_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev201612_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}おばさん「この子、あんたにおねがいが{8207}あるらしいんだ・・・」{8300}{94C8}おばさん「きいてやってくれないか？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「This kid says she has a favor to ask you...{8300}{94C8}Lady「Won't you hear her out?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201612_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}女の子「ねぇ、私の{88BB}マーキエリ{8800}を{8207}{8833}アルマル{8800}とコウカンして！！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Hey, trade me an {8833}Armaru{8800} for my {88BB}Markieri{8800}!!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev201612_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}女の子「ありがとっ！{8207}それじゃあコウカンねっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thank you! Okay, let's trade!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201612_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}女の子「う～ん、ザンネン！{8207}気が変わったら、また話しかけてね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Aww, too bad! If you change your mind, come talk to me again!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201612_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}女の子「ホントにありがとっ！{8207}これ、前からほしかったのよ～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thank you so much! I've wanted one of these for ages!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201612_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}女の子「{8833}アルマル{8800}は{8207}持ってないんだ・・・」{8300}{94C8}女の子「{8833}アルマル{8800}を手に入れたら{8207}また話しかけてね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「You don't have an {8833}Armaru{8800}...{8300}{94C8}Girl「Once you get an {8833}Armaru{8800}, come talk to me again!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201612_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}女の子「ありがとう！{8207}おれいにグランボを回復してあげるね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thank you! To say thanks, I'll heal your Granbo!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

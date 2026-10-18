@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}男の子「うわーっ、でっけえテーブル！！{8207}ウチにあるテーブルの10ばいは{8207}でっかいぞーーー！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Whoa, what a huge table!! It's ten times biiigger than the table at our house!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev200C20_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}おじいさん「こ、これこれ・・・{8207}あまりはずかしい事を言うでない！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「N-now, now... Don't go saying such embarrassing things!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev200C20_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{9201}きれいなエがかざられている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A beautiful painting is on display.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev200C20_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev200C20_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev200C20_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev200C20_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev200C20_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}男の子「はあ・・・はあ・・・{8207}オレ・・・なんでテーブルのまわりを{8207}走ってるんだろう？」{8300}{94C8}男の子「なぁ・・・オレが・・・{8207}なんで走ってるか・・・知ってるかい？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Huff... huff... Why am I... running around the table?{8300}{94C8}Boy「Hey... do you know... why I'm... running?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev200C20_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}おじいさん「まったく・・・{8207}あきれたマゴじゃわい！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Good grief... What a ridiculous grandson!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev200C20_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}オーナー「{9400}さまをおつれしました」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Owner「I have brought {9400}.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev200C20_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}女の声「ふふふ・・・まちくたびれたわよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Voice「Fufufu... I'm tired of waiting.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev200C20_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8001}{8608}{949E}「ひさしぶりね、ボウヤ{8207}私の事をわすれたとは言わせないわよ」{8300}{8618}{949E}「あなた・・・どこまで私のカリブさまの{8207}ジャマをしたら気がすむの？」{8300}{8608}{949E}「・・・まぁ、それも今日で終わり！」{8300}{8608}{949E}「ボウヤに、おにあいの場所を{8207}用意してあげたわ！」{8300}{8618}{949E}「せいぜいそこでハンセイする事ね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8608}{949E}Long time no see, little boy. Don't you dare tell me you've forgotten me.{8300}{8618}{949E}You... Just how long do you plan to keep getting in my Lord Caribbean's way?{8300}{8608}{949E}...Well, it all ends today!{8300}{8608}{949E}I've prepared a place that suits a little boy like you!{8300}{8618}{949E}You can reflect on what you've done there all you like!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

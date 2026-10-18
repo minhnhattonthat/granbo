@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}けいびいん「本日ホテルはカシキリです{8207}オーナーがおつれした方しか入れません」{8300}{94C8}けいびいん「中に入りたいのでしたら{8207}オーナーに声をおかけ下さい」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Guard「The hotel is reserved for a private party today. Only guests brought by the owner may enter.{8300}{94C8}Guard「If you wish to go inside, please speak to the owner.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FFEE0_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}けいびいん「本日ホテルはカシキリです{8207}オーナーがおつれした方しか入れません」{8300}{94C8}けいびいん「中に入りたいのでしたら{8207}オーナーに声をおかけ下さい」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Guard「The hotel is reserved for a private party today. Only guests brought by the owner may enter.{8300}{94C8}Guard「If you wish to go inside, please speak to the owner.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FFEE0_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}けいびいん「これはこれは{9400}さま！！{8207}どうもありがとうございました！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Guard「Why, if it isn't {9400}!! Thank you ever so much!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FFEE0_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}けいびいん「これはこれは{9400}さま！！{8207}どうもありがとうございました！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Guard「Why, if it isn't {9400}!! Thank you ever so much!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FFEE0_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}ワーク00のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 00 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FFEE0_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}ワーク01のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FFEE0_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FFEE0_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FFEE0_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}けいびいん「これはこれは{9400}さま！！{8207}おウワサはきいていますよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Guard「Why, if it isn't {9400}!! We've heard all about you!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FFEE0_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}けいびいん「これはこれは{9400}さま！！{8207}オーナーが会いたがっていましたよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Guard「Why, if it isn't {9400}!! The owner has been wanting to meet you!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FFEE0_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}オーナー「あなたが{9400}さまですね！{8207}私はこのホテルのオーナーです」{8300}{94C8}オーナー「あなたのウワサはきいていますよ！」{8300}{94C8}オーナー「なんでも、スカイシャークのカンブを{8207}次々とたおしているとか」{8300}{94C8}オーナー{9300}「ぜひ私のホテルにおこし下さい！」\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Owner「You must be {9400}! I am the owner of this hotel.{8300}{94C8}Owner「I've heard all about you!{8300}{94C8}Owner「They say you've been defeating Sky Shark bosses one after another.{8300}{94C8}Owner{9300}「Please, do come visit my hotel!{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FFEE0_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}オーナー「さぁ、どうぞどうぞ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Owner「Come in, come in!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FFEE0_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{94C8}オーナー「そうですか・・・」{8300}{94C8}オーナー「私はホテルの前にいますから{8207}気が変わったら、もう一度声をおかけ下さい」{8300}{94C8}オーナー「すぐにホテルの中へゴアンナイします」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Owner「I see...{8300}{94C8}Owner「I'll be in front of the hotel, so if you change your mind, please speak to me again.{8300}{94C8}Owner「I'll show you inside right away.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FFEE0_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{94C8}オーナー「ホテルの中に入られますか？」\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Owner「Would you like to go inside the hotel?{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FFEE0_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94C8}オーナー「さぁ、どうぞどうぞ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Owner「Come in, come in!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FFEE0_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{94C8}オーナー「そうですか・・・」{8300}{94C8}オーナー「私はホテルの前にいますから{8207}気が変わったら、もう一度声をおかけ下さい」{8300}{94C8}オーナー「すぐにホテルの中へゴアンナイします」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Owner「I see...{8300}{94C8}Owner「I'll be in front of the hotel, so if you change your mind, please speak to me again.{8300}{94C8}Owner「I'll show you inside right away.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

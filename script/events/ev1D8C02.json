@@ -102,7 +102,7 @@
     10
    ],
    "jp": "{8001}{8614}{949B}「いい？{8207}それじゃあ、グランドチェンジのしくみを{8207}セツメイするわよ」{8300}{8614}{949B}「まず、ここ{8877}{941E}{8800}は{8207}グランドチェンジなしで{8207}『{8877}木{8800}』ゾクセイになっているわ！」{8300}{8614}{949B}「では、ここでシツモン！{8207}{8877}木{8800}ゾクセイに勝つのはどのゾクセイかしら？」{9200}\n{8E03}                   {8F01}{8833}火 {8F00}{8855}水 {8F00}{8877}木{8100}",
-   "en": "{8001}{8614}{949B}Ready? Then let me explain how Grand Change works.{8300}{8614}{949B}First of all, {8877}{941E}{8800} here is of the \"{8877}Wood{8800}\" element without any Grand Change!{8300}{8614}{949B}Now, a question for you! Which element beats the {8877}Wood{8800} element?{9200} {8E03} {8F01}{8833}Fire {8F00}{8855}Water {8F00}{8877}Wood{8100}",
+   "en": "{8001}{8614}{949B}Ready? Then let me explain how Grand Change works.{8300}{8614}{949B}First of all, {8877}{941E}{8800} here is of the \"{8877}Wood{8800}\" element without any Grand Change!{8300}{8614}{949B}Now, a question for you! Which element beats the {8877}Wood{8800} element?{9200} {8E03}                   {8F01}{8833}Fire {8F00}{8855}Water {8F00}{8877}Wood{8100}",
    "status": "translated"
   },
   {
@@ -282,7 +282,7 @@
     30
    ],
    "jp": "{8002}    {9300}{9201}{8833}新しいバトルメカエッグ{8800}を手にいれた\n{8900}{9200}    {9300}{9201}{8855}バズメッカ{8800}のデータボールがはまっている{8400}{8100}",
-   "en": "{8002}{9300}{9201}You got a {8833}new Battle Mecha Egg{8800}! {8900}{9200} {9300}{9201}It holds a {8855}Buzzmecha{8800} Data Ball.{8400}{8100}",
+   "en": "{8002}{9300}{9201}You got a {8833}new Battle Mecha Egg{8800}! {8900}{9200}    {9300}{9201}It holds a {8855}Buzzmecha{8800} Data Ball.{8400}{8100}",
    "status": "translated"
   }
  ]

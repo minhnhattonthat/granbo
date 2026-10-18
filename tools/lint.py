@@ -47,9 +47,9 @@ def issues(e, kind):
         if jp.count("{8300}") != en.count("{8300}"):
             out.append(f"page count {en.count('{8300}') + 1} != JP {jp.count('{8300}') + 1} (keep one page per JP page;"
                        " the build adds pages when text overflows)")
-        inline = re.findall(r"\{94(?:C[89A-F]|[D-F][0-9A-F])\}([^{「]*)「?", en)
+        inline = re.findall(r"\{94(?:C[89A-F]|[D-F][0-9A-F])\}([^{「]*)(?:\{[0-9A-F]{4}\})*「?", en)
         if len(re.findall(r"\{94(?:C[89A-F]|[D-F][0-9A-F])\}", jp)) and any(
-                not re.search(r"\{94(?:C[89A-F]|[D-F][0-9A-F])\}[^{「]*「", p)
+                not re.search(r"\{94(?:C[89A-F]|[D-F][0-9A-F])\}[^{「]*(?:\{[0-9A-F]{4}\})*「", p)
                 for p in fit.split_pages(en) if re.search(r"\{94(?:C[89A-F]|[D-F][0-9A-F])\}", p)):
             out.append("inline speaker: write the name right after {94C8} and end it with 「")
         for name in inline:

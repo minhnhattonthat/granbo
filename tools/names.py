@@ -21,7 +21,7 @@ SPEAKERS = {
     "へんそう子分": "Grunt", "子分店長": "Grunt", "お兄さん": "Lad", "女の声": "Voice", "グランボ": "Granbo",
     "大人の声": "Voice",
 }
-INLINE = re.compile(r"(\{94(?:C[89A-F]|[D-F][0-9A-F])\})([^{「]*)「")
+INLINE = re.compile(r"(\{94(?:C[89A-F]|[D-F][0-9A-F])\})([^{「]*)((?:\{[0-9A-F]{4}\})*)「")  # label, codes, 「
 
 
 def speaker(page_header):
@@ -38,4 +38,4 @@ def speaker(page_header):
 
 def english_header(h):
     """Page header with an inline JP label replaced by its English label."""
-    return INLINE.sub(lambda m: m.group(1) + SPEAKERS[m.group(2)] + "「", h)
+    return INLINE.sub(lambda m: m.group(1) + SPEAKERS[m.group(2)] + m.group(3) + "「", h)

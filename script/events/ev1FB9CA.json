@@ -138,7 +138,7 @@
     14
    ],
    "jp": "{8002}{94C8}店長の子ども「お客さんがこなくなって{8207}父ちゃんがやる気をなくしちゃった・・・{8207}今はボクががんばらないと・・・」{8300}{94C8}店長の子ども「いらっしゃいませ！{8207}どのようなごようけんですか？」{9200}\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": "{8002}{94C8}Kid「Customers stopped coming, and Dad lost all his drive... It's up to me now...{8300}{94C8}Kid「Welcome! How may I help you?{9200} {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "en": "{8002}{94C8}Kid「Customers stopped coming, and Dad lost all his drive... It's up to me now...{8300}{94C8}Kid「Welcome! How may I help you?{9200} {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
    "status": "translated"
   },
   {
@@ -147,7 +147,7 @@
     15
    ],
    "jp": "{8002}{94C8}店長の子ども「ほかに何かございますか？」\n\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": "{8002}{94C8}Kid「Is there anything else? {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "en": "{8002}{94C8}Kid「Is there anything else?  {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
    "status": "translated"
   },
   {
@@ -156,7 +156,7 @@
     16
    ],
    "jp": "{8002}{94C8}店長「いらっしゃいませ！{8207}どのようなごようけんですか？」{9200}\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": "{8002}{94C8}Manager「Welcome! How may I help you?{9200} {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "en": "{8002}{94C8}Manager「Welcome! How may I help you?{9200} {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
    "status": "translated"
   },
   {
@@ -165,7 +165,7 @@
     17
    ],
    "jp": "{8002}{94C8}店長「ほかに何かございますか？」\n\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": "{8002}{94C8}Manager「Is there anything else? {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "en": "{8002}{94C8}Manager「Is there anything else?  {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
    "status": "translated"
   }
  ]

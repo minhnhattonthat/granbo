@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{9201}メッセージボードに{8207}メッセージが入っている{8300}『よくお休みになれましたか？』{9200}{8214}{9201}オーナーより{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There's a message on the Message Board.{8300}\"Did you sleep well?\"{9200} {9201}From the Owner{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{9201}とてもゴウカなベッドだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a very luxurious bed.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{9201}すわりごこちの良さそうなソファーだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a sofa that looks really comfy.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{9201}きれいなエがかざられている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A lovely painting is hanging here.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}かかりいん「おっと、入らないで下さい！」{8300}{94C8}かかりいん「ここは{9400}さまが{8207}とまったヘヤとしてエイキュウホゾン{8207}される事になったのです！！」{8300}{94C8}かかりいん「・・・・・・え？」{8300}{94C8}かかりいん「あ、あなたがその{9400}さま！？{8207}・・・こ、これはシツレイしました！{8207}どうぞ、おくつろぎ下さい！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「Whoa, please don't go in!{8300}{94C8}Staff「This room is to be preserved forever as the room where {9400} stayed!!{8300}{94C8}Staff「......Huh?{8300}{94C8}Staff「Y-you're THE {9400}?! ...P-pardon me! Please, make yourself at home!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{8603}{9499}「{9400}さん、おきてください！{8207}良いニュースが2つあるんです！！」{8300}{8603}{9499}「まず1つ目ですが{8207}さっきグランボセイバー本部から{8207}レンラクがあって・・・」{8300}{8613}{9499}「{9400}さんが{8207}通信対戦で『{8833}グランボバトル{8800}』をする{8207}キョカが出たそうです！！」{8300}{8613}{9499}「通信対戦のバトルスタイルの中に{8207}『{8833}グランボバトル{8800}』のコウモクがツイカ{8800}{8207}されているはずですよ！！」{8300}{8613}{9499}「これで他のセイバーのみなさんと{8207}{8833}いつでもグランボをかけて戦えます{8800}ね！」{8300}{8613}{9499}「きっと{9400}さんのこれまでの{8207}カツヤクがみとめられたんですよ！」{8300}{8603}{9499}「それと、2つ目のニュースですが・・・」{8300}{8613}{9499}「じつは{9400}さんに会いたいと{8207}いう方が来てるんです！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}{9400}, please wake up! I have two pieces of good news!!{8300}{8603}{9499}First, a little while ago, Granbo Saver HQ contacted us...{8300}{8613}{9499}They say you've been given permission to have \"{8833}Granbo battles{8800}\" in link battles, {9400}!!{8300}{8613}{9499}A \"{8833}Granbo Battle{8800}\" option should have been added{8800} to the link battle Battle Styles!!{8300}{8613}{9499}Now you can {8833}battle the other Savers with Granbo on the line anytime{8800}!{8300}{8613}{9499}I'm sure it's because they recognized everything you've done so far, {9400}!{8300}{8603}{9499}And as for the second piece of news...{8300}{8613}{9499}Actually, someone is here who wants to meet you, {9400}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8001}{8614}{949B}「{9400}、元気にしてた～？{8207}ミーよ、ミー！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}{9400}, have you been well~? It's moi, moi!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8001}{8603}{9499}「こ、この人は・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8603}{9499}Th-this person is...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8001}{8602}{9498}「ど、どうしてここにいるんだな～？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}Wh-why are you here, y'know~?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8001}{8610}{9497}「あんた、一体何者なの！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8610}{9497}Just who are you, anyway?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8001}{8614}{949B}「まっ！なんて子なの！！{8207}このグランドチェンジ研究家の{8207}グラッチェの事を知らないなんて！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}Well! What a child!! Imagine not knowing moi, Grazie, the Grand Change researcher!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8001}{8603}{9499}「グ、グランドチェンジの研究家・・・{8207}なんですか？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8603}{9499}A G-Grand Change... researcher, you say?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8001}{8602}{9498}「{8877}ウッディーナ{8800}で{9400}くんが{8207}グランドチェンジするのを手助けして{8207}くれたんだよね～」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}She helped {9400} do the Grand Change in {8877}Woodina{8800}~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8001}{8601}{9497}「うそでしょ・・・しんじらんない！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8601}{9497}No way... I don't believe it!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8001}{8614}{949B}「しつれいな子達ね、まったく！」{8300}{8614}{949B}「まぁ、いいわ・・・{8207}今日は{9400}にみみよりな{8207}ジョウホウを持ってきたのよ」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}Such rude children, honestly!{8300}{8614}{949B}Well, never mind... Today I've brought {9400} some juicy information.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8001}{8614}{949B}「あれからミーはグランドチェンジタワーの{8207}中で研究をつづけていてね・・・」{8300}{8614}{949B}「そして見つけたのよ！{8207}グランドチェンジタワーのヒミツが{8207}キロクされたディスクを！！」{8300}{8614}{949B}「それをしらべたら大変な事がわかったの！」{8300}{8614}{949B}「いい？{8207}よ～くききなさいよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}Since then, moi has kept up my research inside the Grand Change Tower...{8300}{8614}{949B}And I found it! A disk recording the secrets of the Grand Change Tower!!{8300}{8614}{949B}When I studied it, I learned something incredible!{8300}{8614}{949B}Ready? Now listen ve~ry carefully!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8001}{8614}{949B}「じつはこの世界のどこかに{8207}グランドチェンジタワーのパワーアップ{8207}バージョンがあるらしいの！」{8300}{8614}{949B}「その名を・・・{8833}ワールドチェンジタワー{8800}！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}It seems that somewhere in this world, there's a powered-up version of the Grand Change Tower!{8300}{8614}{949B}And its name is... the {8833}World Change Tower{8800}!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8001}{8610}{9497}「わーるどチェンジたわ～？何よそれ！{8207}アタシ達、そんなジョウダンをきいている{8207}ヒマはないんだけど！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8610}{9497}Wo~rld Change To~wer? What's that supposed to be?! We don't have time to listen to jokes like that!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8001}{8602}{9498}「それにグランドチェンジタワーの{8207}パワーアップバージョンって{8207}一体どこがちがうのかな～？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}And what's so different about a powered-up version of the Grand Change Tower, anyway~?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8001}{8614}{949B}「そ、そうね・・・グランドチェンジタワー{8207}より広いハンイを一気に変えられるん{8207}じゃないかしら？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}W-well... Maybe it can change a wider area all at once than the Grand Change Tower can?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8001}{8610}{9497}「バッカバッカし～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8610}{9497}What a load of nonsense~!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8001}{8601}{9497}「シズク・・・だまりこんじゃって{8207}一体どうしたのよ？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8601}{9497}Shizuku... you've gone all quiet. What's wrong?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8001}{8601}{9497}「ねぇ、シズクったら！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8601}{9497}Hey, Shizuku!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_026",
@@ -220,7 +246,8 @@
     26
    ],
    "jp": "{8001}{8603}{9499}「えっ？・・・あっ、はい・・・？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8603}{9499}Huh?... Oh, yes...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_027",
@@ -228,7 +255,8 @@
     27
    ],
    "jp": "{8001}{8601}{9497}「ちょっとちょっと、しっかりしてよね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8601}{9497}Come on, come on, pull yourself together!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_028",
@@ -236,7 +264,8 @@
     28
    ],
    "jp": "{8001}{8614}{949B}「・・・もしかしてユーは{8207}ワールドチェンジタワーの事を{8207}何か知っているの？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}...Could it be that you know something about the World Change Tower?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_029",
@@ -244,7 +273,8 @@
     29
    ],
    "jp": "{8001}{8603}{9499}「え？・・・い、いえ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8603}{9499}Huh?... N-no...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_030",
@@ -252,7 +282,8 @@
     30
    ],
    "jp": "{8001}{8614}{949B}「・・・まぁ、そりゃそうよね」{8300}{8614}{949B}「ユーみたいな子どもが{8207}知っているわけがないわ」{8300}{8614}{949B}「で、話を元にもどすけど・・・」{8300}{8614}{949B}「グランドチェンジタワーの入り口に{8207}モンスターのすがたをかたどったパネルが{8207}かかっているのは知ってる？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}...Well, of course not.{8300}{8614}{949B}A child like you couldn't possibly know.{8300}{8614}{949B}Anyway, back to what I was saying...{8300}{8614}{949B}Do you know about the panel shaped like a monster that hangs at the entrance of the Grand Change Tower?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_031",
@@ -260,7 +291,8 @@
     31
    ],
    "jp": "{8001}{8602}{9498}「あ、オイラ見た事あるよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}Oh, I've seen that!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_032",
@@ -268,7 +300,8 @@
     32
    ],
    "jp": "{8001}{8610}{9497}「それがどーしたって言うのよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8610}{9497}So what about it?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_033",
@@ -276,7 +309,8 @@
     33
    ],
    "jp": "{8001}{8614}{949B}「どうもそのモンスターが{8207}ワールドチェンジタワーに何らかの{8207}かかわりを持っているようなのよ」{8300}{8614}{949B}「本物のモンスターがいるわけは{8207}ないから、おそらくはモンスターがたの{8207}グランボ・・・」{8300}{8614}{949B}「でも、モンスターがたのグランボなんて{8207}きいた事がないわ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}It seems that monster has some kind of connection to the World Change Tower.{8300}{8614}{949B}There can't be a real monster, so most likely it's a monster-type Granbo...{8300}{8614}{949B}But moi has never heard of a monster-type Granbo...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_034",
@@ -284,7 +318,8 @@
     34
    ],
    "jp": "{8001}{8602}{9498}「モンスターがたって・・・オイラ達が{8207}のっているスカイシップをおそった{8207}でっかいイカみたいなヤツの事？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}Monster-type... You mean that huge squid-like thing that attacked the Skyship we were on?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_035",
@@ -292,7 +327,8 @@
     35
    ],
    "jp": "{8001}{8614}{949B}「ユー達は見た事があるの？」{8300}{8614}{949B}「たしか{8855}ウォーティア{8800}の{8207}グランドチェンジタワーにかかっていた{8207}パネルのエは・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}You've seen it?{8300}{8614}{949B}If I remember right, the picture on the panel at the Grand Change Tower in {8855}Wateria{8800} was...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_036",
@@ -300,7 +336,8 @@
     36
    ],
    "jp": "{8001}{8610}{9497}「大きなイカのグランボだったわ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8610}{9497}A big squid Granbo!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_037",
@@ -308,7 +345,8 @@
     37
    ],
    "jp": "{8001}{8614}{949B}「どうやらまちがいないみたいね」{8300}{8614}{949B}「こうしちゃいられない！{8207}ミーは研究室にもどって、{8207}研究をつづけるわ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}Looks like there's no mistake.{8300}{8614}{949B}No time to waste! Moi is going back to the lab to continue my research!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_038",
@@ -316,7 +354,8 @@
     38
    ],
    "jp": "{8001}{8614}{949B}「そうそう、ここに来るトチュウに{8207}きいたんだけど・・・」{8300}{8614}{949B}「スカイシャークの連中、今度は{8207}{8877}木の大陸フォレスティア{8800}にスガタを{8207}あらわしたそうよ！」{8300}{8614}{949B}「それと、ミーのブラザーのグラッチョが{8207}今このホテルにとまっているの！！」{8300}{8614}{949B}「グラッチョもミーと同じ研究家だから{8207}グランボのしんかについては彼に{8207}話をきいてみるのもいいかもね！」{8300}{8614}{949B}「グラッチョはこのホテルの{8207}{8833}3Fにある大きなヘヤ{8800}にとまっているわ！」{8300}{8614}{949B}「それじゃあね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}Oh yes, I heard this on my way here...{8300}{8614}{949B}Those Sky Shark people have now shown up on {8877}the Wood Continent, Forestia{8800}!{8300}{8614}{949B}Also, my brother Grazio is staying at this very hotel!!{8300}{8614}{949B}Grazio is a researcher just like moi, so you might ask him about Granbo evolution!{8300}{8614}{949B}Grazio is staying in the {8833}big room on 3F{8800} of this hotel!{8300}{8614}{949B}Ciao!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_039",
@@ -324,7 +363,8 @@
     39
    ],
    "jp": "{8001}{8601}{9497}「あいつの言ってる事が本当かどうかは{8207}わからないけど・・・」{8300}{8601}{9497}「とりあえず今はスカイシャークが{8207}あらわれたっていう{8877}フォレスティア{8800}に{8207}むかうしかないんじゃない？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8601}{9497}I don't know if what she said is true or not...{8300}{8601}{9497}But for now, don't we have to head to {8877}Forestia{8800}, where Sky Shark showed up?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_040",
@@ -332,7 +372,8 @@
     40
    ],
    "jp": "{8001}{8602}{9498}「うん、そうだね～」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}Yeah, guess so~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_041",
@@ -340,7 +381,8 @@
     41
    ],
    "jp": "{8001}{8603}{9499}「それじゃ、{9400}さん・・・{8207}私達は先にスカイポートに向かっています」{8300}{8603}{9499}「{9400}さん、できたら一度通信対戦で{8207}{8833}グランボバトル{8800}をためしてみてくださいね」{8300}{8603}{9499}「通信対戦する時は本体のデンゲンがOFFの{8207}ジョウタイで通信ケーブルをつないだ後{8207}デンゲンをONにして・・・」{8300}{8603}{9499}「ゲームスタート後{8833}Bボタン{8800}で{8207}データパッドをひらき・・・」{8300}{8603}{9499}「システムコマンドから『{8833}通信対戦{8800}』を{8207}えらんで下さい」{8300}{8603}{9499}「ルールを決めるガメンの『{8833}バトルスタイル{8800}』{8207}の中に『{8833}グランボバトル{8800}』が{8207}ついかされているはずです」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8603}{9499}Well then, {9400}... We'll go on ahead to the Skyport.{8300}{8603}{9499}{9400}, if you can, please try a {8833}Granbo battle{8800} in a link battle sometime.{8300}{8603}{9499}For a link battle, connect the Link Cable while the system's power is OFF, then turn the power ON...{8300}{8603}{9499}After the game starts, press the {8833}B Button{8800} to open the Data Pad...{8300}{8603}{9499}and choose \"{8833}Link Battle{8800}\" from the System commands.{8300}{8603}{9499}\"{8833}Granbo Battle{8800}\" should have been added under \"{8833}Battle Style{8800}\" on the rule-setting screen.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev201FA0_042",
@@ -348,7 +390,8 @@
     42
    ],
    "jp": "{8001}{8601}{9497}「ほら、シズクも何か言ってやんなよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8601}{9497}Come on, Shizuku, you say something to her too!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

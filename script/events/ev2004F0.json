@@ -14,7 +14,8 @@
     0
    ],
    "jp": "{8002}{94C8}かかりいん「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2004F0_001",
@@ -22,7 +23,8 @@
     1
    ],
    "jp": "{8002}{94C8}かかりいん「そうそう、ホテルのかくヘヤに{8207}{940A}セイバーのみなさんのための{8207}アイテムを新たにおきました！」{8300}{94C8}かかりいん「きっとやくにたつと思うので{8207}良かったら持って行って下さい！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「Oh yes, we've put new items in each of the hotel's rooms for all you {940A} Savers!{8300}{94C8}Staff「I'm sure they'll come in handy, so please feel free to take them!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2004F0_002",
@@ -30,7 +32,8 @@
     2
    ],
    "jp": "{8002}{94C8}かかりいん「この大陸に平和がもどったおかげで{8207}たくさんのお客さんが来られました！」{8300}{94C8}かかりいん「良かったら会って行かれてはどうですか？{8207}おれいを言いたい人もいるでしょうし」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「Thanks to peace returning to this continent, lots of guests have come!{8300}{94C8}Staff「Why not go and meet them? I'm sure some of them would like to thank you.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2004F0_003",
@@ -38,7 +41,8 @@
     3
    ],
    "jp": "{8002}{9201}どのフロアに行きますか？{9200}\n\n{8E05}       {8F01}3F {8F00}4F {8F00}5F {8F00}6F {8F02}のらない {8100}",
-   "en": ""
+   "en": "{8002}{9201}Which floor?{9200}  {8E05}       {8F01}3F {8F00}4F {8F00}5F {8F00}6F {8F02}Cancel{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2004F0_004",
@@ -46,7 +50,8 @@
     4
    ],
    "jp": "{8002}{9201}VIP用エレベーターにのりますか？{9200}\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Take the VIP elevator?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2004F0_005",
@@ -54,7 +59,8 @@
     5
    ],
    "jp": "{8002}{9201}ごうかなフンスイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A luxurious fountain.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2004F0_006",
@@ -62,7 +68,8 @@
     6
    ],
    "jp": "{8002}{9201}きれいなエがかざられている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A beautiful painting is on display.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2004F0_007",
@@ -70,7 +77,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2004F0_008",
@@ -78,7 +86,8 @@
     8
    ],
    "jp": "{8002}{94C8}かかりいん「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2004F0_009",
@@ -86,7 +95,8 @@
     9
    ],
    "jp": "{8002}{94C8}かかりいん「{9400}さま{8207}よくおこし下さいました！！」{8300}{94C8}かかりいん「{9400}さまのとまったヘヤを{8207}見学にくるお客さまのおかげで当ホテルは{8207}1年後までヨヤクでいっぱいです！！」{8300}{94C8}かかりいん「これもみんな{9400}さまの{8207}おかげですね！{8207}本当にありがとうございました！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「{9400}, welcome!! We're so glad you came!!{8300}{94C8}Staff「Thanks to all the guests who come to see the room you stayed in, {9400}, our hotel is booked solid for a whole year!!{8300}{94C8}Staff「And it's all thanks to you, {9400}! Thank you so very much!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2004F0_010",
@@ -94,7 +104,8 @@
     10
    ],
    "jp": "{8002}{94C8}かかりいん「{9400}さま{8207}よくおこし下さいました！！」{8300}{94C8}かかりいん「{9400}さまに会いたくて来た・・・{8207}と言うお客さんがたくさんいますので{8207}ぜひ会って行ってあげて下さい！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「{9400}, welcome!! We're so glad you came!!{8300}{94C8}Staff「Lots of guests have come here saying they want to meet you, {9400}... so please do go and see them!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2004F0_011",
@@ -102,7 +113,8 @@
     11
    ],
    "jp": "{8001}{94C8}オーナー「じつはあなたにぜひ会いたいという方が{8207}来ておられるのです」{8300}{94C8}オーナー「なんでも{9400}さまに{8207}ぜひ{8833}おんがえしをしたい{8800}とか・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Owner「Actually, someone has come who is very eager to meet you.{8300}{94C8}Owner「It seems they'd like to {8833}return the favor{8800}, {9400}...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2004F0_012",
@@ -110,7 +122,8 @@
     12
    ],
    "jp": "{8001}{94C8}オーナー「とにかくこちらへどうぞ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Owner「At any rate, right this way, please!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2004F0_013",
@@ -118,7 +131,8 @@
     13
    ],
    "jp": "{8001}{94C8}オーナー「もう行かれるのですか？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Owner「Are you leaving already?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2004F0_014",
@@ -126,7 +140,8 @@
     14
    ],
    "jp": "{8001}{94C8}オーナー「そうだ！これを持って行って下さい！」{8300}{94C8}オーナー「{9408}の使っていたヘヤに{8207}おちていた物です」{8300}{94C8}オーナー「何のカギかはわかりませんが{8207}{9408}が持っていたんですから{8207}大事な物にちがいありませんっ！！」{8300}{94C8}オーナー「それとオンセンがカイリョウされて{8207}{88BB}闇{8800}グランドチェンジの時でも{8207}いつものユが出るようになりました！」{8300}{94C8}オーナー「今後、ボウケンでヒツヨウになるなら{8207}{88BB}闇{8800}グランドチェンジをしてもらっても{8207}かまいませんよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Owner「Oh, that's right! Please take this with you!{8300}{94C8}Owner「It was lying in the room {9408} used.{8300}{94C8}Owner「I don't know what it's a key to, but since {9408} had it, it must be something important!!{8300}{94C8}Owner「Also, the hot spring has been improved, so the usual hot water flows even during the {88BB}Dark{8800} Grand Change!{8300}{94C8}Owner「So if you need it for your adventures from now on, feel free to do the {88BB}Dark{8800} Grand Change!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2004F0_015",
@@ -134,7 +149,8 @@
     15
    ],
    "jp": "{8001}{94C8}オーナー「それではお気をつけて！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Owner「Well then, take care!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

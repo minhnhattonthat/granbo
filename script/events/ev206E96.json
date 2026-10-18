@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{9201}どのフロアに行きますか？{9200}\n\n{8E05}       {8F01}2F {8F00}4F {8F00}5F {8F00}6F {8F02}のらない {8100}",
-   "en": ""
+   "en": "{8002}{9201}Which floor?{9200}  {8E05}       {8F01}2F {8F00}4F {8F00}5F {8F00}6F {8F02}Cancel{8100}",
+   "status": "translated"
   },
   {
    "id": "ev206E96_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{9201}どうやらこのエレベーターは動いていないようだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}This elevator doesn't seem to be running.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev206E96_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{9201}頭と手の上に何かのせられそうだが、手がとどかない！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It looks like something could go on its head and hands, but you can't reach!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev206E96_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{9201}これはVIPエレベーターのきどうソウチだったようだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}So this was the VIP elevator's activation device.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev206E96_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev206E96_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev206E96_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}老人    「ワシはかわいいマゴのために{8207}両親を助けようと{8207}このホテルにしのびこんだんじゃ！！」{8300}{94C8}老人「ところでこのオブジェ・・・{8207}カイゾウ前は、上に3色のクリスタルが{8207}はまっておったのじゃが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}Old Man: I snuck into this hotel to rescue my dear grandchild's parents!!{8300}{94C8}Elder「By the way, this sculpture... Before the remodeling, three crystals of different colors were set on top of it...{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

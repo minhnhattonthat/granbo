@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}女の子「気のせいか・・・{8207}ヘヤがせまいような気が・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Is it just me... or does this room feel kind of cramped...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2018B8_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}おじさん「スマン・・・オレのカセギじゃ{8207}これがゲンカイなんだ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Sorry... this is the best I can afford on my pay...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2018B8_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}ワーク00のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 00 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2018B8_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}ワーク01のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2018B8_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2018B8_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2018B8_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}女の子「お父さん・・・アタシ、たまには{8207}もう少し大きいヘヤにとまりたい・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Dad... just once in a while, I'd like to stay in a bigger room...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2018B8_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}おじさん「・・・今度はもう少し{8207}大きいヘヤにとまるか・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「...Next time, maybe we'll stay in a bigger room...{8400}{8100}",
+   "status": "translated"
   }
  ]
 }
