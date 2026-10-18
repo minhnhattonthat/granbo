@@ -105,9 +105,11 @@ def place_rel(r, orig, files, lang, marker):
         for i in sorted(g, key=lambda i: int(ents[i]["at"], 16)):
             s = text_of(ents[i], lang, marker)
             new[i] = r.alloc(text.encode_en(s) if s else text.encode(ents[i]["jp"]), f"str {i} (rel)", align=2)
+    seen = {}
     for a, b, kind, site in rels:
         if a not in new:
             continue
+        assert seen.setdefault(site, (a, b)) == (a, b), (hex(site), a, b, seen[site])  # one meaning per site
         off, old = new[a] - new[b], int(ents[a]["at"], 16) - int(ents[b]["at"], 16)
         if kind == "word":
             assert struct.unpack_from("<i", orig, site)[0] == old, (a, hex(site))
