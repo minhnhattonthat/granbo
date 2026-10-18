@@ -110,9 +110,9 @@ def read_out(bid):
     for n, line in enumerate(path.read_text(encoding="utf-8-sig").splitlines(), 1):
         if not line.strip():
             continue
-        if "\t" not in line:
-            raise ValueError(f"{path.name}:{n}: no tab")
-        i, en = line.split("\t", 1)
+        i, _, en = line.partition("\t")  # a bare id = empty text (editors strip the trailing tab)
+        if " " in i:
+            raise ValueError(f"{path.name}:{n}: no tab after the id")
         if i in out:
             raise ValueError(f"{path.name}:{n}: duplicate id {i}")
         out[i] = en

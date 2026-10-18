@@ -548,7 +548,8 @@
     67
    ],
    "jp": "{8002}{94C8}おじさん「ごめんよ・・・{8207}この{8833}データボールシステム{8800}は{8207}今シュウリ中なんだ・・・」{8300}{94C8}おじさん「もう少しでなおるから{8207}また後で来ておくれ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Sorry about this... The {8833}Data Ball System{8800} is under repair right now...{8300}{94C8}Man「It's nearly fixed, so come back again a little later.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_068",
@@ -556,7 +557,8 @@
     68
    ],
    "jp": "{8002}{94C8}おじさん「{8833}データボールシステム{8800}の{8207}シュウリは終わったよ！」{8300}{94C8}おじさん「全てのキノウが使えるように{8207}なったから、どんどん使ってくれ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「The {8833}Data Ball System{8800} is all fixed!{8300}{94C8}Man「Every function works again, so go ahead and use it as much as you like!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_069",
@@ -564,7 +566,8 @@
     69
    ],
    "jp": "{8002}{94C8}元セイバー「データボールシステムとアイテムロッカーは{8207}やくに立ったじゃろう？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「The Data Ball System and the Item Locker came in handy, didn't they?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_070",
@@ -572,7 +575,8 @@
     70
    ],
    "jp": "{8002}{94C8}女の子「バミューダはいなくなったけど・・・」{8300}{94C8}女の子「外にはまだノラグランボがたくさんいるし{8207}グランボセイバーの戦いはまだまだ{8207}終らないわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Bermuda may be gone, but...{8300}{94C8}Girl「There are still lots of stray Granbo out there, so a Granbo Saver's fight is far from over!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_071",
@@ -580,7 +584,8 @@
     71
    ],
    "jp": "{8002}{94C8}元セイバー「ゲンじいのヤツ・・・{8207}おヌシがまさか自分をこえるとは{8207}思いもせんかったじゃろうな」{8300}{94C8}元セイバー「今ごろくやしがっておるのではないか？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「That Old Gen... I bet he never dreamed you'd end up surpassing him!{8300}{94C8}Ex-Saver「He's probably grinding his teeth about it right now!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_072",
@@ -588,7 +593,8 @@
     72
    ],
    "jp": "{8002}{94C8}男の子「キミって本当にすごいね！！」{8300}{94C8}男の子「・・・よし、ボクもキミを見ならって{8207}まずは北のダンジョンでハントグローブを{8207}手に入れよっと！！」{8300}{94C8}男の子「え・・・？ハントグローブは{8207}もうおちてないって？」{8300}{94C8}男の子「そ、そんな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「You're really amazing!!{8300}{94C8}Boy「...All right, I'll follow your lead and go get a Hunt Glove in the northern dungeon first!{8300}{94C8}Boy「Huh...? There aren't any Hunt Gloves lying around anymore?{8300}{94C8}Boy「N-No way...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_073",
@@ -596,7 +602,8 @@
     73
    ],
    "jp": "{8002}{94C8}男の子「ここはグランボセイバーがあつまる{8207}{8833}セイバーステーション{8800}だよ！」{8300}{94C8}男の子「そこのセイバーのおじさん・・・{8207}キミのおかげですっかりカゲがうすく{8207}なっちゃったんだ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「This is the {8833}Saver Station{8800}, where Granbo Savers gather!{8300}{94C8}Boy「That Saver guy over there... Thanks to you, nobody notices him anymore...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_074",
@@ -604,7 +611,8 @@
     74
    ],
    "jp": "{8002}{94C8}大人セイバー「私は・・・私はグランボセイバーだ！！」{8300}{94C8}大人セイバー「それなのになぜ、私には{8207}ドブそうじやざっ草ムシリなんてシゴト{8207}ばかりまわってくるんだ・・・！！」{8300}{94C8}大人セイバー「・・・・・・・・・{8207}・・・・・・・・・{8207}・・・・・・・・・」{8300}{94C8}大人セイバー「まぁ、この私が町の人達から{8207}シンライされているアカシと{8207}言えなくもないか！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「I... I am a Granbo Saver!!{8300}{94C8}Saver「So why do I only ever get jobs like cleaning gutters and pulling weeds...?!{8300}{94C8}Saver「......... ......... .........{8300}{94C8}Saver「Well, I suppose it does prove the townsfolk trust me!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }
