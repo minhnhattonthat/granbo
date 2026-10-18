@@ -139,7 +139,7 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   honorific suffix); Beardy's ばみうだ -> "Bermooda".
 - Elements 火/水/木/光/闇 -> Fire / Water / Wood / Light / Dark (capitalised). Battle commands コウゲキ / ワザ /
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
-  translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
+  translated). FLAGGED: the battle command label sprite has a 30 px strip, so its ヘンシン reads "Morph". ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
 - Ranks: ミツボシセイバー -> 3-Star Saver everywhere (menu field; dialogue aligned). Tournament list titles -> "X Cup"
   (Chick Cup ... God Cup, All-Star Cup) in the menu field; dialogue keeps "X Saver Tournament" - FLAGGED: a shortened

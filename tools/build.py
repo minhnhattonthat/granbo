@@ -20,6 +20,7 @@ import check_rom  # noqa: E402
 import engine  # noqa: E402
 import find_rel  # noqa: E402
 import fit  # noqa: E402
+import gfx  # noqa: E402
 import ligatures  # noqa: E402
 import text  # noqa: E402
 
@@ -143,6 +144,8 @@ def build(orig, files, lang="en", marker=None, engine_patch=True):
     lig = ligatures.plan(files) if engine_patch and lang == "en" else {"names": {}, "pairs": {}}
     if engine_patch:
         engine.patch(r, lig)
+        if lang == "en":
+            gfx.patch(r)
     for name, f in files.items():
         if not name.startswith("events/"):
             continue
