@@ -2741,7 +2741,7 @@
     "0x043aa8"
    ],
    "jp": "{8A01}{8620}{94A7}「下に新しく出てきたのが{8833}ハントゲージ{8800}じゃ{8205}今の攻撃でゲージがたまったじゃろう？」{8400}{8B00}",
-   "en": "{8A01}{8620}{94A7}That new thing below is the {8833}Hunt Gauge{8800}.{8205}Your attack just filled it a bit, eh?{8400}{8B00}",
+   "en": "{8A01}{8620}{94A7}Below that is the new {8833}Hunt Gauge{8800}.{8205}Your attack just filled it a bit, eh?{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -2751,7 +2751,7 @@
     "0x043b4c"
    ],
    "jp": "{8A01}{8620}{94A7}「ゲージが、かなりたまって赤くなったのう{8205}{8833}ハントのチャンス{8800}じゃ！」{8300}{8620}{94A7}「そろそろハントワザを使ってみい！」{8400}{8B00}",
-   "en": "{8A01}{8620}{94A7}The gauge is good and full and red now.{8205}A {8833}chance to hunt{8800}!{8300}{8620}{94A7}Try a Hunt Move now!{8400}{8B00}",
+   "en": "{8A01}{8620}{94A7}The gauge is nice and full and red!{8205}A {8833}chance to hunt{8800}!{8300}{8620}{94A7}Try a Hunt Move now!{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -2821,7 +2821,7 @@
     "0x043d74"
    ],
    "jp": "{8A01}{8620}{94A7}「しつこいようじゃが最後に・・・」{8300}{8620}{94A7}「ハントゲージのたまり方は{8205}いつも同じではないんじゃ！」{8300}{8620}{94A7}「{8833}攻撃させる{940A}と敵{940A}のアイショウ{8800}で{8205}変わってくるぞい！！」{8300}{8620}{94A7}「じゃからハントゲージをためやすいグランボを{8205}使うと、ハントがしやすくなるんじゃ！！」{8300}{8620}{94A7}「ま、他にも色々とコツはあるんじゃが{8205}それは他のセイバー達にきいてベンキョウせぇ」{8400}{8B00}",
-   "en": "{8A01}{8620}{94A7}I know I'm nagging, but one last thing...{8300}{8620}{94A7}The Hunt Gauge doesn't{8205}always fill the same way!{8300}{8620}{94A7}It varies by {8833}your attacking {940A}{8205}vs. enemy {940A}{8800}!!{8300}{8620}{94A7}Granbo that fill the Hunt Gauge fast{8205}make hunting easier, then!!{8300}{8620}{94A7}There are other tricks too, but{8205}go ask other Savers and learn!{8400}{8B00}",
+   "en": "{8A01}{8620}{94A7}I'm nagging, but one last thing...{8300}{8620}{94A7}The Hunt Gauge doesn't{8205}always fill the same way!{8300}{8620}{94A7}It varies by {8833}your attacking {940A}{8205}vs. enemy {940A}{8800}!!{8300}{8620}{94A7}Granbo that fill the Hunt Gauge fast{8205}make hunting easier, then!!{8300}{8620}{94A7}There are other tricks too, but{8205}go ask other Savers and learn!{8400}{8B00}",
    "status": "translated"
   },
   {

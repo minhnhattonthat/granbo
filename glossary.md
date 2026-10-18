@@ -36,6 +36,7 @@ Options and reasons for each ruling: `docs/decisions.md`.
 | エーゲ | Aegean | 7 | slot 8; Sky Shark, sea name | Aege |
 | バミューダ | Bermuda | 7 | slot 9 / 16; Sky Shark, sea name | |
 | グランボ | Granbo | 7 | the monsters; plural "Granbo" | Granbos |
+| グリーシャ | Grisha | 7 | Shizuku's Granbo; stammers keep the spelling ("Gr-Grisha") | Greesha, Grishaa |
 | 本部長 | Chief | 7 | HQ chief | |
 | かんごふ | Nurse | 7 | | |
 | ハルナ | Haruna | 7 | | |

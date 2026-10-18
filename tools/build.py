@@ -209,8 +209,10 @@ def build(orig, files, lang="en", marker=None, engine_patch=True):
                 else:
                     if name in CENTRED and e["jp"].startswith("  ") and "\n" not in e["jp"] and not marker:
                         s = centre(s)
-                    if name == "ptr/t1A1568.json" and not marker:
-                        s = clear_portrait(s)
+                    if not marker and any(fit.is_speaker(fit.header(p)) for p in fit.split_pages(s)):
+                        # battle box ({8A01}): text after the portrait at x=48 like its {8205} lines; message
+                        # window: fit wraps it and tabs every line to x=64 (D8)
+                        s = clear_portrait(s) if s.startswith("{8A01}") else fit.fit(s, e["jp"])
                     enc = text.encode_en(s)
                 if enc not in placed:
                     placed[enc] = r.alloc(enc, f"str {e['id']}", align=2)

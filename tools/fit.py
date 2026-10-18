@@ -121,10 +121,12 @@ def fit_page(page, jp_page, cont_header, names=None):
     code = newline_code(jp_page, h)
     jp_tail = END_CODES.search(jp_page).group(1)
     jp_body = jp_page[:len(jp_page) - len(jp_tail)] if jp_tail else jp_page
-    choice = re.search(r"(\{82[0-9A-F]{2}\}|\n)$", jp_body)  # empty last line kept for a Yes/No prompt
+    choice = re.search(r"(\{82[0-9A-F]{2}\}|\n)\Z", jp_body)  # empty last line kept for a Yes/No prompt
     # the prompt line keeps the JP's own newline: an indented one ({8207}) pushes "No" past the canvas (0x03000CC0,
     # ~89 cells) into game state at 0x03002320 and crashes (shop manager ev1BC98C_012)
     prompt_nl = choice.group(1) if choice else ""
+    # the prompt stays on the JP's line: "わかったかの？{8207}\n{8D00}" leaves line 2 empty and prompts on line 3
+    jp_prompt_line = len(re.findall(r"\{82[0-9A-F]{2}\}|\n", jp_body)) if choice else 0
     px = LINE_END - line_x(code)
     first = LINE_END - first_x(h) - (width(h, names) if not is_speaker(h) else 0)
     if is_speaker(h):  # a name code after the speaker ("{949B}{9400}, have you...") prints as running text
@@ -135,6 +137,10 @@ def fit_page(page, jp_page, cont_header, names=None):
     lines = wrap(body.strip(), first - width(lead), px, names)
     lines[0] = lead + lines[0]
     chunks, i = [], 0
+    if not choice:  # even pages: 4 lines -> 2 + 2, not a 3-line page and a 1-word widow
+        k = -(-len(lines) // LINES)
+        n = -(-len(lines) // k)
+        chunks, i = [lines[j:j + n] for j in range(0, len(lines), n)], len(lines)
     while i < len(lines):
         n = LINES - 1 if choice and len(lines) - i <= LINES - 1 else LINES
         if choice and len(lines) - i == LINES:
@@ -144,7 +150,9 @@ def fit_page(page, jp_page, cont_header, names=None):
     pages = []
     for k, chunk in enumerate(chunks):
         hh = h if k == 0 else cont_header
-        pages.append(with_tab(hh) + code.join(chunk) + (prompt_nl if k == len(chunks) - 1 else ""))
+        last = k == len(chunks) - 1
+        pad = code * (min(jp_prompt_line, LINES - 1) - len(chunk)) if last and choice else ""
+        pages.append(with_tab(hh) + code.join(chunk) + pad + (prompt_nl if last else ""))
     return PAGE.join(pages) + tail
 
 
@@ -156,6 +164,8 @@ def fit(en, jp):
         jp_page = jp_pages[min(i, len(jp_pages) - 1)]
         h = header(page)
         cont = re.sub(r"\{80[0-9A-F]{2}\}", "", h)
+        if is_speaker(h):  # a name code after the speaker is running text: page 2 must not repeat "{9408}"
+            cont = re.sub(r"(?:\{94(?:[0-8][0-9A-F]|9[0-5])\})+$", "", cont)
         out.append(fit_page(page, jp_page, cont))
     return PAGE.join(out)
 

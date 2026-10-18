@@ -32,6 +32,10 @@ def test_fit_prompt_line_keeps_jp_newline():
     jp = "{8001}{94C8}店長「では{8207}セツメイしておこうかの？」{9200}\n{8D00}{8100}"
     en = "{8001}{94C8}Manager「Now then... shall I explain about Granbo first?{9200}{8D00}{8100}"
     assert fit.fit(en, jp).endswith("{9200}\n{8D00}{8100}")
+    # the JP's empty line before the prompt is kept, so Yes/No stays on line 3 (ev1BC98C_018)
+    jp = "{8001}{94C8}店長「わかったかの？」{9200}{8207}\n{8D00}{8100}"
+    en = "{8001}{94C8}Manager「Got all that?{9200}{8D00}{8100}"
+    assert fit.fit(en, jp).endswith("{9200}{8207}\n{8D00}{8100}")
 
 
 def test_lint_catches_code_mismatch():
