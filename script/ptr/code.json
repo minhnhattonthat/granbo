@@ -74,7 +74,7 @@
    "id": "s26E352",
    "at": "0x26e352",
    "ptrs": [],
-   "rel": {"base": "s26E348", "adds": ["0x06cc9c", "0x08b01c"]},
+   "rel": [["s26E348", "adds", "0x06cc9c"], ["s26E348", "adds", "0x08b01c"]],
    "jp": "こうげき",
    "en": "Attack",
    "status": "translated"
@@ -83,7 +83,7 @@
    "id": "s26E35C",
    "at": "0x26e35c",
    "ptrs": [],
-   "rel": {"base": "s26E348", "adds": ["0x06cce4", "0x08b06a"]},
+   "rel": [["s26E348", "adds", "0x06cce4"], ["s26E348", "adds", "0x08b06a"]],
    "jp": "ぼうぎょ",
    "en": "Defense",
    "status": "translated"
@@ -92,7 +92,7 @@
    "id": "s26E366",
    "at": "0x26e366",
    "ptrs": [],
-   "rel": {"base": "s26E348", "adds": ["0x06cd28", "0x08b0b4"]},
+   "rel": [["s26E348", "adds", "0x06cd28"], ["s26E348", "adds", "0x08b0b4"]],
    "jp": "すばやさ",
    "en": "Speed",
    "status": "translated"
@@ -101,9 +101,81 @@
    "id": "s270378",
    "at": "0x270378",
    "ptrs": [],
-   "rel": {"base": "s26E348", "words": ["0x06cd80"]},
+   "rel": [["s26E348", "word", "0x06cd80"]],
    "jp": "つぎのLVまであと",
    "en": "To next LV",
+   "status": "translated"
+  },
+  {
+   "id": "s26F20E",
+   "at": "0x26f20e",
+   "ptrs": [],
+   "rel": [["s27073E", "word", "0x07318c"]],
+   "jp": "セイバーランク",
+   "en": "Saver Rank",
+   "status": "translated"
+  },
+  {
+   "id": "s2705CC",
+   "at": "0x2705cc",
+   "ptrs": [],
+   "rel": [["s27073E", "word", "0x073194"]],
+   "jp": "ハントしたしゅるい",
+   "en": "Species hunted",
+   "status": "translated"
+  },
+  {
+   "id": "s270750",
+   "at": "0x270750",
+   "ptrs": [],
+   "rel": [["s27073E", "adds", "0x072f1a"]],
+   "jp": "ID",
+   "en": "ID",
+   "status": "translated"
+  },
+  {
+   "id": "s27055A",
+   "at": "0x27055a",
+   "ptrs": [],
+   "rel": [["s270550", "adds", "0x073028"]],
+   "jp": "勝",
+   "en": " wins",
+   "status": "translated"
+  },
+  {
+   "id": "s27055E",
+   "at": "0x27055e",
+   "ptrs": [],
+   "rel": [["s270550", "adds", "0x073052"]],
+   "jp": "敗",
+   "en": " losses",
+   "status": "translated"
+  },
+  {
+   "id": "s2705B6",
+   "at": "0x2705b6",
+   "ptrs": [],
+   "rel": [["s2705EA", "neg", "0x073424"]],
+   "jp": "はっけんしたしゅるい",
+   "en": "Species found",
+   "status": "translated"
+  },
+  {
+   "id": "s2705F6",
+   "at": "0x2705f6",
+   "ptrs": [],
+   "rel": [["s270550", "adds", "0x0730ac"], ["s2705EA", "adds", "0x0733de"]],
+   "jp": "時間",
+   "en": " hrs",
+   "status": "translated"
+  },
+  {
+   "id": "s2705FC",
+   "at": "0x2705fc",
+   "ptrs": [],
+   "rel": [["s270550", "adds", "0x0730e0"], ["s2705EA", "adds", "0x073412"]],
+   "jp": "分",
+   "en": " min",
    "status": "translated"
   },
   {
@@ -1535,6 +1607,7 @@
    "ptrs": [
     "0x073544"
    ],
+   "rel": [["s270550", "adds", "0x073066"]],
    "jp": "プレイ時間",
    "en": "Play Time",
    "status": "translated"
@@ -1596,7 +1669,7 @@
     "0x090d90"
    ],
    "jp": "名前  ",
-   "en": "Name",
+   "en": "Name  ",
    "status": "translated"
   },
   {

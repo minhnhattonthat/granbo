@@ -86,6 +86,41 @@ def text_of(e, lang, marker):
     return e.get(lang) or None
 
 
+def place_rel(r, orig, files, lang, marker):
+    """Strings code reaches as base pointer + fixed offset. An entry's "rel" lists [base id, kind, site]: kind
+    "adds" = `adds rX, #off` at site, "word" = a literal word holding off, "neg" = `movs rX, #-off` (then negated).
+    Every string linked this way is placed in one block, in original order (offset signs stay), and each site
+    rewritten. Returns {id: new offset} for the ptr loop."""
+    ents = {e["id"]: e for n, f in files.items() if n.startswith("ptr/") for e in f["entries"]}
+    rels = [(e["id"], b, k, int(s, 16)) for e in ents.values() for b, k, s in e.get("rel", [])]
+    group = {}
+    for a, b, _, _ in rels:  # union of linked ids
+        ga, gb = group.get(a, {a}), group.get(b, {b})
+        for i in ga | gb:
+            group[i] = ga | gb
+    new = {}
+    for g in {frozenset(g) for g in group.values()}:
+        if not any(text_of(ents[i], lang, marker) for i in g):
+            continue  # nothing translated: leave the original strings and offsets alone
+        for i in sorted(g, key=lambda i: int(ents[i]["at"], 16)):
+            s = text_of(ents[i], lang, marker)
+            new[i] = r.alloc(text.encode_en(s) if s else text.encode(ents[i]["jp"]), f"str {i} (rel)", align=2)
+    for a, b, kind, site in rels:
+        if a not in new:
+            continue
+        off, old = new[a] - new[b], int(ents[a]["at"], 16) - int(ents[b]["at"], 16)
+        if kind == "word":
+            assert struct.unpack_from("<i", orig, site)[0] == old, (a, hex(site))
+            r.put(site, struct.pack("<i", off), f"rel {a}")
+            continue
+        hw = struct.unpack_from("<H", orig, site)[0]
+        sign = 1 if kind == "adds" else -1
+        assert hw >> 11 == (0b00110 if kind == "adds" else 0b00100), (a, hex(site))  # adds/movs rX, #imm8
+        assert hw & 0xFF == sign * old and 0 <= sign * off < 256, (a, hex(site), off)
+        r.put(site, struct.pack("<H", hw & 0xFF00 | sign * off), f"rel {a}")
+    return new
+
+
 def build(orig, files, lang="en", marker=None, engine_patch=True):
     """engine_patch=False with no translations gives the original ROM (identity build)."""
     r = Rom(orig)
@@ -119,40 +154,23 @@ def build(orig, files, lang="en", marker=None, engine_patch=True):
             assert struct.unpack_from("<I", orig, lo)[0] == GBA + b, (name, lit)
             r.put(lo, struct.pack("<I", GBA + nb), f"blockptr {name}")
     placed = {}
-    # "rel" entries have no pointer of their own: code adds a fixed offset (an `adds rX, #imm` or a literal word)
-    # to their base string's pointer. They are placed right after the base and the offsets rewritten.
-    rel = {}
-    for name, f in files.items():
-        for e in f["entries"] if name.startswith("ptr/") else []:
-            if "rel" in e:
-                rel.setdefault(e["rel"]["base"], []).append(e)
+    grp = place_rel(r, orig, files, lang, marker)
     for name, f in files.items():
         if not name.startswith("ptr/"):
             continue
         for e in f["entries"]:
             s = text_of(e, lang, marker)
-            if not s or "rel" in e:
+            if not s and e["id"] not in grp:
                 continue
-            if not marker and e["id"] in lig["names"]:  # Granbo name: <= 6 codes with letter pairs
-                us = [lig["pairs"][c] if len(c) == 2 else engine.EN_CODES[c] for c in lig["names"][e["id"]]]
-                enc = struct.pack("<%dH" % (len(us) + 1), *us, text.END)
-            else:
-                enc = text.encode_en(s)
             at = int(e["at"], 16)
-            if e["id"] in rel:
-                new = r.alloc(enc, f"str {e['id']}", align=2)
-                for k in rel[e["id"]]:
-                    ks = text_of(k, lang, marker)
-                    off = r.alloc(text.encode_en(ks) if ks else text.encode(k["jp"]), f"str {k['id']}", align=2) - new
-                    old = int(k["at"], 16) - at
-                    for site in map(lambda x: int(x, 16), k["rel"].get("adds", [])):
-                        hw = struct.unpack_from("<H", orig, site)[0]
-                        assert hw >> 11 == 0b00110 and hw & 0xFF == old and off < 256, (k["id"], hex(site))
-                        r.put(site, struct.pack("<H", hw & 0xFF00 | off), f"rel {k['id']}")
-                    for site in map(lambda x: int(x, 16), k["rel"].get("words", [])):
-                        assert struct.unpack_from("<I", orig, site)[0] == old, (k["id"], hex(site))
-                        r.put(site, struct.pack("<I", off), f"rel {k['id']}")
+            if e["id"] in grp:  # placed by place_rel
+                new = grp[e["id"]]
             else:
+                if not marker and e["id"] in lig["names"]:  # Granbo name: <= 6 codes with letter pairs
+                    us = [lig["pairs"][c] if len(c) == 2 else engine.EN_CODES[c] for c in lig["names"][e["id"]]]
+                    enc = struct.pack("<%dH" % (len(us) + 1), *us, text.END)
+                else:
+                    enc = text.encode_en(s)
                 if enc not in placed:
                     placed[enc] = r.alloc(enc, f"str {e['id']}", align=2)
                 new = placed[enc]

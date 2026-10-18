@@ -141,6 +141,13 @@ def patch(r, lig=None):
         for site in sites:
             assert r.orig[site:site + 2] == bytes([old, 0x20])  # movs r0, #old
             r.put(site, bytes([new, 0x20]), "status stat column x")
+    # player card (0x08072EC0..): "N wins", "N hrs" need more than the 1-2 cells after the number; move the first
+    # number and its label left a cell (wins: number 104 -> 88, label 136 -> 120; hours: 112 -> 96, 136 -> 120)
+    # save screen (0x08073380..): hours number 120 -> 112, " hrs" 160 -> 152
+    for site, old, new in ((0x07301C, 0x68, 0x58), (0x073032, 0x88, 0x78), (0x07309E, 0x70, 0x60),
+                           (0x0730B6, 0x88, 0x78), (0x0733D0, 0x78, 0x70), (0x0733E8, 0xA0, 0x98)):
+        assert r.orig[site:site + 2] == bytes([old, 0x20])  # movs r0, #old
+        r.put(site, bytes([new, 0x20]), "card column x")
     # battle HUD names (0x08014790): proportional compact font instead of one small-font tile per byte
     pt = bytearray(512)
     for c in range(256):
