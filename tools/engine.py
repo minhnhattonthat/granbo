@@ -21,6 +21,7 @@ CODE_BASE = 0x7F3000  # 0xFF padding after the original data (ends 0x7F207B); in
 VWF_STATE = 0x0203F000  # 16 bytes; only boot-time clears touch 0x0203E000-0x0203F5CF (docs/re/text.md)
 NAMEBUF = VWF_STATE + 0x70  # u32: last output buffer of name6 (asm/name6.s), after the two vwf_menu states
 NAME6 = 0x04B71C  # name6(src bytes, dst units): a Granbo name's 6 RAM bytes -> 6 units + 8500
+POPUP_MAP, POPUP_ROW0 = 0x57C9B4, [0xA2BE, 0xA2BF]  # battle popup frame template (see patch)
 HUD_BUF = VWF_STATE + 0x80  # 6 x 192 bytes: battle HUD name tiles (asm/hud_name.s), up to 0x0203F500
 DRAW_GLYPH = 0x056058
 MENU_GLYPH = 0x04B4C8  # 8x16 per-glyph block inside draw_menu_string (0x0804B3AC)
@@ -173,6 +174,22 @@ def patch(r, lig=None):
         ctrl = lambda b: [u if u >= 0x8000 else 0 for u in struct.unpack(f"<{len(b) // 2}H", b)]  # noqa: E731
         assert len(new) == len(old) and ctrl(new) == ctrl(old)  # same keys, separators and commands
         r.put(at, new, "name-entry keyboard page")
+    # battle move/item popup (BG1 window over the target, fn around 0x0800C5C0): 8 text cells (64 px) cut long
+    # names. Its frame comes from a 16x4 template map (ROM 0x57C9B4, copied by 0x0800FE4C) holding a 10-wide box;
+    # widen the box to 14 and draw/map 12 cells (96 px, tiles 0x380-0x397; 0x390+ are free in battle).
+    assert r.orig[POPUP_MAP:POPUP_MAP + 20] == struct.pack("<10H", *POPUP_ROW0[:2], *[0xA2DD] * 7, 0xA6BE)
+    rows = [POPUP_ROW0[:2] + [0xA2DD] * 11 + [0xA6BE], [0xA2DE] + [0xA2DF] * 12 + [0xA6DE],
+            [0xAADE] + [0xA2DF] * 12 + [0xAEDE], [0xAABE, 0xAABF] + [0xAADD] * 11 + [0xAEBE]]
+    for y, row in enumerate(rows):
+        r.put(POPUP_MAP + y * 64, struct.pack(f"<{len(row)}H", *row), "battle popup box 14 wide")
+    for site in (0x00C62A, 0x00C696, 0x00C6B0, 0x017B0A):  # draw_cells n (x2), map width (x2)
+        assert r.orig[site:site + 2] == bytes([8, 0x23])  # movs r3, #8
+        r.put(site, bytes([12, 0x23]), "battle popup 12 cells")
+    # it slides to BG1 hofs = C - target x (0x08017A66..): C = half the old 80 px box (0x28, 0x20/0x30 by case);
+    # +16 keeps the 112 px box centred where the old one was
+    for site, c in ((0x017A68, 0x28), (0x017A7C, 0x20), (0x017A88, 0x30)):
+        assert r.orig[site:site + 2] == bytes([c, 0x20])  # movs r0, #C
+        r.put(site, bytes([c + 16, 0x20]), "battle popup centre")
     # battle HUD names (0x08014790): proportional compact font instead of one small-font tile per byte
     pt = bytearray(512)
     for c in range(256):
