@@ -5,9 +5,11 @@ Code often loads one string pointer and adds fixed offsets for its neighbours (`
 so the pointer scan never extracted them, and relocating the base breaks them (docs/re/text.md). From every
 literal-pool load of an extracted string (a code pointer, < 0x100000), this follows the base forward through
 straight-line Thumb code (moves, adds, hi-register adds, negation; calls clobber r0-r3; branches ignored) and
-prints each derived pointer that lands on a string start, as a ready "rel" item: [base id, kind, site].
+lists each derived pointer that lands on a string start: target, base entry, kind (adds = `adds rX, #off`,
+word = literal word off, neg = `movs rX, #-off` negated) and the site holding the offset. The build places these
+(tools/build.py place_rel); a target with no script entry still shows Japanese, so --missing (exit 1) gates it.
 Approximate: check unusual hits by disassembly (scripts/disasm.py).
-    python -X utf8 tools/find_rel.py [--window 0x400] [--missing]   (--missing: only targets no entry covers)
+    python -X utf8 tools/find_rel.py [--window 0x400] [--missing]
 """
 import argparse
 import glob
@@ -21,7 +23,7 @@ import text  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 ROM = ROOT / "rom/0291 - Granbo (J)(Lord Moyne).gba"
-GBA = 0x08000000
+WINDOW = 0x400  # code bytes followed after a base load
 
 
 def literal_loads(rom, pool):
@@ -63,8 +65,14 @@ def _path(rom, a, end, regs, work, seen):
             a = a + 4 + ((hw & 0x7FF) ^ 0x400) * 2 - 0x800
             continue
         if op5 == 0b00011:  # add/sub register or imm3
-            if hw & 0x0600 == 0x0400 and (hw >> 6) & 7 == 0 and rs in regs:  # adds rd, rs, #0
-                regs[rd] = regs[rs]
+            x, y = regs.get(rs), regs.get((hw >> 6) & 7)
+            if hw & 0x0600 == 0x0400 and (hw >> 6) & 7 == 0 and x:  # adds rd, rs, #0
+                regs[rd] = x
+            elif hw & 0x0600 == 0 and x and y and {x[0], y[0]} == {"B", "K"}:  # adds rd, rs, rm
+                b, k = (x, y) if x[0] == "B" else (y, x)
+                if b[1] == 0:
+                    yield k[1], k[3], k[2]
+                regs[rd] = ("B", b[1] + k[1])
             else:
                 regs.pop(rd, None)
         elif op5 == 0b00100:  # movs rd, #imm8
@@ -120,31 +128,39 @@ def _path(rom, a, end, regs, work, seen):
         a += 2
 
 
+def relations(rom, ents, window=WINDOW):
+    """[(target offset, base entry id, kind, site)] for every string start code derives from a base entry's
+    literal (deduplicated, sorted). build.place_rel uses this; targets with no entry need one."""
+    out = set()
+    for e in ents:
+        at = int(e["at"], 16)
+        for p in (int(x, 16) for x in e["ptrs"] if int(x, 16) < 0x100000):
+            for ld in literal_loads(rom, p):
+                for off, kind, site in trace(rom, ld, ld + window):
+                    t = at + off
+                    if 0 < t < len(rom) and struct.unpack_from("<H", rom, t - 2)[0] == text.END:
+                        out.add((t, e["id"], kind, site))
+    return sorted(out)
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--window", type=lambda x: int(x, 0), default=0x400, help="code bytes followed after a load")
-    ap.add_argument("--missing", action="store_true")
+    ap.add_argument("--window", type=lambda x: int(x, 0), default=WINDOW, help="code bytes followed after a load")
+    ap.add_argument("--missing", action="store_true", help="only targets no script entry covers; exit 1 if any")
     a = ap.parse_args()
     rom = ROM.read_bytes()
     ents = [e for f in sorted(glob.glob(str(ROOT / "script/ptr/*.json")))
             for e in json.loads(Path(f).read_text(encoding="utf-8"))["entries"]]
     by_at = {int(e["at"], 16): e for e in ents}
-    known = {(r[0], r[1], int(r[2], 16)) for e in ents for r in e.get("rel", [])}
-    for e in ents:
-        at = int(e["at"], 16)
-        for p in (int(x, 16) for x in e["ptrs"] if int(x, 16) < 0x100000):
-            for ld in literal_loads(rom, p):
-                for off, kind, site in trace(rom, ld, ld + a.window):
-                    t = at + off
-                    if not (0 < t < len(rom)) or struct.unpack_from("<H", rom, t - 2)[0] != text.END:
-                        continue
-                    child = by_at.get(t)
-                    if a.missing and child:
-                        continue
-                    s, _ = text.decode(rom, t)
-                    done = "done" if child and (e["id"], kind, site) in known else ""
-                    print(f'{t:#x} {child["id"] if child else "-":8} {s[:20]!r:24} ["{e["id"]}", "{kind}", '
-                          f'"{site:#08x}"] {done}')
+    miss = 0
+    for t, base, kind, site in relations(rom, ents, a.window):
+        child = by_at.get(t)
+        if a.missing and child:
+            continue
+        miss += not child
+        s, _ = text.decode(rom, t)
+        print(f'{t:#x} {child["id"] if child else "-":8} {s[:20]!r:24} {base} {kind} {site:#08x}')
+    sys.exit(1 if a.missing and miss else 0)
 
 
 if __name__ == "__main__":

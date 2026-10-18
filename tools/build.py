@@ -18,6 +18,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import check_rom  # noqa: E402
 import engine  # noqa: E402
+import find_rel  # noqa: E402
 import fit  # noqa: E402
 import ligatures  # noqa: E402
 import text  # noqa: E402
@@ -87,12 +88,13 @@ def text_of(e, lang, marker):
 
 
 def place_rel(r, orig, files, lang, marker):
-    """Strings code reaches as base pointer + fixed offset. An entry's "rel" lists [base id, kind, site]: kind
-    "adds" = `adds rX, #off` at site, "word" = a literal word holding off, "neg" = `movs rX, #-off` (then negated).
-    Every string linked this way is placed in one block, in original order (offset signs stay), and each site
-    rewritten. Returns {id: new offset} for the ptr loop."""
+    """Strings code reaches as base pointer + fixed offset (tools/find_rel.py: kind "adds" = `adds rX, #off` at
+    site, "word" = a literal word holding off, "neg" = `movs rX, #-off`, then negated). Every string linked this way
+    is placed in one block, in original order (offset signs stay), and each site rewritten. Targets without a script
+    entry are skipped (find_rel.py --missing lists them). Returns {id: new offset} for the ptr loop."""
     ents = {e["id"]: e for n, f in files.items() if n.startswith("ptr/") for e in f["entries"]}
-    rels = [(e["id"], b, k, int(s, 16)) for e in ents.values() for b, k, s in e.get("rel", [])]
+    by_at = {int(e["at"], 16): i for i, e in ents.items()}
+    rels = [(by_at[t], b, k, s) for t, b, k, s in find_rel.relations(orig, ents.values()) if t in by_at]
     group = {}
     for a, b, _, _ in rels:  # union of linked ids
         ga, gb = group.get(a, {a}), group.get(b, {b})

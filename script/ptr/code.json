@@ -2,9 +2,7 @@
  "entries": [
   {
    "id": "s26E2DE",
-   "at": "0x26e2de",
-   "rel": [["s26F3D8", "word", "0x083960"], ["s26FC50", "word", "0x07d578"], ["s26FC50", "word", "0x07e6f8"], ["s270E28", "word", "0x08dfb4"]],
-   "ptrs": [
+   "at": "0x26e2de",   "ptrs": [
     "0x04b690",
     "0x055858",
     "0x0558d4",
@@ -39,9 +37,7 @@
   },
   {
    "id": "s26E326",
-   "at": "0x26e326",
-   "rel": [["s26F3C0", "word", "0x085668"], ["s26FC50", "word", "0x07d56c"], ["s26FC50", "word", "0x07e6ec"]],
-   "ptrs": [
+   "at": "0x26e326",   "ptrs": [
     "0x07cdf0",
     "0x07d1f8",
     "0x07d784",
@@ -75,108 +71,84 @@
   {
    "id": "s26E352",
    "at": "0x26e352",
-   "ptrs": [],
-   "rel": [["s26E348", "adds", "0x06cc9c"], ["s26E348", "adds", "0x08b01c"]],
-   "jp": "こうげき",
+   "ptrs": [],   "jp": "こうげき",
    "en": "Attack",
    "status": "translated"
   },
   {
    "id": "s26E35C",
    "at": "0x26e35c",
-   "ptrs": [],
-   "rel": [["s26E348", "adds", "0x06cce4"], ["s26E348", "adds", "0x08b06a"]],
-   "jp": "ぼうぎょ",
+   "ptrs": [],   "jp": "ぼうぎょ",
    "en": "Defense",
    "status": "translated"
   },
   {
    "id": "s26E366",
    "at": "0x26e366",
-   "ptrs": [],
-   "rel": [["s26E348", "adds", "0x06cd28"], ["s26E348", "adds", "0x08b0b4"]],
-   "jp": "すばやさ",
+   "ptrs": [],   "jp": "すばやさ",
    "en": "Speed",
    "status": "translated"
   },
   {
    "id": "s270378",
    "at": "0x270378",
-   "ptrs": [],
-   "rel": [["s26E348", "word", "0x06cd80"]],
-   "jp": "つぎのLVまであと",
+   "ptrs": [],   "jp": "つぎのLVまであと",
    "en": "To next LV",
    "status": "translated"
   },
   {
    "id": "s26F20E",
    "at": "0x26f20e",
-   "ptrs": [],
-   "rel": [["s27073E", "word", "0x07318c"]],
-   "jp": "セイバーランク",
+   "ptrs": [],   "jp": "セイバーランク",
    "en": "Saver Rank",
    "status": "translated"
   },
   {
    "id": "s2705CC",
    "at": "0x2705cc",
-   "ptrs": [],
-   "rel": [["s27073E", "word", "0x073194"]],
-   "jp": "ハントしたしゅるい",
+   "ptrs": [],   "jp": "ハントしたしゅるい",
    "en": "Species hunted",
    "status": "translated"
   },
   {
    "id": "s270750",
    "at": "0x270750",
-   "ptrs": [],
-   "rel": [["s27073E", "adds", "0x072f1a"], ["s27073E", "adds", "0x090cb6"]],
-   "jp": "ID",
+   "ptrs": [],   "jp": "ID",
    "en": "ID",
    "status": "translated"
   },
   {
    "id": "s27055A",
    "at": "0x27055a",
-   "ptrs": [],
-   "rel": [["s270550", "adds", "0x073028"]],
-   "jp": "勝",
+   "ptrs": [],   "jp": "勝",
    "en": " wins",
    "status": "translated"
   },
   {
    "id": "s27055E",
    "at": "0x27055e",
-   "ptrs": [],
-   "rel": [["s270550", "adds", "0x073052"]],
-   "jp": "敗",
+   "ptrs": [],   "jp": "敗",
    "en": " losses",
    "status": "translated"
   },
   {
    "id": "s2705B6",
    "at": "0x2705b6",
-   "ptrs": [],
-   "rel": [["s2705EA", "neg", "0x073424"]],
-   "jp": "はっけんしたしゅるい",
+   "ptrs": [],   "jp": "はっけんしたしゅるい",
    "en": "Species found",
    "status": "translated"
   },
   {
    "id": "s2705F6",
    "at": "0x2705f6",
-   "ptrs": [],
-   "rel": [["s270550", "adds", "0x0730ac"], ["s2705EA", "adds", "0x0733de"]],
-   "jp": "時間",
+   "ptrs": [],   "jp": "時間",
    "en": " hrs",
    "status": "translated"
   },
   {
    "id": "s2705FC",
    "at": "0x2705fc",
-   "ptrs": [],
-   "rel": [["s270550", "adds", "0x0730e0"], ["s2705EA", "adds", "0x073412"]],
-   "jp": "分",
+   "ptrs": [],   "jp": "分",
    "en": " min",
    "status": "translated"
   },
@@ -233,9 +205,7 @@
   },
   {
    "id": "s26E428",
-   "at": "0x26e428",
-   "rel": [["s26E3CC", "adds", "0x068972"]],
-   "ptrs": [
+   "at": "0x26e428",   "ptrs": [
     "0x068d28"
    ],
    "jp": "をしらべた{8300}",
@@ -254,9 +224,7 @@
   },
   {
    "id": "s26E446",
-   "at": "0x26e446",
-   "rel": [["s26E3CC", "adds", "0x06897a"]],
-   "ptrs": [
+   "at": "0x26e446",   "ptrs": [
     "0x068d30"
    ],
    "jp": "しかし何もなかった",
@@ -398,9 +366,7 @@
   },
   {
    "id": "s26F336",
-   "at": "0x26f336",
-   "rel": [["s26E326", "word", "0x0850d0"]],
-   "ptrs": [
+   "at": "0x26f336",   "ptrs": [
     "0x0848b8",
     "0x0857ec"
    ],
@@ -410,9 +376,7 @@
   },
   {
    "id": "s26F358",
-   "at": "0x26f358",
-   "rel": [["s26F3C0", "neg", "0x08561a"]],
-   "ptrs": [
+   "at": "0x26f358",   "ptrs": [
     "0x084928",
     "0x0858cc"
    ],
@@ -442,9 +406,7 @@
   },
   {
    "id": "s26F3C0",
-   "at": "0x26f3c0",
-   "rel": [["s26E326", "word", "0x0850c8"], ["s26E326", "word", "0x0851d0"]],
-   "ptrs": [
+   "at": "0x26f3c0",   "ptrs": [
     "0x08531c",
     "0x085660",
     "0x085770"
@@ -747,9 +709,7 @@
   },
   {
    "id": "s26F9AC",
-   "at": "0x26f9ac",
-   "rel": [["s26F98E", "adds", "0x07790c"]],
-   "ptrs": [
+   "at": "0x26f9ac",   "ptrs": [
     "0x077a44"
    ],
    "jp": "50音",
@@ -758,9 +718,7 @@
   },
   {
    "id": "s26F9B4",
-   "at": "0x26f9b4",
-   "rel": [["s26F98E", "adds", "0x07791e"]],
-   "ptrs": [
+   "at": "0x26f9b4",   "ptrs": [
     "0x072818",
     "0x072d50",
     "0x077aec"
@@ -868,9 +826,7 @@
   },
   {
    "id": "s26FB1A",
-   "at": "0x26fb1a",
-   "rel": [["s26FB04", "adds", "0x0917ec"], ["s26FB04", "adds", "0x091a1e"]],
-   "ptrs": [
+   "at": "0x26fb1a",   "ptrs": [
     "0x0920f4"
    ],
    "jp": "『      』",
@@ -970,9 +926,7 @@
   },
   {
    "id": "s26FC50",
-   "at": "0x26fc50",
-   "rel": [["s26E326", "word", "0x07d204"], ["s26E326", "word", "0x07e3c4"], ["s26F3D8", "word", "0x083958"]],
-   "ptrs": [
+   "at": "0x26fc50",   "ptrs": [
     "0x07d568",
     "0x07e6e8",
     "0x083b24",
@@ -1206,9 +1160,7 @@
   },
   {
    "id": "s26FEF0",
-   "at": "0x26fef0",
-   "rel": [["s26FEAC", "adds", "0x0929cc"], ["s26FEAC", "adds", "0x093b98"]],
-   "ptrs": [
+   "at": "0x26fef0",   "ptrs": [
     "0x0930a4",
     "0x094300"
    ],
@@ -1618,9 +1570,7 @@
    "at": "0x2705ea",
    "ptrs": [
     "0x073544"
-   ],
-   "rel": [["s270550", "adds", "0x073066"]],
-   "jp": "プレイ時間",
+   ],   "jp": "プレイ時間",
    "en": "Play Time",
    "status": "translated"
   },
@@ -1891,9 +1841,7 @@
   },
   {
    "id": "s2709B6",
-   "at": "0x2709b6",
-   "rel": [["s270E28", "word", "0x08dfb0"]],
-   "ptrs": [
+   "at": "0x2709b6",   "ptrs": [
     "0x08d38c"
    ],
    "jp": "このじょうけんでよろしいですか？",
@@ -2991,58 +2939,73 @@
    "en": "Species found",
    "status": "translated"
   },
-  {"id": "s26E322", "at": "0x26e322", "ptrs": [], "rel": [["s26E31E", "adds", "0x04b91a"]], "jp": "』", "en": "\"", "status": "translated"},
-  {"id": "s26E388", "at": "0x26e388", "ptrs": [], "rel": [["s26E382", "adds", "0x06def8"]], "jp": "上がりました", "en": " up!", "status": "translated"},
-  {"id": "s26F246", "at": "0x26f246", "ptrs": [], "rel": [["s26F230", "adds", "0x082d78"]], "jp": "あと", "en": "Just", "status": "translated"},
-  {"id": "s26F24C", "at": "0x26f24c", "ptrs": [], "rel": [["s26F230", "adds", "0x082d98"]], "jp": "回勝てば優勝です", "en": " more wins to take the title", "status": "translated"},
-  {"id": "s26F298", "at": "0x26f298", "ptrs": [], "rel": [["s26F286", "adds", "0x085ace"], ["s26F286", "adds", "0x085c66"], ["s26F286", "adds", "0x085e7e"]], "jp": "あずける", "en": "Deposit", "status": "translated"},
-  {"id": "s26F2A2", "at": "0x26f2a2", "ptrs": [], "rel": [["s26F286", "adds", "0x085aea"], ["s26F286", "adds", "0x085c80"], ["s26F286", "adds", "0x085e98"]], "jp": "ひきだす", "en": "Withdraw", "status": "translated"},
-  {"id": "s26F2AC", "at": "0x26f2ac", "ptrs": [], "rel": [["s26F286", "adds", "0x085ce6"], ["s26F286", "adds", "0x085efe"]], "jp": "お金", "en": "Money", "status": "translated"},
-  {"id": "s26F2B2", "at": "0x26f2b2", "ptrs": [], "rel": [["s26F286", "adds", "0x085d00"], ["s26F286", "adds", "0x085f18"]], "jp": "アイテム", "en": "Items", "status": "translated"},
-  {"id": "s26F2BC", "at": "0x26f2bc", "ptrs": [], "rel": [["s26F286", "adds", "0x085cc8"]], "jp": "なにをおあずかりしましょうか？", "en": "What would you like to deposit?", "status": "translated"},
-  {"id": "s26F2DC", "at": "0x26f2dc", "ptrs": [], "rel": [["s26F286", "adds", "0x085ee0"]], "jp": "なにをひきだされますか？", "en": "What would you like to withdraw?", "status": "translated"},
-  {"id": "s26F65C", "at": "0x26f65c", "ptrs": [], "rel": [["s26F63C", "adds", "0x078376"]], "jp": "あずける", "en": "Deposit", "status": "translated"},
-  {"id": "s26F666", "at": "0x26f666", "ptrs": [], "rel": [["s26F63C", "adds", "0x07839c"]], "jp": "ひきとる", "en": "Withdraw", "status": "translated"},
-  {"id": "s26F670", "at": "0x26f670", "ptrs": [], "rel": [["s26F63C", "adds", "0x078428"]], "jp": "しょうきょ", "en": "Delete", "status": "translated"},
-  {"id": "s26F67C", "at": "0x26f67c", "ptrs": [], "rel": [["s26F63C", "adds", "0x07840c"]], "jp": "しょきか", "en": "Reset", "status": "translated"},
-  {"id": "s26F686", "at": "0x26f686", "ptrs": [], "rel": [["s26F63C", "adds", "0x078316"]], "jp": "しんか", "en": "Evolve", "status": "translated"},
-  {"id": "s26F68E", "at": "0x26f68e", "ptrs": [], "rel": [["s26F63C", "adds", "0x0783d4"]], "jp": "やめる", "en": "Quit", "status": "translated"},
-  {"id": "s26F696", "at": "0x26f696", "ptrs": [], "rel": [["s26F63C", "adds", "0x0783f0"]], "jp": "名前へんこう", "en": "Rename", "status": "translated"},
-  {"id": "s26F6A4", "at": "0x26f6a4", "ptrs": [], "rel": [["s26F63C", "adds", "0x0783b8"]], "jp": "ならびかえ", "en": "Sort", "status": "translated"},
-  {"id": "s26FB2C", "at": "0x26fb2c", "ptrs": [], "rel": [["s26FB1A", "adds", "0x092086"]], "jp": "これでいいですか？", "en": "Is this OK?", "status": "translated"},
-  {"id": "s26FB70", "at": "0x26fb70", "ptrs": [], "rel": [["s26E326", "word", "0x07d1fc"]], "jp": "いくつ買われますか？", "en": "How many will you buy?", "status": "translated"},
-  {"id": "s26FBA4", "at": "0x26fba4", "ptrs": [], "rel": [["s26F3D8", "word", "0x08395c"]], "jp": "これでいいですか？", "en": "Is this OK?", "status": "translated"},
-  {"id": "s26FC54", "at": "0x26fc54", "ptrs": [], "rel": [["s26E326", "word", "0x07d208"], ["s26E326", "word", "0x07e3c8"], ["s26FC50", "adds", "0x07d3fc"], ["s26FC50", "adds", "0x07e578"]], "jp": "＝", "en": "=", "status": "translated"},
-  {"id": "s26FD22", "at": "0x26fd22", "ptrs": [], "rel": [["s26FCE4", "adds", "0x082f70"], ["s26FCE4", "adds", "0x08991a"], ["s26FCE4", "adds", "0x08cc4c"], ["s26FD16", "adds", "0x089b86"]], "jp": "になった！", "en": "!", "status": "translated"},
-  {"id": "s26FECC", "at": "0x26fecc", "ptrs": [], "rel": [["s26FEAC", "adds", "0x092984"], ["s26FEAC", "adds", "0x093b50"]], "jp": "どうしますか？", "en": "What will you do?", "status": "translated"},
-  {"id": "s26FEDC", "at": "0x26fedc", "ptrs": [], "rel": [["s26FEAC", "adds", "0x09299a"], ["s26FEAC", "adds", "0x093b66"]], "jp": "もちものからすてる", "en": "Drop from inventory", "status": "translated"},
-  {"id": "s26FF50", "at": "0x26ff50", "ptrs": [], "rel": [["s26FF3A", "adds", "0x095250"]], "jp": "よびのデータボール", "en": "Spare Data Balls", "status": "translated"},
-  {"id": "s26FFB0", "at": "0x26ffb0", "ptrs": [], "rel": [["s26FF64", "adds", "0x095870"]], "jp": "おくろうとしたデータボールをしょうきょする", "en": "Delete the Data Ball being sent", "status": "translated"},
-  {"id": "s26FFDC", "at": "0x26ffdc", "ptrs": [], "rel": [["s26FF64", "adds", "0x09585c"]], "jp": "システムにあるデータボールをしょうきょする", "en": "Delete a Data Ball in the System", "status": "translated"},
-  {"id": "s2701B4", "at": "0x2701b4", "ptrs": [], "rel": [["s2701A4", "adds", "0x06d654"], ["s2701A4", "adds", "0x0701f0"]], "jp": "使う ", "en": "Use", "status": "translated"},
-  {"id": "s2701BC", "at": "0x2701bc", "ptrs": [], "rel": [["s2701A4", "adds", "0x06d660"], ["s2701A4", "adds", "0x0701fc"]], "jp": "いれかえ", "en": "Swap", "status": "translated"},
-  {"id": "s2701C6", "at": "0x2701c6", "ptrs": [], "rel": [["s2701A4", "adds", "0x06d66a"], ["s2701A4", "adds", "0x070206"]], "jp": "すてる", "en": "Drop", "status": "translated"},
-  {"id": "s2703E8", "at": "0x2703e8", "ptrs": [], "rel": [["s2703DA", "adds", "0x06cf86"]], "jp": "これいじょうしんかはできません", "en": "It can't evolve any further", "status": "translated"},
-  {"id": "s26E37E", "at": "0x26e37e", "ptrs": [], "rel": [["s26E370", "adds", "0x06ff24"], ["s26E370", "adds", "0x070760"], ["s26E370", "adds", "0x070fd8"], ["s26E370", "adds", "0x07139c"], ["s26E370", "adds", "0x093d80"]], "jp": "？", "en": "?", "status": "translated"},
-  {"id": "s270C3C", "at": "0x270c3c", "ptrs": [], "rel": [["s270BB4", "adds", "0x090ec6"]], "jp": "リアルマッチ ", "en": "Real Match", "status": "translated"},
-  {"id": "s270616", "at": "0x270616", "ptrs": [], "rel": [["s270600", "adds", "0x0739ce"], ["s27060C", "adds", "0x073a22"]], "jp": "ならします", "en": "On", "status": "translated"},
-  {"id": "s270622", "at": "0x270622", "ptrs": [], "rel": [["s270600", "adds", "0x0739ae"], ["s27060C", "adds", "0x073a06"]], "jp": "ならしません", "en": "Off", "status": "translated"},
-  {"id": "s270640", "at": "0x270640", "ptrs": [], "rel": [["s270630", "adds", "0x073a5a"]], "jp": "はやい", "en": "Fast", "status": "translated"},
-  {"id": "s270648", "at": "0x270648", "ptrs": [], "rel": [["s270630", "adds", "0x073a6e"]], "jp": "ふつう", "en": "Normal", "status": "translated"},
-  {"id": "s270650", "at": "0x270650", "ptrs": [], "rel": [["s270630", "adds", "0x073a84"]], "jp": "おそい", "en": "Slow", "status": "translated"},
-  {"id": "s270748", "at": "0x270748", "ptrs": [], "rel": [["s27073E", "adds", "0x090cca"]], "jp": "ランク", "en": "Rank", "status": "translated"},
-  {"id": "s270756", "at": "0x270756", "ptrs": [], "rel": [["s27073E", "adds", "0x090d38"]], "jp": "通算成績     勝    敗", "en": "Record   W    L", "status": "translated"},
-  {"id": "s270776", "at": "0x270776", "ptrs": [], "rel": [["s27073E", "adds", "0x090d02"]], "jp": "ランクポイント    ", "en": "Rank Points    ", "status": "translated"},
-  {"id": "s270AEE", "at": "0x270aee", "ptrs": [], "rel": [["s270AE2", "adds", "0x08e5d4"], ["s270AE2", "adds", "0x08ed5e"]], "jp": "このデータボールを持っています\nこの中からえらんでください", "en": "holds these Data Balls.\nPick one of them.", "status": "translated"},
-  {"id": "s270BF4", "at": "0x270bf4", "ptrs": [], "rel": [["s270BC8", "adds", "0x090f00"], ["s270BC8", "adds", "0x090f4e"]], "jp": "あり   ", "en": "On   ", "status": "translated"},
-  {"id": "s270C00", "at": "0x270c00", "ptrs": [], "rel": [["s270BC8", "adds", "0x090f16"], ["s270BC8", "adds", "0x090f66"], ["s270BDE", "adds", "0x091032"]], "jp": "なし   ", "en": "Off   ", "status": "translated"},
-  {"id": "s270C0C", "at": "0x270c0c", "ptrs": [], "rel": [["s270BA4", "adds", "0x08fc46"]], "jp": "せってい終わり", "en": "Done", "status": "translated"},
-  {"id": "s270C1C", "at": "0x270c1c", "ptrs": [], "rel": [["s270BDE", "adds", "0x090ffa"]], "jp": "ターン", "en": " turns", "status": "translated"},
-  {"id": "s270C28", "at": "0x270c28", "ptrs": [], "rel": [["s270BB4", "adds", "0x090e9e"]], "jp": "マッチタイプ   ", "en": "Match Type   ", "status": "translated"},
-  {"id": "s270C4C", "at": "0x270c4c", "ptrs": [], "rel": [["s270BB4", "adds", "0x090eae"]], "jp": "ノーマルマッチ", "en": "Normal Match", "status": "translated"},
-  {"id": "s270E40", "at": "0x270e40", "ptrs": [], "rel": [["s270E28", "adds", "0x08e114"]], "jp": "あいてのかけたアイテム", "en": "Opponent's bet item", "status": "translated"},
-  {"id": "s270E6C", "at": "0x270e6c", "ptrs": [], "rel": [["s270E58", "adds", "0x08e296"]], "jp": "プレゼントアイテムを決めます", "en": "Choose the gift item", "status": "translated"},
-  {"id": "s272CE4", "at": "0x272ce4", "ptrs": [], "rel": [["s272CDC", "adds", "0x00ca2c"]], "jp": "ワザ", "en": "Moves", "status": "translated"},
-  {"id": "s272CEA", "at": "0x272cea", "ptrs": [], "rel": [["s272CDC", "adds", "0x00ca20"]], "jp": "をみる", "en": " ", "status": "translated"}
+  {"id": "s26E2D0", "at": "0x26e2d0", "ptrs": [], "jp": "はい", "en": "Yes", "status": "translated"},
+  {"id": "s26E2D6", "at": "0x26e2d6", "ptrs": [], "jp": "いいえ", "en": "No", "status": "translated"},
+  {"id": "s26E322", "at": "0x26e322", "ptrs": [], "jp": "』", "en": "\"", "status": "translated"},
+  {"id": "s26E336", "at": "0x26e336", "ptrs": [], "jp": "HP", "en": "HP", "status": "translated"},
+  {"id": "s26E37E", "at": "0x26e37e", "ptrs": [], "jp": "？", "en": "?", "status": "translated"},
+  {"id": "s26E388", "at": "0x26e388", "ptrs": [], "jp": "上がりました", "en": " up!", "status": "translated"},
+  {"id": "s26E6B4", "at": "0x26e6b4", "ptrs": [], "jp": "に移動しますか？", "en": ": travel here?", "status": "translated"},
+  {"id": "s26F1FA", "at": "0x26f1fa", "ptrs": [], "jp": "がんばってください", "en": "Good luck!", "status": "translated"},
+  {"id": "s26F246", "at": "0x26f246", "ptrs": [], "jp": "あと", "en": "Just", "status": "translated"},
+  {"id": "s26F24C", "at": "0x26f24c", "ptrs": [], "jp": "回勝てば優勝です", "en": " more wins to take the title", "status": "translated"},
+  {"id": "s26F298", "at": "0x26f298", "ptrs": [], "jp": "あずける", "en": "Deposit", "status": "translated"},
+  {"id": "s26F2A2", "at": "0x26f2a2", "ptrs": [], "jp": "ひきだす", "en": "Withdraw", "status": "translated"},
+  {"id": "s26F2AC", "at": "0x26f2ac", "ptrs": [], "jp": "お金", "en": "Money", "status": "translated"},
+  {"id": "s26F2B2", "at": "0x26f2b2", "ptrs": [], "jp": "アイテム", "en": "Items", "status": "translated"},
+  {"id": "s26F2BC", "at": "0x26f2bc", "ptrs": [], "jp": "なにをおあずかりしましょうか？", "en": "What would you like to deposit?", "status": "translated"},
+  {"id": "s26F2DC", "at": "0x26f2dc", "ptrs": [], "jp": "なにをひきだされますか？", "en": "What would you like to withdraw?", "status": "translated"},
+  {"id": "s26F4B4", "at": "0x26f4b4", "ptrs": [], "jp": "をおあずかりしました", "en": " deposited.", "status": "translated"},
+  {"id": "s26F4CA", "at": "0x26f4ca", "ptrs": [], "jp": "をひきだしました", "en": " withdrawn.", "status": "translated"},
+  {"id": "s26F65C", "at": "0x26f65c", "ptrs": [], "jp": "あずける", "en": "Deposit", "status": "translated"},
+  {"id": "s26F666", "at": "0x26f666", "ptrs": [], "jp": "ひきとる", "en": "Withdraw", "status": "translated"},
+  {"id": "s26F670", "at": "0x26f670", "ptrs": [], "jp": "しょうきょ", "en": "Delete", "status": "translated"},
+  {"id": "s26F67C", "at": "0x26f67c", "ptrs": [], "jp": "しょきか", "en": "Reset", "status": "translated"},
+  {"id": "s26F686", "at": "0x26f686", "ptrs": [], "jp": "しんか", "en": "Evolve", "status": "translated"},
+  {"id": "s26F68E", "at": "0x26f68e", "ptrs": [], "jp": "やめる", "en": "Quit", "status": "translated"},
+  {"id": "s26F696", "at": "0x26f696", "ptrs": [], "jp": "名前へんこう", "en": "Rename", "status": "translated"},
+  {"id": "s26F6A4", "at": "0x26f6a4", "ptrs": [], "jp": "ならびかえ", "en": "Sort", "status": "translated"},
+  {"id": "s26FA1A", "at": "0x26fa1a", "ptrs": [], "jp": "システムがいっぱいなので『あずける』は使用できません\nひつようのないデータボールをしょうきょしてください", "en": "The System is full, so you can't Deposit.\nPlease delete a Data Ball you don't need.", "status": "translated"},
+  {"id": "s26FB2C", "at": "0x26fb2c", "ptrs": [], "jp": "これでいいですか？", "en": "Is this OK?", "status": "translated"},
+  {"id": "s26FB70", "at": "0x26fb70", "ptrs": [], "jp": "いくつ買われますか？", "en": "How many will you buy?", "status": "translated"},
+  {"id": "s26FBA4", "at": "0x26fba4", "ptrs": [], "jp": "これでいいですか？", "en": "Is this OK?", "status": "translated"},
+  {"id": "s26FBB8", "at": "0x26fbb8", "ptrs": [], "jp": "他にも買われますか？", "en": "Anything else to buy?", "status": "translated"},
+  {"id": "s26FBCE", "at": "0x26fbce", "ptrs": [], "jp": "他にも売っていただけますか？", "en": "Anything else to sell?", "status": "translated"},
+  {"id": "s26FC38", "at": "0x26fc38", "ptrs": [], "jp": "ありがとうございました", "en": "Thank you very much!", "status": "translated"},
+  {"id": "s26FC54", "at": "0x26fc54", "ptrs": [], "jp": "＝", "en": "=", "status": "translated"},
+  {"id": "s26FD22", "at": "0x26fd22", "ptrs": [], "jp": "になった！", "en": "!", "status": "translated"},
+  {"id": "s26FECC", "at": "0x26fecc", "ptrs": [], "jp": "どうしますか？", "en": "What will you do?", "status": "translated"},
+  {"id": "s26FEDC", "at": "0x26fedc", "ptrs": [], "jp": "もちものからすてる", "en": "Drop from inventory", "status": "translated"},
+  {"id": "s26FF50", "at": "0x26ff50", "ptrs": [], "jp": "よびのデータボール", "en": "Spare Data Balls", "status": "translated"},
+  {"id": "s26FFB0", "at": "0x26ffb0", "ptrs": [], "jp": "おくろうとしたデータボールをしょうきょする", "en": "Delete the Data Ball being sent", "status": "translated"},
+  {"id": "s26FFDC", "at": "0x26ffdc", "ptrs": [], "jp": "システムにあるデータボールをしょうきょする", "en": "Delete a Data Ball in the System", "status": "translated"},
+  {"id": "s2701B4", "at": "0x2701b4", "ptrs": [], "jp": "使う ", "en": "Use", "status": "translated"},
+  {"id": "s2701BC", "at": "0x2701bc", "ptrs": [], "jp": "いれかえ", "en": "Swap", "status": "translated"},
+  {"id": "s2701C6", "at": "0x2701c6", "ptrs": [], "jp": "すてる", "en": "Drop", "status": "translated"},
+  {"id": "s27038C", "at": "0x27038c", "ptrs": [], "jp": "せいさんしゃのID", "en": "Creator ID", "status": "translated"},
+  {"id": "s2703E8", "at": "0x2703e8", "ptrs": [], "jp": "これいじょうしんかはできません", "en": "It can't evolve any further", "status": "translated"},
+  {"id": "s270616", "at": "0x270616", "ptrs": [], "jp": "ならします", "en": "On", "status": "translated"},
+  {"id": "s270622", "at": "0x270622", "ptrs": [], "jp": "ならしません", "en": "Off", "status": "translated"},
+  {"id": "s270640", "at": "0x270640", "ptrs": [], "jp": "はやい", "en": "Fast", "status": "translated"},
+  {"id": "s270648", "at": "0x270648", "ptrs": [], "jp": "ふつう", "en": "Normal", "status": "translated"},
+  {"id": "s270650", "at": "0x270650", "ptrs": [], "jp": "おそい", "en": "Slow", "status": "translated"},
+  {"id": "s270748", "at": "0x270748", "ptrs": [], "jp": "ランク", "en": "Rank", "status": "translated"},
+  {"id": "s270756", "at": "0x270756", "ptrs": [], "jp": "通算成績     勝    敗", "en": "Record   W    L", "status": "translated"},
+  {"id": "s270776", "at": "0x270776", "ptrs": [], "jp": "ランクポイント    ", "en": "Rank Points    ", "status": "translated"},
+  {"id": "s27081E", "at": "0x27081e", "ptrs": [], "jp": "しばらくおまち下さい", "en": "Please wait a moment.", "status": "translated"},
+  {"id": "s270834", "at": "0x270834", "ptrs": [], "jp": "対戦相手がルールを決めています", "en": "Your opponent is setting the rules.", "status": "translated"},
+  {"id": "s2708BE", "at": "0x2708be", "ptrs": [], "jp": "もう一度えらんでください", "en": "Please choose again.", "status": "translated"},
+  {"id": "s270AEE", "at": "0x270aee", "ptrs": [], "jp": "このデータボールを持っています\nこの中からえらんでください", "en": "holds these Data Balls.\nPick one of them.", "status": "translated"},
+  {"id": "s270BF4", "at": "0x270bf4", "ptrs": [], "jp": "あり   ", "en": "On   ", "status": "translated"},
+  {"id": "s270C00", "at": "0x270c00", "ptrs": [], "jp": "なし   ", "en": "Off   ", "status": "translated"},
+  {"id": "s270C0C", "at": "0x270c0c", "ptrs": [], "jp": "せってい終わり", "en": "Done", "status": "translated"},
+  {"id": "s270C1C", "at": "0x270c1c", "ptrs": [], "jp": "ターン", "en": " turns", "status": "translated"},
+  {"id": "s270C28", "at": "0x270c28", "ptrs": [], "jp": "マッチタイプ   ", "en": "Match Type   ", "status": "translated"},
+  {"id": "s270C3C", "at": "0x270c3c", "ptrs": [], "jp": "リアルマッチ ", "en": "Real Match", "status": "translated"},
+  {"id": "s270C4C", "at": "0x270c4c", "ptrs": [], "jp": "ノーマルマッチ", "en": "Normal Match", "status": "translated"},
+  {"id": "s270E40", "at": "0x270e40", "ptrs": [], "jp": "あいてのかけたアイテム", "en": "Opponent's bet item", "status": "translated"},
+  {"id": "s270E6C", "at": "0x270e6c", "ptrs": [], "jp": "プレゼントアイテムを決めます", "en": "Choose the gift item", "status": "translated"},
+  {"id": "s272CE4", "at": "0x272ce4", "ptrs": [], "jp": "ワザ", "en": "Moves", "status": "translated"},
+  {"id": "s272CEA", "at": "0x272cea", "ptrs": [], "jp": "をみる", "en": " ", "status": "translated"}
  ]
 }
