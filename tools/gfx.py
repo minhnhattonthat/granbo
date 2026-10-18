@@ -55,6 +55,38 @@ def label(data, text):
 def patch(r):
     for off, text in LABELS:
         r.put(off, label(r.orig[off:off + 0x200], text), f"battle label {text}")
+    for i, art in enumerate(ELEMENTS):
+        top, bottom = element_icon(r.orig, art)
+        r.put(ELEM_TOP + 0x40 * i, top, f"element icon {i}")
+        r.put(ELEM_BOTTOM + 0x40 * i, bottom, f"element icon {i}")
+
+
+# Element icons: 16x16 white circles with the element's kanji (火 水 木 闇; icon 4 is the empty circle), 2 tiles
+# per half: top halves at ELEM_TOP + 0x40*i, bottoms at ELEM_BOTTOM + 0x40*i (graphics block 0x08571974 + 0x1400 /
+# 0x1800, copied by 0x0806A3BC). Redrawn as pictograms (flame, drop, leaf, crescent) in the kanji's ink index 2 on
+# the empty circle, so they need no reading.
+ELEM_TOP, ELEM_BOTTOM = 0x572D74, 0x573174
+ELEMENTS = [
+    ["....2.....", "...22.....", "...222.2..", "..2222.22.", "..22222222", ".222272222", ".222777222",
+     ".227777722", "..2277722.", "...22222.."],
+    ["....22....", "....22....", "...2222...", "...2222...", "..222222..", ".27222222.", ".27222222.",
+     ".22722222.", "..222222..", "...2222..."],
+    [".......222", ".....22222", "....222272", "...2222722", "..22227222", "..22272222", ".22272222.",
+     ".2272222..", "..72222...", ".2........"],
+    ["...2222...", "..222.....", ".222......", ".22.......", ".22.......", ".22.......", ".222......",
+     "..222.....", "...2222...", ".........."],
+]
+
+
+def element_icon(rom, art):
+    """(top 0x40 bytes, bottom 0x40 bytes) of the empty circle (icon 4) with art stamped at (3, 3)."""
+    px = sprite_px(rom[ELEM_TOP + 0x100:ELEM_TOP + 0x140] + rom[ELEM_BOTTOM + 0x100:ELEM_BOTTOM + 0x140], 2, 2)
+    for y, row in enumerate(art):
+        for x, c in enumerate(row):
+            if c != ".":
+                px[3 + y][3 + x] = int(c)
+    data = sprite_bytes(px, 2, 2)
+    return data[:0x40], data[0x40:]
 
 
 def _check():
