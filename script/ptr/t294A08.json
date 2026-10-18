@@ -30,7 +30,8 @@
     "0x29510c"
    ],
    "jp": "通信対戦について",
-   "en": ""
+   "en": "Link Battles",
+   "status": "translated"
   },
   {
    "id": "s28D46C",
@@ -62,7 +63,8 @@
     "0x295110"
    ],
    "jp": "通信対戦のルールをセツメイします",
-   "en": ""
+   "en": "Explains the link battle rules",
+   "status": "translated"
   },
   {
    "id": "s28D48E",
@@ -94,7 +96,8 @@
     "0x295114"
    ],
    "jp": "バトルスタイルのコウモクで\n{8833}通信対戦に勝った時にもらう物を決める{8800}事ができる\n\n1。{8899}グランボバトル{8800}・・・グランボをかけて戦う\n （ただし、これはセイバーとしてあるていどカツヤク\n  しており、セイバー本部からその力をみとめられた\n  人しか行うことができない）\n\n2。{8899}ワザバトル{8800}・・・ワザをかけて戦う\n\n3。{8899}アイテムバトル{8800}・・・アイテムをかけて戦う\n\n4。{8899}プレゼントバトル{8800}・・・ランダムで決まった\n             プレゼントをかけて戦う",
-   "en": ""
+   "en": "In Battle Style, you can\n{8833}choose what the winner of a link battle gets{8800}\n\n1. {8899}Granbo Battle{8800}... Bet a Granbo\n (Only Savers who have proven themselves\n  and been recognized by Saver HQ\n  can choose this)\n\n2. {8899}Move Battle{8800}... Bet a move\n\n3. {8899}Item Battle{8800}... Bet an item\n\n4. {8899}Gift Battle{8800}... Bet a gift\n           chosen at random",
+   "status": "translated"
   },
   {
    "id": "s28D660",
@@ -124,7 +127,8 @@
     "0x295100"
    ],
    "jp": "「しんか」と「しょきか」",
-   "en": ""
+   "en": "Evolve and Reset",
+   "status": "translated"
   },
   {
    "id": "s28D67A",
@@ -154,7 +158,8 @@
     "0x295104"
    ],
    "jp": "「しんか」と「しょきか」についてせつめいします",
-   "en": ""
+   "en": "Explains evolving and resetting",
+   "status": "translated"
   },
   {
    "id": "s28D6AA",

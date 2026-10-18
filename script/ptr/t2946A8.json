@@ -7,7 +7,8 @@
     "0x2946a8"
    ],
    "jp": "ヒヨッコセイバー",
-   "en": ""
+   "en": "Chick Saver",
+   "status": "translated"
   },
   {
    "id": "s26EC14",
@@ -16,7 +17,8 @@
     "0x2946ac"
    ],
    "jp": "カケダシセイバー",
-   "en": ""
+   "en": "Rookie Saver",
+   "status": "translated"
   },
   {
    "id": "s26EC26",
@@ -25,7 +27,8 @@
     "0x2946b0"
    ],
    "jp": "シロウトセイバー",
-   "en": ""
+   "en": "Amateur Saver",
+   "status": "translated"
   },
   {
    "id": "s26EC38",
@@ -34,7 +37,8 @@
     "0x2946b4"
    ],
    "jp": "クロウトセイバー",
-   "en": ""
+   "en": "Pro Saver",
+   "status": "translated"
   },
   {
    "id": "s26EC4A",
@@ -43,7 +47,8 @@
     "0x2946b8"
    ],
    "jp": "ミツボシセイバー",
-   "en": ""
+   "en": "3-Star Saver",
+   "status": "translated"
   },
   {
    "id": "s26EC5C",
@@ -52,7 +57,8 @@
     "0x2946bc"
    ],
    "jp": "ベテランセイバー",
-   "en": ""
+   "en": "Veteran Saver",
+   "status": "translated"
   },
   {
    "id": "s26EC6E",
@@ -61,7 +67,8 @@
     "0x2946c0"
    ],
    "jp": "マスターセイバー",
-   "en": ""
+   "en": "Master Saver",
+   "status": "translated"
   },
   {
    "id": "s26EC80",
@@ -70,7 +77,8 @@
     "0x2946c4"
    ],
    "jp": "スーパーセイバー",
-   "en": ""
+   "en": "Super Saver",
+   "status": "translated"
   },
   {
    "id": "s26EC92",
@@ -79,7 +87,8 @@
     "0x2946c8"
    ],
    "jp": "ウルトラセイバー",
-   "en": ""
+   "en": "Ultra Saver",
+   "status": "translated"
   },
   {
    "id": "s26ECA4",
@@ -88,7 +97,8 @@
     "0x2946cc"
    ],
    "jp": "キングセイバー ",
-   "en": ""
+   "en": "King Saver",
+   "status": "translated"
   },
   {
    "id": "s26ECB6",
@@ -97,7 +107,8 @@
     "0x2946d0"
    ],
    "jp": "ゴッドセイバー ",
-   "en": ""
+   "en": "God Saver",
+   "status": "translated"
   },
   {
    "id": "s26ECC8",
@@ -106,7 +117,8 @@
     "0x294700"
    ],
    "jp": "ヒヨッコセイバー大会",
-   "en": ""
+   "en": "Chick Cup",
+   "status": "translated"
   },
   {
    "id": "s26ECDE",
@@ -115,7 +127,8 @@
     "0x294704"
    ],
    "jp": "2回勝ちぬき戦\n出場しかく   だれでもOK\n優勝しょうひん ウイルスフード",
-   "en": ""
+   "en": "2-round knockout\nEntry:   Anyone\nPrize: Virus Food",
+   "status": "translated"
   },
   {
    "id": "s26ED2C",
@@ -124,7 +137,8 @@
     "0x294714"
    ],
    "jp": "カケダシセイバー大会",
-   "en": ""
+   "en": "Rookie Cup",
+   "status": "translated"
   },
   {
    "id": "s26ED42",
@@ -133,7 +147,8 @@
     "0x294718"
    ],
    "jp": "2回勝ちぬき戦\n出場しかく   カケダシセイバーいじょう\n優勝しょうひん エラーフード",
-   "en": ""
+   "en": "2-round knockout\nEntry:   Rookie Saver or up\nPrize: Error Food",
+   "status": "translated"
   },
   {
    "id": "s26ED9A",
@@ -142,7 +157,8 @@
     "0x294728"
    ],
    "jp": "シロウトセイバー大会",
-   "en": ""
+   "en": "Amateur Cup",
+   "status": "translated"
   },
   {
    "id": "s26EDB0",
@@ -151,7 +167,8 @@
     "0x29472c"
    ],
    "jp": "2回勝ちぬき戦\n出場しかく   シロウトセイバーいじょう\n優勝しょうひん ストップフード",
-   "en": ""
+   "en": "2-round knockout\nEntry:   Amateur Saver or up\nPrize: Stop Food",
+   "status": "translated"
   },
   {
    "id": "s26EE0A",
@@ -160,7 +177,8 @@
     "0x29473c"
    ],
    "jp": "クロウトセイバー大会",
-   "en": ""
+   "en": "Pro Cup",
+   "status": "translated"
   },
   {
    "id": "s26EE20",
@@ -169,7 +187,8 @@
     "0x294740"
    ],
    "jp": "3回勝ちぬき戦\n出場しかく   クロウトセイバーいじょう\n優勝しょうひん なかまの助け",
-   "en": ""
+   "en": "3-round knockout\nEntry:   Pro Saver or up\nPrize: Friend Aid",
+   "status": "translated"
   },
   {
    "id": "s26EE78",
@@ -178,7 +197,8 @@
     "0x294750"
    ],
    "jp": "ミツボシセイバー大会",
-   "en": ""
+   "en": "3-Star Cup",
+   "status": "translated"
   },
   {
    "id": "s26EE8E",
@@ -187,7 +207,8 @@
     "0x294754"
    ],
    "jp": "4回勝ちぬき戦\n出場しかく   ミツボシセイバーいじょう\n優勝しょうひん ヒット強",
-   "en": ""
+   "en": "4-round knockout\nEntry:   3-Star Saver or up\nPrize: Hit 3",
+   "status": "translated"
   },
   {
    "id": "s26EEE2",
@@ -196,7 +217,8 @@
     "0x294764"
    ],
    "jp": "ベテランセイバー大会",
-   "en": ""
+   "en": "Veteran Cup",
+   "status": "translated"
   },
   {
    "id": "s26EEF8",
@@ -205,7 +227,8 @@
     "0x294768"
    ],
    "jp": "4回勝ちぬき戦\n出場しかく   ベテランセイバーいじょう\n優勝しょうひん キバ強",
-   "en": ""
+   "en": "4-round knockout\nEntry:   Veteran Saver or up\nPrize: Fang 3",
+   "status": "translated"
   },
   {
    "id": "s26EF4A",
@@ -214,7 +237,8 @@
     "0x294778"
    ],
    "jp": "マスターセイバー大会",
-   "en": ""
+   "en": "Master Cup",
+   "status": "translated"
   },
   {
    "id": "s26EF60",
@@ -223,7 +247,8 @@
     "0x29477c"
    ],
    "jp": "4回勝ちぬき戦\n出場しかく   マスターセイバーいじょう\n優勝しょうひん ウイルスクロー強",
-   "en": ""
+   "en": "4-round knockout\nEntry:   Master Saver or up\nPrize: Virus Claw 3",
+   "status": "translated"
   },
   {
    "id": "s26EFBC",
@@ -232,7 +257,8 @@
     "0x29478c"
    ],
    "jp": "スーパーセイバー大会",
-   "en": ""
+   "en": "Super Cup",
+   "status": "translated"
   },
   {
    "id": "s26EFD2",
@@ -241,7 +267,8 @@
     "0x294790"
    ],
    "jp": "5回勝ちぬき戦\n出場しかく   スーパーセイバーいじょう\n優勝しょうひん 全ENカプセル大",
-   "en": ""
+   "en": "5-round knockout\nEntry:   Super Saver or up\nPrize: Team EN Capsule 3",
+   "status": "translated"
   },
   {
    "id": "s26F02E",
@@ -250,7 +277,8 @@
     "0x2947a0"
    ],
    "jp": "ウルトラセイバー大会",
-   "en": ""
+   "en": "Ultra Cup",
+   "status": "translated"
   },
   {
    "id": "s26F044",
@@ -259,7 +287,8 @@
     "0x2947a4"
    ],
    "jp": "5回勝ちぬき戦\n出場しかく   ウルトラセイバーいじょう\n優勝しょうひん さいきどう様",
-   "en": ""
+   "en": "5-round knockout\nEntry:   Ultra Saver or up\nPrize: Reboot EX",
+   "status": "translated"
   },
   {
    "id": "s26F09C",
@@ -268,7 +297,8 @@
     "0x2947b4"
    ],
    "jp": "キングセイバー大会",
-   "en": ""
+   "en": "King Cup",
+   "status": "translated"
   },
   {
    "id": "s26F0B0",
@@ -277,7 +307,8 @@
     "0x2947b8"
    ],
    "jp": "5回勝ちぬき戦\n出場しかく   キングセイバーいじょう\n優勝しょうひん ゲージアップ大",
-   "en": ""
+   "en": "5-round knockout\nEntry:   King Saver or up\nPrize: Gauge Up 3",
+   "status": "translated"
   },
   {
    "id": "s26F108",
@@ -286,7 +317,8 @@
     "0x2947c8"
    ],
    "jp": "ゴッドセイバー大会",
-   "en": ""
+   "en": "God Cup",
+   "status": "translated"
   },
   {
    "id": "s26F11C",
@@ -295,7 +327,8 @@
     "0x2947cc"
    ],
    "jp": "6回勝ちぬき戦\n出場しかく   ゴッドセイバーいじょう\n優勝しょうひん 全ヒット強",
-   "en": ""
+   "en": "6-round knockout\nEntry:   God Saver or up\nPrize: Team Hit 3",
+   "status": "translated"
   },
   {
    "id": "s26F170",
@@ -304,7 +337,8 @@
     "0x2946ec"
    ],
    "jp": "オールスター大会",
-   "en": ""
+   "en": "All-Star Cup",
+   "status": "translated"
   },
   {
    "id": "s26F182",
@@ -313,7 +347,8 @@
     "0x2946f0"
    ],
    "jp": "7回勝ちぬき戦\n出場しかく   ゴッドセイバーいじょう\n優勝しょうひん ？？？？？？",
-   "en": ""
+   "en": "7-round knockout\nEntry:   God Saver or up\nPrize: ??????",
+   "status": "translated"
   }
  ]
 }

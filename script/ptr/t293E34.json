@@ -8,7 +8,8 @@
     "0x293e50"
    ],
    "jp": "ワールドチェンジタワー",
-   "en": ""
+   "en": "World Change Tower",
+   "status": "translated"
   },
   {
    "id": "s26EBB2",
@@ -17,7 +18,8 @@
     "0x293f54"
    ],
    "jp": "ヒミツダンジョン3",
-   "en": ""
+   "en": "Secret Dungeon 3",
+   "status": "translated"
   },
   {
    "id": "s26EBC6",
@@ -26,7 +28,8 @@
     "0x293f58"
    ],
    "jp": "ヒミツダンジョン4",
-   "en": ""
+   "en": "Secret Dungeon 4",
+   "status": "translated"
   },
   {
    "id": "s26EBDA",
@@ -35,7 +38,8 @@
     "0x293f5c"
    ],
    "jp": "ヒミツダンジョン5",
-   "en": ""
+   "en": "Secret Dungeon 5",
+   "status": "translated"
   },
   {
    "id": "s26EBEE",
@@ -44,7 +48,8 @@
     "0x293f60"
    ],
    "jp": "ヒミツダンジョン6",
-   "en": ""
+   "en": "Secret Dungeon 6",
+   "status": "translated"
   }
  ]
 }

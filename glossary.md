@@ -141,6 +141,14 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- Ranks: ミツボシセイバー -> 3-Star Saver everywhere (menu field; dialogue aligned). Tournament list titles -> "X Cup"
+  (Chick Cup ... God Cup, All-Star Cup) in the menu field; dialogue keeps "X Saver Tournament" - FLAGGED: a shortened
+  form, revisit if screen QA shows the field is wider. N回勝ちぬき戦 -> N-round knockout; 出場しかく -> Entry:; 優勝しょうひん
+  -> Prize:; ワザ/アイテム/プレゼントバトル -> Move / Item / Gift Battle. More Granbo: マウボン Maubon, ダグラン Dagran,
+  シャカブン Shakabun, アーティコン Articon.
+- More Granbo: ベルタイガー Beltiger, ムーター Mutor, カサゴン Kasagon, タットコ Tattoko, マーウォン Mawon, バンビーナ Bambina,
+  マットビビ Mattobibi, アクリィ Akury, グランダム Grandam, イグーリー Iguly; アイウチワザ -> Clash moves; じゅうようアイテム
+  -> Key Items; ホウコク -> Report.
 - More Granbo: モンガモンガ Mongamonga, ペッカン Peckan, マキリーガ Makiriga, マーグ Marg, クーフロウ Koofrow, ワオンター
   Woofonter, ウドワン Udowan, ピヨリカ2 Piyorika 2, スワーナ Swana, ガジャコ Gajako, ワニャオン Wanyaon, アントン Anton, ガダム
   Gadam (not Gadem), リゾーサ Rizosa, ラーブコ Rabuko, ラ・グォンド La Guondo, チックン Chikkun, ミミーナ Mimina, ケッコー Kekko.

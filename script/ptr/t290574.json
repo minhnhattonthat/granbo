@@ -24057,7 +24057,8 @@
     "0x293478"
    ],
    "jp": "カギヅメをいかしたワザもおぼえられるので\nワザはしんちょうにえらぼう",
-   "en": ""
+   "en": "It can also learn claw moves,\nso pick moves with care",
+   "status": "translated"
   },
   {
    "id": "s28BE50",
@@ -24075,7 +24076,8 @@
     "0x293480"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": ""
+   "en": "Looks like this one{8207}evolves normally.",
+   "status": "translated"
   },
   {
    "id": "s28BE84",
@@ -24084,7 +24086,8 @@
     "0x293494"
    ],
    "jp": "マウボン",
-   "en": ""
+   "en": "Maubon",
+   "status": "translated"
   },
   {
    "id": "s28BE8E",
@@ -24093,7 +24096,8 @@
     "0x293498"
    ],
    "jp": "ぼーっとしており\n勝手にとうみんでねむってしまう",
-   "en": ""
+   "en": "Always dazed\nHibernates whenever it likes",
+   "status": "translated"
   },
   {
    "id": "s28BEC0",
@@ -24102,7 +24106,8 @@
     "0x29349c"
    ],
    "jp": "さまざまな全バリアワザをおぼえる\n味方のダメージがへるのでケッコウ使えるかも",
-   "en": ""
+   "en": "Has many Team Barrier moves\nThey cut allies' damage, so they're handy",
+   "status": "translated"
   },
   {
    "id": "s28BF0E",
@@ -24120,7 +24125,8 @@
     "0x2934a4"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28BF36",
@@ -24129,7 +24135,8 @@
     "0x2934b8"
    ],
    "jp": "ミーゼン",
-   "en": ""
+   "en": "Meesen",
+   "status": "translated"
   },
   {
    "id": "s28BF40",
@@ -24138,7 +24145,8 @@
     "0x2934bc"
    ],
    "jp": "いつも大きな音を出しているグランボ\nうるさすぎてまわりのグランボはエラーになってしまう",
-   "en": ""
+   "en": "Always making a loud noise\nSo loud that nearby Granbo get Error",
+   "status": "translated"
   },
   {
    "id": "s28BF98",
@@ -24147,7 +24155,8 @@
     "0x2934c0"
    ],
    "jp": "オンパのワザをいろいろおぼえるが、あいてによって\n使い分けるヒツヨウがある",
-   "en": ""
+   "en": "Learns many Wave moves, but you have to\npick them to suit the foe",
+   "status": "translated"
   },
   {
    "id": "s28BFE4",
@@ -24165,7 +24174,8 @@
     "0x2934c8"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28C00C",
@@ -24174,7 +24184,8 @@
     "0x2934dc"
    ],
    "jp": "ラミーゴ",
-   "en": ""
+   "en": "Ramigo",
+   "status": "translated"
   },
   {
    "id": "s28C016",
@@ -24183,7 +24194,8 @@
     "0x2934e0"
    ],
    "jp": "回復ワザをよく使うので、他のグランボと\nいっしょに出てきた時には良くかんがえて戦う事",
-   "en": ""
+   "en": "It heals a lot, so plan carefully when\nit shows up with other Granbo",
+   "status": "translated"
   },
   {
    "id": "s28C06C",
@@ -24192,7 +24204,8 @@
     "0x2934e4"
    ],
    "jp": "味方をサポートするワザがほとんどなので\nだれもおぼえていないタイプのワザをおぼえさせよう",
-   "en": ""
+   "en": "Nearly all its moves support allies\nTeach it a type of move no one else has",
+   "status": "translated"
   },
   {
    "id": "s28C0C6",
@@ -24210,7 +24223,8 @@
     "0x2934ec"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": ""
+   "en": "Looks like this one{8207}evolves normally.",
+   "status": "translated"
   },
   {
    "id": "s28C0FA",
@@ -24219,7 +24233,8 @@
     "0x293500"
    ],
    "jp": "ダグラン",
-   "en": ""
+   "en": "Dagran",
+   "status": "translated"
   },
   {
    "id": "s28C104",
@@ -24228,7 +24243,8 @@
     "0x293504"
    ],
    "jp": "攻撃してワザをふうじるキックワザを使う\nソッコウでたおしたいがバリアを使うこともある",
-   "en": ""
+   "en": "Its kicks seal your moves on a hit\nBeat it fast, but it may use Barrier",
+   "status": "translated"
   },
   {
    "id": "s28C15A",
@@ -24237,7 +24253,8 @@
     "0x293508"
    ],
    "jp": "ふだんはバリアワザで味方を守り、おいつめられたら\nサイキドウのワザを使おう",
-   "en": ""
+   "en": "Guard allies with Barrier moves, and when\ncornered, use Reboot",
+   "status": "translated"
   },
   {
    "id": "s28C1A6",
@@ -24255,7 +24272,8 @@
     "0x293510"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28C1CE",
@@ -24264,7 +24282,8 @@
     "0x293524"
    ],
    "jp": "テゴザ",
-   "en": ""
+   "en": "Tegoza",
+   "status": "translated"
   },
   {
    "id": "s28C1D6",
@@ -24273,7 +24292,8 @@
     "0x293528"
    ],
    "jp": "そのキョタイで敵にぶつかっていく\nパラメータも高くあなどれない",
-   "en": ""
+   "en": "Rams foes with its huge body\nHigh stats make it a threat",
+   "status": "translated"
   },
   {
    "id": "s28C216",
@@ -24282,7 +24302,8 @@
     "0x29352c"
    ],
    "jp": "攻撃も回復もひととおりできるのでたよりになる\nしかしハントだけはニガテ",
-   "en": ""
+   "en": "It can attack and heal, so it's reliable\nBut it's bad at hunting",
+   "status": "translated"
   },
   {
    "id": "s28C25E",
@@ -24300,7 +24321,8 @@
     "0x293534"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28C286",
@@ -24309,7 +24331,8 @@
     "0x293548"
    ],
    "jp": "ダパンパ",
-   "en": ""
+   "en": "Dapampa",
+   "status": "translated"
   },
   {
    "id": "s28C290",
@@ -24318,7 +24341,8 @@
     "0x29354c"
    ],
    "jp": "なげつけてくるボールにチュウイがヒツヨウ",
-   "en": ""
+   "en": "Watch out for the balls it throws",
+   "status": "translated"
   },
   {
    "id": "s28C2BA",
@@ -24327,7 +24351,8 @@
     "0x293550"
    ],
    "jp": "ガイケンににあわずケッコウすばやい\n全体に攻撃できる全ヒットワザなどもおぼえる",
-   "en": ""
+   "en": "Much quicker than it looks\nLearns Team Hit moves that hit all foes",
+   "status": "translated"
   },
   {
    "id": "s28C30A",
@@ -24345,7 +24370,8 @@
     "0x293558"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28C332",
@@ -24354,7 +24380,8 @@
     "0x29356c"
    ],
    "jp": "イウッチ",
-   "en": ""
+   "en": "Iutch",
+   "status": "translated"
   },
   {
    "id": "s28C33C",
@@ -24363,7 +24390,8 @@
     "0x293570"
    ],
    "jp": "戦いになるとおたけびをあげ、相手をひるませる\nひるまずにむかってくる敵にはキバでかみつく",
-   "en": ""
+   "en": "Roars in battle to make its foes flinch\nBites any foe that charges in unafraid",
+   "status": "translated"
   },
   {
    "id": "s28C396",
@@ -24372,7 +24400,8 @@
     "0x293574"
    ],
    "jp": "どっしりとしたボディーは高いぼうぎょ力をほこるが\nぎゃくにすばやさがとても低いのでチュウイ",
-   "en": ""
+   "en": "Its sturdy body has very high defense,\nbut its speed is very low, so beware",
+   "status": "translated"
   },
   {
    "id": "s28C3F2",
@@ -24390,7 +24419,8 @@
     "0x29357c"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28C41A",
@@ -24399,7 +24429,8 @@
     "0x293590"
    ],
    "jp": "ヒョーグ",
-   "en": ""
+   "en": "Hyog",
+   "status": "translated"
   },
   {
    "id": "s28C424",
@@ -24408,7 +24439,8 @@
     "0x293594"
    ],
    "jp": "けっして長くはないが、とてもするどいキバを持つ\nそのイリョクはあなどれない",
-   "en": ""
+   "en": "Its fangs aren't long, but they're very sharp\nThey pack real power",
+   "status": "translated"
   },
   {
    "id": "s28C470",
@@ -24417,7 +24449,8 @@
     "0x293598"
    ],
    "jp": "イリョクの高いキバワザをおぼえられるので\n攻撃やくとしてカツヤクさせよう",
-   "en": ""
+   "en": "It can learn powerful Fang moves,\nso make it your attacker",
+   "status": "translated"
   },
   {
    "id": "s28C4BA",
@@ -24435,7 +24468,8 @@
     "0x2935a0"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28C4E2",
@@ -24444,7 +24478,8 @@
     "0x2935b4"
    ],
    "jp": "ミーゼット",
-   "en": ""
+   "en": "Meesette",
+   "status": "translated"
   },
   {
    "id": "s28C4EE",
@@ -24453,7 +24488,8 @@
     "0x2935b8"
    ],
    "jp": "いつもは土の中にいるがたまに地上に出てくる\n出てきても土中攻撃でまたもぐる・・・",
-   "en": ""
+   "en": "Lives underground, but may surface\nThen it digs back in with Burrow...",
+   "status": "translated"
   },
   {
    "id": "s28C540",
@@ -24462,7 +24498,8 @@
     "0x2935bc"
    ],
    "jp": "両うでのドリルはじめんをほるだけでなく\n敵のぼうぎょ力をけずりとる事にも使える",
-   "en": ""
+   "en": "Its arm drills can not only dig,\nbut also grind down a foe's defense",
+   "status": "translated"
   },
   {
    "id": "s28C590",
@@ -24480,7 +24517,8 @@
     "0x2935c4"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": ""
+   "en": "Looks like this one{8207}evolves normally.",
+   "status": "translated"
   },
   {
    "id": "s28C5C4",
@@ -24489,7 +24527,8 @@
     "0x2935d8"
    ],
    "jp": "シャカブン",
-   "en": ""
+   "en": "Shakabun",
+   "status": "translated"
   },
   {
    "id": "s28C5D0",
@@ -24498,7 +24537,8 @@
     "0x2935dc"
    ],
    "jp": "ダメージは全くうけないがジョウタイイジョウを\n高いカクリツでおこしてくるのでチュウイ",
-   "en": ""
+   "en": "It deals no damage at all, but it's likely\nto cause status effects, so beware",
+   "status": "translated"
   },
   {
    "id": "s28C626",
@@ -24507,7 +24547,8 @@
     "0x2935e0"
    ],
    "jp": "敵にダメージをあたえられるワザはないが\nウイルスにさせやすいのでハントで使おう",
-   "en": ""
+   "en": "It has no moves that damage foes,\nbut it's handy for hunts with Virus",
+   "status": "translated"
   },
   {
    "id": "s28C676",
@@ -24525,7 +24566,8 @@
     "0x2935e8"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28C69E",
@@ -24534,7 +24576,8 @@
     "0x2935fc"
    ],
    "jp": "ザイドン",
-   "en": ""
+   "en": "Zaidon",
+   "status": "translated"
   },
   {
    "id": "s28C6A8",
@@ -24543,7 +24586,8 @@
     "0x293600"
    ],
    "jp": "するどいツノをまっすぐつきだして\nトッシンしてくる攻撃が多い",
-   "en": ""
+   "en": "Thrusts its sharp horn forward\nMost attacks are charges",
+   "status": "translated"
   },
   {
    "id": "s28C6E6",
@@ -24552,7 +24596,8 @@
     "0x293604"
    ],
    "jp": "自分の体がきずつくことをおそれずにとっしんする\nHPの回復ができる味方といっしょに戦わせよう",
-   "en": ""
+   "en": "Charges in without fear of getting hurt\nPair it with allies that can restore HP",
+   "status": "translated"
   },
   {
    "id": "s28C744",
@@ -24570,7 +24615,8 @@
     "0x29360c"
    ],
    "jp": "「かわいい森のじゅうにんを使ってみたら？{8207}変わったシンカをするかもよ！」",
-   "en": ""
+   "en": "Why not try a cute forest dweller?{8207}It might evolve unusually!",
+   "status": "translated"
   },
   {
    "id": "s28C790",
@@ -24579,7 +24625,8 @@
     "0x293620"
    ],
    "jp": "アーティコン",
-   "en": ""
+   "en": "Articon",
+   "status": "translated"
   },
   {
    "id": "s28C79E",
@@ -24588,7 +24635,8 @@
     "0x293624"
    ],
    "jp": "でんせつのグランボの1しゅるい",
-   "en": ""
+   "en": " One of the legendary Granbo",
+   "status": "translated"
   },
   {
    "id": "s28C7BE",
@@ -24597,7 +24645,8 @@
     "0x293628"
    ],
    "jp": "何でもきりさくキョダイなハサミと\nドクバリをいかしたワザをおぼえる",
-   "en": ""
+   "en": "Its moves use a stinger and\nhuge pincers that cut anything",
+   "status": "translated"
   },
   {
    "id": "s28C802",
@@ -24615,7 +24664,8 @@
     "0x293630"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28C82A",
@@ -24624,7 +24674,8 @@
     "0x293644"
    ],
    "jp": "カモダック",
-   "en": ""
+   "en": "Kamoduck",
+   "status": "translated"
   },
   {
    "id": "s28C836",
@@ -24633,7 +24684,8 @@
     "0x293648"
    ],
    "jp": "きずついた味方がいれば回復させる\n闇ゾクセイで回復ワザを持つ数少ないグランボの1しゅ",
-   "en": ""
+   "en": "Heals any hurt allies\nA rare Dark Granbo with healing moves",
+   "status": "translated"
   },
   {
    "id": "s28C88C",
@@ -24642,7 +24694,8 @@
     "0x29364c"
    ],
    "jp": "手のひらのジュウコウからガンやビームを\nハッシャすることができる",
-   "en": ""
+   "en": "The muzzles in its palms\nfire guns and beams",
+   "status": "translated"
   },
   {
    "id": "s28C8CE",
@@ -24660,7 +24713,8 @@
     "0x293654"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28C8F6",
@@ -24669,7 +24723,8 @@
     "0x293668"
    ],
    "jp": "バイエン",
-   "en": ""
+   "en": "Baien",
+   "status": "translated"
   },
   {
    "id": "s28C900",
@@ -24678,7 +24733,8 @@
     "0x29366c"
    ],
    "jp": "ジョウタイイジョウをうつしてくるので\nチュウイがヒツヨウ",
-   "en": ""
+   "en": "It passes its status effects to you,\nso beware",
+   "status": "translated"
   },
   {
    "id": "s28C93A",
@@ -24687,7 +24743,8 @@
     "0x293670"
    ],
    "jp": "カクジツに逃げられるワザと\n敵を逃げられなくするワザのリョウホウをおぼえる",
-   "en": ""
+   "en": "Has a sure-escape move\nand a move that keeps foes from fleeing",
+   "status": "translated"
   },
   {
    "id": "s28C986",
@@ -24705,7 +24762,8 @@
     "0x293678"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28C9AE",
@@ -24714,7 +24772,8 @@
     "0x29368c"
    ],
    "jp": "テラドン",
-   "en": ""
+   "en": "Teradon",
+   "status": "translated"
   },
   {
    "id": "s28C9B8",
@@ -24723,7 +24782,8 @@
     "0x293690"
    ],
    "jp": "大きな体でも空をじゆうに飛ぶことができる\nダイブけいのワザにはヨウチュウイ",
-   "en": ""
+   "en": "Flies freely despite its big body\nWatch out for its Dive moves",
+   "status": "translated"
   },
   {
    "id": "s28CA04",
@@ -24732,7 +24792,8 @@
     "0x293694"
    ],
    "jp": "強力なダイブワザでガンガン攻撃しよう\nのこりENにはチュウイがヒツヨウ",
-   "en": ""
+   "en": "Attack hard with strong Dive moves\nJust keep an eye on your EN",
+   "status": "translated"
   },
   {
    "id": "s28CA4C",
@@ -24750,7 +24811,8 @@
     "0x29369c"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28CA74",
@@ -24759,7 +24821,8 @@
     "0x2936b0"
    ],
    "jp": "ガメーダ",
-   "en": ""
+   "en": "Gameda",
+   "status": "translated"
   },
   {
    "id": "s28CA7E",
@@ -24768,7 +24831,8 @@
     "0x2936b4"
    ],
    "jp": "するどいカマをふりかざしてカットワザをしかけてくる\n一撃でたおされる事もあるのでチュウイ",
-   "en": ""
+   "en": "Swings its sharp scythes to use Cut moves\nIt can KO in one hit, so beware",
+   "status": "translated"
   },
   {
    "id": "s28CAD8",
@@ -24777,7 +24841,8 @@
     "0x2936b8"
    ],
    "jp": "カットワザに全てをかけて戦おう\n失敗しダメージをうけてもHPスチールで回復だ",
-   "en": ""
+   "en": "Bet everything on Cut moves\nIf it fails and you're hurt, use HP Steal",
+   "status": "translated"
   },
   {
    "id": "s28CB26",
@@ -24795,7 +24860,8 @@
     "0x2936c0"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28CB4E",
@@ -24804,7 +24870,8 @@
     "0x2936d4"
    ],
    "jp": "？？？？？？",
-   "en": ""
+   "en": "??????",
+   "status": "translated"
   },
   {
    "id": "s28CB5C",
@@ -24813,7 +24880,8 @@
     "0x2936d8"
    ],
    "jp": "？",
-   "en": ""
+   "en": "?",
+   "status": "translated"
   },
   {
    "id": "s28CB60",
@@ -24822,7 +24890,8 @@
     "0x2936dc"
    ],
    "jp": "？",
-   "en": ""
+   "en": "?",
+   "status": "translated"
   },
   {
    "id": "s28CB64",
@@ -24831,7 +24900,8 @@
     "0x2936e0"
    ],
    "jp": "？",
-   "en": ""
+   "en": "?",
+   "status": "translated"
   },
   {
    "id": "s28CB68",
@@ -24840,7 +24910,8 @@
     "0x2936e4"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   }
  ]
 }
