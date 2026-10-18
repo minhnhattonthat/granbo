@@ -4,7 +4,13 @@ local S = {}
 
 S.title = { desc = "title screen, NEW GAME", run = function(W) W.boot_title() end }
 
-S.town = { desc = "first town outdoors (map 1 TOWN, variant 0 W-VIEW), plaza with NPCs", run = function(W)
+S.naming = { desc = "new game: name prompt 'あなたの名前は『カケル』ですね? はい/いいえ' (dark room, map 1/1)",
+  run = function(W)
+  W.new_game()
+  W.msg_page("name prompt")
+end }
+
+S.town ={ desc = "first town outdoors (map 1 TOWN, variant 0 W-VIEW), plaza with NPCs", run = function(W)
   W.new_game()
   W.warp(1, 0, 400, 300, 0)
 end }

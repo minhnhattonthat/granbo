@@ -139,11 +139,22 @@ def main():
     ap.add_argument("--out", default=str(ROOT / "build/granbo_en.gba"))
     ap.add_argument("--lang", default="en")
     ap.add_argument("--marker", action="store_true", help="every string -> its id (marker build)")
+    ap.add_argument("--qa", action="append", default=[], metavar="ID=TEXT",
+                    help="override one entry's text (stress/width tests; \\n = newline)")
     a = ap.parse_args()
     check_rom.check()
     orig = ROM.read_bytes()
-    marker = MARKER if a.marker else None
-    r = build(orig, load_script(), a.lang, marker)
+    files = load_script()
+    qa = dict(q.split("=", 1) for q in a.qa)
+    for f in files.values():
+        for e in f["entries"]:
+            if e["id"] in qa:
+                e[a.lang] = qa.pop(e["id"]).replace("\\n", "\n")
+                e["qa"] = True
+    if qa:
+        sys.exit(f"--qa: unknown ids {sorted(qa)}")
+    marker = (lambda e: e[a.lang] if e.get("qa") else MARKER(e)) if a.marker else None
+    r = build(orig, files, a.lang, marker)
     out = Path(a.out)
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_bytes(r.finish())

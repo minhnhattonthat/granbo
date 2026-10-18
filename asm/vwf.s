@@ -94,6 +94,29 @@ next_px:
     mov r8, r1
     cmp r1, #0x40
     blt row_loop
+@ The game wraps a line by glyph count (window byte +0x2A, the column the caller increments after this call).
+@ For the message loop's two call sites, set it to the cell the pen ends in, so wrapping follows pixels.
+    ldr r3, lit_state
+    ldr r1, [r3, #12]
+    ldr r2, lit_widths
+    ldrb r1, [r2, r1]
+    adds r1, r7, r1
+    adds r1, #7
+    lsrs r1, r1, #3
+    subs r1, #1
+    ldr r2, [sp, #0x58]
+    ldr r0, lit_ret1
+    cmp r2, r0
+    beq sync
+    ldr r0, lit_ret2
+    cmp r2, r0
+    bne done
+sync:
+    str r1, [r3, #4]
+    ldr r0, [r3, #0]
+    adds r0, #0x2a
+    strb r1, [r0]
+done:
     add sp, #0x40
     pop {r4, r5}
     mov r8, r4
@@ -109,3 +132,5 @@ lit_widths:  .word WIDTHS
 lit_fontptr: .word 0x0829FE04
 lit_recolor: .word 0x080560A9
 lit_canvas:  .word 0x03000CC0
+lit_ret1:    .word 0x08055BF9
+lit_ret2:    .word 0x08055C27

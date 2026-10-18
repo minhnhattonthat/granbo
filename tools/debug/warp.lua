@@ -49,6 +49,9 @@ local A = {
   dmap = 0x030023F0,     -- s16 destination map / variant / x / y / facing (map-change request, fn 0x080492C4)
   dvar = 0x030023F2, dx = 0x030023F4, dy = 0x030023F6, ddir = 0x030023F8,
   px = 0x0201B182, py = 0x0201B186,  -- s16 player pixel position (actor 0x0201B170, +0x12/+0x16)
+  msg = 0x0201ACA0,      -- message window: u8 +0 3 = open, +1 1 typing / 2 closed, +2 1 = page done (waits for A),
+                         -- +4 script ptr, +8 text cursor
+  fade_mask = 0x0201B054,            -- u32 palette mask of the palette-fade object 0x0201B050 (fn 0x08047130)
 }
 W.A = A
 
@@ -62,6 +65,14 @@ local function stage(b1, b2, b3)
 end
 function W.title_ready() return stage(1, 3, 4) end
 function W.in_field() return W.r32(A.top) == 1 and W.r32(A.mode) == 3 end
+function W.msg_open() return W.r8(A.msg) == 3 end
+-- +2 is also 1 for a few frames while a window opens, so wait for a glyph being typed (+0x10, the current text
+-- code, below 0x8000) before waiting for +2 == 1. Call it before the page is typed (right after the action).
+function W.msg_typing() return W.msg_open() and W.r8(A.msg + 2) == 0 and W.r16(A.msg + 0x10) < 0x8000 end
+function W.msg_page(what)
+  W.wait(W.msg_typing, (what or "message") .. " typing")
+  W.wait(function() return W.msg_open() and W.r8(A.msg + 2) == 1 end, (what or "message") .. " page typed")
+end
 
 -- Coroutine helpers: a scene's run(W) is a coroutine resumed once per frame.
 local waiting = "start"
@@ -105,12 +116,33 @@ function W.warp(map, var, x, y, dir)
   W.w16(A.dmap, map); W.w16(A.dvar, var); W.w16(A.dx, x or 0); W.w16(A.dy, y or 0); W.w16(A.ddir, dir or 0)
   W.w16(A.map, map); W.w16(A.var, var)
   W.w8(A.mode + 0x31, 1)  -- "map changed" flag the request sets
+  W.w32(A.fade_mask, 0xFFFFFFFF)  -- the naming room leaves the fade mask on 2 palettes: the map would load black
   W.w32(A.mode, 1); W.w32(A.sub, 0)
   W.frames(2)
   W.wait(W.in_field, "map " .. map .. "/" .. var .. " loaded")
+  W.show_palette()
+end
+-- Palette RAM is copied from a work palette (0x02023600) only while a fade runs; fades compute the work copy
+-- from the base palette (0x02023A00). A warp out of a faded-out scene (the naming room) loads the base but
+-- runs no fade, so the background stays black: copy base -> work -> palette RAM for the BG half (the OBJ half of
+-- the base is black there while OBJ palette RAM is already right).
+function W.show_palette()
+  for i = 0, 0x1FC, 4 do
+    local v = W.r32(0x02023A00 + i)
+    W.w32(0x02023600 + i, v)
+    emu.write32(i, v, emu.memType.gbaPaletteRam)
+  end
 end
 
-local co = coroutine.create(function() scene.run(W) end)
+-- AFTER='30 right;6 a;60 -' (route syntax) is played once the scene is reached, before HOLD: poke at a scene.
+local co = coroutine.create(function()
+  scene.run(W)
+  L.log(string.format("scene %s at frame %d", SCENE_NAME, L.frame))
+  for n, spec in (AFTER or ""):gmatch("(%d+)%s+([^;%s]+)") do
+    L.press(spec, tonumber(n))
+    W.frames(tonumber(n))
+  end
+end)
 local reached, every = nil, (SHOT_EVERY or 0) > 0 and 0 or 60
 FRAMES = math.max(FRAMES or 0, WARP_TIMEOUT or 8000)
 L.on_frame(function(f)

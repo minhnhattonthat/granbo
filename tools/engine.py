@@ -25,7 +25,7 @@ EN_CODES.update({chr(65 + i): 0x0AC + i for i in range(26)})
 EN_CODES.update({chr(97 + i): 0x0C6 + i for i in range(26)})
 EN_CODES.update({"!": 0x0E8, "?": 0x0E9, ".": 0x0EC, ",": 0x0E2, "-": 0x0EE, "(": 0x0F5, ")": 0x0F6, "/": 0x0F1,
                  "+": 0x0ED, "=": 0x0F2, "~": 0x0E1, "<": 0x0E4, ">": 0x0E5, '"': 0x0E6,
-                 "'": 0x1F0, ":": 0x1F1, ";": 0x1F2, "%": 0x1F3, "&": 0x1F4, "*": 0x1F5, "#": 0x1F6})
+                 "「": 0x0F7, "'": 0x1F0, ":": 0x1F1, ";": 0x1F2, "%": 0x1F3, "&": 0x1F4, "*": 0x1F5, "#": 0x1F6})
 assert len(set(EN_CODES.values())) == len(EN_CODES)
 assert set(EN_CODES) <= set(font_en.ART), set(EN_CODES) - set(font_en.ART)
 
