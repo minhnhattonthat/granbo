@@ -52,7 +52,25 @@ def label(data, text):
     return sprite_bytes(px)
 
 
+TITLE_TILES = 0x31E878  # title screen: 8bpp tiles, map = row * 32 + col (tools/gen_title.py makes the PNG)
+TITLE_PNG = Path(__file__).resolve().parents[1] / "assets/title_en.png"
+
+
+def title_tiles():
+    """{tile index: 64 bytes} for the 30x20 visible tiles of assets/title_en.png (palette indices as stored)."""
+    from PIL import Image  # only the build needs Pillow here
+    im = Image.open(TITLE_PNG)
+    assert im.mode == "P" and im.size == (240, 160)
+    px = im.load()
+    return {r * 32 + c: bytes(px[c * 8 + x, r * 8 + y] for y in range(8) for x in range(8))
+            for r in range(20) for c in range(30)}
+
+
 def patch(r):
+    for t, data in title_tiles().items():
+        at = TITLE_TILES + t * 64
+        if r.orig[at:at + 64] != data:
+            r.put(at, data, f"title tile {t:#x}")
     for off, text in LABELS:
         r.put(off, label(r.orig[off:off + 0x200], text), f"battle label {text}")
     for i, art in enumerate(ELEMENTS):
