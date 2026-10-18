@@ -8,19 +8,15 @@ The title is one 8bpp BG image: tiles at ROM 0x31E878 (map = row*32 + col), pale
 2. Background behind it: the egg's silhouette per row (ellipse fitted to the visible edge) and the blue dome
    (circle) split masked pixels into outside / egg rim / shell / dome; each class is filled by diffusion from its
    own visible pixels, and the rim is redrawn dark.
-3. "GRANBO" in the project font (tools/font_en.py capitals) at 6x, bold, italic, each letter a little lower than the
-   last (the katakana ran down to the right), metallic gradient, indigo outline.
+3. Custom polygon lettering on one rising baseline: clipped corners, open counters, silver bevels, a pale
+   keyline and an indigo extruded outline. Rasterised at native resolution so every edge stays crisp.
 4. Every pixel mapped to the nearest palette colour.
 """
 import colorsys
-import sys
 from pathlib import Path
 
 import numpy as np
-from PIL import Image
-
-sys.path.insert(0, str(Path(__file__).resolve().parent))
-import font_en  # noqa: E402
+from PIL import Image, ImageDraw
 
 ROOT = Path(__file__).resolve().parents[1]
 ROM = ROOT / "rom/0291 - Granbo (J)(Lord Moyne).gba"
@@ -134,39 +130,71 @@ def background(im, mask):
     return img
 
 
+# Original lettering, in a 31x51 design grid. First contour is the face; the rest are counters.
+# The asymmetric G, diagonal R leg and tapered A make this a wordmark rather than enlarged UI text.
+GLYPHS = {
+    "G": [[(8, 0), (30, 0), (30, 10), (13, 10), (9, 14), (9, 37), (12, 40), (21, 40),
+           (21, 31), (16, 31), (16, 22), (30, 22), (30, 43), (23, 50), (7, 50), (0, 43), (0, 8)]],
+    "R": [[(0, 0), (23, 0), (30, 7), (30, 23), (23, 30), (31, 50), (20, 50), (12, 32),
+           (9, 32), (9, 50), (0, 50)],
+          [(9, 10), (19, 10), (21, 12), (21, 20), (19, 22), (9, 22)]],
+    "A": [[(0, 50), (5, 8), (12, 0), (25, 0), (31, 50), (21, 50), (20, 37), (10, 37), (9, 50)],
+          [(13, 11), (18, 11), (19, 27), (11, 27)]],
+    "N": [[(0, 0), (9, 0), (22, 29), (22, 0), (30, 0), (30, 50), (21, 50), (8, 21),
+           (8, 50), (0, 50)]],
+    "B": [[(0, 0), (22, 0), (29, 7), (29, 20), (24, 25), (30, 31), (30, 43), (23, 50), (0, 50)],
+          [(9, 10), (18, 10), (20, 12), (20, 18), (18, 20), (9, 20)],
+          [(9, 30), (18, 30), (21, 33), (21, 38), (18, 41), (9, 41)]],
+    "O": [[(8, 0), (23, 0), (30, 7), (30, 42), (22, 50), (7, 50), (0, 43), (0, 8)],
+          [(12, 10), (18, 10), (21, 13), (21, 37), (18, 40), (12, 40), (9, 37), (9, 13)]],
+}
+
+
+def shift(mask, dx, dy):
+    """Translate a mask without wrapping pixels at the screen edge."""
+    out = np.zeros_like(mask)
+    x0, x1, y0, y1 = max(0, dx), min(W, W + dx), max(0, dy), min(H, H + dy)
+    out[y0:y1, x0:x1] = mask[y0 - dy:y1 - dy, x0 - dx:x1 - dx]
+    return out
+
+
 def letters(img):
-    S, X0, Y0, GAP, SHEAR, DROP = 6, 14, 18, 3, 0.30, 7
-    fill, t = np.zeros((H, W), bool), np.zeros((H, W))
-    x = X0
+    # One continuous upward sweep, with a small forward lean. The eye and the menu stay clear.
+    fill = np.zeros((H, W), bool)
+    yy, xx = np.mgrid[:H, :W]
     for i, ch in enumerate("GRANBO"):
-        art = font_en.ART[ch]
-        top, hgt = Y0 + DROP * i, len(art) * S
-        m = np.zeros((H, W), bool)
-        for gy, row in enumerate(art):
-            for gx, c in enumerate(row):
-                if c != "#":
-                    continue
-                for yy in range(S):
-                    y = top + gy * S + yy
-                    for xx in range(S):
-                        sx = x + gx * S + xx + int(SHEAR * (top + hgt - y))
-                        if 0 <= y < H and 0 <= sx < W:
-                            m[y, sx] = True
-        m = grow(m)
-        t[m] = ((np.arange(H)[:, None] - top + 1) / (hgt + 2) * np.ones((1, W)))[m]
-        fill |= m
-        x += font_en.width(ch) * S + GAP
-    stops = [(0.0, (200, 200, 236)), (0.3, (248, 248, 255)), (0.45, (190, 188, 226)), (0.75, (150, 148, 210)),
-             (1.0, (104, 100, 184))]
-    for y, xx in zip(*np.nonzero(fill)):
-        for (a, ca), (b, cb) in zip(stops, stops[1:]):
-            if t[y, xx] <= b:
-                k = (t[y, xx] - a) / (b - a)
-                img[y, xx] = np.array(ca) * (1 - k) + np.array(cb) * k
-                break
-    outline = grow(fill, 2) & ~fill
-    img[outline] = (48, 32, 120)
-    img[grow(outline) & ~outline & ~fill & grow(fill, 4)] = (24, 16, 72)
+        face = Image.new("1", (W, H))
+        draw = ImageDraw.Draw(face)
+        for j, contour in enumerate(GLYPHS[ch]):
+            points = []
+            for x, y in contour:
+                u = 12 + i * 34 + x + 0.20 * (50 - y)
+                points.append((round(u), round(40 + y - 0.045 * (u - 12))))
+            draw.polygon(points, fill=int(j == 0))
+        fill |= np.asarray(face)
+
+    # A solid dark silhouette around the extruded body anchors it against both shell and grass.
+    border = grow(fill, 3)
+    body = border.copy()
+    for depth in range(1, 7):
+        body |= shift(border, -depth // 2, depth)
+    img[grow(body)] = (24, 16, 72)
+    img[body] = (56, 40, 128)
+    img[body & ~shift(body, -1, -1)] = (104, 88, 184)
+    img[border] = (32, 24, 96)
+    img[grow(fill)] = (208, 208, 248)
+
+    # A hard reflection across the middle gives the broad faces the original logo's metal finish.
+    t = np.clip((yy - 40 + 0.045 * (xx - 12)) / 50, 0, 1)
+    stops = [0, 0.18, 0.44, 0.46, 0.72, 1]
+    colors = [(208, 208, 240), (248, 248, 255), (224, 224, 248), (128, 120, 192),
+              (168, 160, 216), (208, 200, 240)]
+    for channel in range(3):
+        ramp = np.interp(t, stops, [c[channel] for c in colors])
+        img[..., channel][fill] = ramp[fill]
+    # Two-pixel bevel: light from upper left, indigo on bottom/right (including counter walls).
+    img[fill & ~shift(fill, -2, -2)] = (96, 80, 168)
+    img[fill & ~shift(fill, 2, 2)] = (248, 248, 255)
 
 
 def main():

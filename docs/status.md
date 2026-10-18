@@ -21,6 +21,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
     each group and rewrites the offsets; a test fails if a derived string has no entry.
   - Graphics (`tools/gfx.py`, docs/re/graphics.md): title logo (`tools/gen_title.py` -> `assets/title_en.png`),
     battle command labels, element pictograms, 通信中 -> Linking, small-font punctuation.
+  - Title redesign: custom angular GRANBO lettering, silver bevels and indigo extrusion; original 240x160
+    indexed palette and 600-tile budget retained. Regeneration is byte-identical; 10 tests, build and cold-boot
+    smoke pass; independent visual review and `title_logo_manifest.tsv` QA gate pass (1 sheet).
+    Before: `work/qa/title_logo_before/final.png`; after: `work/qa/title_logo/final.png`.
+    The local build includes this redesign; the existing v1.0 release archive predates it.
+  - Playtest fixes: Yes/No prompt line keeps the JP newline (an {8207} one pushed "No" past the canvas at
+    0x03000CC0 into game state 0x03002320: crash at ev1BC98C_012); speaker text starts at x=64 on every line
+    (D8: 「 tabs there in vwf.s, fit adds it after RAM-slot names); GAP drawn opaque so the choice cursor erases.
   - Release tooling: `tools/release.py <ver>` (build, tests, jp_left with `docs/jp_known.txt`, qa_gate, smoke, BPS,
     README from `docs/README-release.txt`, zip in release/; never publishes).
   - QA-pass fixes: battle dialogue clears the portrait (`build.clear_portrait`), battle move popup 12 cells in a

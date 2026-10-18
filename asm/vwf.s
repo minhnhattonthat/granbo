@@ -43,6 +43,12 @@ reset:
     bne store
     ldr r1, lit_gap
 store:
+@ 「 (0x0F7, blank, 0 px) after a speaker name is a tab: the pen goes to 56 (screen x=64, the canvas starts after
+@ the 8 px border), so the first line starts where the {8207} lines do, as in the JP (tools/fit.py SPEAKER_X).
+    cmp r1, #0xf7
+    bne not_tab
+    movs r5, #56
+not_tab:
     str r0, [r3, #0]
     str r2, [r3, #4]
     str r5, [r3, #8]
@@ -68,6 +74,14 @@ half_loop:
     ldrb r0, [r0]
     movs r1, #0xf
     ands r0, r1
+@ GAP is drawn opaque (no pixel equals 0x10), so it erases its cell: the choice code blanks the old cursor with it.
+    ldr r3, lit_state
+    ldr r1, [r3, #12]
+    ldr r3, lit_gap
+    cmp r1, r3
+    bne gap_done
+    movs r0, #0x10
+gap_done:
     ldr r1, lit_canvas
     mov r9, r1
     movs r1, #0

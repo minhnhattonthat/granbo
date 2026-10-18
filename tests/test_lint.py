@@ -27,6 +27,13 @@ def test_fit_wraps_and_paginates():
     assert all(p.startswith("{8620}{94A7}") for p in f.split("{8300}")[1:])
 
 
+def test_fit_prompt_line_keeps_jp_newline():
+    # an indented prompt line overran the canvas and crashed the game (ev1BC98C_012)
+    jp = "{8001}{94C8}店長「では{8207}セツメイしておこうかの？」{9200}\n{8D00}{8100}"
+    en = "{8001}{94C8}Manager「Now then... shall I explain about Granbo first?{9200}{8D00}{8100}"
+    assert fit.fit(en, jp).endswith("{9200}\n{8D00}{8100}")
+
+
 def test_lint_catches_code_mismatch():
     e = {"id": "x", "jp": "{8002}{94A7}「あ」{8400}{8100}", "en": "{8002}Hi{8400}{8100}"}
     assert any("control codes" in m for m in lint.issues(e, "event"))

@@ -4,9 +4,8 @@ Translators write each page as plain text: control codes kept, no line breaks ne
 pixel width (font_en advances), inserts the newline code the Japanese page used, and splits a page that needs more
 than LINES lines into extra pages, repeating its portrait/speaker codes (not the 80xx message-start code).
 Box geometry (docs/re/text.md, measured in the field box with --qa builds): text may run to x=224; {8200} starts
-the next line at x=8, {82xx} at x=8+8*xx ({8207}: x=64, right of the portrait). A speaker page's first line starts
-right after the name field: the name padded with spaces (3 px each under the VWF) to 8 units (RAM name slots) or
-10 units (inline {94C8} labels), from x=8 (tools/engine.py widens the game's 6-unit loops).
+the next line at x=8, {82xx} at x=8+8*xx ({8207}: x=64, right of the portrait). A speaker page's first line also
+starts at x=64: fit puts 「 after the speaker name and vwf.s moves the pen to x=64 at that glyph (names <= 46 px).
     fit(en, jp) -> fitted en string;  problems(fitted) -> list of lint messages
 """
 import re
@@ -19,6 +18,7 @@ import names as names_mod  # noqa: E402
 
 LINE_END = 224
 LINE_X = 8
+SPEAKER_X = 64  # a speaker's text starts here on every line, as the JP: 「 in cell 7, then {8207} lines
 LINES = 3
 PAGE_UNITS = 136  # IWRAM page buffer 0x030026B0-0x030027BF, after {94xx} expansion
 NAME_PX = 46  # widest speaker name / label; also the worst case for the player's name
@@ -61,17 +61,17 @@ def line_x(code):
 
 
 def first_x(h):
-    """x where a page's first line starts: after the padded speaker name, else LINE_X."""
-    m = names_mod.INLINE.search(h)
-    if m:
-        label = m.group(2)
-        return LINE_X + width(label) + 3 * max(1, 10 - len(label))
-    m = re.search(r"\{94([0-9A-F]{2})\}", h)
-    if m and int(m.group(1), 16) >= 0x96:
-        k = int(m.group(1), 16) - 0x96
-        name = names_mod.SLOTS[k] if 0 < k < len(names_mod.SLOTS) else None
-        return LINE_X + (width(name) + 3 * (8 - len(name)) if name else NAME_PX + 3)
-    return LINE_X
+    """x where a page's first line starts: a speaker's text at SPEAKER_X (vwf.s tabs there at 「), else LINE_X."""
+    return SPEAKER_X if is_speaker(h) else LINE_X
+
+
+def with_tab(h):
+    """A speaker header with 「 after the name, as the JP has: inline labels already end with it; for a RAM-slot
+    speaker it goes after the slot code, before any name codes that are running text."""
+    if not is_speaker(h) or h.endswith("「"):
+        return h
+    m = re.search(r"((?:\{94(?:[0-8][0-9A-F]|9[0-5])\})*)$", h)
+    return h[:m.start()] + "「" + m.group(1)
 
 
 def tok_width(tok, names=None):
@@ -121,7 +121,10 @@ def fit_page(page, jp_page, cont_header, names=None):
     code = newline_code(jp_page, h)
     jp_tail = END_CODES.search(jp_page).group(1)
     jp_body = jp_page[:len(jp_page) - len(jp_tail)] if jp_tail else jp_page
-    choice = bool(re.search(r"(\{82[0-9A-F]{2}\}|\n)$", jp_body))  # empty last line kept for a Yes/No prompt
+    choice = re.search(r"(\{82[0-9A-F]{2}\}|\n)$", jp_body)  # empty last line kept for a Yes/No prompt
+    # the prompt line keeps the JP's own newline: an indented one ({8207}) pushes "No" past the canvas (0x03000CC0,
+    # ~89 cells) into game state at 0x03002320 and crashes (shop manager ev1BC98C_012)
+    prompt_nl = choice.group(1) if choice else ""
     px = LINE_END - line_x(code)
     first = LINE_END - first_x(h) - (width(h, names) if not is_speaker(h) else 0)
     if is_speaker(h):  # a name code after the speaker ("{949B}{9400}, have you...") prints as running text
@@ -141,7 +144,7 @@ def fit_page(page, jp_page, cont_header, names=None):
     pages = []
     for k, chunk in enumerate(chunks):
         hh = h if k == 0 else cont_header
-        pages.append(hh + code.join(chunk) + (code if choice and k == len(chunks) - 1 else ""))
+        pages.append(with_tab(hh) + code.join(chunk) + (prompt_nl if k == len(chunks) - 1 else ""))
     return PAGE.join(pages) + tail
 
 

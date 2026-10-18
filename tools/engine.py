@@ -127,7 +127,7 @@ def patch(r, lig=None):
     r.put(TYPE_GLYPH, stub, "vwf_menu typewriter hook")
     # speaker-name copy loops (`cmp r4,#5`: 6 units) pad the name with spaces: inline labels from the message (<= 9
     # glyphs) -> 10 units, RAM name slots (16 bytes: <= 7 glyphs + end) -> 8, so a padding space always separates
-    # name and text. fit.first_x computes where the text then starts; fit.NAME_PX gates the name width.
+    # name and text. The 「 after the name then tabs the text to screen x=64 (vwf.s); fit.NAME_PX gates the name width.
     for site, n in ((0x05661A, 10), (0x056648, 8)):
         assert r.orig[site:site + 2] == bytes.fromhex("052c")
         r.put(site, bytes([n - 1, 0x2C]), f"speaker name {n} units")
