@@ -134,6 +134,13 @@ def patch(r, lig=None):
     code = asm.assemble(ROOT / "asm/name6.s", 0x08000000 + NAME6, {"NAMEBUF": NAMEBUF})
     assert len(code) == 32, len(code)
     r.put(NAME6, code, "name6: record the name buffer")
+    # status pages: "Defense" is wider than the 32 px before the AT./DF./SP. icons. Main status (0x0806CBCE..):
+    # icons 168 -> 176, values 184 -> 192; the other page using these labels (0x0808AF70..): icons 152 -> 160
+    for sites, old, new in (((0x06CCBE, 0x06CD06, 0x06CD42), 0xA8, 0xB0), ((0x06CCD8, 0x06CD1C, 0x06CD58), 0xB8, 0xC0),
+                            ((0x08B044, 0x08B08E, 0x08B0D0), 0x98, 0xA0)):
+        for site in sites:
+            assert r.orig[site:site + 2] == bytes([old, 0x20])  # movs r0, #old
+            r.put(site, bytes([new, 0x20]), "status stat column x")
     # battle HUD names (0x08014790): proportional compact font instead of one small-font tile per byte
     pt = bytearray(512)
     for c in range(256):

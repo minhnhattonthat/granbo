@@ -119,25 +119,47 @@ def build(orig, files, lang="en", marker=None, engine_patch=True):
             assert struct.unpack_from("<I", orig, lo)[0] == GBA + b, (name, lit)
             r.put(lo, struct.pack("<I", GBA + nb), f"blockptr {name}")
     placed = {}
+    # "rel" entries have no pointer of their own: code adds a fixed offset (an `adds rX, #imm` or a literal word)
+    # to their base string's pointer. They are placed right after the base and the offsets rewritten.
+    rel = {}
+    for name, f in files.items():
+        for e in f["entries"] if name.startswith("ptr/") else []:
+            if "rel" in e:
+                rel.setdefault(e["rel"]["base"], []).append(e)
     for name, f in files.items():
         if not name.startswith("ptr/"):
             continue
         for e in f["entries"]:
             s = text_of(e, lang, marker)
-            if not s:
+            if not s or "rel" in e:
                 continue
             if not marker and e["id"] in lig["names"]:  # Granbo name: <= 6 codes with letter pairs
                 us = [lig["pairs"][c] if len(c) == 2 else engine.EN_CODES[c] for c in lig["names"][e["id"]]]
                 enc = struct.pack("<%dH" % (len(us) + 1), *us, text.END)
             else:
                 enc = text.encode_en(s)
-            if enc not in placed:
-                placed[enc] = r.alloc(enc, f"str {e['id']}", align=2)
             at = int(e["at"], 16)
+            if e["id"] in rel:
+                new = r.alloc(enc, f"str {e['id']}", align=2)
+                for k in rel[e["id"]]:
+                    ks = text_of(k, lang, marker)
+                    off = r.alloc(text.encode_en(ks) if ks else text.encode(k["jp"]), f"str {k['id']}", align=2) - new
+                    old = int(k["at"], 16) - at
+                    for site in map(lambda x: int(x, 16), k["rel"].get("adds", [])):
+                        hw = struct.unpack_from("<H", orig, site)[0]
+                        assert hw >> 11 == 0b00110 and hw & 0xFF == old and off < 256, (k["id"], hex(site))
+                        r.put(site, struct.pack("<H", hw & 0xFF00 | off), f"rel {k['id']}")
+                    for site in map(lambda x: int(x, 16), k["rel"].get("words", [])):
+                        assert struct.unpack_from("<I", orig, site)[0] == old, (k["id"], hex(site))
+                        r.put(site, struct.pack("<I", off), f"rel {k['id']}")
+            else:
+                if enc not in placed:
+                    placed[enc] = r.alloc(enc, f"str {e['id']}", align=2)
+                new = placed[enc]
             for p in e["ptrs"]:
                 po = int(p, 16)
                 assert struct.unpack_from("<I", orig, po)[0] == GBA + at, (e["id"], p)
-                r.put(po, struct.pack("<I", GBA + placed[enc]), f"ptr {e['id']}")
+                r.put(po, struct.pack("<I", GBA + new), f"ptr {e['id']}")
     return r
 
 

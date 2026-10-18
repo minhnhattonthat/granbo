@@ -71,6 +71,42 @@
    "status": "translated"
   },
   {
+   "id": "s26E352",
+   "at": "0x26e352",
+   "ptrs": [],
+   "rel": {"base": "s26E348", "adds": ["0x06cc9c", "0x08b01c"]},
+   "jp": "こうげき",
+   "en": "Attack",
+   "status": "translated"
+  },
+  {
+   "id": "s26E35C",
+   "at": "0x26e35c",
+   "ptrs": [],
+   "rel": {"base": "s26E348", "adds": ["0x06cce4", "0x08b06a"]},
+   "jp": "ぼうぎょ",
+   "en": "Defense",
+   "status": "translated"
+  },
+  {
+   "id": "s26E366",
+   "at": "0x26e366",
+   "ptrs": [],
+   "rel": {"base": "s26E348", "adds": ["0x06cd28", "0x08b0b4"]},
+   "jp": "すばやさ",
+   "en": "Speed",
+   "status": "translated"
+  },
+  {
+   "id": "s270378",
+   "at": "0x270378",
+   "ptrs": [],
+   "rel": {"base": "s26E348", "words": ["0x06cd80"]},
+   "jp": "つぎのLVまであと",
+   "en": "To next LV",
+   "status": "translated"
+  },
+  {
    "id": "s26E382",
    "at": "0x26e382",
    "ptrs": [
