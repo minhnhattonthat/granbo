@@ -141,6 +141,8 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- チロ -> Chiro (Haruna's dog Granbo, "Woof!"); ウサピー -> Usapi (rabbit pet, "bun!"); 物知りばあさん -> wise old woman;
+  cry アゥ -> "Au"; いじょう完全回復 -> Full Status Heal; バルトさま in text -> Boss Baltic.
 - ニャオン -> Meowon (pairs with Woofon); 食べ物ドロボウ -> Food Thief; cry ウオ -> "Woh"; {940D} = Haruna.
 - Player gender: the JP writes the player as a boy (マゴ "grandson", ボウヤ, 少年, 男なら). Follow the JP where a line says
   so (ボウヤ -> "little boy"); otherwise neutral wording is fine.

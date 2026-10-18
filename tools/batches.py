@@ -44,7 +44,7 @@ def jp_for_translator(jp):
 
 
 def assemble(jp, en_body):
-    jp_pages, en_pages = fit.split_pages(jp), en_body.split(SEP)
+    jp_pages, en_pages = fit.split_pages(jp), re.split(r" ?\|\| ?", en_body)  # editors eat a trailing space
     if len(jp_pages) != len(en_pages):
         raise ValueError(f"{len(en_pages)} pages (' || '), JP has {len(jp_pages)}")
     out = []

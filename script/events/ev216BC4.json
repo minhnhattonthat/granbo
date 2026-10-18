@@ -220,7 +220,8 @@
     26
    ],
    "jp": "{8002}{94C8}男の子「ドリームフラワー・・・{8207}本当にあったんだね・・・」{8300}{94C8}男の子「でも、今のボク達にはもう{8207}ヒツヨウがない物だよ」{8300}{94C8}男の子「自分のネガイは自分の力でかなえる物{8207}だって{9400}君が{8207}おしえてくれたからね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「The Dream Flower... So it really existed...{8300}{94C8}Boy「But it's not something we need anymore.{8300}{94C8}Boy「Because {9400} taught us that you make your own wishes come true with your own strength!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_027",
@@ -228,7 +229,8 @@
     27
    ],
    "jp": "{8002}{94C8}女の子「ありがとう・・・」{8300}{94C8}女の子「弟に大事な事をおしえてくれて・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thank you...{8300}{94C8}Girl「for teaching my little brother something so important...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_028",
@@ -236,7 +238,8 @@
     28
    ],
    "jp": "{8002}{94A0}「ウキッ、ウキッ！！」{8207}（バナナも自分で手に入れるウキ！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Ook, ook!! (I'll get my bananas myself too, ook!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_029",
@@ -244,7 +247,8 @@
     29
    ],
    "jp": "{8002}{94C8}ならず者「キミのがんばりを見ていると・・・」{8300}{94C8}ならず者「ドリームフラワーにたよろうとしていた{8207}自分がなんだかはずかしいな・・・」{8300}{94C8}ならず者「オレもこれからは心を入れかえて{8207}がんばってみるよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Thug「Watching how hard you work...{8300}{94C8}Thug「I feel kind of ashamed that I tried to rely on the Dream Flower...{8300}{94C8}Thug「From now on I'm gonna turn over a new leaf and do my best too.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_030",
@@ -252,7 +256,8 @@
     30
    ],
    "jp": "{8002}{94C8}ならず者「キミのカツヤクや、あのハルナって子の{8207}話をきいて、心があらわれたよ・・・」{8300}{94C8}ならず者「オレは人としてイチバン大事な物を{8207}見失っていたのかも知れねえな・・・」{8300}{94C8}ならず者「その事に気づかせてくれて{8207}ありがとよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Thug「Hearing about all you did, and about that Haruna girl, washed my heart clean...{8300}{94C8}Thug「Maybe I'd lost sight of the most important thing a person can have...{8300}{94C8}Thug「Thanks for making me see that!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_031",
@@ -260,7 +265,8 @@
     31
    ],
    "jp": "{8002}{94C8}おばさん「あのハルナのような子の持っている物が{8207}本当のうつくしさなのかもね・・・」{8300}{94C8}おばさん「私だったらきっとグランボに{8207}ふっとばされてたわ！！」{8300}{94C8}おばさん「これからは心もみがかなきゃ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Maybe what a girl like Haruna has is true beauty...{8300}{94C8}Lady「If it were me, I'd surely have gotten blown away by a Granbo!!{8300}{94C8}Lady「From now on I need to polish my heart too!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_032",
@@ -268,7 +274,8 @@
     32
    ],
    "jp": "{8002}{860D}{94A3}「これからは町のみなさんのために{8207}できるかぎりがんばります！！」{8300}{860D}{94A3}「{9400}さんも{8207}がんばってくださいね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860D}{94A3}From now on I'll do the very best I can for everyone in town!!{8300}{860D}{94A3}You do your best too, {9400}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_033",
@@ -276,7 +283,8 @@
     33
    ],
    "jp": "{8002}{94C8}男の子「ハルナちゃんってかわいいよね・・・」{8300}{94C8}男の子「でも、ハルナちゃんに近づくと{8207}ボクのグランボと彼女のグランボが{8207}ケンカをはじめちゃうんだよ」{8300}{94C8}男の子「ケンエンのナカって{8207}ほんとうにあったんだ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Haruna's really cute, isn't she...{8300}{94C8}Boy「But whenever I get close to her, my Granbo and her Granbo start fighting.{8300}{94C8}Boy「So it's true, dogs and monkeys really can't get along...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_034",
@@ -284,7 +292,8 @@
     34
    ],
    "jp": "{8002}{94C8}女の子「弟もクロウするわね・・・」{8300}{94C8}女の子「でもドリームフラワーにたよろうと{8207}しなくなっただけえらいわ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「My little brother has it rough...{8300}{94C8}Girl「But good for him for not relying on the Dream Flower anymore!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_035",
@@ -292,7 +301,8 @@
     35
    ],
    "jp": "{8002}{94A0}「ウキキキ・・」{8207}（チロとはどうしてもケンカになるウキ・・）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Ookookook.. (Me and Chiro just always end up fighting, ook..){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_036",
@@ -300,7 +310,8 @@
     36
    ],
    "jp": "{8002}{94C8}元ならず者「あれからすっかり心を入れかえてね・・・」{8300}{94C8}元ならず者「今では物知りばあさんの{8207}世話をさせてもらってるよ」{8300}{94C8}元ならず者「そういえば、ばあさん・・・{8207}{8833}大陸の南西{8800}にたまにあらわれる山の事を{8207}えらく気にしていたな・・・」{8300}{94C8}元ならず者「良かったら話を{8207}きいてやってくれないか？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Thug「I've completely turned over a new leaf since then...{8300}{94C8}Ex-Thug「Now I get to look after the wise old woman.{8300}{94C8}Ex-Thug「Come to think of it, the old woman... she seemed real worried about a mountain that sometimes appears {8833}in the southwest of the continent{8800}...{8300}{94C8}Ex-Thug「If you like, could you go hear her out?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_037",
@@ -308,7 +319,8 @@
     37
    ],
    "jp": "{8002}{94C8}元ならず者「ブルーベリータウンへようこそ！！」{8300}{94C8}元ならず者「この町も今ではみんなが助けあう{8207}とてもくらしやすい町になったよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Thug「Welcome to Blueberry Town!!{8300}{94C8}Ex-Thug「Now everyone here helps each other out, and it's become a really nice town to live in!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_038",
@@ -316,7 +328,8 @@
     38
    ],
    "jp": "{8002}{94C8}おばさん「ハルナちゃん、いつも一生けんめい{8207}はたらくから、今じゃ町一ばんの人気者よ」{8300}{94C8}おばさん「私も見ならわなきゃね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Haruna always works so hard, she's the most popular person in town now.{8300}{94C8}Lady「I should follow her example!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_039",
@@ -324,7 +337,8 @@
     39
    ],
    "jp": "{8002}{860D}{94A3}「{9400}さん！わざわざ来てくれて{8207}ありがとうございます！！」{8300}{860D}{94A3}「今私がここでこんなしあわせな{8207}セイカツができているのも{8207}みんな{9400}さんのおかげですね」{8300}{860D}{94A3}「本当に・・・本当にどうも{8207}ありがとうございます！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860D}{94A3}{9400}! Thank you so much for coming all this way!!{8300}{860D}{94A3}The happy life I'm living here now is all thanks to you, {9400}.{8300}{860D}{94A3}Really... thank you so, so much!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_040",
@@ -332,7 +346,8 @@
     40
    ],
    "jp": "{8002}{94C8}おじいさん「おヌシ！ワシの{8877}ダイル{8800}のデータボールを{8207}{8833}ローバッファ{8800}とコウカンせんか？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「You there! Will you trade a {8833}Robuffa{8800} for my {8877}Dyle{8800} Data Ball?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_041",
@@ -340,7 +355,8 @@
     41
    ],
    "jp": "{8002}{94C8}おじいさん「よっしゃ・・・{8207}それではコウカンじゃ・・・！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「All righty... Then let's trade...!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_042",
@@ -348,7 +364,8 @@
     42
    ],
    "jp": "{8002}{94C8}おじいさん「なんじゃと！{8207}年よりをからかうでない！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「What's that?! Don't you make fun of an old man!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_043",
@@ -356,7 +373,8 @@
     43
    ],
    "jp": "{8002}{94C8}おじいさん「その{8877}ダイル{8800}は良いぞ・・・{8207}大事に使うが良い！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「That {8877}Dyle{8800} is a fine one... Take good care of it!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_044",
@@ -364,7 +382,8 @@
     44
    ],
    "jp": "{8002}{94C8}おじいさん「{8833}ローバッファ{8800}のデータボールは{8207}持っておらんのか？」{8300}{94C8}おじいさん「ではおヌシに用はないわ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「You don't have a {8833}Robuffa{8800} Data Ball?{8300}{94C8}Old Man「Then I've no business with you...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_045",
@@ -372,7 +391,8 @@
     45
    ],
    "jp": "{8002}{94C8}おじいさん「そうじゃそうじゃ！{8207}サービスでグランボも回復してやるぞ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Oh yes, yes! As a bonus, I'll heal your Granbo too!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_046",
@@ -380,7 +400,8 @@
     46
    ],
    "jp": "{8002}{860D}{94A3}「{9400}さん！私の{8833}ドランパ{8800}と{8207}{8833}ベルドー{8800}をコウカンしてくれませんか？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{860D}{94A3}{9400}! Would you trade me a {8833}Beldo{8800} for my {8833}Drampa{8800}?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_047",
@@ -388,7 +409,8 @@
     47
    ],
    "jp": "{8002}{860D}{94A3}「ありがとう・・・チロの{8207}友達がほしかったんです！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860D}{94A3}Thank you... I wanted a friend for Chiro!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_048",
@@ -396,7 +418,8 @@
     48
    ],
    "jp": "{8002}{860D}{94A3}「そうですか・・・{8207}チロの友達がほしかったんですが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860D}{94A3}I see... I wanted a friend for Chiro, but...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_049",
@@ -404,7 +427,8 @@
     49
    ],
    "jp": "{8002}{860D}{94A3}「本当にありがとう{8207}友達ができてチロもよろこんでます！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860D}{94A3}Thank you so much. Chiro's so happy to have a friend!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_050",
@@ -412,7 +436,8 @@
     50
    ],
    "jp": "{8002}{860D}{94A3}「{8833}ベルドー{8800}は{8207}・・・持ってないみたいですね？」{8300}{860D}{94A3}「{8833}ベルドー{8800}を手に入れたら{8207}一度話しかけてください{8207}ソウダンしたい事があるので・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860D}{94A3}You... don't seem to have a {8833}Beldo{8800}?{8300}{860D}{94A3}Once you get a {8833}Beldo{8800}, please come talk to me. There's something I'd like to ask you...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_051",
@@ -420,7 +445,8 @@
     51
    ],
    "jp": "{8002}{860D}{94A3}「本当にありがとうございます{8207}グランボも回復しておきますね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860D}{94A3}Thank you so much. I'll heal your Granbo too!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_052",
@@ -428,7 +454,8 @@
     52
    ],
    "jp": "{8002}{94C8}チロ「ワウ～ンッ！！」{8207}（カンシャしてるワン！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Chiro「Awooo!! (I'm so grateful, woof!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_053",
@@ -436,7 +463,8 @@
     53
    ],
    "jp": "{8002}{94C8}チロ「ワンワンワウッ！！」{8207}（人助けはうつくしいワン！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Chiro「Woof woof wuff!! (Helping people is beautiful, woof!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_054",
@@ -444,7 +472,8 @@
     54
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_055",
@@ -452,7 +481,8 @@
     55
    ],
    "jp": "{8002}{94C8}女の子「ふっふっふっ・・・私と勝負しなさい！{8207}私に勝ったら{8833}スナイパー{8800}のワザをあげるわ」{8300}{94C8}女の子「ここであなたをたおせば{8207}ジャマなならず者も私をおそれて{8207}逃げ出すはずだからね！」{8300}{94C8}女の子「カクゴができたら{8207}かかってきなさい！！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Hmhmhm... Battle me! If you beat me, I'll give you the {8833}Sniper{8800} move.{8300}{94C8}Girl「If I take you down here, those pesky thugs will be scared of me and run away!{8300}{94C8}Girl「Once you're ready, come at me!!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_056",
@@ -460,7 +490,8 @@
     56
    ],
    "jp": "{8002}{94C8}女の子「な・・・{8207}これじゃ私が他のならず者に{8207}なめられるじゃない！！」{8300}{94C8}女の子「しかたないわ・・・{8207}{8833}スナイパー{8800}のワザをあげるわよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Wh... Now the other thugs will look down on me!!{8300}{94C8}Girl「Oh well... I'll give you the {8833}Sniper{8800} move!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_057",
@@ -468,7 +499,8 @@
     57
    ],
    "jp": "{8002}{94C8}女の子「ふっふっふ・・・これで私は{8207}『{9400}をたおした女』として{8207}みんなにおそれられるのね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Hmhmhm... Now everyone will fear me as \"the girl who beat {9400}\"!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_058",
@@ -476,7 +508,8 @@
     58
    ],
    "jp": "{8002}{94C8}女の子「まぁ、いいわ・・・」{8300}{94C8}女の子「{9400}が私の力をおそれて逃げ出した{8207}となれば、それはそれでみんなが私を{8207}おそれるようになるからね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Well, fine...{8300}{94C8}Girl「If word gets out that {9400} ran away scared of my power, then everyone will fear me anyway!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_059",
@@ -484,7 +517,8 @@
     59
    ],
    "jp": "{8002}{94C8}女の子「・・・はぁ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「...Sigh...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_060",
@@ -492,7 +526,8 @@
     60
    ],
    "jp": "{8002}{94C8}女の子「私と勝負してくれないかな？{8207}あなたが勝ったら{8877}ラフィ{8800}をあげるよ」{8300}{94C8}女の子「私も昔はかなりの悪だったんだけどね{8207}{9400}くんのカツヤクをきいて{8207}心を入れかえたの！！」{8300}{94C8}女の子「私の言っている事が本当かどうか・・・{8207}たしかめてみてよ！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Would you battle me? If you win, I'll give you a {8877}Raffy{8800}.{8300}{94C8}Girl「I used to be really bad news, but when I heard about all {9400} has done, I turned over a new leaf!!{8300}{94C8}Girl「Whether what I'm saying is true or not... go ahead and find out!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_061",
@@ -500,7 +535,8 @@
     61
    ],
    "jp": "{8002}{94C8}女の子「ふふふ・・・{8207}せいせいどうどうと戦うと負けても{8207}気持ちいいわね！！」{8300}{94C8}女の子「戦ってくれてありがとう！{8207}じゃあこれ、{8877}ラフィ{8800}のデータボール！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Hehehe... Fighting fair and square feels great, even when you lose!!{8300}{94C8}Girl「Thanks for battling me! Here, this is a {8877}Raffy{8800} Data Ball!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_062",
@@ -508,7 +544,8 @@
     62
    ],
    "jp": "{8002}{94C8}女の子「ありがとう・・・{8207}これで私も本当に立ちなおれそうよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thank you... Now I think I can really get back on my feet.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_063",
@@ -516,7 +553,8 @@
     63
    ],
    "jp": "{8002}{94C8}女の子「そう・・・」{8300}{94C8}女の子「{9400}くんが私の言う事を{8207}信じてくれるまで{8207}もっとがんばらなきゃ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I see...{8300}{94C8}Girl「I'll have to try even harder until {9400} believes me!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_064",
@@ -524,7 +562,8 @@
     64
    ],
    "jp": "{8002}{94C8}女の子「これからもがんばるわ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I'll keep doing my best!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_065",
@@ -532,7 +571,8 @@
     65
    ],
    "jp": "{8002}{94C8}女の子「そ、それって{8855}ラック{8800}じゃない！{8207}ね、ねぇ{8833}ショットガン中{8800}とコウカンしない？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Th-that's a {8855}Rack{8800}, isn't it?! H-hey, wanna trade it for {8833}Shotgun 2{8800}?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_066",
@@ -540,7 +580,8 @@
     66
    ],
    "jp": "{8002}{94C8}女の子「や、やったあ！{8207}それじゃあコウカンね・・・{8207}カ、カンドーで足がふるえるわ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Y-yay! Then it's a trade... I-I'm so moved my legs are shaking!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_067",
@@ -548,7 +589,8 @@
     67
    ],
    "jp": "{8002}{94C8}女の子「いいわよ・・・あの花を使えば{8207}{8855}ラック{8800}だってカンタンに{8207}手に入るんだから！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Fine... With that flower, I can get a {8855}Rack{8800} easily anyway!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_068",
@@ -556,7 +598,8 @@
     68
    ],
    "jp": "{8002}{94C8}女の子「{8855}ラック{8800}さえ手に入れば{8207}後は何もいらないわ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「As long as I get a {8855}Rack{8800}, I don't need anything else...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_069",
@@ -564,7 +607,8 @@
     69
    ],
    "jp": "{8002}{94C8}女の子「{8855}ラック{8800}をさがし続けて{8207}もうどれだけたったのかしら・・・」{8300}{94C8}女の子「もし{8855}ラック{8800}を手に入れたら{8207}まっ先に私に話しかけてね！たのむわよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I wonder how long I've been searching for a {8855}Rack{8800}...{8300}{94C8}Girl「If you ever get a {8855}Rack{8800}, come talk to me first! I'm counting on you!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_070",
@@ -572,7 +616,8 @@
     70
    ],
    "jp": "{8002}{94C8}女の子「ああ・・・ユメみたい・・・{8207}とくべつサービスであなたのグランボも{8207}回復しちゃうわよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Ahh... It's like a dream... As a special bonus, I'll heal your Granbo too!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_071",
@@ -580,7 +625,8 @@
     71
    ],
    "jp": "{8000}{94C8}ならず者「最近、食べ物ドロボウがひんぱんに{8207}あらわれるらしいな」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Thug「Seems this Food Thief's been showing up a lot lately.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_072",
@@ -588,7 +634,8 @@
     72
    ],
    "jp": "{8000}{94C8}ならず者「まったくふざけたヤロウだぜ」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Thug「What a no-good punk.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_073",
@@ -596,7 +643,8 @@
     73
    ],
    "jp": "{8000}{94C8}おばさん「い、今のはもしかして！？」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Lady「W-was that just...?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_074",
@@ -604,7 +652,8 @@
     74
    ],
    "jp": "{8000}{94C8}ならず者「また出やがったのか！？」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Thug「It showed up again?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_075",
@@ -612,7 +661,8 @@
     75
    ],
    "jp": "{8000}{94C8}ならず者「おいかけるぞ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Thug「After it!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_076",
@@ -620,7 +670,8 @@
     76
    ],
    "jp": "{8000}{94C8}ならず者「どこにもいないじゃないか！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Thug「It's not anywhere!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_077",
@@ -628,7 +679,8 @@
     77
    ],
    "jp": "{8000}{94C8}ならず者「もう、外に逃げちまったのか？」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Thug「Did it already get away outside?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_078",
@@ -636,7 +688,8 @@
     78
    ],
    "jp": "{8000}{94C8}おばさん「あ、あぶないっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Lady「L-look out!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_079",
@@ -644,7 +697,8 @@
     79
    ],
    "jp": "{8000}{94C8}ならず者「な、なんだったんだ？」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Thug「Wh-what was that?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_080",
@@ -652,7 +706,8 @@
     80
    ],
    "jp": "{8000}{94C8}ならず者「い、今のがハンニン・・・？{8207}もしかしてスカイシャークとかいうヤツらと{8207}カンケイがあるんじゃねえか？」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Thug「Th-that was the culprit...? Could it have something to do with those Sky Shark guys?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_081",
@@ -660,7 +715,8 @@
     81
    ],
    "jp": "{8000}{94C8}おばさん「{940A}に見えたんだけど・・・{8207}気のせいかしら？」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Lady「It looked like {940A} to me... Was I just imagining it?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_082",
@@ -668,7 +724,8 @@
     82
    ],
    "jp": "{8002}{8610}{9497}「どうだった！ドリームフラワーを{8207}さかせるホウホウはわかった？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}Well?! Did you find out how to make the Dream Flower bloom?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_083",
@@ -676,7 +733,8 @@
     83
    ],
    "jp": "{8002}{8603}{9499}「いえ・・・ザンネンながら・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}No... unfortunately...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_084",
@@ -684,7 +742,8 @@
     84
    ],
    "jp": "{8002}{8610}{9497}「ダイゴロウ！あんたはどうなの！？」{8300}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}Daigoro! What about you?!{8300}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_085",
@@ -692,7 +751,8 @@
     85
    ],
    "jp": "{8002}{8612}{9498}「だめだぁ～、{8207}ぜんぜん手がかりなしだよ～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8612}{9498}No goooood~, I haven't got a single clue~!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_086",
@@ -700,7 +760,8 @@
     86
    ],
    "jp": "{8002}{8603}{9499}「ダイゴロウさんもダメでしたか・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}So you had no luck either, Daigoro...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_087",
@@ -708,7 +769,8 @@
     87
    ],
    "jp": "{8002}{8610}{9497}「こうなったらアンタがたよりよ！{8207}ねぇ、何かわかった？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}Then it's all up to you! Hey, did you find out anything?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_088",
@@ -716,7 +778,8 @@
     88
    ],
    "jp": "{8002}{8613}{9499}「わかったんですか？{8207}ドリームフラワーのさかせ方！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8613}{9499}You found out? How to make the Dream Flower bloom!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_089",
@@ -724,7 +787,8 @@
     89
    ],
    "jp": "{8002}{8602}{9498}「す、すごいんだな～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Th-that's amazing, y'know!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_090",
@@ -732,7 +796,8 @@
     90
    ],
    "jp": "{8002}{8601}{9497}「は、早くおしえてよっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}H-hurry up and tell us!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_091",
@@ -740,7 +805,8 @@
     91
    ],
    "jp": "{8001}{9201}{9400}はおばあさんにきいた事をみんなに話した{8400}{8100}",
-   "en": ""
+   "en": "{8001}{9201}{9400} told everyone what the old woman had said.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_092",
@@ -748,7 +814,8 @@
     92
    ],
    "jp": "{8002}{8602}{9498}「どうしてみんなだまってるの～？」{8300}{8602}{9498}「早くグランドチェンジタワーに行って{8207}そのフウインをといちゃおうよ～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Why's everybody so quiet~?{8300}{8602}{9498}Let's hurry to the Grand Change Tower and break that seal~!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_093",
@@ -756,7 +823,8 @@
     93
    ],
    "jp": "{8002}{8610}{9497}「アンタは、ほんっとに{8207}お気楽でいいわねっ！！」{8300}{8610}{9497}「スカイシップの上でシズクが言った事を{8207}わすれたの？」{8300}{8610}{9497}「リユウはわかんないけど、あいつら{8207}すべての大陸のグランドチェンジタワーを{8207}キドウさせていってるのよ！」{8300}{8610}{9497}「ここでアタシ達がグランドチェンジタワー{8207}をキドウさせたら、あいつらの{8207}思うツボじゃないっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}You're just sooo carefree, aren't you!!{8300}{8610}{9497}Did you forget what Shizuku said on the Skyship?{8300}{8610}{9497}We don't know why, but they're activating the Grand Change Towers on every continent!{8300}{8610}{9497}If we activate the Grand Change Tower here, we'll be playing right into their hands!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_094",
@@ -764,7 +832,8 @@
     94
    ],
    "jp": "{8002}{8612}{9498}「で、でも・・・それじゃあハルナちゃんの{8207}病気はどうするんだい～？」{8300}{8612}{9498}「このままじゃあの子、しんじゃう{8207}かもしれないんだよ～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8612}{9498}B-but... then what about Haruna's sickness~?{8300}{8612}{9498}At this rate, she might die~!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_095",
@@ -772,7 +841,8 @@
     95
    ],
    "jp": "{8002}{8611}{9497}「た、たしかにそれはそうだけど・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8611}{9497}W-well, that's true, but...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_096",
@@ -780,7 +850,8 @@
     96
    ],
    "jp": "{8002}{8603}{9499}「{9400}さんはどう思います？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}What do you think, {9400}?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_097",
@@ -788,7 +859,8 @@
     97
    ],
    "jp": "{8002}{8603}{9499}「グランドチェンジタワーのフウインを{8207}とくべきだと思いますか？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}Do you think we should break the seal on the Grand Change Tower?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_098",
@@ -796,7 +868,8 @@
     98
    ],
    "jp": "{8002}{8603}{9499}「でも、フウインをとかなければ{8207}ドリームフラワーは手に入りません・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}But if we don't break the seal, we can't get the Dream Flower...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_099",
@@ -804,7 +877,8 @@
     99
    ],
    "jp": "{8002}{8612}{9498}「ドリームフラワーを手に入れないと{8207}ハルナちゃんは助けられないんだよ～！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8612}{9498}If we don't get the Dream Flower, we can't save Haruna~!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_100",
@@ -812,7 +886,8 @@
     100
    ],
    "jp": "{8002}{8611}{9497}「う～ん・・・アタシもどうしたらいいのか{8207}わからなくなってきちゃった・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8611}{9497}Hmm... Now I don't know what to do either...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_101",
@@ -820,7 +895,8 @@
     101
    ],
    "jp": "{8002}{8603}{9499}「{9400}さん、もういちどシンチョウに{8207}かんがえてみて下さい」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}{9400}, please think it over carefully once more.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_102",
@@ -828,7 +904,8 @@
     102
    ],
    "jp": "{8002}{8603}{9499}「ふふっ・・・{9400}さんなら{8207}そういうと思いました」{8300}{8603}{9499}「やっぱり人の命には{8207}かえられませんからね！」{8300}{8603}{9499}「バミューダ・・・スカイシャークが{8207}何をかんがえているかは{8207}わかりませんが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}Hehe... I thought you'd say that, {9400}.{8300}{8603}{9499}After all, nothing is worth more than a person's life!{8300}{8603}{9499}Bermuda... I don't know what Sky Shark is thinking, but...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_103",
@@ -836,7 +913,8 @@
     103
    ],
    "jp": "{8002}{8602}{9498}「そうだよ～」{8300}{8602}{9498}「今こうしている間もハルナちゃんは{8207}くるしんでいるんだから・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}That's right~{8300}{8602}{9498}Even now, while we're standing here, Haruna is suffering...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_104",
@@ -844,7 +922,8 @@
     104
    ],
    "jp": "{8002}{8601}{9497}「そうときまれば{8207}後はグランドチェンジタワーをさがしだして{8207}そこに向かうだけねっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Then it's settled! All that's left is to find the Grand Change Tower and head there!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_105",
@@ -852,7 +931,8 @@
     105
    ],
    "jp": "{8002}{8602}{9498}「オイラもがんばるよ～！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}I'll do my best too~!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_106",
@@ -860,7 +940,8 @@
     106
    ],
    "jp": "{8002}{8603}{9499}「私は病気のチリョウホウを{8207}ベンキョウしておきます」{8300}{8603}{9499}「みなさん、気をつけて下さいね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}I'll study up on treatments for her illness.{8300}{8603}{9499}Everyone, please be careful...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_107",
@@ -868,7 +949,8 @@
     107
    ],
    "jp": "{8002}{8601}{9497}「そうだね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Right!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_108",
@@ -876,7 +958,8 @@
     108
    ],
    "jp": "{8000}{860D}{94A3}「私の{940A}がみなさんにごメイワクを{8207}おかけしていたそうで・・・」{8300}{860D}{94A3}「本当にごめんなさいっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{860D}{94A3}I heard my {940A} has been causing everyone trouble...{8300}{860D}{94A3}I'm so sorry!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_109",
@@ -884,7 +967,8 @@
     109
    ],
    "jp": "{8000}{94C8}おじさん「まぁまぁ、いいって事よ」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Man「Now, now, don't worry about it.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev216BC4_110",

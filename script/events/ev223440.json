@@ -139,7 +139,8 @@
     14
    ],
    "jp": "{8000}{8611}{9497}「だいじょうぶ！？しっかりして！！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8611}{9497}Are you okay?! Hang in there!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev223440_015",
@@ -147,7 +148,8 @@
     15
    ],
    "jp": "{8000}{8603}{9499}「{9400}さん、{8207}そこのドリームフラワーを！早く！！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8603}{9499}{9400}, the Dream Flower over there! Quickly!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev223440_016",
@@ -155,7 +157,8 @@
     16
    ],
    "jp": "{8000}{8603}{9499}「これでクスリが作れます・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8603}{9499}With this, we can make the medicine...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev223440_017",
@@ -163,7 +166,8 @@
     17
    ],
    "jp": "{8000}{8601}{9497}「じゃあ、さっそく{8207}この子の家にもどって{8207}クスリを作ろうよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8601}{9497}Then let's hurry back to her house and make the medicine!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev223440_018",
@@ -171,7 +175,8 @@
     18
    ],
    "jp": "{8001}{9201}{9400}達はハルナの家にもどり\nドリームフラワーから作ったクスリをのませた{8400}{8100}",
-   "en": ""
+   "en": "{8001}{9201}{9400} and friends returned to Haruna's house and had her take the medicine made from the Dream Flower.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev223440_019",
@@ -179,7 +184,8 @@
     19
    ],
    "jp": "{8002}{9201}ドリームフラワーがさいている{8300}とてもきちょうな花なので\n持って行くのは1本だけにしよう{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Dream Flowers are blooming here.{8300}They're very precious flowers, so let's take just one.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev223440_020",
@@ -187,7 +193,8 @@
     20
    ],
    "jp": "{8002}{9201}ドリームフラワーがさいている{8300}1本もらっていこう{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Dream Flowers are blooming here.{8300}Let's take one.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

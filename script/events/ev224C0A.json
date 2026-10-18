@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{9201}今、グランドチェンジをすると\nドリームフラワーがかれてしまう！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}If you do a Grand Change now, the Dream Flowers will wither!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev224C0A_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{9201}{88BB}闇{8800}グランドチェンジをカイジョしなければ！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}{88BB}Dark{8800} Grand Change has to be undone first!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }
