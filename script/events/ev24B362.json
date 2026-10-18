@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「まったく、あのハカセも{8207}人使いがあらいぜ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Geez, that Doc sure works people hard.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{861F}{94A5}「うう・・・ミジメ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Ugh... This is miserable...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{861F}{94A5}「負けたオレが悪いんだけどな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Though it's my own fault for losing...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{860F}{94A5}「う～む・・・このフロアの外にある{8207}ほうだいは見た目はリッパだが・・・{8207}はかい力がないのがケッテンだな！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Hmm... The cannon outside this floor looks impressive, but... its weak point is that it's got no destructive power!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{860F}{94A5}「あのハカセ、今度は何を{8207}作っているんだ？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}What's that Doc building this time?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{861F}{94A5}「はぁ・・・また負けたよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Sigh... I lost again.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{861F}{94A5}「とほほほほ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Boo-hoo-hoo-hoo...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{861F}{94A5}「はあ・・・キャプテンにもうほうだんは{8207}作らなくていいって言われちまった・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Sigh... The Captain told me I don't have to make any more cannonballs...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{9201}ツクエの上には作りかけのほうだんがのっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A half-built cannonball is sitting on the desk.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{9201}ツクエの上にはセッケイズがのっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There are blueprints on the desk.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24B362_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24B362_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24B362_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{860F}{94A5}「あのハカセの物の作り方・・・{8207}変わってるよな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}The way that Doc makes things... It's kinda weird, huh...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{861F}{94A5}「上のハシからおちるのって・・・{8207}けっこういたいよな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Falling off the edge up there... It really hurts, huh...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{861F}{94A5}「おちる時に、コシをうっちまった・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}I hurt my back when I fell...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{860F}{94A5}「あのほうだんは私の最高けっさくだ！{8207}それにさわれたキミはしあわせ者だよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}That cannonball is my greatest masterpiece! You're lucky you got to touch it!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{860F}{94A5}「スカイシャークは変わっちまったが・・・{8207}Aランチのうまさに変わりはないぜ！！」{8300}{860F}{94A5}「よし、今日も食うぞ！Aランチ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Sky Shark may have changed, but... the A Lunch is as tasty as ever!!{8300}{860F}{94A5}All right, I'm eating it again today! A Lunch!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{860F}{94A5}「おう、カゼひいてねぇか？{8207}オレは元気バリバリだぜ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Hey, you haven't caught a cold, have you? I'm full of energy!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{860F}{94A5}「おっ！今度こそ子分になる決心を{8207}してくれたのか？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Oh! Have you finally made up your mind to become a grunt?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8002}{861F}{94A5}「エーゲさま、この上のフロアで{9400}を{8207}まちうけているらしいぞ！！」{8300}{861F}{94A5}「どんな戦いになるのかミモノだぜ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}I hear Aegean is waiting for {9400} on the floor above!!{8300}{861F}{94A5}This fight's gonna be something to see!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8002}{860F}{94A5}「あいつ・・・ちょうしにのって{8207}撃ちすぎないだろうな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}That guy... I hope he doesn't get carried away and fire too much...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8002}{860F}{94A5}「し・・・しっかり見はらなきゃ・・・{8207}ZZZZZ・・・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}G-gotta keep a close watch... Zzzzz...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8001}{860F}{94A5}「・・・よし・・・{8207}これでリロンじょうはカンペキだぞ！{8207}あとはザイリョウさえあれば・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}...All right... In theory, this is perfect! Now if I just had the materials...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8001}{860F}{94A5}「ん？{8207}後ろにだれかいるな？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}Hm? Is somebody behind me?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8001}{860F}{94A5}「ちょうどいい！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}Perfect timing!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_026",
@@ -220,7 +246,8 @@
     26
    ],
    "jp": "{8001}{860F}{94A5}「お前にチャンスをやろう！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}I'll give you a chance!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_027",
@@ -228,7 +255,8 @@
     27
    ],
    "jp": "{8001}{860F}{94A5}「じつは今、新タイプの強力ほうだんを作る{8207}ジッケンをしていたところなんだ」{8300}{860F}{94A5}「ところがトチュウで{8833}かやく{8800}を{8207}きらしてしまってな」{8300}{860F}{94A5}「悪いがソウコへ行って{8207}{8833}かやく{8800}をとってきてくれないか？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}Actually, I was just running an experiment to build a powerful new type of cannonball.{8300}{860F}{94A5}But partway through, I ran out of {8833}gunpowder{8800}.{8300}{860F}{94A5}Sorry, but could you go to the storeroom and bring me some {8833}gunpowder{8800}?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_028",
@@ -236,7 +264,8 @@
     28
    ],
    "jp": "{8001}{860F}{94A5}「{8833}かやく{8800}は持ってきたか？{8207}ないんだったら早くソウコに行って{8207}持って来てくれ～」{8300}{860F}{94A5}「ソウコはどこかって？{8207}南のつうろを西にすすんだ先さ！{8207}そこの{8833}タルの中{8800}にあるよ」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}Did you bring the {8833}gunpowder{8800}? If you don't have it, hurry to the storeroom and bring it here~{8300}{860F}{94A5}Where's the storeroom? Take the south passage and keep going west! It's {8833}in a barrel{8800} there.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_029",
@@ -244,7 +273,8 @@
     29
    ],
    "jp": "{8001}{860F}{94A5}「持ってきた？{8207}お？コレだよコレ！{8207}よーし、さっそく・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}You brought it? Oh? This is it, this is the stuff! All right, let's get right to it...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_030",
@@ -252,7 +282,8 @@
     30
    ],
    "jp": "{8001}{860F}{94A5}「ここを・・・こうして・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}This goes here... like this...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_031",
@@ -260,7 +291,8 @@
     31
    ],
    "jp": "{8000}{860F}{94A5}「んで、コレとコレを・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{860F}{94A5}And then this and this...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_032",
@@ -268,7 +300,8 @@
     32
    ],
    "jp": "{8001}{860F}{94A5}「・・・最後にコレだっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}...And finally, this!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_033",
@@ -276,7 +309,8 @@
     33
    ],
    "jp": "{8001}{860F}{94A5}「で、できたぞ・・・！{8207}強力ほうだんのカンセイだ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}I-it's done...! The powerful cannonball is complete!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_034",
@@ -284,7 +318,8 @@
     34
    ],
    "jp": "{8001}{860F}{94A5}「よし、んじゃこのほうだんをいつでも{8207}ハッシャできるように{8207}{8833}ほうだいにセット{8800}してきてくれ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}All right, now go and {8833}load it into the cannon{8800} so it's ready to fire anytime!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_035",
@@ -292,7 +327,8 @@
     35
    ],
    "jp": "{8001}{860F}{94A5}「Aランチ、うまかったなぁ・・・{8207}明日はBランチにしようかな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}That A Lunch sure was tasty... Maybe I'll get the B Lunch tomorrow...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_036",
@@ -300,7 +336,8 @@
     36
    ],
    "jp": "{8001}{861F}{94A5}「う～っ、ハラがへったうえに負けるなんて{8207}最悪だ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{861F}{94A5}Ugh, starving AND losing... This is the worst...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_037",
@@ -308,7 +345,8 @@
     37
    ],
    "jp": "{8001}{860F}{94A5}「カゼはなおったけど・・・{8207}なおりかけがカンジンって言うし{8207}しばらくおとなしくしていよう・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}My cold's better, but... they say the tail end is what matters, so I'll take it easy for a while...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_038",
@@ -316,7 +354,8 @@
     38
    ],
    "jp": "{8001}{861F}{94A5}「ヘックシ！ズルッ！ズビッ！{8207}あ～、なんかまわりがグルグルしてきた！{8207}こりゃちょっとヤバイかも～」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{861F}{94A5}Ah-choo! Sniff! Snrrk! Aww, everything's starting to spin! This might be kinda bad~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24B362_039",
@@ -324,7 +363,8 @@
     39
    ],
    "jp": "{8001}{860F}{94A5}「子分の道はオクがふかいぜ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}The way of the grunt runs deep...{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「イベント用ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Event dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{860F}{94A5}「イベント用ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Event dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{9201}はかい力の大きそうなほうだいだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a cannon that looks really destructive.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "なし",
-   "en": ""
+   "en": "None",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{860F}{94A5}「ここから先へは行かせないぜ！」{8300}{860F}{94A5}「3・2・1・・・てーっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}I won't let you go any further!{8300}{860F}{94A5}3, 2, 1... Fire!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{860F}{94A5}「第二撃目ソウテンかんりょおーー！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Second shot loaded and readyyy!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{860F}{94A5}「何度来てもムダムダムダーッ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}No matter how many times you come, it's useless, useless, uselesss!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{860F}{94A5}「もういっちょ行く～？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Wanna go one more time~?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{860F}{94A5}「あんたもスキね～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}You really can't get enough, huh~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8002}{9201}ほうだんをセットする事ができそうだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Looks like you could load a cannonball here.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8002}{9201}ホウダン、セットカンリョウシマシタ\nモクヒョウ・ジクアワセ・・・{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}CANNONBALL LOADED. ALIGNING ON TARGET...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8002}{860F}{94A5}「あれ？{8207}なんかあっちのほうだいが{8207}動いているような・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Huh? Is it just me, or is that cannon over there moving...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8002}{9201}モクヒョウホソク\nホウダンキドウノホセイチュウ・・・{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}TARGET ACQUIRED. CORRECTING TRAJECTORY...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8002}{861F}{94A5}「あ・・・あ！ やっぱ動いてる！{8207}・・・なんでこっち向いてんだ？」{8300}{861F}{94A5}「・・・エンシュウかな？{8207}きいてないぞ！」{8300}{860F}{94A5}「まぁ、いいか・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Ah... ah! It IS moving! ...Why's it pointing this way?{8300}{861F}{94A5}...A drill, maybe? Nobody told me!{8300}{860F}{94A5}Eh, whatever...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8002}{861F}{94A5}「オレが動くとほうだい動く・・・{8207}オレが止まるとほうだい止まる・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}When I move, the cannon moves... When I stop, the cannon stops...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_026",
@@ -220,7 +246,8 @@
     26
    ],
    "jp": "{8002}{861F}{94A5}「あ～～・・・ハイハイ・・・{8207}な～んとなくわかってきたよ～・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Ahh... right, right... I'm kinda starting to get it now...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_027",
@@ -228,7 +255,8 @@
     27
    ],
    "jp": "{8002}{861F}{94A5}「逃げろ～～～～っ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Run for iiiit!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_028",
@@ -236,7 +264,8 @@
     28
    ],
    "jp": "{8002}{9201}ホセイシュウリョウ\nホウゲキ、ジュンビカンリョウ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}CORRECTION COMPLETE. READY TO FIRE.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24BE7E_029",
@@ -244,7 +273,8 @@
     29
    ],
    "jp": "{8002}{9201}{8900}ハッシャ！{9A1E}{8100}",
-   "en": ""
+   "en": "{8002}{9201}{8900}FIRE!{9A1E}{8100}",
+   "status": "translated"
   }
  ]
 }

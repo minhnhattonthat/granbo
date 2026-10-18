@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「うわっ、まよっちまったぜ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Whoa, I got lost!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{860F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{860F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{860F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{861F}{94A5}「うわっ、まよっちまったぜ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Whoa, I got lost!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{860F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{860F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{860F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}キャプテンのどうぞうを使ったかんしソウチだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}It's a surveillance device made from a bronze statue of the Captain.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8001}{9201}「しんにゅうしゃはっけん！！{8201}ここから先はカンブと一部のえらばれた{8201}子分イガイ立入禁止だ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{9201}INTRUDER DETECTED!! Beyond this point, no one may enter except the bosses and a few select Grunts!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8001}{9201}「お前がここから先にとおるシカクが{8201}ある者かどうかたしかめさせてもらう！！」{8300}「シカクのある者なら、かくカンブの事を{8201}くわしく知っているはずだ！」{8300}「今からカンブにかんするシツモンを出す」{8300}「9モン中、8モン正かいすれば{8201}お前を先にすすむシカクのある者とみとめ{8201}そこのゲートをあけてやろう！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{9201}I will now determine whether you are qualified to pass beyond this point!!{8300}Anyone qualified should know all about each of the bosses!{8300}I will now ask you questions about the bosses.{8300}Answer 8 out of 9 correctly, and I will recognize you as qualified to proceed and open the gate there!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8001}{9201}「さぁ、シツモンを出すぞ！{8201}ジュンビはいいか！？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8001}{9201}Now, here come the questions! Are you ready?!{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_018",

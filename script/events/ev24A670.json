@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「この向かいのヤツ・・・」{8300}{860F}{94A5}「いつもしょくどうでAランチのチケットを{8207}買いしめるんだ・・・」{8300}{861F}{94A5}「で、いつも使いきれないまま{8207}終わるんだけどな」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}The guy across from me...{8300}{860F}{94A5}He always buys up all the A Lunch tickets at the cafeteria...{8300}{861F}{94A5}And then he never manages to use them all.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24A670_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{861F}{94A5}「おいおい、もうやらないよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Hey, hey, I'm not giving you any more!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24A670_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{861F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24A670_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{860F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24A670_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{860F}{94A5}「向かいのヤツ・・・{8207}最近のマイブームはBランチだとよ」{8300}{860F}{94A5}「もうどうでもいいや・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}The guy across from me... says his latest craze is the B Lunch.{8300}{860F}{94A5}I don't even care anymore...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24A670_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{860F}{94A5}「やぁ、見てくれよ！{8207}このBランチのしょっけんの数！！」{8300}{860F}{94A5}「おっと、今回はあげないよ！{8207}一人で全部たべるんだからね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Hey, look at this! Look how many B Lunch meal tickets I've got!!{8300}{860F}{94A5}Whoops, I'm not giving you any this time! I'm gonna eat them all myself!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24A670_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{861F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24A670_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{860F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24A670_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{9201}{9300}メッセージボードに\nデンゴンが入っている{8300}{9201}『命令・・・4Fにつうじるカイダンへは{8201}ダレもとおさないように！！』{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}{9300}There's a message on the Message Board.{8300}{9201}\"Orders... Let no one through to the stairs that lead to 4F!!\"{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24A670_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{9201}{9300}メッセージボードに\nデンゴンが入っている{8300}{9201}『トランプかえせ！！』{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}{9300}There's a message on the Message Board.{8300}{9201}\"Give back my playing cards!!\"{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24A670_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}木バコがつみあがっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}Wooden crates are stacked up here.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24A670_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24A670_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}ワーク04のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24A670_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24A670_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}ワーク06のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24A670_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8001}{861F}{94A5}「このチケット・・・もう使いきれねぇ・・・{8207}もったいないからお前にやるよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{861F}{94A5}I'll never use up all these tickets... It'd be a waste, so you can have them!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }
