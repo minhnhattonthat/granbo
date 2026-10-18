@@ -87,6 +87,18 @@ def text_of(e, lang, marker):
     return e.get(lang) or None
 
 
+CENTRED = {"ptr/r290000.json", "ptr/r1B0000.json"}  # narration subtitles, centred in the JP by leading spaces
+
+
+def centre(s):
+    """Re-pad a subtitle line: N spaces put the text at x = 8N (vwf_menu snaps text after 2+ spaces to its
+    monospace column), so pick N for a centred line; past 28 cells (the JP's widest line) fall back to 1 space."""
+    t = s.lstrip(" ")
+    w = fit.width(t)
+    n = max(2, round((240 - w) / 16))
+    return " " * (n if 8 * n + w <= 224 else 1) + t
+
+
 def place_rel(r, orig, files, lang, marker):
     """Strings code reaches as base pointer + fixed offset (tools/find_rel.py: kind "adds" = `adds rX, #off` at
     site, "word" = a literal word holding off, "neg" = `movs rX, #-off`, then negated). Every string linked this way
@@ -174,6 +186,8 @@ def build(orig, files, lang="en", marker=None, engine_patch=True):
                     us = [lig["pairs"][c] if len(c) == 2 else engine.EN_CODES[c] for c in lig["names"][e["id"]]]
                     enc = struct.pack("<%dH" % (len(us) + 1), *us, text.END)
                 else:
+                    if name in CENTRED and e["jp"].startswith("  ") and "\n" not in e["jp"] and not marker:
+                        s = centre(s)
                     enc = text.encode_en(s)
                 if enc not in placed:
                     placed[enc] = r.alloc(enc, f"str {e['id']}", align=2)
