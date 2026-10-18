@@ -53,6 +53,7 @@ local A = {
                          -- +4 script ptr, +8 text cursor
   menu_top = 0x020262D0, menu_sub = 0x020262D2,  -- u8 field-menu cursors
   enc = 0x0201B270,      -- s16 encounter meter (player actor +0x100): battle when > 0xFF after a step
+  hp = 0x02005118,       -- u16 first party Granbo HP, +2 max HP, +4 EN, +6 max EN
   namekb = 0x02026398,   -- name-entry keyboard task (+4 u8 state: 1 input, 2 accepted, 4 done; +0x1C 0x0826E5B8)
 }
 W.A = A

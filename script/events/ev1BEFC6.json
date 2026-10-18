@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}元セイバー「後ろにある2つのマシンは{8207}グランボセイバー用に作られた物だ」{8300}{94C8}元セイバー「左にあるマシンは{8207}『{8833}アイテムロッカー{8800}』という物で・・・」{8300}{94C8}元セイバー「自分が持っているアイテムを{8207}ここに{8833}あずけておく{8800}事ができる」{8300}{94C8}元セイバー「持てるアイテムのカズには{8207}かぎりがあるからな・・・」{8300}{94C8}元セイバー「すぐに使わないアイテムは{8207}ここにあずけておくと良いだろう」{8300}{94C8}元セイバー「右のマシンは・・・グランボを持っていない{8207}今のおヌシにはカンケイがないか・・・」{8300}{94C8}元セイバー「そうだな・・・おヌシがグランボを{8207}つれてきたら使い方をおしえてやろう！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「The 2 machines behind me were made for Granbo Savers.{8300}{94C8}Ex-Saver「The one on the left is called the \"{8833}Item Locker{8800}\"...{8300}{94C8}Ex-Saver「You can {8833}store{8800} the items you're carrying in it.{8300}{94C8}Ex-Saver「There's a limit to how many items you can carry, after all...{8300}{94C8}Ex-Saver「Items you won't be using right away are best stored here.{8300}{94C8}Ex-Saver「The one on the right... Well, it's got nothing to do with you yet, since you don't have a Granbo...{8300}{94C8}Ex-Saver「Let's see... Bring me a Granbo, and I'll show you how to use it!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}女の子「そこのディスプレイは{8207}グランボセイバーのじょうほうコウカンに{8207}使われるの！！」{8300}{94C8}女の子「かく大陸にいるグランボの事が{8207}わかるから、知らない場所に行った時は{8207}必ず一度は見た方がいいよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「That display there is where Granbo Savers trade information!!{8300}{94C8}Girl「It tells you about the Granbo on each continent, so whenever you go somewhere new, you should always check it at least once!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}元セイバー「おお、ゲンじいじゃないか！{8207}元気にしとったか？」{8300}{94C8}元セイバー「ほう、この子が{9400}君か・・・{8207}やっぱりアンタににて、グランボを{8207}うまく動かせるんだろうな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「Well, if it isn't Old Gen! Been keeping well?{8300}{94C8}Ex-Saver「Oh-ho, so this is {9400}... I'll bet this one takes after you and handles Granbo like a natural...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{9904}{9700}{8002}{94C8}男の子「あっ、{8833}でんせつのグランボセイバー{8800}{8207}ゲンゾウさんだっ！！」{8300}{94C8}男の子「わずか30分で20体のグランボを{8207}ハントしたってデンセツをきいてから{8207}ずっとソンケイしてましたっ！」{8300}{94C8}男の子「おねがいですっ！サインくださいっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{9904}{9700}{8002}{94C8}Boy「Ah, it's the {8833}legendary Granbo Saver{8800}, Mr. Genzo!!{8300}{94C8}Boy「I've looked up to you ever since I heard the legend about you hunting 20 Granbo in just 30 minutes!{8300}{94C8}Boy「Please! Can I have your autograph?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}男の子「ここはグランボセイバーがあつまる{8207}{8833}セイバーステーション{8800}だよ！」{8300}{94C8}男の子「グランボセイバーっていうのは{8207}{8833}グランボを使って世界の平和を守る人達{8800}{8207}の事なんだ！」{8300}{94C8}男の子「たしかデータパッドとかいう物を{8207}持っていれば、だれでもグランボセイバーに{8207}なれるはずだよ」{8300}{94C8}男の子「でも、この町にいる大人のセイバーって{8207}そこにいる一人だけなんだよね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「This is the {8833}Saver Station{8800}, where Granbo Savers gather!{8300}{94C8}Boy「A Granbo Saver is {8833}someone who uses Granbo to protect world peace{8800}!{8300}{94C8}Boy「I think anyone can become a Granbo Saver, as long as they have this thing called a Data Pad.{8300}{94C8}Boy「But the only grown-up Saver in this town is that one guy over there...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}大人セイバー「ふははははっ！{8207}この町の平和は私が守ってみせる！！」{8300}{94C8}大人セイバー「・・・何？ノラグランボを{8207}ちゃんとハントしろだって？」{8300}{94C8}大人セイバー「はっはっは！{8207}私はザコはアイテにしないのだよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Fwahahaha! I shall protect the peace of this town!!{8300}{94C8}Saver「...What? I should be properly hunting the stray Granbo?{8300}{94C8}Saver「Hahaha! I don't bother with small fry!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}元セイバー「後ろにある2つのマシンの事を{8207}おしえてやろうか？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「Want me to tell you about the 2 machines behind me?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}元セイバー「まず右のマシン・・・これは{8207}『{8833}データボールシステム{8800}』という物だ」{8300}{94C8}元セイバー「このマシンに{8207}手持ちのデータボールをセットすると{8207}{8833}HPとENを回復{8800}させる事ができるぞ」{8300}{94C8}元セイバー「もちろん金なぞいらん！{8207}すきなだけ使うが良い！！」{8300}{94C8}元セイバー「その他にもできる事があるんじゃが{8207}ザンネンながら今はこしょう中で{8207}そのシステムは使えなくなっておる」{8300}{94C8}元セイバー「シュウリしとったモンがとちゅうで{8207}スカイシャークにさらわれてしまってな」{8300}{94C8}元セイバー「大人がカイホウされんと{8207}シュウリはできそうにないぞ」{8300}{94C8}元セイバー「もし大人がカイホウされれば{8207}そのシステムについておしえてやろう」{8300}{94C8}元セイバー「次に、左にあるマシンは{8207}『{8833}アイテムロッカー{8800}』という物だ」{8300}{94C8}元セイバー「自分が持っているアイテムを{8207}ここに{8833}あずけておく{8800}事ができる」{8300}{94C8}元セイバー「持てるアイテムの数には{8207}かぎりがあるからな・・・」{8300}{94C8}元セイバー「すぐに使わないアイテムは{8207}ここにあずけておくと良いだろう」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「First, the machine on the right... This is called the \"{8833}Data Ball System{8800}\".{8300}{94C8}Ex-Saver「Set the Data Balls you're carrying in this machine, and you can {8833}restore HP and EN{8800}!{8300}{94C8}Ex-Saver「And of course, it costs nothing! Use it as much as you like!!{8300}{94C8}Ex-Saver「It can do other things too, but sadly it's broken right now, so that part of the system can't be used.{8300}{94C8}Ex-Saver「The fella who was repairing it got carried off by Sky Shark partway through.{8300}{94C8}Ex-Saver「Unless the grown-ups are freed, it doesn't look like it can be repaired.{8300}{94C8}Ex-Saver「If the grown-ups get freed, I'll tell you about that part of the system.{8300}{94C8}Ex-Saver「Next, the machine on the left is called the \"{8833}Item Locker{8800}\".{8300}{94C8}Ex-Saver「You can {8833}store{8800} the items you're carrying in it.{8300}{94C8}Ex-Saver「There's a limit to how many items you can carry, after all...{8300}{94C8}Ex-Saver「Items you won't be using right away are best stored here.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}元セイバー「そうか・・・まぁ、すきにするがいい」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「I see... Well, suit yourself.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}女の子「町のすぐ北にあるたてもので{8207}スカイシャークがハントグローブを{8207}作っていたなんて！」{8300}{94C8}女の子「ハントグローブがあれば{8833}グランボを{8207}つかまえられる{8800}って話だから・・・」{8300}{94C8}女の子「あいつら、町をおそうために{8207}また{8877}モクモン{8800}や{88BB}チューバット{8800}を{8207}あつめる気なのかも・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Sky Shark was making Hunt Gloves in that building just north of town?!{8300}{94C8}Girl「They say a Hunt Glove lets you {8833}catch Granbo{8800}, so...{8300}{94C8}Girl「Maybe they're planning to gather {8877}Mokumon{8800} and {88BB}Chubat{8800} again to attack the town...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}元セイバー「それはゲンじいのデータパッド！{8207}そうか、ゲンじいのヤツめ・・・」{8300}{94C8}元セイバー「よし！データパッドで出せる命令{8207}・・・ワシがくわしくおしえてやろうか？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「That's Old Gen's Data Pad! I see, that old so-and-so...{8300}{94C8}Ex-Saver「All right! The commands you can give with the Data Pad... Want me to explain them in detail?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}元セイバー「まずは『{8833}コウゲキ{8800}』・・・{8207}これはイリョクはひくいが{8207}なんどでも使えるんじゃ！」{8300}{94C8}元セイバー「次に『{8833}ワザ{8800}』・・・{8207}これは色々なコウカがあるんじゃが{8207}使うたびにENがへるのがなんてんじゃな」{8300}{94C8}元セイバー「次に『{8833}アイテム{8800}』・・・{8207}これは{940A}にかわっておヌシが{8207}アイテムを使ってやるんじゃ」{8300}{94C8}元セイバー「次に『{8833}ボウギョ{8800}』・・・{8207}うけるダメージをへらす事ができる」{8300}{94C8}元セイバー「最後に『{8833}ニゲル{8800}』・・・{8207}戦って勝ち目がないと思ったら{8207}これをえらんですぐに逃げるんじゃぞ！」{8300}{94C8}元セイバー「ちなみに、ハントグローブを手に入れたら{8207}新しい命令が使えるようになる・・・」{8300}{94C8}元セイバー「ハントグローブを手に入れた後で{8207}ワシに話しかけたら、その命令について{8207}おしえてやろう」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「First, \"{8833}Attack{8800}\"... It's not very powerful, but you can use it as often as you like!{8300}{94C8}Ex-Saver「Next, \"{8833}Move{8800}\"... Moves have all sorts of effects, but the catch is that each use costs EN.{8300}{94C8}Ex-Saver「Next, \"{8833}Item{8800}\"... Here, instead of your {940A} acting, you use an item for it.{8300}{94C8}Ex-Saver「Next, \"{8833}Defend{8800}\"... This lets you cut down the damage you take.{8300}{94C8}Ex-Saver「Last, \"{8833}Run{8800}\"... If you think you can't win a fight, pick this and get away fast!{8300}{94C8}Ex-Saver「By the way, once you get a Hunt Glove, you'll be able to use a new command...{8300}{94C8}Ex-Saver「Come talk to me after you get the Hunt Glove, and I'll tell you about that command.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{94C8}元セイバー「ほうか・・・？{8207}きいておいてソンはせんと思うがな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「Is that so...? I don't think it'd hurt to listen, though...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{94C8}男の子「・・・・・・・・・え？{8207}女の子を助けるために{8207}スカイシャークと戦う・・・？」{8300}{94C8}男の子「キミはすごいな・・・{8207}アイツらと戦うユウキは{8207}ボクにはないよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「......Huh? You're going to fight Sky Shark to save a girl...?{8300}{94C8}Boy「You're amazing... I don't have the courage to fight those guys...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94C8}男の子「ここはグランボセイバーがあつまる{8207}{8833}セイバーステーション{8800}・・・」{8300}{94C8}男の子「グランボセイバーっていうのは{8207}{8833}グランボを使って世界の平和を守る人達{8800}{8207}の事なんだけど・・・」{8300}{94C8}男の子「この町の大人のグランボセイバーは{8207}スカイシャークに手も足も出なかったよ」{8300}{94C8}男の子「ああ・・・どこかに{8207}スカイシャークをやっつけてくれる{8207}すごいセイバーはいないかなあ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「This is the {8833}Saver Station{8800}, where Granbo Savers gather...{8300}{94C8}Boy「A Granbo Saver is {8833}someone who uses Granbo to protect world peace{8800}, but...{8300}{94C8}Boy「This town's grown-up Granbo Saver couldn't lay a finger on Sky Shark.{8300}{94C8}Boy「Oh... Isn't there an amazing Saver somewhere who can beat Sky Shark...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{94C8}元セイバー「後ろにある2つのマシンの事を{8207}おしえてやろうか？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「Want me to tell you about the 2 machines behind me?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{94C8}元セイバー「まず右のマシン・・・これは{8207}『{8833}データボールシステム{8800}』という物だ」{8300}{94C8}元セイバー「このマシンに{8207}手持ちのデータボールをセットすると{8207}{8833}HPとENを回復{8800}させる事ができる！」{8300}{94C8}元セイバー「もちろん金なぞいらん！{8207}すきなだけ使うが良い！！」{8300}{94C8}元セイバー「その他にもできる事があるんじゃが{8207}ザンネンながら今はこしょう中で{8207}そのシステムは使えなくなっておる」{8300}{94C8}元セイバー「シュウリしとったモンがスカイシャークに{8207}さらわれてしまってな・・・」{8300}{94C8}元セイバー「大人がカイホウされんと{8207}シュウリはできそうにないぞ」{8300}{94C8}元セイバー「もし大人がカイホウされれば{8207}そのシステムについておしえてやろう」{8300}{94C8}元セイバー「次に、左にあるマシンは{8207}『{8833}アイテムロッカー{8800}』という物だ」{8300}{94C8}元セイバー「自分が持っているアイテムを{8207}ここにあずけておく事ができる」{8300}{94C8}元セイバー「持てるアイテムの数には{8207}かぎりがあるからな・・・」{8300}{94C8}元セイバー「すぐに使わないアイテムは{8207}ここにあずけておくと良いだろう」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「First, the machine on the right... This is called the \"{8833}Data Ball System{8800}\".{8300}{94C8}Ex-Saver「Set the Data Balls you're carrying in this machine, and you can {8833}restore HP and EN{8800}!{8300}{94C8}Ex-Saver「And of course, it costs nothing! Use it as much as you like!!{8300}{94C8}Ex-Saver「It can do other things too, but sadly it's broken right now, so that part of the system can't be used.{8300}{94C8}Ex-Saver「The fella who was repairing it got carried off by Sky Shark...{8300}{94C8}Ex-Saver「Unless the grown-ups are freed, it doesn't look like it can be repaired.{8300}{94C8}Ex-Saver「If the grown-ups get freed, I'll tell you about that part of the system.{8300}{94C8}Ex-Saver「Next, the machine on the left is called the \"{8833}Item Locker{8800}\".{8300}{94C8}Ex-Saver「You can store the items you're carrying in it.{8300}{94C8}Ex-Saver「There's a limit to how many items you can carry, after all...{8300}{94C8}Ex-Saver「Items you won't be using right away are best stored here.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{94C8}元セイバー「そうか・・・まぁ、すきにするがいい」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「I see... Well, suit yourself.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{94C8}女の子「今、左にいるメガネをかけた女の子に{8207}ハントのやり方をおそわってたの！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I was just learning how to hunt from the girl with glasses over on the left!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{94C8}元セイバー「それはゲンじいのデータパッド！{8207}そうか、ゲンじいのヤツめ・・・」{8300}{94C8}元セイバー「よし！データパッドで出せる命令{8207}・・・ワシがくわしくおしえてやろうか？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「That's Old Gen's Data Pad! I see, that old so-and-so...{8300}{94C8}Ex-Saver「All right! The commands you can give with the Data Pad... Want me to explain them in detail?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8002}{94C8}元セイバー「まずは『{8833}コウゲキ{8800}』・・・{8207}これはイリョクはひくいが{8207}なんどでも使えるんじゃ！」{8300}{94C8}元セイバー「次に『{8833}ワザ{8800}』・・・{8207}これは色々なコウカがあるんじゃが{8207}使うたびにENがへるのがなんてんじゃな」{8300}{94C8}元セイバー「次に『{8833}アイテム{8800}』・・・{8207}これは{940A}にかわっておヌシが{8207}アイテムを使ってやるんじゃ」{8300}{94C8}元セイバー「次に『{8833}ヘンシン{8800}』・・・{8207}敵のゾクセイをよくかんがえて{8207}こうかてきにヘンシンするんじゃぞ」{8300}{94C8}元セイバー「次に『{8833}ボウギョ{8800}』・・・{8207}うけるダメージをへらす事ができる」{8300}{94C8}元セイバー「最後に『{8833}ニゲル{8800}』・・・{8207}戦って勝ち目がないと思ったら{8207}これをえらんですぐに逃げるんじゃぞ！」{8300}{94C8}元セイバー「この6つの命令をジョウキョウにあわせて{8207}使いわける事ができれば{8207}もうこわいもんなしじゃ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「First, \"{8833}Attack{8800}\"... It's not very powerful, but you can use it as often as you like!{8300}{94C8}Ex-Saver「Next, \"{8833}Move{8800}\"... Moves have all sorts of effects, but the catch is that each use costs EN.{8300}{94C8}Ex-Saver「Next, \"{8833}Item{8800}\"... Here, instead of your {940A} acting, you use an item for it.{8300}{94C8}Ex-Saver「Next, \"{8833}Transform{8800}\"... Think hard about the enemy's element, and transform to your advantage!{8300}{94C8}Ex-Saver「Next, \"{8833}Defend{8800}\"... This lets you cut down the damage you take.{8300}{94C8}Ex-Saver「Last, \"{8833}Run{8800}\"... If you think you can't win a fight, pick this and get away fast!{8300}{94C8}Ex-Saver「If you can use these 6 commands to suit the situation, you'll have nothing to fear!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8002}{94C8}元セイバー「ほうか・・・？{8207}きいておいてソンはせんと思うがな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「Is that so...? I don't think it'd hurt to listen, though...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8002}{94C8}男の子「シズクっていう女の子を助けに行くの？」{8300}{94C8}男の子「・・・よし、ボクも自分にできる事で{8207}キョウリョクするよ！」{8300}{94C8}男の子「{8833}ゾクセイのひみつ{8800}・・・{8207}おしえてあげようか？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「You're going to rescue a girl named Shizuku?{8300}{94C8}Boy「...All right, I'll help out however I can too!{8300}{94C8}Boy「Want me to tell you {8833}the secret of elements{8800}?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8002}{94C8}男の子「ゾクセイはね{8207}{8833}火{8800}・{8855}水{8800}・{8877}木{8800}と3つあるんだ」{8300}{94C8}男の子「{8833}火{8800}は{8877}木{8800}に、{8877}木{8800}は{8855}水{8800}に、{8855}水{8800}は{8833}火{8800}に{8207}それぞれ強いんだ」{8300}{94C8}男の子「だから、{8833}火{8800}の敵には{8855}水{8800}{8207}{8855}水{8800}の敵には{8877}木{8800}、{8877}木{8800}の敵には{8833}火{8800}{8207}と{940A}をヘンシンさせればいいよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「There are 3 elements: {8833}Fire{8800}, {8855}Water{8800} and {8877}Wood{8800}.{8300}{94C8}Boy「{8833}Fire{8800} is strong against {8877}Wood{8800}, {8877}Wood{8800} against {8855}Water{8800}, and {8855}Water{8800} against {8833}Fire{8800}.{8300}{94C8}Boy「So against a {8833}Fire{8800} enemy, transform your {940A} to {8855}Water{8800}; against {8855}Water{8800}, to {8877}Wood{8800}; and against {8877}Wood{8800}, to {8833}Fire{8800}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8002}{94C8}男の子「そっか・・・{8207}知りたくなったら、いつでも来てね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「I see... If you ever want to know, come by anytime.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8002}{94C8}男の子「ここはグランボセイバーがあつまる{8207}{8833}セイバーステーション{8800}・・・」{8300}{94C8}男の子「グランボセイバーっていうのは{8207}{8833}グランボを使って世界の平和を守る人達{8800}{8207}の事なんだけど・・・」{8300}{94C8}男の子「この町の大人のグランボセイバーは{8207}スカイシャークに手も足も出なかったよ」{8300}{94C8}男の子「ああ・・・どこかに{8207}スカイシャークをやっつけてくれる{8207}すごいセイバーはいないかなあ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「This is the {8833}Saver Station{8800}, where Granbo Savers gather...{8300}{94C8}Boy「A Granbo Saver is {8833}someone who uses Granbo to protect world peace{8800}, but...{8300}{94C8}Boy「The grown-up Granbo Savers in this town couldn't lay a finger on Sky Shark.{8300}{94C8}Boy「Oh... I wish some amazing Saver would come along and beat Sky Shark...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_026",
@@ -220,7 +246,8 @@
     26
    ],
    "jp": "{8002}{94C8}元セイバー「後ろにある2つのマシンの事を{8207}おしえてやろうか？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「Shall I tell you about the 2 machines behind me?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_027",
@@ -228,7 +255,8 @@
     27
    ],
    "jp": "{8002}{94C8}元セイバー「まず右のマシン・・・これは{8207}『{8833}データボールシステム{8800}』という物だ」{8300}{94C8}元セイバー「このマシンに{8207}手持ちのデータボールをセットすると{8207}{8833}HPとENを回復{8800}させる事ができる！」{8300}{94C8}元セイバー「もちろん金なぞいらん！{8207}すきなだけ使うが良い！！」{8300}{94C8}元セイバー「それだけではないぞ！」{8300}{94C8}元セイバー「ハントによってヨビのデータボールが{8207}3つをこえると、{8833}持ちきれなくなった分を{8207}ここにおくる{8800}事ができるんじゃ」{8300}{94C8}元セイバー「そして、このマシンに{8207}おヌシのデータパッドをつなぐと・・・」{8300}{94C8}元セイバー「手持ちのデータボールと{8207}ここにあずけておいたデータボールを{8207}{8833}こうかん{8800}する事ができる！！」{8300}{94C8}元セイバー「さらには{8833}データボールをしんかさせる{8800}事も{8207}できる上に・・・」{8300}{94C8}元セイバー「データボールの名前を変えたり{8207}データのしょきか、いらなくなった{8207}データボールのしょうきょもできる！」{8300}{94C8}元セイバー「次に、左にあるマシンは{8207}『{8833}アイテムロッカー{8800}』という物だ」{8300}{94C8}元セイバー「自分が持っているアイテムを{8207}ここに{8833}あずけておく{8800}事ができる」{8300}{94C8}元セイバー「持てるアイテムの数には{8207}かぎりがあるからな・・・」{8300}{94C8}元セイバー「すぐに使わないアイテムは{8207}ここにあずけておくと良いだろう」{8300}{94C8}元セイバー「この2つのマシンを使えば{8207}戦いはダンゼン楽になるじゃろう・・・{8207}うまく使いこなすんじゃぞ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「First, the machine on the right... This is called the \"{8833}Data Ball System{8800}.\"{8300}{94C8}Ex-Saver「Set a Data Ball you're carrying in this machine, and it {8833}restores HP and EN{8800}!{8300}{94C8}Ex-Saver「And of course, it's free! Use it as much as you like!!{8300}{94C8}Ex-Saver「But that's not all!{8300}{94C8}Ex-Saver「When your spare Data Balls from hunting go over 3, you can {8833}send the ones you can't carry here{8800}.{8300}{94C8}Ex-Saver「And when you hook your Data Pad up to this machine...{8300}{94C8}Ex-Saver「You can {8833}swap{8800} the Data Balls you're carrying with the ones stored here!!{8300}{94C8}Ex-Saver「On top of that, you can {8833}evolve your Data Balls{8800}, and...{8300}{94C8}Ex-Saver「You can rename Data Balls, reset their data, and delete Data Balls you no longer need!{8300}{94C8}Ex-Saver「Next, the machine on the left is called the \"{8833}Item Locker{8800}.\"{8300}{94C8}Ex-Saver「You can {8833}store{8800} the items you're carrying here.{8300}{94C8}Ex-Saver「There's a limit to how many items you can carry, after all...{8300}{94C8}Ex-Saver「It's a good idea to store items you won't use right away here.{8300}{94C8}Ex-Saver「Use these 2 machines, and your battles will be loads easier... Make good use of them, now!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_028",
@@ -236,7 +264,8 @@
     28
    ],
    "jp": "{8002}{94C8}元セイバー「そうか・・・まぁ、すきにするがいい」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「I see... Well, suit yourself.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_029",
@@ -244,7 +273,8 @@
     29
    ],
    "jp": "{8002}{94C8}女の子「今、左にいるメガネをかけた女の子に{8207}ハントのやり方をおそわってたの！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I was just learning how to hunt from the girl with glasses on the left!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_030",
@@ -252,7 +282,8 @@
     30
    ],
    "jp": "{8002}{94C8}元セイバー「ふふふ・・・ゲンじいのヤツ{8207}やはりおヌシをあとつぎにするつもりか！」{8300}{94C8}元セイバー「よし！データパッドで出せる命令{8207}・・・ワシがくわしくおしえてやろうか？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「Heh heh heh... So that Old Gen really does mean to make you his successor!{8300}{94C8}Ex-Saver「All right! The commands you can give with the Data Pad... Shall I explain them in detail?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_031",
@@ -260,7 +291,8 @@
     31
    ],
    "jp": "{8002}{94C8}元セイバー「まずは『{8833}コウゲキ{8800}』・・・{8207}これはイリョクはひくいが{8207}なんどでも使えるんじゃ！」{8300}{94C8}元セイバー「次に『{8833}ワザ{8800}』・・・{8207}これは色々なコウカがあるんじゃが{8207}使うたびにENがへるのがなんてんじゃな」{8300}{94C8}元セイバー「次に『{8833}アイテム{8800}』・・・{8207}これは{940A}にかわっておヌシが{8207}アイテムを使ってやるんじゃ」{8300}{94C8}元セイバー「次に『{8833}ヘンシン{8800}』・・・{8207}敵のゾクセイをよくかんがえて{8207}こうかてきにヘンシンするんじゃぞ」{8300}{94C8}元セイバー「次に『{8833}ボウギョ{8800}』・・・{8207}うけるダメージをへらす事ができる」{8300}{94C8}元セイバー「最後に『{8833}ニゲル{8800}』・・・{8207}戦って勝ち目がないと思ったら{8207}これをえらんですぐに逃げるんじゃぞ！」{8300}{94C8}元セイバー「この6つの命令をジョウキョウにあわせて{8207}使いわける事ができれば{8207}もうこわいもんなしじゃ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「First, \"{8833}Attack{8800}\"... It's weak, but you can use it as many times as you like!{8300}{94C8}Ex-Saver「Next, \"{8833}Move{8800}\"... Moves have all sorts of effects, but the drawback is that each use costs EN.{8300}{94C8}Ex-Saver「Next, \"{8833}Item{8800}\"... With this, you use an item on behalf of your {940A}.{8300}{94C8}Ex-Saver「Next, \"{8833}Transform{8800}\"... Think hard about the enemy's element, and transform to good effect!{8300}{94C8}Ex-Saver「Next, \"{8833}Defend{8800}\"... This reduces the damage you take.{8300}{94C8}Ex-Saver「Last, \"{8833}Run{8800}\"... If you think you can't win a fight, pick this and run away at once!{8300}{94C8}Ex-Saver「If you can use these 6 commands to suit the situation, you'll have nothing to fear!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_032",
@@ -268,7 +300,8 @@
     32
    ],
    "jp": "{8002}{94C8}元セイバー「ほうか・・・？{8207}きいておいてソンはせんと思うがな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「Is that so...? I'd say it wouldn't hurt you to listen, though...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_033",
@@ -276,7 +309,8 @@
     33
    ],
    "jp": "{8002}{94C8}男の子「女の子を助けたんだ！すごいね！！」{8300}{94C8}男の子「・・・よし、ボクも自分にできる事で{8207}キョウリョクするよ！」{8300}{94C8}男の子「{8833}ゾクセイのひみつ{8800}・・・{8207}おしえてあげようか？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「You saved that girl! That's amazing!!{8300}{94C8}Boy「...All right, I'll help out too, any way I can!{8300}{94C8}Boy「Shall I tell you {8833}the secret of elements{8800}?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_034",
@@ -284,7 +318,8 @@
     34
    ],
    "jp": "{8002}{94C8}男の子「ゾクセイはね{8207}{8833}火{8800}・{8855}水{8800}・{8877}木{8800}と3つあるんだ」{8300}{94C8}男の子「{8833}火{8800}は{8877}木{8800}に、{8877}木{8800}は{8855}水{8800}に、{8855}水{8800}は{8833}火{8800}に{8207}それぞれ強いんだ」{8300}{94C8}男の子「だから、{8833}火{8800}の敵には{8855}水{8800}{8207}{8855}水{8800}の敵には{8877}木{8800}、{8877}木{8800}の敵には{8833}火{8800}{8207}と{940A}をヘンシンさせればいいよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「There are 3 elements: {8833}Fire{8800}, {8855}Water{8800} and {8877}Wood{8800}.{8300}{94C8}Boy「{8833}Fire{8800} is strong against {8877}Wood{8800}, {8877}Wood{8800} against {8855}Water{8800}, and {8855}Water{8800} against {8833}Fire{8800}.{8300}{94C8}Boy「So against a {8833}Fire{8800} enemy use {8855}Water{8800}, against {8855}Water{8800} use {8877}Wood{8800}, and against {8877}Wood{8800} use {8833}Fire{8800}: just transform your {940A} to match!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_035",
@@ -292,7 +327,8 @@
     35
    ],
    "jp": "{8002}{94C8}男の子「そっか・・・{8207}知りたくなったら、いつでも来てね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「I see... If you ever want to know, come by anytime.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_036",
@@ -300,7 +336,8 @@
     36
    ],
    "jp": "{8002}{94C8}男の子「ここはグランボセイバーがあつまる{8207}{8833}セイバーステーション{8800}だよ！」{8300}{94C8}男の子「・・・さすがゲンじいのおマゴさんだね！{8207}そこのセイバーより君の方が{8207}ダンゼンたのもしく見えてきたよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「This is the {8833}Saver Station{8800}, where Granbo Savers gather!{8300}{94C8}Boy「...Just what I'd expect from Old Gen's grandkid! You're looking way more reliable than that Saver over there!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_037",
@@ -308,7 +345,8 @@
     37
    ],
    "jp": "{8002}{94C8}大人セイバー「ふははははっ！{8207}少々ユダンしてスカイシャークに{8207}つかまってしまったが・・・」{8300}{94C8}大人セイバー「もうダイジョウブだ！{8207}後は私にまかせたまえ！！」{8300}{94C8}大人セイバー「え・・・自分でがんばる？{8207}そ、そうか・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Fwahahaha! I let my guard down a little and got caught by Sky Shark, but...{8300}{94C8}Saver「I'm fine now! Leave the rest to me!!{8300}{94C8}Saver「Huh... You'll do it yourself? R-Right...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_038",
@@ -316,7 +354,8 @@
     38
    ],
    "jp": "{8002}{9201}グランボを使った戦いのシミュレーターだ\n向かい合わせにすわって対戦するらしい{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a battle simulator for Granbo. It seems you sit facing each other to compete.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_039",
@@ -324,7 +363,8 @@
     39
    ],
    "jp": "{8002}{9201}グランボセイバーの作戦カイギ用ディスプレイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a display for Granbo Savers' strategy meetings.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_040",
@@ -332,7 +372,8 @@
     40
    ],
    "jp": "{8002}{9201}グランボセイバーのじょうほうコウカン用ディスプレイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a display for Granbo Savers to swap information.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_041",
@@ -340,7 +381,8 @@
     41
    ],
    "jp": "{8002}{9201}データボールシステムと書いてある\nしかし、今はこしょう中のようだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It says \"Data Ball System.\" But it seems to be out of order right now.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_042",
@@ -348,7 +390,8 @@
     42
    ],
    "jp": "{8002}{9201}データボールシステムと書いてある\nしかし、今はこしょう中のようだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It says \"Data Ball System.\" But it seems to be out of order right now.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_043",
@@ -356,7 +399,8 @@
     43
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_044",
@@ -364,7 +408,8 @@
     44
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_045",
@@ -372,7 +417,8 @@
     45
    ],
    "jp": "{8002}{9201}グランボを使った戦いのシミュレーターだ\n向かい合わせにすわって対戦するらしい{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a battle simulator for Granbo. It seems you sit facing each other to compete.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_046",
@@ -380,7 +426,8 @@
     46
    ],
    "jp": "{8002}{9201}グランボセイバーの作戦カイギ用ディスプレイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a display for Granbo Savers' strategy meetings.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_047",
@@ -388,7 +435,8 @@
     47
    ],
    "jp": "{8002}{9201}「町の東の森に{8855}水{8800}ゾクセイのグランボが出るという{8201}ジョウホウあり！{8833}火{8800}ゾクセイのグランボしか{8201}持っていないセイバーはチュウイされたし！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Report: {8855}Water{8800}-element Granbo appear in the forest east of town! Savers carrying only {8833}Fire{8800}-element Granbo, be careful!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_048",
@@ -396,7 +444,8 @@
     48
    ],
    "jp": "{8002}{9201}データボールこうかんマシンと書いてある\nしかし、今はこしょう中のようだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It says \"Data Ball Exchange Machine.\" But it seems to be out of order right now.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_049",
@@ -404,7 +453,8 @@
     49
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_050",
@@ -412,7 +462,8 @@
     50
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_051",
@@ -420,7 +471,8 @@
     51
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_052",
@@ -428,7 +480,8 @@
     52
    ],
    "jp": "{8002}{9201}グランボを使った戦いのシミュレーターだ\n向かい合わせにすわって対戦するらしい{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a battle simulator for Granbo. It seems you sit facing each other to compete.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_053",
@@ -436,7 +489,8 @@
     53
    ],
    "jp": "{8002}{9201}グランボセイバーの作戦カイギ用ディスプレイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a display for Granbo Savers' strategy meetings.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_054",
@@ -444,7 +498,8 @@
     54
    ],
    "jp": "{8002}{9201}「町の東の森に{8855}水{8800}ゾクセイのグランボが出るという{8201}ジョウホウあり！{8833}火{8800}ゾクセイのグランボしか{8201}持っていないセイバーはチュウイされたし！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Report: {8855}Water{8800}-element Granbo appear in the forest east of town! Savers carrying only {8833}Fire{8800}-element Granbo, be careful!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_055",
@@ -452,7 +507,8 @@
     55
    ],
    "jp": "{8002}{9201}データボールシステムと書いてある\nしかし、今はこしょう中のようだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It says \"Data Ball System.\" But it seems to be out of order right now.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_056",
@@ -460,7 +516,8 @@
     56
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_057",
@@ -468,7 +525,8 @@
     57
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_058",
@@ -476,7 +534,8 @@
     58
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_059",
@@ -484,7 +543,8 @@
     59
    ],
    "jp": "{9904}{9705}{8002}{94C8}女の子「あああーーーっ！！{8207}ゲ、ゲ、ゲンゾウさまだぁ～～～！！」{8300}{94C8}女の子「た、たしかグランボバトルで{8207}526勝という大きろくを{8207}作ったんですよね！！」{8300}{94C8}女の子「お会いできてコウエイですっ！{8207}ああ、まるでユメのよう～～～！」{8400}{8100}",
-   "en": ""
+   "en": "{9904}{9705}{8002}{94C8}Girl「Aaaaah!! I-I-It's Mr. Genzo!!{8300}{94C8}Girl「Y-You set the big record of 526 wins in Granbo battles, didn't you!!{8300}{94C8}Girl「It's an honor to meet you! Oh, it's like a dreaaam~!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_060",
@@ -492,7 +552,8 @@
     60
    ],
    "jp": "{8002}{94C8}女の子「ノラグランボのデータボールを{8207}スデでとろうとして大ケガをした{8207}セイバーがいるそうよ・・・」{8300}{94C8}女の子「{8833}ハントグローブ{8800}さえつけていれば{8207}アンゼンにデータボールを{8207}とれるのに・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I heard a Saver got badly hurt trying to grab a stray Granbo's Data Ball with bare hands...{8300}{94C8}Girl「With a {8833}Hunt Glove{8800} on, you can get Data Balls safely, though...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_061",
@@ -500,7 +561,8 @@
     61
    ],
    "jp": "{8002}{94C8}女の子「{8833}ハントのコツ{8800}を{8207}おしえてあげよっか？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Want me to teach you {8833}some hunting tips{8800}?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_062",
@@ -508,7 +570,8 @@
     62
    ],
    "jp": "{8002}{94C8}女の子「まずはハントゲージをためるんだけど{8207}{8833}あたえたダメージの大きさにあわせて{8207}ハントゲージはたまる{8800}んだよ」{8300}{94C8}女の子「ただ、ここで気をつけてほしいのが・・・」{8300}{94C8}女の子「同じダメージでも{8833}攻撃したグランボと{8207}攻撃されたグランボのアイショウによって{8207}ゲージのたまり方がちがう{8800}って事」{8300}{94C8}女の子「そしてハントゲージがたまったら{8207}いよいよハントワザのでばん！！」{8300}{94C8}女の子「ハントワザは{8833}ゾクセイがユウリな方が{8207}成功しやすい{8800}んだよ！」{8300}{94C8}女の子「ただ、ハントワザもダメージをあたえるから{8207}{8833}敵グランボをたおしてしまわないよう{8800}に{8207}気をつけてね」{8300}{94C8}女の子「・・・え？他に何か知らないかって？{8207}・・・ごめんなさい、私が知ってるのは{8207}これだけなの」{8300}{94C8}女の子「たしか、{8833}大陸の東にある町{8800}の{8207}セイバーステーションにはもっとくわしく{8207}知っている子がいたはずよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「First you fill the Hunt Gauge. {8833}The Hunt Gauge fills according to how much damage you deal{8800}.{8300}{94C8}Girl「But here's what I want you to watch out for...{8300}{94C8}Girl「Even with the same damage, {8833}how fast the gauge fills depends on the matchup between the attacking Granbo and the one being attacked{8800}.{8300}{94C8}Girl「And once the Hunt Gauge is full, it's finally time for a Hunt Move!!{8300}{94C8}Girl「A Hunt Move {8833}succeeds more easily when you have the element advantage{8800}!{8300}{94C8}Girl「But Hunt Moves deal damage too, so be careful {8833}not to defeat the enemy Granbo{8800}.{8300}{94C8}Girl「...Huh? Do I know anything else? ...Sorry, this is all I know.{8300}{94C8}Girl「I'm pretty sure there was a kid at the Saver Station in {8833}the town on the east side of the continent{8800} who knows more!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_063",
@@ -516,7 +579,8 @@
     63
    ],
    "jp": "{8002}{94C8}女の子「そう・・・？{8207}ま、いいけどね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Oh...? Well, fine by me...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_064",
@@ -524,7 +588,8 @@
     64
    ],
    "jp": "{8002}{94C8}女の子「{8833}ハントのコツ{8800}を{8207}おしえてあげよっか？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Want me to teach you {8833}some hunting tips{8800}?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_065",
@@ -532,7 +597,8 @@
     65
    ],
    "jp": "{8002}{94C8}女の子「まずはハントゲージをためるんだけど{8207}{8833}あたえたダメージの大きさにあわせて{8207}ハントゲージはたまる{8800}んだよ」{8300}{94C8}女の子「ただ、ここで気をつけてほしいのが・・・」{8300}{94C8}女の子「同じダメージでも{8833}攻撃したグランボと{8207}攻撃されたグランボのアイショウによって{8207}ゲージのたまり方がちがう{8800}って事」{8300}{94C8}女の子「そしてハントゲージがたまったら{8207}いよいよハントワザのでばん！！」{8300}{94C8}女の子「ハントワザは{8833}ゾクセイがユウリな方が{8207}成功しやすい{8800}んだよ！」{8300}{94C8}女の子「ただ、ハントワザもダメージをあたえるから{8207}{8833}敵グランボをたおしてしまわないよう{8800}に{8207}気をつけてね」{8300}{94C8}女の子「・・・え？他に何か知らないかって？{8207}・・・ごめんなさい、私が知ってるのは{8207}これだけなの」{8300}{94C8}女の子「たしか、{8833}大陸の東にある町{8800}の{8207}セイバーステーションにはもっとくわしく{8207}知っている子がいたはずよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「First you fill the Hunt Gauge. {8833}The Hunt Gauge fills according to how much damage you deal{8800}.{8300}{94C8}Girl「But here's what I want you to watch out for...{8300}{94C8}Girl「Even with the same damage, {8833}how fast the gauge fills depends on the matchup between the attacking Granbo and the one being attacked{8800}.{8300}{94C8}Girl「And once the Hunt Gauge is full, it's finally time for a Hunt Move!!{8300}{94C8}Girl「A Hunt Move {8833}succeeds more easily when you have the element advantage{8800}!{8300}{94C8}Girl「But Hunt Moves deal damage too, so be careful {8833}not to defeat the enemy Granbo{8800}.{8300}{94C8}Girl「...Huh? Do I know anything else? ...Sorry, this is all I know.{8300}{94C8}Girl「I'm pretty sure there was a kid at the Saver Station in {8833}the town on the east side of the continent{8800} who knows more!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_066",
@@ -540,7 +606,8 @@
     66
    ],
    "jp": "{8002}{94C8}女の子「そう・・・？{8207}ま、いいけどね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Oh...? Well, fine by me...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1BEFC6_067",

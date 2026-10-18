@@ -13,7 +13,7 @@
     0
    ],
    "jp": "{8002}{8620}{94A7}「ところで{9400}・・・」{8300}{8620}{94A7}「お前、今すぐシズクさんを{8207}とりもどしに行くつもりか？」{9200}\n{8D00}{8100}",
-   "en": "{8002}{8620}{94A7}By the way, {9400}...{8300}{8620}{94A7}Are you planning to go after Shizuku right this minute?{9200} /{8D00}{8100}",
+   "en": "{8002}{8620}{94A7}By the way, {9400}...{8300}{8620}{94A7}Are you planning to go after Shizuku right this minute?{9200}{8D00}{8100}",
    "status": "translated"
   },
   {
@@ -364,7 +364,7 @@
     39
    ],
    "jp": "{8002}{8621}{94A7}「それにここまでハカイされるとは・・・{8207}よほどの事があったんじゃろう」{8300}{8621}{94A7}「ワシらで良ければお前さんの力になるぞ！{8207}そうじゃろ、{9400}！？」{9200}\n{8D00}{8100}",
-   "en": "{8002}{8621}{94A7}And to be wrecked this badly... something serious must have happened.{8300}{8621}{94A7}If you'll let us, we'll lend you our strength! Right, {9400}?!{9200} /{8D00}{8100}",
+   "en": "{8002}{8621}{94A7}And to be wrecked this badly... something serious must have happened.{8300}{8621}{94A7}If you'll let us, we'll lend you our strength! Right, {9400}?!{9200}{8D00}{8100}",
    "status": "translated"
   },
   {
@@ -499,7 +499,7 @@
     54
    ],
    "jp": "{8002}{8621}{94A7}「またんか！どこへ行くつもりじゃ！！」{8300}{8621}{94A7}「おおかた、シズクさんをおいかけるつもり{8207}なんじゃろ？ちがうか？」{9200}\n{8D00}{8100}",
-   "en": "{8002}{8621}{94A7}Hold it! Where do you think you're going?!{8300}{8621}{94A7}You're planning to chase after Shizuku, I'll bet? Am I wrong?{9200} /{8D00}{8100}",
+   "en": "{8002}{8621}{94A7}Hold it! Where do you think you're going?!{8300}{8621}{94A7}You're planning to chase after Shizuku, I'll bet? Am I wrong?{9200}{8D00}{8100}",
    "status": "translated"
   },
   {
@@ -553,7 +553,8 @@
     60
    ],
    "jp": "{8002}{8620}{94A7}「シズクさんを助けるためには{8207}どうすれば良いか・・・{8207}よーくかんがえるんじゃぞ！！」{8300}{8620}{94A7}「何をすべきかわからなくなったら{8207}まわりの人に話をきいてみるのも{8207}良いじゃろう！」{8300}{8620}{94A7}「もちろんワシもいつでも{8207}ソウダンにのるからの・・・」{8300}{8621}{94A7}「それと、こまめに{8833}セーブ{8800}する事も{8207}わすれてはならん！」{8300}{8620}{94A7}「セーブしたい時はデータパッドをひらいた後{8207}{8833}システムコマンドの中から『セーブ』を{8207}えらべば良い{8800}ぞ」{8300}{8620}{94A7}「では、行くがよい！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8620}{94A7}Think long and hard about what you can do to help Shizuku!!{8300}{8620}{94A7}If you're ever not sure what to do, it's a good idea to ask the people around you!{8300}{8620}{94A7}And of course, I'm always here if you need advice...{8300}{8621}{94A7}Also, don't forget to {8833}save{8800} often!{8300}{8620}{94A7}When you want to save, open the Data Pad and {8833}choose \"Save\" from the System commands{8800}.{8300}{8620}{94A7}Now, off you go!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_061",
@@ -561,7 +562,8 @@
     61
    ],
    "jp": "{8001}{9201}{9400}とゲンじいは家にもどった{8400}{8100}",
-   "en": ""
+   "en": "{8001}{9201}{9400} and Old Gen went back home.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_062",
@@ -569,7 +571,8 @@
     62
    ],
    "jp": "{8002}{8620}{94A7}「ハントグローブは、グランボを{8207}ハントするのにぜったいヒツヨウな{8207}ものなんじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8620}{94A7}The Hunt Glove is absolutely essential for hunting Granbo...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_063",
@@ -577,7 +580,8 @@
     63
    ],
    "jp": "{8001}{8620}{94A7}「ハントと言っても、グランボそのものを{8207}つかまえるわけではないぞ」{8300}{8620}{94A7}「このグローブを使って、{8207}{8833}敵グランボのデータボールをうばう事{8800}を{8207}ハントと言うてな・・・」{8300}{8620}{94A7}「ハントしたデータボールを自分の{8207}メカエッグにはめれば、そのグランボを{8207}使えるようになるというワケじゃ！！」{8300}{8620}{94A7}「それと、グローブをよく見ると{8207}わかると思うんじゃが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8620}{94A7}Mind you, hunting doesn't mean catching the Granbo itself.{8300}{8620}{94A7}Using this glove to {8833}snatch an enemy Granbo's Data Ball{8800} is what we call hunting...{8300}{8620}{94A7}Fit a Data Ball you've hunted into your own Mecha Egg, and you can use that Granbo! That's how it works!!{8300}{8620}{94A7}And if you take a good look at the glove, I think you'll notice...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_064",
@@ -585,7 +589,8 @@
     64
    ],
    "jp": "{8001}{8620}{94A7}「3つのあながあいておるじゃろう？{8207}ここには、手に入れたデータボールを{8207}はめておく事ができる・・・」{8300}{8620}{94A7}「つまり、メカエッグにはめている{8207}データボールいがいに{8833}ヨビのデータボールを{8207}3つまで持てる{8800}と言うわけじゃよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8620}{94A7}See the 3 holes in it? You can fit Data Balls you've gotten into them...{8300}{8620}{94A7}In other words, besides the Data Ball in your Mecha Egg, {8833}you can carry up to 3 spare Data Balls{8800}!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_065",
@@ -593,7 +598,8 @@
     65
    ],
    "jp": "{8002}{8620}{94A7}「どうじゃ、なかなかベンリな{8207}物じゃろう？」{8300}{8620}{94A7}「とはいえ、ハントにはコツがあってな・・・{8207}何もかんがえずに成功するほど{8207}アマくはないんじゃ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8620}{94A7}Well? Pretty handy, eh?{8300}{8620}{94A7}Still, there's a knack to hunting... It's not so easy that you can pull it off without thinking.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_066",
@@ -601,7 +607,8 @@
     66
    ],
    "jp": "{8002}{8620}{94A7}「・・・そうじゃな、ハントの{8207}キホンくらいはワシがおしえて{8207}やれんでもないな・・・」{8300}{8620}{94A7}「よし！ワシについてこい！{8207}ハントのコツをおしえてやろう！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8620}{94A7}...Well now, I suppose I could teach you the basics of hunting, at least...{8300}{8620}{94A7}Right! Follow me! I'll show you the knack of hunting!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_067",
@@ -609,7 +616,8 @@
     67
    ],
    "jp": "{8001}{8613}{9499}「{9400}さん、ゲンゾウさん{8207}本当にありがとうございました」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8613}{9499}{9400}, Mr. Genzo... Thank you so much.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_068",
@@ -617,7 +625,8 @@
     68
    ],
    "jp": "{8002}{8620}{94A7}「ウム、{9400}のがんばりで{8207}{9403}さんも助かったし{8207}つれさられた大人達も帰ってきた・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8620}{94A7}Mm-hm. Thanks to {9400}'s hard work, {9403} was saved, and the adults who were taken have come home...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_069",
@@ -625,7 +634,8 @@
     69
    ],
    "jp": "{8002}{8621}{94A7}「{9403}さんや・・・」{8300}{8621}{94A7}「お前さん、{8207}何か大変なことに{8207}まきこまれておるんじゃろ？」{8300}{8621}{94A7}「あの・・・ぐ、ぐ、ぐりぃしゃ？{8207}とか言う変わった{940A}の事や{8207}スカイシャークの事・・・」{8300}{8621}{94A7}「ワシらにだけでも{8207}話してくれんかのぅ？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8621}{94A7}{9403}...{8300}{8621}{94A7}You've gotten yourself mixed up in something serious, haven't you?{8300}{8621}{94A7}That... G-g-Grishaa? That odd {940A} of yours, and Sky Shark...{8300}{8621}{94A7}Won't you at least tell the two of us about it?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_070",
@@ -633,7 +643,8 @@
     70
    ],
    "jp": "{8002}{8603}{9499}「・・・・・・・・・」{8300}{8603}{9499}「・・・・・・・・・」{8300}{8603}{9499}「・・・・・・ごめんなさい」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}.........{8300}{8603}{9499}.........{8300}{8603}{9499}......I'm sorry.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_071",
@@ -641,7 +652,8 @@
     71
    ],
    "jp": "{8000}{8603}{9499}「本当にごめんなさい・・・」{8300}{8603}{9499}「お2人の事が{8207}信じられないわけでは{8207}ないんです・・・・・・」{8300}{8603}{9499}「ただ、本当の事を言ってしまうと{8207}お2人まであぶない目に・・・・・・」{8300}{8603}{9499}「ごめんなさいっ！さようならっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8603}{9499}I'm truly sorry...{8300}{8603}{9499}It's not that I don't trust you two......{8300}{8603}{9499}It's just that if I told you the truth, you'd both be in danger too......{8300}{8603}{9499}I'm sorry! Goodbye!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_072",
@@ -649,7 +661,8 @@
     72
    ],
    "jp": "{8002}{8621}{94A7}「{9400}っ！！」{8300}{8621}{94A7}「何をボーッとしておるんじゃ！！」{8300}{8621}{94A7}「男ならこまっている女の子を{8207}ほうっておいたらイカンじゃろっ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8621}{94A7}{9400}!!{8300}{8621}{94A7}What are you standing there spacing out for?!{8300}{8621}{94A7}A real man doesn't leave a girl in trouble all on her own!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_073",
@@ -657,7 +670,8 @@
     73
    ],
    "jp": "{8002}{8620}{94A7}「やれやれ・・・」{8300}{8620}{94A7}「あいつもワシににて{8207}ヨウリョウの悪いヤツじゃ・・・」{8300}{8620}{94A7}「ま、ヨウリョウが悪くても{8207}ワシはバアさんとむすばれたがな・・・」{8300}{8620}{94A7}「カッカッカッカッカ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8620}{94A7}Good grief...{8300}{8620}{94A7}That kid's just like me, clumsy with this sort of thing...{8300}{8620}{94A7}Well, clumsy or not, I still won Grandma's heart...{8300}{8620}{94A7}Kakakakaka!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_074",
@@ -665,7 +679,8 @@
     74
    ],
    "jp": "{8001}{9201}{9400}と{9403}は\n大人達とともに町に帰った・・・{8400}{8100}",
-   "en": ""
+   "en": "{8001}{9201}{9400} and {9403} returned to town with the adults...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_075",
@@ -673,7 +688,8 @@
     75
    ],
    "jp": "{8001}{9201}数かげつ後・・・{8400}{8100}",
-   "en": ""
+   "en": "{8001}{9201}A few months later...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_076",
@@ -681,7 +697,8 @@
     76
    ],
    "jp": "{8001}{8620}{94A7}「どうじゃ、シズクさん・・・{8207}もうこの町でのくらしには{8207}なれたかな？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8620}{94A7}Well, Shizuku... Have you gotten used to life in this town?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_077",
@@ -689,7 +706,8 @@
     77
    ],
    "jp": "{8001}{8613}{9499}「ええ、みなさんとてもシンセツに{8207}してくれるので・・・」{8300}{8613}{9499}「みなさんには{8207}本当にカンシャしています」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8613}{9499}Yes, everyone has been so kind to me...{8300}{8613}{9499}I'm truly grateful to all of them.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_078",
@@ -697,7 +715,8 @@
     78
    ],
    "jp": "{8001}{8620}{94A7}「そうか、それは何よりじゃ」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8620}{94A7}I see. Glad to hear it.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_079",
@@ -705,7 +724,8 @@
     79
    ],
    "jp": "{8001}{8603}{9499}「ところでゲンゾウさん・・・{8207}どうしてグリーシャを見つける事が{8207}できたんですか？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8603}{9499}By the way, Mr. Genzo... How were you able to find Grisha?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_080",
@@ -713,7 +733,8 @@
     80
    ],
    "jp": "{8001}{8621}{94A7}「おそらく、ワールドチェンジタワーが{8207}ホウカイしたからじゃと思うが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8621}{94A7}I expect it's because the World Change Tower collapsed...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_081",
@@ -721,7 +742,8 @@
     81
    ],
    "jp": "{8001}{8621}{94A7}「メッセージボードに{8877}ウッディーナ{8800}の{8207}グランドチェンジタワーのようすがおかしい{8207}というレンラクが入ってな・・・」{8300}{8621}{94A7}「それで見に行ったらタワーの前に{8207}ぐりぃしゃがたおれておったと{8207}いうワケじゃ！」{8300}{8620}{94A7}「助けにきたのがワシで{8207}さぞがっかりしたじゃろうな！{8207}カッカッカッカッカッ・・・！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8621}{94A7}Word came in on the Message Board that something was off with the Grand Change Tower in {8877}Woodina{8800}...{8300}{8621}{94A7}So I went to have a look, and there was Grishaa, lying in front of the tower!{8300}{8620}{94A7}Bet you were mighty disappointed it was me who came to the rescue! Kakakakaka...!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_082",
@@ -729,7 +751,8 @@
     82
    ],
    "jp": "{8001}{8613}{9499}「い、いえ・・・そんな事は{8207}ないと思いますが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8613}{9499}N-no... I don't think that's so...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_083",
@@ -737,7 +760,8 @@
     83
    ],
    "jp": "{8001}{8610}{9497}「{9400}！大変、大変よ～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8610}{9497}{9400}! Trouble, big trouble!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_084",
@@ -745,7 +769,8 @@
     84
    ],
    "jp": "{8001}{8602}{9498}「大変なんだな～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}It's big trouble, y'know!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_085",
@@ -753,7 +778,8 @@
     85
    ],
    "jp": "{8001}{8610}{9497}「あ、あいつらが・・・{8207}スカイシャークが・・・！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8610}{9497}Th-those guys... Sky Shark...!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_086",
@@ -761,7 +787,8 @@
     86
    ],
    "jp": "{8001}{8612}{9498}「また動き出したんだな～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8612}{9498}They're on the move again, y'know!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_087",
@@ -769,7 +796,8 @@
     87
    ],
    "jp": "{8001}{8621}{94A7}「なんじゃと！？{8207}ヤツら、まだ世界征服をあきらめて{8207}おらんかったのか？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8621}{94A7}What?! Those scoundrels still haven't given up on conquering the world?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_088",
@@ -777,7 +805,8 @@
     88
    ],
    "jp": "{8001}{8603}{9499}「そ、そんな・・・・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8603}{9499}Th-that can't be......{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_089",
@@ -785,7 +814,8 @@
     89
    ],
    "jp": "{8001}{8601}{9497}「あ・・・ちがう、ちがう！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8601}{9497}Oh... No, no, that's not it!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_090",
@@ -793,7 +823,8 @@
     90
    ],
    "jp": "{8001}{8602}{9498}「ゴカイなんだな～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}It's a misunderstanding, y'know!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_091",
@@ -801,7 +832,8 @@
     91
    ],
    "jp": "{8001}{8621}{94A7}「何がちがうんじゃ？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8621}{94A7}What's not it?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_092",
@@ -809,7 +841,8 @@
     92
    ],
    "jp": "{8001}{8601}{9497}「あいつら、わかれぎわに{8207}『{8833}べつの形で世界一をめざす{8800}』って{8207}言ってたじゃない！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8601}{9497}When they left, they said \"{8833}We'll aim to be the best in the world another way{8800},\" remember?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_093",
@@ -817,7 +850,8 @@
     93
    ],
    "jp": "{8001}{8602}{9498}「そのべつの形って言うのが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}And that other way is...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_094",
@@ -825,7 +859,8 @@
     94
    ],
    "jp": "{8001}{8601}{9497}「{8833}グランボバトル{8800}だったのよ！！」{8300}{8601}{9497}「あいつら・・・今、大会で大あばれ{8207}しているらしいわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8601}{9497}{8833}Granbo battles{8800}!!{8300}{8601}{9497}I hear those guys are running wild in the tournaments right now!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_095",
@@ -833,7 +868,8 @@
     95
    ],
    "jp": "{8001}{8620}{94A7}「何じゃ・・・まぎらわしい・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8620}{94A7}Bah... Don't go confusing an old man like that...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_096",
@@ -841,7 +877,8 @@
     96
    ],
    "jp": "{8001}{8613}{9499}「でも・・・安心しました・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8613}{9499}But... I'm relieved...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_097",
@@ -849,7 +886,8 @@
     97
    ],
    "jp": "{8001}{8601}{9497}「じゃあ、アタシはあいつらの{8207}戦いっぷりを見にいってくるね！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8601}{9497}Well, I'm off to go see how they fight!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_098",
@@ -857,7 +895,8 @@
     98
    ],
    "jp": "{8001}{8602}{9498}「あ、オイラも行くんだな～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}Ah, I'm going too, y'know!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_099",
@@ -865,7 +904,8 @@
     99
    ],
    "jp": "{8001}{8621}{94A7}「どうやら、まだ戦いは終わって{8207}おらんかったようじゃな・・・」{8300}{8621}{94A7}「バトルスタジアムにはお前との戦いを{8207}心まちにしておるヤツらが{8207}おるようじゃ・・・」{8300}{8621}{94A7}「それにきいた話ではワールドチェンジタワー{8207}がシュツゲンしたエイキョウか・・・」{8300}{8621}{94A7}「かく大陸に{8207}{8833}見なれないダンジョンが出てきておる{8800}{8207}そうじゃ！！」{8300}{8620}{94A7}「ふふふ・・・ここまできいてじっとして{8207}いられるお前ではあるまい・・・」{8300}{8620}{94A7}「行くがよい、{9400}！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8621}{94A7}Looks like the fighting isn't over yet after all...{8300}{8621}{94A7}At the Battle Stadium, it seems some folks are eagerly waiting to battle you...{8300}{8621}{94A7}And from what I hear, maybe it's because the World Change Tower appeared...{8300}{8621}{94A7}On every continent, {8833}strange dungeons have been popping up{8800}, they say!!{8300}{8620}{94A7}Heh heh heh... Having heard all that, I know you're not one to sit still...{8300}{8620}{94A7}Off you go, {9400}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1C2E72_100",
@@ -873,7 +913,8 @@
     100
    ],
    "jp": "{8001}{8613}{9499}「私もオウエンしています・・・{8207}がんばって下さいね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8613}{9499}I'm cheering for you too... Good luck!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

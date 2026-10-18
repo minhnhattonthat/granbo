@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}元セイバー「大地がとつぜんかれたかと思ったら{8207}すぐに元にもどったり・・・」{8300}{94C8}元セイバー「グランボセイバーひとすじ50年のワシでも{8207}こんな事はケイケンした事がない！！」{8300}{94C8}元セイバー「一体何がおこっておるんじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「The land suddenly withered, then went right back to normal...{8300}{94C8}Ex-Saver「Even in my 50 years as a Granbo Saver, I've never seen anything like this!!{8300}{94C8}Ex-Saver「What in the world is going on...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D5EC2_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}女の子「{8833}セイバーランク{8800}について{8207}おしえてあげようか？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Want me to tell you about {8833}Saver Ranks{8800}?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D5EC2_002",

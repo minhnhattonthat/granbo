@@ -39,7 +39,7 @@
     3
    ],
    "jp": "{8002}{94C8}店長「キミがウチで手に入れたグランボが{8207}カツヤクしてくれてウチとしても{8207}ハナが高いよ」{8300}{94C8}店長「この{8833}ATアップ中{8800}のワザはサービスだ！{8207}持っていくといいよ！」\n{8D00}",
-   "en": "{8002}{94C8}Manager「The Granbo you got from us has done great things, so we're proud too!{8300}{94C8}Manager「This {8833}AT Up 2{8800} move is on the house! Go ahead and take it! /{8D00}",
+   "en": "{8002}{94C8}Manager「The Granbo you got from us has done great things, so we're proud too!{8300}{94C8}Manager「This {8833}AT Up 2{8800} move is on the house! Go ahead and take it!{8D00}",
    "status": "translated"
   },
   {
@@ -120,7 +120,7 @@
     12
    ],
    "jp": "{8001}{94C8}店長「では・・・まずグランボについて{8207}セツメイしておこうかの？」{9200}\n{8D00}{8100}",
-   "en": "{8001}{94C8}Manager「Now then... shall I explain about Granbo first?{9200} /{8D00}{8100}",
+   "en": "{8001}{94C8}Manager「Now then... shall I explain about Granbo first?{9200}{8D00}{8100}",
    "status": "translated"
   },
   {
@@ -174,7 +174,7 @@
     18
    ],
    "jp": "{8001}{94C8}店長「わかったかの？」{9200}{8207}\n{8D00}{8100}",
-   "en": "{8001}{94C8}Manager「Got all that?{9200}  /{8D00}{8100}",
+   "en": "{8001}{94C8}Manager「Got all that?{9200}{8D00}{8100}",
    "status": "translated"
   },
   {
@@ -354,7 +354,7 @@
     38
    ],
    "jp": "{8002}{94C8}店長「・・・この{940A}で{8207}良いんじゃな？」{9200}\n{8D00}{8100}",
-   "en": "{8002}{94C8}Manager「...So this {940A} is the one?{9200} /{8D00}{8100}",
+   "en": "{8002}{94C8}Manager「...So this {940A} is the one?{9200}{8D00}{8100}",
    "status": "translated"
   },
   {
@@ -399,7 +399,7 @@
     43
    ],
    "jp": "{8002}{94C8}男の子「この店は父ちゃんのかわりに{8207}ボクが守るんだい！！！」{8300}{94C8}男の子「いらっしゃいませ！{8207}どのようなごようけんですか？」\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": "{8002}{94C8}Boy「I'm gonna protect this shop in Dad's place!!{8300}{94C8}Boy「Welcome! How may I help you? {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "en": "{8002}{94C8}Boy「I'm gonna protect this shop in Dad's place!!{8300}{94C8}Boy「Welcome! How may I help you? {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
    "status": "translated"
   },
   {
@@ -408,7 +408,7 @@
     44
    ],
    "jp": "{8002}{94C8}男の子「ほかに何かございますか？」\n\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": "{8002}{94C8}Boy「Is there anything else?  {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "en": "{8002}{94C8}Boy「Is there anything else? {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
    "status": "translated"
   },
   {
@@ -417,7 +417,7 @@
     45
    ],
    "jp": "{8002}{94C8}てんいん「いらっしゃいませ！{8207}どのようなごようけんですか？」\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": "{8002}{94C8}Clerk「Welcome! How may I help you? {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "en": "{8002}{94C8}Clerk「Welcome! How may I help you? {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
    "status": "translated"
   },
   {
@@ -426,7 +426,7 @@
     46
    ],
    "jp": "{8002}{94C8}てんいん「ほかに何かございますか？」\n\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": "{8002}{94C8}Clerk「Is there anything else?  {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "en": "{8002}{94C8}Clerk「Is there anything else? {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
    "status": "translated"
   },
   {

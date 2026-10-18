@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}少女セイバー「私とグランボで勝負しない？{8207}あなたが勝ったら{8833}HP回復中{8800}のワザを{8207}あげるわよ！」{8300}{94C8}少女セイバー「あなたがスカイシャークと{8207}戦えるのかどうかたしかめてあげるわ！」{8300}{94C8}少女セイバー「アタシに勝てないようじゃ、アイツらには{8207}勝てないからね・・・どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Wanna have a Granbo battle with me? If you win, I'll give you the move {8833}HP Heal 2{8800}!{8300}{94C8}Gal Saver「I'll see whether you're really ready to fight Sky Shark!{8300}{94C8}Gal Saver「If you can't beat me, you'll never beat them... So, what'll it be?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}少女セイバー「すごいわ・・・{8207}あなたなら本当にスカイシャークに{8207}勝てるかも・・・」{8300}{94C8}少女セイバー「ヤクソクどおり{8207}{8833}HP回復中{8800}のワザをあげるわ！！」{8300}{94C8}少女セイバー「データパッドをひらいて{8207}『アイテム』のコマンドから{8207}『ワザをがくしゅうします』をえらべば」{8300}{94C8}少女セイバー「あなたのグランボに{8833}このワザを{8207}おぼえさせる事ができる{8800}わよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Amazing... You really might beat Sky Shark...{8300}{94C8}Gal Saver「As promised, here's the move {8833}HP Heal 2{8800}!!{8300}{94C8}Gal Saver「Open your Data Pad and choose \"Learn Move\" from the \"Item\" command,{8300}{94C8}Gal Saver「and you can {8833}teach this move to your Granbo{8800}!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}少女セイバー「そんなんじゃスカイシャークには{8207}勝てないわよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「You'll never beat Sky Shark like that!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}少女セイバー「あら、戦わないの？{8207}じゃあ、スカイシャークとの戦いも{8207}あきらめた方がいいわね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Oh, you won't fight? Then you'd better give up on fighting Sky Shark too!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}少女セイバー「またいつか勝負しましょう！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Let's battle again sometime!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}おじいさん「そこのわかいの、ワシの{8877}オーム{8800}を{8207}{8877}ウキウッキ{8800}とコウカンしてくれんかの？」{8300}{94C8}おじいさん「コウカンしてくれたら、おぬしのグランボを{8207}回復してやるがどうするのじゃ？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Hey there, youngster, how about taking my {8877}Polly{8800} in trade for an {8877}Ookook{8800}?{8300}{94C8}Old Man「If you trade with me, I'll heal your Granbo. What do you say?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}おじいさん「ありがたやっ！{8207}それではコウカンじゃっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Bless you! Let's trade, then!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}おじいさん「ムネンじゃ・・・{8207}気が変わったら、また話しかけてくれい！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「What a pity... If you change your mind, come talk to me again!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}おじいさん「ありがたや、ありがたや・・・{8207}{8877}ウキウッキ{8800}は最高じゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Bless you, bless you... {8877}Ookook{8800} is the best...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}おじいさん「{8877}ウキウッキ{8800}を{8207}持っておらんのか・・・」{8300}{94C8}おじいさん「{8877}ウキウッキ{8800}を手に入れたら{8207}また話しかけてくれい！！」{8300}{94C8}おじいさん「ワシの{8877}オーム{8800}と{8207}コウカンしてやるでな」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「You don't have an {8877}Ookook{8800}...{8300}{94C8}Old Man「Once you get an {8877}Ookook{8800}, come talk to me again!!{8300}{94C8}Old Man「I'll trade you my {8877}Polly{8800} for it.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}男の子「え？池の水がなくなって{8207}その中にビルが？」{8300}{94C8}男の子「ボクらはそういうフシギな事が{8207}おこった時は・・・」{8300}{94C8}男の子「そこの青い家にいる{8207}物知りじいさんに話をきく事に{8207}しているんだ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「What? The pond's water vanished and there's a building inside it?{8300}{94C8}Boy「Whenever something strange like that happens, we...{8300}{94C8}Boy「go ask the wise old man in the blue house over there!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}おじいさん「おのれ、スカイシャーク！！{8207}こんな小さな町までおそうとは！！」{8300}{94C8}おじいさん「ヤツらめ、大人をのこらず{8207}つれさってしまいおった・・・！」{8300}{94C8}おじいさん「だんじてゆるしがたい！{8207}このワシが成敗してくれる！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Curse you, Sky Shark!! Attacking even a small town like this!!{8300}{94C8}Old Man「Those scoundrels carried off every last grown-up...!{8300}{94C8}Old Man「Absolutely unforgivable! I'll punish them myself!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{860F}{94A5}「ここのショップ・・・{8207}やたら{8833}ハントフード{8800}のしなぞろえがいいな」{8300}{860F}{94A5}「あんだけありゃあ{8207}ハントも楽にできそうだ・・・」{8300}{860F}{94A5}「いっその事、おれの物に{8207}・・・って、そんな事したらキャプテンに{8207}おこられちまうか！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}This shop... has a crazy good selection of {8833}Hunt Food{8800}.{8300}{860F}{94A5}With that much, hunting'd be a breeze...{8300}{860F}{94A5}Maybe I should just take it all for myself... Nah, if I did that, the Captain would chew me out!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{860F}{94A5}「ううう・・・{8207}西の町の見はりがイヤだって言ったら・・・」{8300}{861F}{94A5}「もっと小さいこの町の見はりに{8207}させられてしまった・・・！！」{8300}{861F}{94A5}「よけいな事は言うものじゃないな・・・{8207}ううううう・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Ugh... I said I didn't want to stand guard over the town to the west...{8300}{861F}{94A5}and they made me guard this even smaller town instead...!!{8300}{861F}{94A5}Guess you shouldn't say more than you need to... Uuuuugh...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94C8}少年セイバー「{8833}メカエッグ{8800}はほしくない？{8207}ほしかったらボクと勝負してよ！！」{8300}{94C8}少年セイバー「女の子をとりもどすためにスカイシャークと{8207}戦ってるってきいたよ・・・ボクも何らかの{8207}形でキミにキョウリョクしたいんだ！」{8300}{94C8}少年セイバー「それでメカエッグをあげようと{8207}思うんだけど、その前にキミのジツリョクを{8207}たしかめさせてほしいんだよ」{8300}{94C8}少年セイバー「ボクに勝てば{8833}メカエッグ{8800}をあげるよ！{8207}・・・さぁ、どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Don't you want a {8833}Mecha Egg{8800}? If you do, battle me!!{8300}{94C8}Kid Saver「I heard you're fighting Sky Shark to get a girl back... I want to help you out somehow too!{8300}{94C8}Kid Saver「So I'm thinking of giving you a Mecha Egg, but first, let me see how strong you really are.{8300}{94C8}Kid Saver「Beat me and the {8833}Mecha Egg{8800} is yours! ...So, what'll it be?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{94C8}少年セイバー「さすがだね・・・{8207}じゃあ、ヤクソクどおり{8207}{8833}メカエッグ{8800}をあげるよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Impressive... Okay, as promised, here's the {8833}Mecha Egg{8800}.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{94C8}少年セイバー「ザンネンだったね・・・{8207}もうちょっと力をつけてから{8207}また話しかけてよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Too bad... Get a little stronger, then come talk to me again.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{94C8}少年セイバー「なんだ・・・がっかりだよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「What... that's disappointing.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{94C8}少年セイバー「キミなら必ず{8207}スカイシャークに勝てるよ！」{8300}{94C8}少年セイバー「がんばってね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「I know you can beat Sky Shark!{8300}{94C8}Kid Saver「Good luck!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{94C8}少女セイバー「私とグランボで勝負しない？{8207}あなたが勝ったら{8833}HP回復中{8800}のワザを{8207}あげるわよ！」{8300}{94C8}少女セイバー「あなたがスカイシャークと{8207}戦えるのかどうかたしかめてあげるわ！」{8300}{94C8}少女セイバー「アタシに勝てないようじゃ、アイツらには{8207}勝てないからね・・・どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Wanna have a Granbo battle with me? If you win, I'll give you the move {8833}HP Heal 2{8800}!{8300}{94C8}Gal Saver「I'll see whether you're really ready to fight Sky Shark!{8300}{94C8}Gal Saver「If you can't beat me, you'll never beat them... So, what'll it be?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8002}{94C8}少女セイバー「すごいわ・・・{8207}あなたなら本当にスカイシャークに{8207}勝てるかも・・・」{8300}{94C8}少女セイバー「ヤクソクどおり{8207}{8833}HP回復中{8800}のワザをあげるわ！！」{8300}{94C8}少女セイバー「データパッドをひらけば{8207}あなたのグランボに{8833}このワザを{8207}おぼえさせる事ができる{8800}わよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Amazing... You really might beat Sky Shark...{8300}{94C8}Gal Saver「As promised, here's the move {8833}HP Heal 2{8800}!!{8300}{94C8}Gal Saver「Open your Data Pad and you can {8833}teach this move to your Granbo{8800}!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8002}{94C8}少女セイバー「そんなんじゃスカイシャークには{8207}勝てないわよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「You'll never beat Sky Shark like that!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8002}{94C8}少女セイバー「あら、戦わないの？{8207}じゃあ、スカイシャークとの戦いも{8207}あきらめた方がいいわね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Oh, you won't fight? Then you'd better give up on fighting Sky Shark too!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8002}{94C8}少女セイバー「またいつか勝負しましょう！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Let's battle again sometime!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8002}{94C8}おじいさん「そこのわかいの、ワシの{8877}オーム{8800}を{8207}{8877}ウキウッキ{8800}とコウカンしてくれんかの？」{8300}{94C8}おじいさん「コウカンしてくれたら、おぬしのグランボを{8207}回復してやるがどうするのじゃ？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Hey there, youngster, how about taking my {8877}Polly{8800} in trade for an {8877}Ookook{8800}?{8300}{94C8}Old Man「If you trade with me, I'll heal your Granbo. What do you say?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8002}{94C8}おじいさん「ありがたやっ！{8207}それではコウカンじゃっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Bless you! Let's trade, then!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_026",
@@ -220,7 +246,8 @@
     26
    ],
    "jp": "{8002}{94C8}おじいさん「ムネンじゃ・・・{8207}気が変わったら、また話しかけてくれい！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「What a pity... If you change your mind, come talk to me again!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_027",
@@ -228,7 +255,8 @@
     27
    ],
    "jp": "{8002}{94C8}おじいさん「ありがたや、ありがたや・・・{8207}{8877}ウキウッキ{8800}は最高じゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Bless you, bless you... {8877}Ookook{8800} is the best...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_028",
@@ -236,7 +264,8 @@
     28
    ],
    "jp": "{8002}{94C8}おじいさん「{8877}ウキウッキ{8800}を{8207}持っておらんのか・・・」{8300}{94C8}おじいさん「{8877}ウキウッキ{8800}を手に入れたら{8207}また話しかけてくれい！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「You don't have an {8877}Ookook{8800}...{8300}{94C8}Old Man「Once you get an {8877}Ookook{8800}, come talk to me again!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_029",
@@ -244,7 +273,8 @@
     29
    ],
    "jp": "{8002}{94C8}子ども「キミが大陸をカイゾウしたの？」{8300}{94C8}子ども「ふ～ん、そう・・・{8207}あ、ところで大陸のカイゾウって{8207}正しくはなんて言うんだっけ？」{8300}{94C8}子ども「ねぇ、おしえてよ！」{9200}{8207}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid「Did you remodel the continent?{8300}{94C8}Kid「Hmm, I see... Oh, by the way, what's the proper name for remodeling a continent again?{8300}{94C8}Kid「Come on, will you tell me?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_030",
@@ -252,7 +282,8 @@
     30
    ],
    "jp": "{8002}{94C8}子ども「え？{8833}グランドチェンジ{8800}？{8207}・・・うん、おぼえたぞっ！{8207}これで友達にジマンできるよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid「Huh? {8833}Grand Change{8800}? ...Okay, got it! Now I can brag to my friends!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_031",
@@ -260,7 +291,8 @@
     31
    ],
    "jp": "{8002}{94C8}子ども「ええ～っ！！{8207}おしえてくれないのぉ！？」{8300}{94C8}子ども「・・・いいよ、ボクが勝手に決めるから！{8207}大陸のカイゾウだから・・・」{8300}{94C8}子ども「タカゾウ！・・・って言うのはどうかな？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid「Whaaat?! You won't tell me?!{8300}{94C8}Kid「...Fine, I'll just make one up myself! It's remodeling a continent, so...{8300}{94C8}Kid「Conrad Model! ...How does that sound?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_032",
@@ -268,7 +300,8 @@
     32
    ],
    "jp": "{8002}{94C8}おじいさん「なんと！おぬしがスカイシャークを{8207}この大陸からおい出したのか！」{8300}{94C8}おじいさん「う～む・・・おぬし、しょうらいは{8207}そうとうな大物になりそうじゃのう・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「My word! You drove Sky Shark off this continent?!{8300}{94C8}Old Man「Hmmm... you look set to become quite a big shot someday...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_033",
@@ -276,7 +309,8 @@
     33
    ],
    "jp": "{8002}{94C8}ダイゴロウ父「何？私のムスコが{8207}君達の町に助けをよびに行った？」{8300}{94C8}ダイゴロウ父「そうか・・・{8207}あいつも成長しておったんだな！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Dad「What? My son went to your town to call for help?{8300}{94C8}Dad「I see... So he's grown up too!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_034",
@@ -284,7 +318,8 @@
     34
    ],
    "jp": "{8002}{94C8}ダイゴロウ母「ダイゴロウ・・・{8207}どこに行ったのかしら・・・？」{8300}{94C8}ダイゴロウ母「せっかくほめてあげようと{8207}思ったのに・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Mom「Daigoro... Where could he have gone...?{8300}{94C8}Mom「And here I was, all ready to praise him...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_035",
@@ -292,7 +327,8 @@
     35
    ],
    "jp": "{8002}{94C8}少年セイバー「{8833}メカエッグ{8800}はほしくない？{8207}ほしかったらボクと勝負してよ！！」{8300}{94C8}少年セイバー「女の子をとりもどすためにスカイシャークと{8207}戦ってるってきいたよ・・・ボクも何らかの{8207}形でキミにキョウリョクしたいんだ！」{8300}{94C8}少年セイバー「それでメカエッグをあげようと{8207}思うんだけど、その前にキミのジツリョクを{8207}たしかめさせてほしいんだよ」{8300}{94C8}少年セイバー「ボクに勝てば{8833}メカエッグ{8800}をあげるよ！{8207}・・・さぁ、どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Don't you want a {8833}Mecha Egg{8800}? If you do, battle me!!{8300}{94C8}Kid Saver「I heard you're fighting Sky Shark to get a girl back... I want to help you out somehow too!{8300}{94C8}Kid Saver「So I'm thinking of giving you a Mecha Egg, but first, let me see how strong you really are.{8300}{94C8}Kid Saver「Beat me and the {8833}Mecha Egg{8800} is yours! ...So, what'll it be?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_036",
@@ -300,7 +336,8 @@
     36
    ],
    "jp": "{8002}{94C8}少年セイバー「さすがだね・・・{8207}じゃあ、ヤクソクどおり{8207}{8833}メカエッグ{8800}をあげるよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Impressive... Okay, as promised, here's the {8833}Mecha Egg{8800}.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_037",
@@ -308,7 +345,8 @@
     37
    ],
    "jp": "{8002}{94C8}少年セイバー「ザンネンだったね・・・{8207}もうちょっと力をつけてから{8207}また話しかけてよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Too bad... Get a little stronger, then come talk to me again.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_038",
@@ -316,7 +354,8 @@
     38
    ],
    "jp": "{8002}{94C8}少年セイバー「なんだ・・・がっかりだよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「What... that's disappointing.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_039",
@@ -324,7 +363,8 @@
     39
    ],
    "jp": "{8002}{94C8}少年セイバー「キミなら必ず{8207}スカイシャークに勝てるよ！」{8300}{94C8}少年セイバー「がんばってね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「I know you can beat Sky Shark!{8300}{94C8}Kid Saver「Good luck!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_040",
@@ -332,7 +372,8 @@
     40
    ],
    "jp": "{8002}{9201}にっくきスカイシャークの{9406}だ！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's that hateful Sky Shark {9406}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_041",
@@ -340,7 +381,8 @@
     41
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_042",
@@ -348,7 +390,8 @@
     42
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_043",
@@ -356,7 +399,8 @@
     43
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_044",
@@ -364,7 +408,8 @@
     44
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_045",
@@ -372,7 +417,8 @@
     45
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_046",
@@ -380,7 +426,8 @@
     46
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_047",
@@ -388,7 +435,8 @@
     47
    ],
    "jp": "{8002}{94C8}少女セイバー「私とグランボで勝負しない？{8207}あなたが勝ったら{8833}HP回復中{8800}のワザを{8207}あげるわよ！」{8300}{94C8}少女セイバー「あなたがスカイシャークと{8207}戦えるのかどうかたしかめてあげるわ！」{8300}{94C8}少女セイバー「アタシに勝てないようじゃ、アイツらには{8207}勝てないからね・・・どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Wanna have a Granbo battle with me? If you win, I'll give you the move {8833}HP Heal 2{8800}!{8300}{94C8}Gal Saver「I'll see whether you're really ready to fight Sky Shark!{8300}{94C8}Gal Saver「If you can't beat me, you'll never beat them... So, what'll it be?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_048",
@@ -396,7 +444,8 @@
     48
    ],
    "jp": "{8002}{94C8}少女セイバー「すごいわ・・・{8207}あなたなら本当にスカイシャークに{8207}勝てるかも・・・」{8300}{94C8}少女セイバー「ヤクソクどおり{8207}{8833}HP回復中{8800}のワザをあげるわ！！」{8300}{94C8}少女セイバー「データパッドをひらいて{8207}『{8833}アイテム{8800}』のコマンドから{8207}『{8833}ワザをがくしゅうします{8800}』をえらべば」{8300}{94C8}少女セイバー「あなたのグランボに{8833}このワザを{8207}おぼえさせる事ができる{8800}わよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Amazing... You really might be able to beat Sky Shark...{8300}{94C8}Gal Saver「Just as I promised, I'll give you the {8833}HP Heal 2{8800} move!!{8300}{94C8}Gal Saver「Open your Data Pad, and from the \"{8833}Item{8800}\" command, choose \"{8833}Learn Move{8800}\"...{8300}{94C8}Gal Saver「and you can {8833}teach this move to your Granbo{8800}!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_049",
@@ -404,7 +453,8 @@
     49
    ],
    "jp": "{8002}{94C8}少女セイバー「そんなんじゃスカイシャークには{8207}勝てないわよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「You'll never beat Sky Shark like that!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_050",
@@ -412,7 +462,8 @@
     50
    ],
    "jp": "{8002}{94C8}少女セイバー「あら、戦わないの？{8207}じゃあ、スカイシャークとの戦いも{8207}あきらめた方がいいわね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Oh, you won't fight? Then you'd better give up on fighting Sky Shark too!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_051",
@@ -420,7 +471,8 @@
     51
    ],
    "jp": "{8002}{94C8}少女セイバー「またいつか勝負しましょう！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Let's battle again sometime!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_052",
@@ -428,7 +480,8 @@
     52
    ],
    "jp": "{8002}{94C8}少年セイバー「{8833}メカエッグ{8800}はほしくない？{8207}ほしかったらボクと勝負してよ！！」{8300}{94C8}少年セイバー「・・・ボクも何らかの形で{8207}キミにキョウリョクしたいんだ！」{8300}{94C8}少年セイバー「それでメカエッグをあげようと{8207}思うんだけど、その前にキミのジツリョクを{8207}たしかめさせてほしいんだよ」{8300}{94C8}少年セイバー「ボクに勝てば{8833}メカエッグ{8800}をあげるよ！{8207}・・・さぁ、どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Don't you want a {8833}Mecha Egg{8800}? If you do, battle me!!{8300}{94C8}Kid Saver「...I want to help you out somehow too!{8300}{94C8}Kid Saver「So I thought I'd give you a Mecha Egg, but first, let me see how strong you really are.{8300}{94C8}Kid Saver「Beat me and I'll give you a {8833}Mecha Egg{8800}! ...So, what'll it be?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_053",
@@ -436,7 +489,8 @@
     53
    ],
    "jp": "{8002}{94C8}少年セイバー「さすがだね・・・{8207}じゃあ、ヤクソクどおり{8207}{8833}メカエッグ{8800}をあげるよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Just as I thought... Then, just as I promised, here's a {8833}Mecha Egg{8800}.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_054",
@@ -444,7 +498,8 @@
     54
    ],
    "jp": "{8002}{94C8}少年セイバー「ザンネンだったね・・・{8207}もうちょっと力をつけてから{8207}また話しかけてよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Too bad... Get a little stronger, then talk to me again.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_055",
@@ -452,7 +507,8 @@
     55
    ],
    "jp": "{8002}{94C8}少年セイバー「なんだ・・・がっかりだよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「What... How disappointing.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_056",
@@ -460,7 +516,8 @@
     56
    ],
    "jp": "{8002}{94C8}少年セイバー「キミなら必ず{8207}スカイシャークに勝てるよ！」{8300}{94C8}少年セイバー「がんばってね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「I know you can beat Sky Shark!{8300}{94C8}Kid Saver「Good luck!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_057",
@@ -468,7 +525,8 @@
     57
    ],
    "jp": "{8002}{94C8}おじいさん「そこのわかいの、ワシの{8877}オーム{8800}を{8207}{8877}ウキウッキ{8800}とコウカンしてくれんかの？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「You there, young one! Would you trade your {8877}Ookook{8800} for my {8877}Polly{8800}?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_058",
@@ -476,7 +534,8 @@
     58
    ],
    "jp": "{8002}{94C8}おじいさん「ありがたやっ！{8207}それではコウカンじゃっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Bless you! Then let's trade!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_059",
@@ -484,7 +543,8 @@
     59
    ],
    "jp": "{8002}{94C8}おじいさん「ムネンじゃ・・・{8207}気が変わったら、また話しかけてくれい！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「What a shame... If you change your mind, come talk to me again!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_060",
@@ -492,7 +552,8 @@
     60
    ],
    "jp": "{8002}{94C8}おじいさん「ありがたや、ありがたや・・・{8207}{8877}ウキウッキ{8800}は最高じゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Bless you, bless you... {8877}Ookook{8800} is the best...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_061",
@@ -500,7 +561,8 @@
     61
    ],
    "jp": "{8002}{94C8}おじいさん「{8877}ウキウッキ{8800}を{8207}持っておらんのか・・・」{8300}{94C8}おじいさん「{8877}ウキウッキ{8800}を手に入れたら{8207}また話しかけてくれい！！」{8300}{94C8}おじいさん「ワシの{8877}オーム{8800}と{8207}コウカンしてやるでな」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「You don't have an {8877}Ookook{8800}, eh...{8300}{94C8}Old Man「When you get your hands on an {8877}Ookook{8800}, come talk to me again!!{8300}{94C8}Old Man「I'll trade you my {8877}Polly{8800} for it.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_062",
@@ -508,7 +570,8 @@
     62
    ],
    "jp": "{8002}{94C8}おじいさん「ありがたい・・・{8207}おれいにグランボも回復してやろう！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Much obliged... As thanks, I'll heal your Granbo too!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_063",
@@ -516,7 +579,8 @@
     63
    ],
    "jp": "{8002}{94C8}おじいさん「そこのわかいの、ワシの{8877}オーム{8800}を{8207}{8877}ウキウッキ{8800}とコウカンしてくれんかの？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「You there, young one! Would you trade your {8877}Ookook{8800} for my {8877}Polly{8800}?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_064",
@@ -524,7 +588,8 @@
     64
    ],
    "jp": "{8002}{94C8}おじいさん「ありがたやっ！{8207}それではコウカンじゃっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Bless you! Then let's trade!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_065",
@@ -532,7 +597,8 @@
     65
    ],
    "jp": "{8002}{94C8}おじいさん「ムネンじゃ・・・{8207}気が変わったら、また話しかけてくれい！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「What a shame... If you change your mind, come talk to me again!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_066",
@@ -540,7 +606,8 @@
     66
    ],
    "jp": "{8002}{94C8}おじいさん「ありがたや、ありがたや・・・{8207}{8877}ウキウッキ{8800}は最高じゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Bless you, bless you... {8877}Ookook{8800} is the best...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_067",
@@ -548,7 +615,8 @@
     67
    ],
    "jp": "{8002}{94C8}おじいさん「{8877}ウキウッキ{8800}を{8207}持っておらんのか・・・」{8300}{94C8}おじいさん「{8877}ウキウッキ{8800}を手に入れたら{8207}また話しかけてくれい！！」{8300}{94C8}おじいさん「ワシの{8877}オーム{8800}と{8207}コウカンしてやるでな」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「You don't have an {8877}Ookook{8800}, eh...{8300}{94C8}Old Man「When you get your hands on an {8877}Ookook{8800}, come talk to me again!!{8300}{94C8}Old Man「I'll trade you my {8877}Polly{8800} for it.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_068",
@@ -556,7 +624,8 @@
     68
    ],
    "jp": "{8002}{94C8}おじいさん「ありがたい・・・{8207}おれいにグランボも回復してやろう！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Much obliged... As thanks, I'll heal your Granbo too!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_069",
@@ -564,7 +633,8 @@
     69
    ],
    "jp": "{8002}{94C8}少女セイバー「{9400}君はもう行った？」{8300}{94C8}少女セイバー「何の事かって？{8207}{8833}すなはまのまん中{8800}にとつぜんあらわれた{8207}ダンジョンの事よ！」{8300}{94C8}少女セイバー「もっともあのダンジョン{8207}{8833}外が暗い時しか出てこない{8800}らしいけどね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「{9400}, have you been there yet?{8300}{94C8}Gal Saver「Been where, you ask? The dungeon that suddenly appeared {8833}in the middle of the beach{8800}!{8300}{94C8}Gal Saver「Though they say that dungeon {8833}only shows up when it's dark out{8800}.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_070",
@@ -572,7 +642,8 @@
     70
    ],
    "jp": "{8002}{94C8}子ども「ワールドチェンジタワーか・・・」{8300}{94C8}子ども「昔の人の方が今の人よりスゴイ物を{8207}作っていたなんて・・・{8207}なんだか、フシギだね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid「The World Change Tower, huh...{8300}{94C8}Kid「To think people long ago built more amazing things than people today... It's kind of strange!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_071",
@@ -580,7 +651,8 @@
     71
    ],
    "jp": "{8002}{94C8}おじいさん「おヌシがスカイシャークを{8207}この大陸からおい出した時{8207}ワシにはもうわかっておった・・・！」{8300}{94C8}おじいさん「・・おヌシはきっと{8207}ものすごい大物になるとな！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「When you drove Sky Shark off this continent, I already knew...!{8300}{94C8}Old Man「...that you were bound to become a really big shot!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_072",
@@ -588,7 +660,8 @@
     72
    ],
    "jp": "{8002}{94C8}ダイゴロウ父「私のムスコが最後まで{8207}君のボウケンについていく事が{8207}できたとは・・・」{8300}{94C8}ダイゴロウ父「ムスコの本当の力を見ぬけなかった{8207}自分がなさけない！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Dad「To think my son managed to stick with you on your adventure to the very end...{8300}{94C8}Dad「I'm ashamed I couldn't see my own son's true strength!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_073",
@@ -596,7 +669,8 @@
     73
    ],
    "jp": "{8002}{94C8}ダイゴロウ母「ダイゴロウはどこかって？{8207}今はバトルスタジアムにいるよ」{8300}{94C8}ダイゴロウ母「あの子があんな大会に出るなんて{8207}少し前までかんがえられなかったのに・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Mom「Where's Daigoro, you ask? He's at the Battle Stadium right now.{8300}{94C8}Mom「Him entering a tournament like that... Not long ago I couldn't have imagined it...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_074",
@@ -604,7 +678,8 @@
     74
    ],
    "jp": "{8002}{94C8}少年セイバー「{9400}君はもう行ったかい？」{8300}{94C8}少年セイバー「何の事かって？{8207}{8833}すなはまのまん中{8800}にとつぜんあらわれた{8207}ダンジョンの事だよ！」{8300}{94C8}少年セイバー「もっともあのダンジョン{8207}{8833}外が暗い時しか出てこない{8800}らしいけどね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「{9400}, have you been there yet?{8300}{94C8}Kid Saver「Been where, you ask? The dungeon that suddenly appeared {8833}in the middle of the beach{8800}!{8300}{94C8}Kid Saver「Though they say that dungeon {8833}only shows up when it's dark out{8800}.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_075",
@@ -612,7 +687,8 @@
     75
    ],
    "jp": "{8002}{94C8}おじいさん「そこのわかいの、ワシの{8833}ガン強{8800}のワザを{8207}{8855}ゴーダー{8800}とコウカンしてくれんかの？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「You there, young one! Would you trade your {8855}Goder{8800} for my {8833}Gun 3{8800} move?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_076",
@@ -620,7 +696,8 @@
     76
    ],
    "jp": "{8002}{94C8}おじいさん「ありがたやっ！{8207}それではコウカンしようぞっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Bless you! Then let's make the trade!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_077",
@@ -628,7 +705,8 @@
     77
    ],
    "jp": "{8002}{94C8}おじいさん「ムネンじゃ・・・{8207}気が変わったら、また話しかけてくれい！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「What a shame... If you change your mind, come talk to me again!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_078",
@@ -636,7 +714,8 @@
     78
    ],
    "jp": "{8002}{94C8}おじいさん「やっぱりこれからは{8207}{8855}ゴーダー{8800}のジダイじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Just as I thought, from now on it's the age of the {8855}Goder{8800}...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_079",
@@ -644,7 +723,8 @@
     79
    ],
    "jp": "{8002}{94C8}おじいさん「{8855}ゴーダー{8800}は{8207}持っておらんか・・・」{8300}{94C8}おじいさん「{8855}ゴーダー{8800}を手に入れたら{8207}また話しかけてくれい！！」{8300}{94C8}おじいさん「ワシの{8833}ガン強{8800}のワザと{8207}コウカンしてやるでな」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「You don't have a {8855}Goder{8800}, eh...{8300}{94C8}Old Man「When you get your hands on a {8855}Goder{8800}, come talk to me again!!{8300}{94C8}Old Man「I'll trade you my {8833}Gun 3{8800} move for it.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_080",
@@ -652,7 +732,8 @@
     80
    ],
    "jp": "{8002}{94C8}おじいさん「ありがたい・・・{8207}おれいにグランボも回復してやろう！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Much obliged... As thanks, I'll heal your Granbo too!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_081",
@@ -660,7 +741,8 @@
     81
    ],
    "jp": "{8002}{94C8}ダイゴロウ父「私のムスコが最後まで{8207}君のボウケンについていく事が{8207}できたとは・・・」{8300}{94C8}ダイゴロウ父「ムスコの本当の力を見ぬけなかった{8207}自分がなさけない！！」{8300}{94C8}ダイゴロウ父「何はともあれ{9400}君には{8207}カンシャのことばもないよ」{8300}{94C8}ダイゴロウ父「これはせめてものおれいだ！{8207}{8877}マキリーガ{8800}を持っていってくれ」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Dad「To think my son managed to stick with you on your adventure to the very end...{8300}{94C8}Dad「I'm ashamed I couldn't see my own son's true strength!!{8300}{94C8}Dad「In any case, {9400}, I can't thank you enough.{8300}{94C8}Dad「Please, take this as a small token of thanks! Take {8877}Makiriga{8800} with you.{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_082",
@@ -668,7 +750,8 @@
     82
    ],
    "jp": "{8002}{94C8}ダイゴロウ父「それでは、わたそう{8207}ハントにうまく使ってくれよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Dad「Here you go, then. Put it to good use when you hunt!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_083",
@@ -676,7 +759,8 @@
     83
    ],
    "jp": "{8002}{94C8}ダイゴロウ父「え・・・いらない？{8207}そ、そうか・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Dad「Eh... You don't want it? I-I see...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_084",
@@ -684,7 +768,8 @@
     84
    ],
    "jp": "{8002}{94C8}ダイゴロウ父「これからもダイゴロウの事{8207}よろしくたのむよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Dad「Please keep looking out for Daigoro.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_085",
@@ -692,7 +777,8 @@
     85
    ],
    "jp": "{8002}{94C8}少年セイバー「{8833}メカエッグ{8800}はほしくない？{8207}ほしかったらボクと勝負してよ！！」{8300}{94C8}少年セイバー「・・・それにしても、よく今までそんな{8207}少しのメカエッグでがんばったね！」{8300}{94C8}少年セイバー「そうとうのウデ前じゃないと{8207}こうは行かないよ・・・だからこそ{8207}ボクはキミと勝負したいんだ！」{8300}{94C8}少年セイバー「ボクに勝てば{8833}メカエッグ{8800}をあげるよ！{8207}・・・さぁ、どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Don't you want a {8833}Mecha Egg{8800}? If you do, battle me!!{8300}{94C8}Kid Saver「...Still, you did well to get this far with so few Mecha Eggs!{8300}{94C8}Kid Saver「You'd need some serious skill to pull that off... and that's exactly why I want to battle you!{8300}{94C8}Kid Saver「Beat me and I'll give you a {8833}Mecha Egg{8800}! ...So, what'll it be?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_086",
@@ -700,7 +786,8 @@
     86
    ],
    "jp": "{8002}{94C8}少年セイバー「すごいや・・・{8207}じゃあ、ヤクソクどおり{8207}{8833}メカエッグ{8800}をあげるよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Amazing... Then, just as I promised, here's a {8833}Mecha Egg{8800}.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_087",
@@ -708,7 +795,8 @@
     87
    ],
    "jp": "{8002}{94C8}少年セイバー「う～ん・・・{8207}今までキミが無事だったのは{8207}たんなるグウゼンかもね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Hmm... Maybe you only made it this far safely by pure luck...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_088",
@@ -716,7 +804,8 @@
     88
    ],
    "jp": "{8002}{94C8}少年セイバー「そう・・・ざんねんだよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「I see... That's too bad.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_089",
@@ -724,7 +813,8 @@
     89
    ],
    "jp": "{8002}{94C8}少年セイバー「キミなら必ず{8207}世界一のグランボセイバーになれるよ！」{8300}{94C8}少年セイバー「がんばってね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「I know you can become the world's best Granbo Saver!{8300}{94C8}Kid Saver「Good luck!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_090",
@@ -732,7 +822,8 @@
     90
    ],
    "jp": "{8002}    {9300}{9201}{8833}新しいメカエッグ{8800}を手にいれた\n{8900}{9200}    {9300}{9201}{8855}バズメッカ{8800}のデータボールがセットされているぞ！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9300}{9201}You got a {8833}new Mecha Egg{8800}! {8900}{9200} {9300}{9201}It has the {8855}Buzzmecha{8800} Data Ball set in it!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_091",
@@ -740,7 +831,8 @@
     91
    ],
    "jp": "{8002}{8602}{9498}「あっ、{9400}くん～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Ah, {9400}~!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_092",
@@ -748,7 +840,8 @@
     92
    ],
    "jp": "{8002}{8602}{9498}「オイラ、{9400}くんのやくに立ちたくて{8207}{8833}グランボのしんか{8800}について{8207}ベンキョウしたんだ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}I wanted to be useful to you, {9400}, so I studied up on {8833}Granbo evolution{8800}, y'know!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D27E0_093",
@@ -756,7 +849,8 @@
     93
    ],
    "jp": "{8002}{8602}{9498}「オイラについてきて！{8207}しんかのやり方をおしえてあげるよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Follow me! I'll show you how evolution works!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

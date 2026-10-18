@@ -50,7 +50,8 @@ def assemble(jp, en_body):
     out = []
     for jp_page, en_page in zip(jp_pages, en_pages):
         h, _, tail = parts(jp_page)
-        body = en_page.replace(" / ", " ").strip()
+        body = re.sub(r"(^|\s)/(?=\s|$)", " ", en_page).strip()  # " / " line marks, also trailing " /"
+        body = re.sub(r"  +", " ", body)
         # a name code ending the header ({9403}: running text, not a speaker) needs a space before the English
         if re.search(r"\{94([0-8][0-9A-F]|9[0-5])\}$", h) and body[:1].isalnum():
             body = " " + body

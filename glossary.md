@@ -101,6 +101,23 @@ Options and reasons for each ruling: `docs/decisions.md`.
 | ヒヨッコ / カケダシ / シロウト / クロウト / ミツボシ / ベテラン / マスター / スーパー / ウルトラ / キング / ゴッド セイバー | Chick / Rookie / Amateur / Pro / Three-Star / Veteran / Master / Super / Ultra / King / God Saver | | Saver ranks | |
 | グランボバトル | Granbo battle | | | |
 
+## Granbo species (from the game's data records; binding - romanised, lightly adapted)
+ピヨリカ Piyorika / ヨーダッチ Yodatch / ローバッファ Robuffa / ラ・ゴーリ La Gori / ファントレー Fantray /
+クスーフェ Kusufe / タマジャン Tamajan / チョトッツ Chototz / ガッチン Gatchin / ゴーダー Goder / ゴウアン Gouan /
+ジキーガ Jikiga / グレスブトム Gresbutom / メッサー Messer / ホットブログ Hotbrog / ウォームー Warmoo /
+ウキウッキ Ookook / オーム Polly (parrot pun on オウム) / タヌボン Tanubon / レディー Lady / イグール Igul / フォング Fong / ガルキック Garkick /
+ガーダバーゲ Gardabage / ペンペン Penpen / ハリボン Haribon / フォックル Foxle / マキリーター Makiriter / ヴァイア Vaia /
+ラ・グーゲン La Gugen / ホッパー Hopper / ワルッサ Warussa / ブロウド Broud / ウドメッカ Udomecha / ガーサス Garsus /
+ダイル Dyle / バージス Burgis / ウパロン Uparon / ワルオン Waruon / ワルックル Warukkle / モゴモグ Mogomog / ガルオー Garoh /
+ピカリ Pikari / マッグ・ゴウ Mag Gou / メガッチン Megatchin / メガニワン Meganiwan / ラフィ Raffy / ドランパ Drampa /
+デメッキ Demekki / カラクロー Karaclaw / ラ・ハイド La Hide / ワルボン Warubon / メザバーン Mezabarn / ムーガイオ Mugaio /
+ガデム Gadem / マナズー Manazoo / ラック Rack / クラゲルン Kurageln / ガザリ Gazari / シランガー Shiranger /
+ル・ベルケス Le Berkes / レシオス Resios / アビラ Abila / ギロザウラン Girozauran / ムームー Mumu / メガ Mega /
+コロコラン Korokoran / ガニガブ Ganigab / ククージャ Kukuja / ラトプ Ratop / トカトビーゲ Tokatobige / チッピー Chippy /
+ミーゼン Meesen / ラミーゴ Ramigo / テゴザ Tegoza / ダパンパ Dapampa / イウッチ Iutch / ヒョーグ Hyog / ミーゼット Meesette /
+ザイドン Zaidon / カモダック Kamoduck / バイエン Baien / テラドン Teradon / ガメーダ Gameda.
+Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is a species).
+
 ## Decisions from earlier batches
 - Move tiers 弱/中/強 -> 1/2/3 after the name: ウイルスボム中 -> Virus Bomb 2, ATアップ中 -> AT Up 2, ほえる強 -> Roar 3
   (b001/b003 used M/Mid; fixed before merge).
@@ -113,8 +130,17 @@ Options and reasons for each ruling: `docs/decisions.md`.
   アイテムロッカー -> Item Locker; ノラグランボ -> stray Granbo; セイバー本部 -> Saver HQ; グランボショップ -> Granbo Shop;
   データボールシステム -> Data Ball System; チョトッツ -> Headlong Rush; ウイルスミサイル -> Virus Missile;
   じゅうじボタン -> +Control Pad; 買う/売る/やめる -> Buy / Sell / Quit.
-- People: カリブさま -> Lord Caribbean (Sky Shark top boss, sea name); {9409}さま from grunts -> Boss {9409};
+- People: キャプテン・カリブ -> Captain Caribbean (Sky Shark top boss, sea name; the {9406} "Captain" slot);
+  カリブさま -> Lord Caribbean; メッセージボード -> Message Board; システムコマンド -> System commands;
+  ワザをがくしゅうします -> Learn Move; HP回復小/中/大 -> HP Heal 1/2/3; ガン弱/中/強 -> Gun 1/2/3;
+  HPカプセル -> HP Capsule; ハントフード -> Hunt Food; メカやさい -> Mecha Veggies; ポチマル -> Pochimaru (pet); {9409}さま from grunts -> Boss {9409};
   かんぶ -> boss; ゲンゾウさん from polite speakers -> Mr. Genzo (allowed: natural English politeness, not an
   honorific suffix); Beardy's ばみうだ -> "Bermooda".
+- Elements 火/水/木/光/闇 -> Fire / Water / Wood / Light / Dark (capitalised). Battle commands コウゲキ / ワザ /
+  アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
+  translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
+  Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- Numbers: digits for game values (HP, prices, counts of items); small counts in plain speech may be spelled out
+  ("the two machines").
 - Grazie (グラッチェ) says ミー/ユー: flamboyant faux-foreign speech -> "moi" for ミー, "you" stays; light flourish
   ("Magnifico!"), never mocking.

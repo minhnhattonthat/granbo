@@ -60,7 +60,8 @@
     6
    ],
    "jp": "{8002}{8618}{949E}「こんなボウヤに負けるなんて・・・」{8300}{8619}{949E}「この事がカリブさまに知れたら{8207}私のシンライはガタおちだわ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8618}{949E}Losing to a little boy like this...{8300}{8619}{949E}If Lord Caribbean hears about this, my standing will plummet...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFE9C_007",
@@ -68,7 +69,8 @@
     7
    ],
    "jp": "{8002}{8618}{949E}「ちょっと、あなた！」{8300}{8618}{949E}「私のグランボをかりて戦っておきながら{8207}こんなボウヤに負けるとはどーいう事！？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8618}{949E}Hey, you!{8300}{8618}{949E}You borrowed my Granbo to fight, and then you lost to a little boy like this?! What is the meaning of this?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFE9C_008",
@@ -76,7 +78,8 @@
     8
    ],
    "jp": "{8002}{861F}{94A5}「は？今戦ったのはエーゲさまでは・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Huh? But wasn't it you who just fought, Boss Aegean...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFE9C_009",
@@ -84,7 +87,8 @@
     9
    ],
    "jp": "{8002}{8618}{949E}「何を言っているの？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8618}{949E}What are you talking about?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFE9C_010",
@@ -92,7 +96,8 @@
     10
    ],
    "jp": "{8002}{8608}{949E}「あなたも見たわよね？{8207}コイツがこのボウヤに負ける所を！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8608}{949E}You saw it too, didn't you? This one losing to the little boy!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFE9C_011",
@@ -100,7 +105,8 @@
     11
    ],
    "jp": "{8002}{861F}{94A5}「えっ、ええ・・・{8207}見ました、見ましたとも！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Uh, y-yes... I saw it, I sure did!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFE9C_012",
@@ -108,7 +114,8 @@
     12
    ],
    "jp": "{8002}{861F}{94A5}「てっ、てめえっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Wh-why, you!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFE9C_013",
@@ -116,7 +123,8 @@
     13
    ],
    "jp": "{8002}{8618}{949E}「あなたはバツとして{8207}スカイシップのそうじとうばんに{8207}ニンメイするわっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8618}{949E}As punishment, I hereby appoint you to Skyship cleaning duty!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFE9C_014",
@@ -124,7 +132,8 @@
     14
    ],
    "jp": "{8002}{861F}{94A5}「ガーン・・・・・・{8207}ひ、ひどい・・・ひどすぎる・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Gah...... Th-that's cruel... way too cruel...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFE9C_015",
@@ -132,7 +141,8 @@
     15
    ],
    "jp": "{8002}{8608}{949E}「ボウヤ、今日の所は{8207}見逃しておいてあげるわ・・・」{8300}{8618}{949E}「でも、こんど私の前にスガタを{8207}あらわしたら、その時こそ私がアイテを{8207}してあげるから、カクゴなさい！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8608}{949E}Little boy, I'll let you off for today...{8300}{8618}{949E}But the next time you show your face before me, I'll take you on myself, so be prepared!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1CFE9C_016",
@@ -140,7 +150,8 @@
     16
    ],
    "jp": "{8002}{8608}{949E}「行くわよっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8608}{949E}We're leaving!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

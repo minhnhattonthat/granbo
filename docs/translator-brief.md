@@ -46,7 +46,8 @@ two in game; that is fine and not reported).
   『』 -> "..." around a quoted phrase or title; drop 「」. Stretched cries keep their stretch ("Noooo!").
 - Katakana in Japanese dialogue often just marks emphasis or a hard word (ユダン, シンパイ, ヒツヨウ): translate the
   meaning, don't treat it as a name.
-- Numbers as digits. Granbo is its own plural ("three Granbo").
+- Digits for game values (HP, prices, item counts); small counts in plain speech may be spelled out. Granbo is
+  its own plural ("three Granbo").
 - Voices (more in the style reference): Old Gen - gruff, folksy old man ("Bah!", "Kakakaka!"); Shizuku - polite,
   gentle, reserved; Akari - bossy, energetic girl; Daigoro - slow, easygoing big guy ("...y'know!" for ～なんだな);
   Sky Shark bosses - Bermuda is coldly polite and sarcastic; grunts say "Aye aye, sir!".

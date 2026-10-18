@@ -51,8 +51,19 @@ end }
 S.menu = { desc = "field menu, top list (B in the field)", run = function(W)
   W.new_game(); W.warp(1, 0, 400, 300, 0); W.menu_open()
 end }
-S.menu_skills = { desc = "menu > Granbo > ワザ (skills)", run = function(W)
+S.menu_skills = { desc = "menu > Granbo > ワザ > ピヨリカ: skill list with description", run = function(W)
   W.new_game(); W.warp(1, 0, 400, 300, 0); W.menu_pick(0, 0)
+  W.mash_until(function() return W.r8(0x020260CA) == 1 end, "a", "skill list", 40)
+end }
+S.menu_status = { desc = "menu > Granbo > 強さ > ピヨリカ: Granbo status page", run = function(W)
+  W.new_game(); W.warp(1, 0, 400, 300, 0); W.menu_pick(0, 2)
+  W.mash_until(function() return W.r8(0x02026044) == 1 end, "a", "status page", 40)
+end }
+S.menu_card = { desc = "menu > ジョウホウ > player card (name, ID, rank, record, play time)", run = function(W)
+  W.new_game(); W.warp(1, 0, 400, 300, 0); W.menu_pick(2, 2)
+end }
+S.menu_options = { desc = "menu > システム > options (sound, music, text speed)", run = function(W)
+  W.new_game(); W.warp(1, 0, 400, 300, 0); W.menu_pick(3, 2)
 end }
 S.menu_items = { desc = "menu > アイテム > first item screen", run = function(W)
   W.new_game(); W.warp(1, 0, 400, 300, 0); W.menu_pick(1, 0)
@@ -62,6 +73,13 @@ S.menu_map = { desc = "menu > ジョウホウ > マップ (area map)", run = fun
 end }
 S.menu_save = { desc = "menu > システム > セーブ (save confirm)", run = function(W)
   W.new_game(); W.warp(1, 0, 400, 300, 0); W.menu_pick(3, 0)
+end }
+
+S.ending = { desc = "ending event in the town plaza (map 1/10, debug name ENDING), first dialogue page",
+  run = function(W)
+  W.new_game()
+  W.warp(1, 10, 0, 0, 0)
+  W.msg_page("ending dialogue")
 end }
 
 -- Any map: --var "SCENE='map'" --var MAP=1 --var VAR=0 [--var X=400 --var Y=300 --var DIR=0]
@@ -77,5 +95,6 @@ end }
 
 -- Opt-in cheats (warp.lua calls these every frame in game when --var GOD=true / NOENC=true)
 function S.noenc(W) W.w16(W.A.enc, 0) end
+function S.god(W) W.w16(W.A.hp, W.r16(W.A.hp + 2)) end  -- first party Granbo only (others' slots unknown)
 
 return S

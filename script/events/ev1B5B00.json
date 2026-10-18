@@ -669,7 +669,7 @@
     73
    ],
    "jp": "{8002}{94C8}少年セイバー「ボクと勝負してよ！{8207}キミが勝ったら{8833}ブトム{8800}をあげるよ！」{8300}{94C8}少年セイバー「あ、べつにキミが世界をすくった事を{8207}うたがってるわけじゃないよ！」{8300}{94C8}少年セイバー「世界をすくったキミと戦う事で自分の力を{8207}たしかめたいんだ！さぁ、どうする？」\n{8D00}",
-   "en": "{8002}{94C8}Kid Saver「Battle me! If you win, I'll give you {8833}Butom{8800}!{8300}{94C8}Kid Saver「Oh, it's not that I doubt you saved the world or anything!{8300}{94C8}Kid Saver「I just want to test my own strength by fighting the one who saved the world! So, what do you say? /{8D00}",
+   "en": "{8002}{94C8}Kid Saver「Battle me! If you win, I'll give you {8833}Butom{8800}!{8300}{94C8}Kid Saver「Oh, it's not that I doubt you saved the world or anything!{8300}{94C8}Kid Saver「I just want to test my own strength by fighting the one who saved the world! So, what do you say?{8D00}",
    "status": "translated"
   },
   {
@@ -804,7 +804,7 @@
     88
    ],
    "jp": "{8002}{94C8}ヒゲじい「おヌシが・・・『ばみうだ』を{8207}たおして世界をすくったのか！」{8300}{94C8}ヒゲじい「ワシが思ったとおり・・・」{8300}{94C8}ヒゲじい「おヌシ・・・ついにゲンじいを{8207}こえるでんせつを作り出したのう」{8300}{94C8}ヒゲじい「ワシからのほうびじゃ！{8207}この{8833}ほえる強{8800}のワザを持っていくがいい！」\n{8D00}",
-   "en": "{8002}{94C8}Beardy「So you're the one who beat... \"Bermooda\" and saved the world!{8300}{94C8}Beardy「Just as I thought...{8300}{94C8}Beardy「You... have finally made a legend greater than Old Gen's.{8300}{94C8}Beardy「Here's a reward from me! Take this {8833}Roar 3{8800} move with you! /{8D00}",
+   "en": "{8002}{94C8}Beardy「So you're the one who beat... \"Bermooda\" and saved the world!{8300}{94C8}Beardy「Just as I thought...{8300}{94C8}Beardy「You... have finally made a legend greater than Old Gen's.{8300}{94C8}Beardy「Here's a reward from me! Take this {8833}Roar 3{8800} move with you!{8D00}",
    "status": "translated"
   },
   {
@@ -993,7 +993,7 @@
     109
    ],
    "jp": "{8001}{8602}{9498}「じゃ、じゃあキミがみんなを{8207}助けだしてくれるんだね～？」{9200}\n{8D00}{8100}",
-   "en": "{8001}{8602}{9498}S-So you're gonna rescue everybody for us?{9200} /{8D00}{8100}",
+   "en": "{8001}{8602}{9498}S-So you're gonna rescue everybody for us?{9200}{8D00}{8100}",
    "status": "translated"
   },
   {
@@ -1038,7 +1038,7 @@
     114
    ],
    "jp": "{8001}{8612}{9498}「オイラもできるかぎり{8207}キョウリョクするからさ～」{8300}{8612}{9498}「だから、おねがいだよ～」{9200}\n\n{8D00}{8100}",
-   "en": "{8001}{8612}{9498}I'll help out as much as I can...{8300}{8612}{9498}So won't you please help us?{9200} /{8D00}{8100}",
+   "en": "{8001}{8612}{9498}I'll help out as much as I can...{8300}{8612}{9498}So won't you please help us?{9200}{8D00}{8100}",
    "status": "translated"
   },
   {
@@ -1074,7 +1074,7 @@
     118
    ],
    "jp": "{8002}{8603}{9499}「私の力になってくれるのは{8207}とてもうれしいんですが・・・」{8300}{8603}{9499}「私といっしょにいたら{8207}{9400}さんの身にも{8207}何がおきるかわかりません・・・」{8300}{8603}{9499}「どんなおそろしい目にあってもいいと{8207}言うんですか？」{9200}\n{8D00}{8100}",
-   "en": "{8002}{8603}{9499}I'm very glad you want to help me, but...{8300}{8603}{9499}If you stay with me, there's no telling what might happen to you, {9400}...{8300}{8603}{9499}Are you saying you don't mind, no matter how frightening things get?{9200} /{8D00}{8100}",
+   "en": "{8002}{8603}{9499}I'm very glad you want to help me, but...{8300}{8603}{9499}If you stay with me, there's no telling what might happen to you, {9400}...{8300}{8603}{9499}Are you saying you don't mind, no matter how frightening things get?{9200}{8D00}{8100}",
    "status": "translated"
   },
   {
@@ -1083,7 +1083,7 @@
     119
    ],
    "jp": "{8002}{8603}{9499}「2度とゲンゾウさんに{8207}会えなくなるかも知れないんですよ？」{8300}{8603}{9499}「スカイシャークはもっとおそろしい事を{8207}してくるかも知れないんですよ？」{8300}{8603}{9499}「命にかかわるかも知れないんですよ？」{8300}{8603}{9499}「それでも・・・・・・{8207}いいんですか？」{9200}\n{8D00}{8100}",
-   "en": "{8002}{8603}{9499}You might never see Mr. Genzo again.{8300}{8603}{9499}Sky Shark might do something even more frightening.{8300}{8603}{9499}It could even cost you your life.{8300}{8603}{9499}Even so...... are you sure?{9200} /{8D00}{8100}",
+   "en": "{8002}{8603}{9499}You might never see Mr. Genzo again.{8300}{8603}{9499}Sky Shark might do something even more frightening.{8300}{8603}{9499}It could even cost you your life.{8300}{8603}{9499}Even so...... are you sure?{9200}{8D00}{8100}",
    "status": "translated"
   },
   {

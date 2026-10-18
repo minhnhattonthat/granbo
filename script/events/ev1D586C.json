@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}女の子「アタシのポチマルちゃんのために{8207}HPカプセルを買いまくるわっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I'm gonna buy tons of HP Capsules for my little Pochimaru!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D586C_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94A0}「ワウーンッ！」{8207}（HPカプセルだけじゃダメだワン！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Awooo! (HP Capsules alone won't cut it, woof!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D586C_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}こども「自分でやってみて{8207}てんいんっておもったより{8207}大変な事がわかったんだ」{8300}{94C8}こども「父ちゃんが前より{8207}でっかく見えるよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid「Trying it myself, I found out being a shop clerk is way harder than I thought.{8300}{94C8}Kid「Dad looks even bigger to me than before...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D586C_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}女の子「HPカプセルだけじゃダメね・・・{8207}いろんなアイテムをバランスよく{8207}持って行かないと後でくろうするわ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「HP Capsules alone won't do... You have to bring a good balance of all kinds of items, or you'll be sorry later...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D586C_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94A0}「ワウ・・・」{8207}（今ごろ気づいてくれたワン・・・）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Woof... (You only just noticed, woof...){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D586C_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}こども「あれから少しずつ{8207}てんいんのシュギョウを{8207}続けているんだ」{8300}{94C8}こども「少しでも父ちゃんに{8207}近づきたいからね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid「Since then I've been training as a clerk, little by little.{8300}{94C8}Kid「'Cause I want to get even a little closer to Dad!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D586C_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}女の子「この店で色んなハントフードを{8207}買いこんでアタシのポチマルちゃんに{8207}プレゼントするの！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I'm gonna stock up on all kinds of Hunt Food at this shop and give it to my little Pochimaru!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D586C_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94A0}「ワウウ・・・」{8207}（メカやさいはいらないワン・・・）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Awoo... (I don't want Mecha Veggies, woof...){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D586C_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}ワーク00のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 00 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D586C_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}ワーク01のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D586C_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D586C_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D586C_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}ワーク04のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D586C_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D586C_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}ワーク06のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D586C_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{94C8}こども「父ちゃんが帰ってくるまで{8207}ここはボクが守らなきゃ・・・」{8300}{94C8}こども「いらっしゃいませ！{8207}どのようなごようけんですか？」{9200}\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid「Until Dad gets back, I've gotta protect this place...{8300}{94C8}Kid「Welcome! How may I help you?{9200} {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D586C_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{94C8}こども「ほかに何かございますか？」\n\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid「Is there anything else? {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D586C_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{94C8}てんいん「いらっしゃいませ！{8207}どのようなごようけんですか？」{9200}\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Clerk「Welcome! How may I help you?{9200} {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D586C_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{94C8}てんいん「ほかに何かございますか？」\n\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Clerk「Is there anything else? {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   }
  ]
 }
