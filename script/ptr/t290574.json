@@ -5399,7 +5399,8 @@
     "0x290e10"
    ],
    "jp": "味方全体のパラメータを全て上げる",
-   "en": ""
+   "en": "Raises all stats of all allies",
+   "status": "translated"
   },
   {
    "id": "s27DC4C",
@@ -5408,7 +5409,8 @@
     "0x290e14"
    ],
    "jp": "ゼンタイのパラメータを  すべてあげる",
-   "en": ""
+   "en": "Raises every stat of all allies",
+   "status": "translated"
   },
   {
    "id": "s27DC74",
@@ -5417,7 +5419,8 @@
     "0x290e18"
    ],
    "jp": "全ALLアップ中",
-   "en": ""
+   "en": "Team ALL Up 2",
+   "status": "translated"
   },
   {
    "id": "s27DC86",
@@ -5426,7 +5429,8 @@
     "0x290e1c"
    ],
    "jp": "味方全体のパラメータを全て上げる",
-   "en": ""
+   "en": "Raises all stats of all allies",
+   "status": "translated"
   },
   {
    "id": "s27DCA8",
@@ -5435,7 +5439,8 @@
     "0x290e20"
    ],
    "jp": "ゼンタイのパラメータを  すべてあげる",
-   "en": ""
+   "en": "Raises every stat of all allies",
+   "status": "translated"
   },
   {
    "id": "s27DCD0",
@@ -5444,7 +5449,8 @@
     "0x290e24"
    ],
    "jp": "全ALLアップ強",
-   "en": ""
+   "en": "Team ALL Up 3",
+   "status": "translated"
   },
   {
    "id": "s27DCE2",
@@ -5453,7 +5459,8 @@
     "0x290e28"
    ],
    "jp": "味方全体のパラメータを全て上げる",
-   "en": ""
+   "en": "Raises all stats of all allies",
+   "status": "translated"
   },
   {
    "id": "s27DD04",
@@ -5462,7 +5469,8 @@
     "0x290e2c"
    ],
    "jp": "ゼンタイのパラメータを  すべてあげる",
-   "en": ""
+   "en": "Raises every stat of all allies",
+   "status": "translated"
   },
   {
    "id": "s27DD2C",
@@ -5471,7 +5479,8 @@
     "0x290e30"
    ],
    "jp": "ATダウン弱",
-   "en": ""
+   "en": "AT Down 1",
+   "status": "translated"
   },
   {
    "id": "s27DD3A",
@@ -5480,7 +5489,8 @@
     "0x290e34"
    ],
    "jp": "敵1体をATダウンにする",
-   "en": ""
+   "en": "Lowers 1 foe's AT",
+   "status": "translated"
   },
   {
    "id": "s27DD54",
@@ -5489,7 +5499,8 @@
     "0x290e38"
    ],
    "jp": "てきのATをさげる",
-   "en": ""
+   "en": "Lowers foe's AT",
+   "status": "translated"
   },
   {
    "id": "s27DD68",
@@ -5498,7 +5509,8 @@
     "0x290e3c"
    ],
    "jp": "ATダウン中",
-   "en": ""
+   "en": "AT Down 2",
+   "status": "translated"
   },
   {
    "id": "s27DD76",
@@ -5507,7 +5519,8 @@
     "0x290e40"
    ],
    "jp": "敵1体をATダウンにする",
-   "en": ""
+   "en": "Lowers 1 foe's AT",
+   "status": "translated"
   },
   {
    "id": "s27DD90",
@@ -5516,7 +5529,8 @@
     "0x290e44"
    ],
    "jp": "てきのATをさげる",
-   "en": ""
+   "en": "Lowers foe's AT",
+   "status": "translated"
   },
   {
    "id": "s27DDA4",
@@ -5525,7 +5539,8 @@
     "0x290e48"
    ],
    "jp": "ATダウン強",
-   "en": ""
+   "en": "AT Down 3",
+   "status": "translated"
   },
   {
    "id": "s27DDB2",
@@ -5534,7 +5549,8 @@
     "0x290e4c"
    ],
    "jp": "敵1体をATダウンにする",
-   "en": ""
+   "en": "Lowers 1 foe's AT",
+   "status": "translated"
   },
   {
    "id": "s27DDCC",
@@ -5543,7 +5559,8 @@
     "0x290e50"
    ],
    "jp": "てきのATをさげる",
-   "en": ""
+   "en": "Lowers foe's AT",
+   "status": "translated"
   },
   {
    "id": "s27DDE0",
@@ -5552,7 +5569,8 @@
     "0x290e54"
    ],
    "jp": "DFダウン弱",
-   "en": ""
+   "en": "DF Down 1",
+   "status": "translated"
   },
   {
    "id": "s27DDEE",
@@ -5561,7 +5579,8 @@
     "0x290e58"
    ],
    "jp": "敵1体をDFダウンにする",
-   "en": ""
+   "en": "Lowers 1 foe's DF",
+   "status": "translated"
   },
   {
    "id": "s27DE08",
@@ -5570,7 +5589,8 @@
     "0x290e5c"
    ],
    "jp": "てきのDFをさげる",
-   "en": ""
+   "en": "Lowers foe's DF",
+   "status": "translated"
   },
   {
    "id": "s27DE1C",
@@ -5579,7 +5599,8 @@
     "0x290e60"
    ],
    "jp": "DFダウン中",
-   "en": ""
+   "en": "DF Down 2",
+   "status": "translated"
   },
   {
    "id": "s27DE2A",
@@ -5588,7 +5609,8 @@
     "0x290e64"
    ],
    "jp": "敵1体をDFダウンにする",
-   "en": ""
+   "en": "Lowers 1 foe's DF",
+   "status": "translated"
   },
   {
    "id": "s27DE44",
@@ -5597,7 +5619,8 @@
     "0x290e68"
    ],
    "jp": "てきのDFをさげる",
-   "en": ""
+   "en": "Lowers foe's DF",
+   "status": "translated"
   },
   {
    "id": "s27DE58",
@@ -5606,7 +5629,8 @@
     "0x290e6c"
    ],
    "jp": "DFダウン強",
-   "en": ""
+   "en": "DF Down 3",
+   "status": "translated"
   },
   {
    "id": "s27DE66",
@@ -5615,7 +5639,8 @@
     "0x290e70"
    ],
    "jp": "敵1体をDFダウンにする",
-   "en": ""
+   "en": "Lowers 1 foe's DF",
+   "status": "translated"
   },
   {
    "id": "s27DE80",
@@ -5624,7 +5649,8 @@
     "0x290e74"
    ],
    "jp": "てきのDFをさげる",
-   "en": ""
+   "en": "Lowers foe's DF",
+   "status": "translated"
   },
   {
    "id": "s27DE94",
@@ -5633,7 +5659,8 @@
     "0x290e78"
    ],
    "jp": "SPダウン弱",
-   "en": ""
+   "en": "SP Down 1",
+   "status": "translated"
   },
   {
    "id": "s27DEA2",
@@ -5642,7 +5669,8 @@
     "0x290e7c"
    ],
    "jp": "敵1体をSPダウンにする",
-   "en": ""
+   "en": "Lowers 1 foe's SP",
+   "status": "translated"
   },
   {
    "id": "s27DEBC",
@@ -5651,7 +5679,8 @@
     "0x290e80"
    ],
    "jp": "てきのSPをさげる",
-   "en": ""
+   "en": "Lowers foe's SP",
+   "status": "translated"
   },
   {
    "id": "s27DED0",
@@ -5660,7 +5689,8 @@
     "0x290e84"
    ],
    "jp": "SPダウン中",
-   "en": ""
+   "en": "SP Down 2",
+   "status": "translated"
   },
   {
    "id": "s27DEDE",
@@ -5669,7 +5699,8 @@
     "0x290e88"
    ],
    "jp": "敵1体をSPダウンにする",
-   "en": ""
+   "en": "Lowers 1 foe's SP",
+   "status": "translated"
   },
   {
    "id": "s27DEF8",
@@ -5678,7 +5709,8 @@
     "0x290e8c"
    ],
    "jp": "てきのSPをさげる",
-   "en": ""
+   "en": "Lowers foe's SP",
+   "status": "translated"
   },
   {
    "id": "s27DF0C",
@@ -5687,7 +5719,8 @@
     "0x290e90"
    ],
    "jp": "SPダウン強",
-   "en": ""
+   "en": "SP Down 3",
+   "status": "translated"
   },
   {
    "id": "s27DF1A",
@@ -5696,7 +5729,8 @@
     "0x290e94"
    ],
    "jp": "敵1体をSPダウンにする",
-   "en": ""
+   "en": "Lowers 1 foe's SP",
+   "status": "translated"
   },
   {
    "id": "s27DF34",
@@ -5705,7 +5739,8 @@
     "0x290e98"
    ],
    "jp": "てきのSPをさげる",
-   "en": ""
+   "en": "Lowers foe's SP",
+   "status": "translated"
   },
   {
    "id": "s27DF48",
@@ -5714,7 +5749,8 @@
     "0x290e9c"
    ],
    "jp": "ALLダウン弱",
-   "en": ""
+   "en": "ALL Down 1",
+   "status": "translated"
   },
   {
    "id": "s27DF58",
@@ -5723,7 +5759,8 @@
     "0x290ea0"
    ],
    "jp": "敵1体をALLダウンにする",
-   "en": ""
+   "en": "Lowers all stats of 1 foe",
+   "status": "translated"
   },
   {
    "id": "s27DF74",
@@ -5732,7 +5769,8 @@
     "0x290ea4"
    ],
    "jp": "てきのパラメータを    すべてさげる",
-   "en": ""
+   "en": "Lowers foe's stats    all at once",
+   "status": "translated"
   },
   {
    "id": "s27DF9C",
@@ -5741,7 +5779,8 @@
     "0x290ea8"
    ],
    "jp": "ALLダウン中",
-   "en": ""
+   "en": "ALL Down 2",
+   "status": "translated"
   },
   {
    "id": "s27DFAC",
@@ -5750,7 +5789,8 @@
     "0x290eac"
    ],
    "jp": "敵1体をALLダウンにする",
-   "en": ""
+   "en": "Lowers all stats of 1 foe",
+   "status": "translated"
   },
   {
    "id": "s27DFC8",
@@ -5759,7 +5799,8 @@
     "0x290eb0"
    ],
    "jp": "てきのパラメータを    すべてさげる",
-   "en": ""
+   "en": "Lowers foe's stats    all at once",
+   "status": "translated"
   },
   {
    "id": "s27DFF0",
@@ -5768,7 +5809,8 @@
     "0x290eb4"
    ],
    "jp": "ALLダウン強",
-   "en": ""
+   "en": "ALL Down 3",
+   "status": "translated"
   },
   {
    "id": "s27E000",
@@ -5777,7 +5819,8 @@
     "0x290eb8"
    ],
    "jp": "敵1体をALLダウンにする",
-   "en": ""
+   "en": "Lowers all stats of 1 foe",
+   "status": "translated"
   },
   {
    "id": "s27E01C",
@@ -5786,7 +5829,8 @@
     "0x290ebc"
    ],
    "jp": "てきのパラメータを    すべてさげる",
-   "en": ""
+   "en": "Lowers foe's stats    all at once",
+   "status": "translated"
   },
   {
    "id": "s27E044",
@@ -5795,7 +5839,8 @@
     "0x290ec0"
    ],
    "jp": "全ATダウン弱",
-   "en": ""
+   "en": "Team AT Down 1",
+   "status": "translated"
   },
   {
    "id": "s27E054",
@@ -5804,7 +5849,8 @@
     "0x290ec4"
    ],
    "jp": "敵全体をATダウンにする",
-   "en": ""
+   "en": "Lowers all foes' AT",
+   "status": "translated"
   },
   {
    "id": "s27E06E",
@@ -5813,7 +5859,8 @@
     "0x290ec8"
    ],
    "jp": "てきぜんたいのATをさげる",
-   "en": ""
+   "en": "Lowers AT of all foes",
+   "status": "translated"
   },
   {
    "id": "s27E08A",
@@ -5822,7 +5869,8 @@
     "0x290ecc"
    ],
    "jp": "全ATダウン中",
-   "en": ""
+   "en": "Team AT Down 2",
+   "status": "translated"
   },
   {
    "id": "s27E09A",
@@ -5831,7 +5879,8 @@
     "0x290ed0"
    ],
    "jp": "敵全体をATダウンにする",
-   "en": ""
+   "en": "Lowers all foes' AT",
+   "status": "translated"
   },
   {
    "id": "s27E0B4",
@@ -5840,7 +5889,8 @@
     "0x290ed4"
    ],
    "jp": "てきぜんたいのATをさげる",
-   "en": ""
+   "en": "Lowers AT of all foes",
+   "status": "translated"
   },
   {
    "id": "s27E0D0",
@@ -5849,7 +5899,8 @@
     "0x290ed8"
    ],
    "jp": "全ATダウン強",
-   "en": ""
+   "en": "Team AT Down 3",
+   "status": "translated"
   },
   {
    "id": "s27E0E0",
@@ -5858,7 +5909,8 @@
     "0x290edc"
    ],
    "jp": "敵全体をATダウンにする",
-   "en": ""
+   "en": "Lowers all foes' AT",
+   "status": "translated"
   },
   {
    "id": "s27E0FA",
@@ -5867,7 +5919,8 @@
     "0x290ee0"
    ],
    "jp": "てきぜんたいのATをさげる",
-   "en": ""
+   "en": "Lowers AT of all foes",
+   "status": "translated"
   },
   {
    "id": "s27E116",
@@ -5876,7 +5929,8 @@
     "0x290ee4"
    ],
    "jp": "全DFダウン弱",
-   "en": ""
+   "en": "Team DF Down 1",
+   "status": "translated"
   },
   {
    "id": "s27E126",
@@ -5885,7 +5939,8 @@
     "0x290ee8"
    ],
    "jp": "敵全体をDFダウンにする",
-   "en": ""
+   "en": "Lowers all foes' DF",
+   "status": "translated"
   },
   {
    "id": "s27E140",
@@ -5894,7 +5949,8 @@
     "0x290eec"
    ],
    "jp": "てきぜんたいのDFをさげる",
-   "en": ""
+   "en": "Lowers DF of all foes",
+   "status": "translated"
   },
   {
    "id": "s27E15C",
@@ -5903,7 +5959,8 @@
     "0x290ef0"
    ],
    "jp": "全DFダウン中",
-   "en": ""
+   "en": "Team DF Down 2",
+   "status": "translated"
   },
   {
    "id": "s27E16C",
@@ -5912,7 +5969,8 @@
     "0x290ef4"
    ],
    "jp": "敵全体をDFダウンにする",
-   "en": ""
+   "en": "Lowers all foes' DF",
+   "status": "translated"
   },
   {
    "id": "s27E186",
@@ -5921,7 +5979,8 @@
     "0x290ef8"
    ],
    "jp": "てきぜんたいのDFをさげる",
-   "en": ""
+   "en": "Lowers DF of all foes",
+   "status": "translated"
   },
   {
    "id": "s27E1A2",
@@ -5930,7 +5989,8 @@
     "0x290efc"
    ],
    "jp": "全DFダウン強",
-   "en": ""
+   "en": "Team DF Down 3",
+   "status": "translated"
   },
   {
    "id": "s27E1B2",
@@ -5939,7 +5999,8 @@
     "0x290f00"
    ],
    "jp": "敵全体をDFダウンにする",
-   "en": ""
+   "en": "Lowers all foes' DF",
+   "status": "translated"
   },
   {
    "id": "s27E1CC",
@@ -5948,7 +6009,8 @@
     "0x290f04"
    ],
    "jp": "てきぜんたいのDFをさげる",
-   "en": ""
+   "en": "Lowers DF of all foes",
+   "status": "translated"
   },
   {
    "id": "s27E1E8",
@@ -5957,7 +6019,8 @@
     "0x290f08"
    ],
    "jp": "全SPダウン弱",
-   "en": ""
+   "en": "Team SP Down 1",
+   "status": "translated"
   },
   {
    "id": "s27E1F8",
@@ -5966,7 +6029,8 @@
     "0x290f0c"
    ],
    "jp": "敵全体をSPダウンにする",
-   "en": ""
+   "en": "Lowers all foes' SP",
+   "status": "translated"
   },
   {
    "id": "s27E212",
@@ -5975,7 +6039,8 @@
     "0x290f10"
    ],
    "jp": "てきぜんたいのSPをさげる",
-   "en": ""
+   "en": "Lowers SP of all foes",
+   "status": "translated"
   },
   {
    "id": "s27E22E",
@@ -5984,7 +6049,8 @@
     "0x290f14"
    ],
    "jp": "全SPダウン中",
-   "en": ""
+   "en": "Team SP Down 2",
+   "status": "translated"
   },
   {
    "id": "s27E23E",
@@ -5993,7 +6059,8 @@
     "0x290f18"
    ],
    "jp": "敵全体をSPダウンにする",
-   "en": ""
+   "en": "Lowers all foes' SP",
+   "status": "translated"
   },
   {
    "id": "s27E258",
@@ -6002,7 +6069,8 @@
     "0x290f1c"
    ],
    "jp": "てきぜんたいのSPをさげる",
-   "en": ""
+   "en": "Lowers SP of all foes",
+   "status": "translated"
   },
   {
    "id": "s27E274",
@@ -6011,7 +6079,8 @@
     "0x290f20"
    ],
    "jp": "全SPダウン強",
-   "en": ""
+   "en": "Team SP Down 3",
+   "status": "translated"
   },
   {
    "id": "s27E284",
@@ -6020,7 +6089,8 @@
     "0x290f24"
    ],
    "jp": "敵全体をSPダウンにする",
-   "en": ""
+   "en": "Lowers all foes' SP",
+   "status": "translated"
   },
   {
    "id": "s27E29E",
@@ -6029,7 +6099,8 @@
     "0x290f28"
    ],
    "jp": "てきぜんたいのSPをさげる",
-   "en": ""
+   "en": "Lowers SP of all foes",
+   "status": "translated"
   },
   {
    "id": "s27E2BA",
@@ -6038,7 +6109,8 @@
     "0x290f2c"
    ],
    "jp": "全ALLダウン弱",
-   "en": ""
+   "en": "Team ALL Down 1",
+   "status": "translated"
   },
   {
    "id": "s27E2CC",
@@ -6047,7 +6119,8 @@
     "0x290f30"
    ],
    "jp": "敵全体をALLダウンにする",
-   "en": ""
+   "en": "Lowers all foes' stats",
+   "status": "translated"
   },
   {
    "id": "s27E2E8",
@@ -6056,7 +6129,8 @@
     "0x290f34"
    ],
    "jp": "てきぜんたいのパラメータをすべてさげる",
-   "en": ""
+   "en": "Lowers every stat of all foes",
+   "status": "translated"
   },
   {
    "id": "s27E310",
@@ -6065,7 +6139,8 @@
     "0x290f38"
    ],
    "jp": "全ALLダウン中",
-   "en": ""
+   "en": "Team ALL Down 2",
+   "status": "translated"
   },
   {
    "id": "s27E322",
@@ -6074,7 +6149,8 @@
     "0x290f3c"
    ],
    "jp": "敵全体をALLダウンにする",
-   "en": ""
+   "en": "Lowers all foes' stats",
+   "status": "translated"
   },
   {
    "id": "s27E33E",
@@ -6083,7 +6159,8 @@
     "0x290f40"
    ],
    "jp": "てきぜんたいのパラメータをすべてさげる",
-   "en": ""
+   "en": "Lowers every stat of all foes",
+   "status": "translated"
   },
   {
    "id": "s27E366",
@@ -6092,7 +6169,8 @@
     "0x290f44"
    ],
    "jp": "全ALLダウン強",
-   "en": ""
+   "en": "Team ALL Down 3",
+   "status": "translated"
   },
   {
    "id": "s27E378",
@@ -6101,7 +6179,8 @@
     "0x290f48"
    ],
    "jp": "敵全体をALLダウンにする",
-   "en": ""
+   "en": "Lowers all foes' stats",
+   "status": "translated"
   },
   {
    "id": "s27E394",
@@ -6110,7 +6189,8 @@
     "0x290f4c"
    ],
    "jp": "てきぜんたいのパラメータをすべてさげる",
-   "en": ""
+   "en": "Lowers every stat of all foes",
+   "status": "translated"
   },
   {
    "id": "s27E3BC",
@@ -6119,7 +6199,8 @@
     "0x290f50"
    ],
    "jp": "ほえる弱",
-   "en": ""
+   "en": "Roar 1",
+   "status": "translated"
   },
   {
    "id": "s27E3C6",
@@ -6128,7 +6209,8 @@
     "0x290f54"
    ],
    "jp": "ほえて相手をひるませ\n敵全体のハントゲージをためる",
-   "en": ""
+   "en": "Roars to scare foes\nand fills their Hunt Gauges",
+   "status": "translated"
   },
   {
    "id": "s27E3FA",
@@ -6137,7 +6219,8 @@
     "0x290f58"
    ],
    "jp": "てきゼンタイの      ハントゲージをためる",
-   "en": ""
+   "en": "All foes'      Hunt Gauges fill",
+   "status": "translated"
   },
   {
    "id": "s27E42A",
@@ -6146,7 +6229,8 @@
     "0x290f5c"
    ],
    "jp": "ほえる中",
-   "en": ""
+   "en": "Roar 2",
+   "status": "translated"
   },
   {
    "id": "s27E434",
@@ -6155,7 +6239,8 @@
     "0x290f60"
    ],
    "jp": "ほえて相手をひるませ\n敵全体のハントゲージを大きくためる",
-   "en": ""
+   "en": "Roars to scare foes\nand fills their Hunt Gauges a lot",
+   "status": "translated"
   },
   {
    "id": "s27E46E",
@@ -6164,7 +6249,8 @@
     "0x290f64"
    ],
    "jp": "てきゼンタイの      ハントゲージをためる",
-   "en": ""
+   "en": "All foes'      Hunt Gauges fill",
+   "status": "translated"
   },
   {
    "id": "s27E49E",
@@ -6173,7 +6259,8 @@
     "0x290f68"
    ],
    "jp": "ほえる強",
-   "en": ""
+   "en": "Roar 3",
+   "status": "translated"
   },
   {
    "id": "s27E4A8",
@@ -6182,7 +6269,8 @@
     "0x290f6c"
    ],
    "jp": "ほえて相手をひるませ\n敵全体のハントゲージをかなりためる",
-   "en": ""
+   "en": "Roars to scare foes\nsharply filling their Hunt Gauges",
+   "status": "translated"
   },
   {
    "id": "s27E4E2",
@@ -6191,7 +6279,8 @@
     "0x290f70"
    ],
    "jp": "てきゼンタイの      ハントゲージをためる",
-   "en": ""
+   "en": "All foes'      Hunt Gauges fill",
+   "status": "translated"
   },
   {
    "id": "s27E512",
@@ -6200,7 +6289,8 @@
     "0x290f74"
    ],
    "jp": "やりかえし",
-   "en": ""
+   "en": " Payback",
+   "status": "translated"
   },
   {
    "id": "s27E51E",
@@ -6209,7 +6299,8 @@
     "0x290f78"
    ],
    "jp": "攻撃してジョウタイイジョウを敵にうつす事がある\n自分のジョウタイイジョウは回復する",
-   "en": ""
+   "en": "Attacks; may give a foe your status effect\nand cures your status effect",
+   "status": "translated"
   },
   {
    "id": "s27E572",
@@ -6218,7 +6309,8 @@
     "0x290f7c"
    ],
    "jp": "コウゲキしてジョウタイ  イジョウをてきにうつす",
-   "en": ""
+   "en": "Attacks and passes status effect to foe",
+   "status": "translated"
   },
   {
    "id": "s27E5A4",
@@ -6227,7 +6319,8 @@
     "0x290f80"
    ],
    "jp": "やりかえし",
-   "en": ""
+   "en": " Payback",
+   "status": "translated"
   },
   {
    "id": "s27E5B0",
@@ -6254,7 +6347,8 @@
     "0x290f8c"
    ],
    "jp": "やりかえし",
-   "en": ""
+   "en": " Payback",
+   "status": "translated"
   },
   {
    "id": "s27E5C4",
@@ -6281,7 +6375,8 @@
     "0x290f98"
    ],
    "jp": "バリア弱",
-   "en": ""
+   "en": "Barrier 1",
+   "status": "translated"
   },
   {
    "id": "s27E5D6",
@@ -6290,7 +6385,8 @@
     "0x290f9c"
    ],
    "jp": "バリアをはって\nうけるダメージをへらす",
-   "en": ""
+   "en": "Barrier that\ncuts damage taken",
+   "status": "translated"
   },
   {
    "id": "s27E5FE",
@@ -6299,7 +6395,8 @@
     "0x290fa0"
    ],
    "jp": "バリアをはって      ダメージをへらす",
-   "en": ""
+   "en": "Barrier      cuts damage",
+   "status": "translated"
   },
   {
    "id": "s27E62A",
@@ -6308,7 +6405,8 @@
     "0x290fa4"
    ],
    "jp": "バリア中",
-   "en": ""
+   "en": "Barrier 2",
+   "status": "translated"
   },
   {
    "id": "s27E634",
@@ -6317,7 +6415,8 @@
     "0x290fa8"
    ],
    "jp": "バリアをはって\nうけるダメージを大きくへらす",
-   "en": ""
+   "en": "Barrier that\ncuts damage taken a lot",
+   "status": "translated"
   },
   {
    "id": "s27E662",
@@ -6326,7 +6425,8 @@
     "0x290fac"
    ],
    "jp": "バリアをはって      ダメージをおおきくへらす",
-   "en": ""
+   "en": "Barrier      cuts damage a lot",
+   "status": "translated"
   },
   {
    "id": "s27E696",
@@ -6335,7 +6435,8 @@
     "0x290fb0"
    ],
    "jp": "バリア強",
-   "en": ""
+   "en": "Barrier 3",
+   "status": "translated"
   },
   {
    "id": "s27E6A0",
@@ -6344,7 +6445,8 @@
     "0x290fb4"
    ],
    "jp": "バリアをはって\nうけるダメージをかなりへらす",
-   "en": ""
+   "en": "Barrier that\ncuts damage taken sharply",
+   "status": "translated"
   },
   {
    "id": "s27E6CE",
@@ -6353,7 +6455,8 @@
     "0x290fb8"
    ],
    "jp": "バリアをはって      ダメージをかなりへらす",
-   "en": ""
+   "en": "Barrier      cuts damage sharply",
+   "status": "translated"
   },
   {
    "id": "s27E700",
@@ -6362,7 +6465,8 @@
     "0x290fbc"
    ],
    "jp": "全バリア弱",
-   "en": ""
+   "en": "Team Barrier 1",
+   "status": "translated"
   },
   {
    "id": "s27E70C",
@@ -6371,7 +6475,8 @@
     "0x290fc0"
    ],
    "jp": "バリアをはって\n全体がうけるダメージをへらす",
-   "en": ""
+   "en": "Barrier that\ncuts the team's damage",
+   "status": "translated"
   },
   {
    "id": "s27E73A",
@@ -6380,7 +6485,8 @@
     "0x290fc4"
    ],
    "jp": "バリアをはって、ぜんたいのダメージをへらす",
-   "en": ""
+   "en": "Barrier cuts damage for the whole team",
+   "status": "translated"
   },
   {
    "id": "s27E766",
@@ -6389,7 +6495,8 @@
     "0x290fc8"
    ],
    "jp": "全バリア中",
-   "en": ""
+   "en": "Team Barrier 2",
+   "status": "translated"
   },
   {
    "id": "s27E772",
@@ -6398,7 +6505,8 @@
     "0x290fcc"
    ],
    "jp": "バリアをはって\n全体がうけるダメージを大きくへらす",
-   "en": ""
+   "en": "Barrier that\ncuts the team's damage a lot",
+   "status": "translated"
   },
   {
    "id": "s27E7A6",
@@ -6407,7 +6515,8 @@
     "0x290fd0"
    ],
    "jp": "バリアをはって、ぜんたいのダメージをおおきくへらす",
-   "en": ""
+   "en": "Barrier cuts damage a lot for the whole team",
+   "status": "translated"
   },
   {
    "id": "s27E7DA",
@@ -6416,7 +6525,8 @@
     "0x290fd4"
    ],
    "jp": "全バリア強",
-   "en": ""
+   "en": "Team Barrier 3",
+   "status": "translated"
   },
   {
    "id": "s27E7E6",
@@ -6425,7 +6535,8 @@
     "0x290fd8"
    ],
    "jp": "バリアをはって\n全体がうけるダメージをかなりへらす",
-   "en": ""
+   "en": "Barrier that\ncuts the team's damage sharply",
+   "status": "translated"
   },
   {
    "id": "s27E81A",
@@ -6434,7 +6545,8 @@
     "0x290fdc"
    ],
    "jp": "バリアをはって、ぜんたいのダメージをかなりへらす",
-   "en": ""
+   "en": "Barrier sharply cuts damage to the team",
+   "status": "translated"
   },
   {
    "id": "s27E84C",
@@ -6443,7 +6555,8 @@
     "0x290fe0"
    ],
    "jp": "イジョウバリア",
-   "en": ""
+   "en": "Status Barrier",
+   "status": "translated"
   },
   {
    "id": "s27E85C",
@@ -6452,7 +6565,8 @@
     "0x290fe4"
    ],
    "jp": "バリアをはって\nジョウタイイジョウをふせぐ",
-   "en": ""
+   "en": "Barrier that\nblocks status effects",
+   "status": "translated"
   },
   {
    "id": "s27E888",
@@ -6461,7 +6575,8 @@
     "0x290fe8"
    ],
    "jp": "バリアをはって      ジョウタイイジョウをふせぐ",
-   "en": ""
+   "en": "Barrier      blocks status effects",
+   "status": "translated"
   },
   {
    "id": "s27E8BE",
@@ -6470,7 +6585,8 @@
     "0x290fec"
    ],
    "jp": "全イジョウバリア",
-   "en": ""
+   "en": "Team Status Barrier",
+   "status": "translated"
   },
   {
    "id": "s27E8D0",
@@ -6479,7 +6595,8 @@
     "0x290ff0"
    ],
    "jp": "バリアをはって\n全体のジョウタイイジョウをふせぐ",
-   "en": ""
+   "en": "Barrier that\nblocks the team's status effects",
+   "status": "translated"
   },
   {
    "id": "s27E902",
@@ -6488,7 +6605,8 @@
     "0x290ff4"
    ],
    "jp": "バリアをはって、ゼンタイのジョウタイイジョウをふせぐバリアをはる",
-   "en": ""
+   "en": "Barrier blocks status effects for the team",
+   "status": "translated"
   },
   {
    "id": "s27E944",
@@ -6497,7 +6615,8 @@
     "0x290ff8"
    ],
    "jp": "はんしゃバリア弱",
-   "en": ""
+   "en": " Reflect Barrier 1",
+   "status": "translated"
   },
   {
    "id": "s27E956",
@@ -6506,7 +6625,8 @@
     "0x290ffc"
    ],
    "jp": "攻撃されると敵にはんしゃするバリアをはる",
-   "en": ""
+   "en": "Barrier that reflects attacks to the foe",
+   "status": "translated"
   },
   {
    "id": "s27E980",
@@ -6515,7 +6635,8 @@
     "0x291000"
    ],
    "jp": "コウゲキされると     はんしゃするバリアをはる",
-   "en": ""
+   "en": "When attacked,     barrier reflects it",
+   "status": "translated"
   },
   {
    "id": "s27E9B4",
@@ -6524,7 +6645,8 @@
     "0x291004"
    ],
    "jp": "はんしゃバリア弱",
-   "en": ""
+   "en": " Reflect Barrier 1",
+   "status": "translated"
   },
   {
    "id": "s27E9C6",
@@ -6551,7 +6673,8 @@
     "0x291010"
    ],
    "jp": "はんしゃバリア中",
-   "en": ""
+   "en": " Reflect Barrier 2",
+   "status": "translated"
   },
   {
    "id": "s27E9E0",
@@ -6560,7 +6683,8 @@
     "0x291014"
    ],
    "jp": "攻撃されると敵にはんしゃするバリアをはる",
-   "en": ""
+   "en": "Barrier that reflects attacks to the foe",
+   "status": "translated"
   },
   {
    "id": "s27EA0A",
@@ -6569,7 +6693,8 @@
     "0x291018"
    ],
    "jp": "コウゲキされると     はんしゃするバリアをはる",
-   "en": ""
+   "en": "When attacked,     barrier reflects it",
+   "status": "translated"
   },
   {
    "id": "s27EA3E",
@@ -6578,7 +6703,8 @@
     "0x29101c"
    ],
    "jp": "はんしゃバリア中",
-   "en": ""
+   "en": " Reflect Barrier 2",
+   "status": "translated"
   },
   {
    "id": "s27EA50",
@@ -6605,7 +6731,8 @@
     "0x291028"
    ],
    "jp": "はんしゃバリア強",
-   "en": ""
+   "en": " Reflect Barrier 3",
+   "status": "translated"
   },
   {
    "id": "s27EA6A",
@@ -6614,7 +6741,8 @@
     "0x29102c"
    ],
    "jp": "攻撃されると敵にはんしゃするバリアをはる",
-   "en": ""
+   "en": "Barrier that reflects attacks to the foe",
+   "status": "translated"
   },
   {
    "id": "s27EA94",
@@ -6623,7 +6751,8 @@
     "0x291030"
    ],
    "jp": "コウゲキされると     はんしゃするバリアをはる",
-   "en": ""
+   "en": "When attacked,     barrier reflects it",
+   "status": "translated"
   },
   {
    "id": "s27EAC8",
@@ -6632,7 +6761,8 @@
     "0x291034"
    ],
    "jp": "はんしゃバリア強",
-   "en": ""
+   "en": " Reflect Barrier 3",
+   "status": "translated"
   },
   {
    "id": "s27EADA",
@@ -6659,7 +6789,8 @@
     "0x291040"
    ],
    "jp": "はんげきバリア弱",
-   "en": ""
+   "en": " Counter Barrier 1",
+   "status": "translated"
   },
   {
    "id": "s27EAF4",
@@ -6668,7 +6799,8 @@
     "0x291044"
    ],
    "jp": "攻撃されると敵にはんげきするバリアをはる",
-   "en": ""
+   "en": "Barrier that strikes back when attacked",
+   "status": "translated"
   },
   {
    "id": "s27EB1E",
@@ -6677,7 +6809,8 @@
     "0x291048"
    ],
    "jp": "コウゲキされると     はんげきするバリアをはる",
-   "en": ""
+   "en": "When attacked,     barrier strikes back",
+   "status": "translated"
   },
   {
    "id": "s27EB52",
@@ -6686,7 +6819,8 @@
     "0x29104c"
    ],
    "jp": "はんげきバリア弱",
-   "en": ""
+   "en": " Counter Barrier 1",
+   "status": "translated"
   },
   {
    "id": "s27EB64",
@@ -6713,7 +6847,8 @@
     "0x291058"
    ],
    "jp": "はんげきバリア中",
-   "en": ""
+   "en": " Counter Barrier 2",
+   "status": "translated"
   },
   {
    "id": "s27EB7E",
@@ -6722,7 +6857,8 @@
     "0x29105c"
    ],
    "jp": "攻撃されると敵にはんげきするバリアをはる",
-   "en": ""
+   "en": "Barrier that strikes back when attacked",
+   "status": "translated"
   },
   {
    "id": "s27EBA8",
@@ -6731,7 +6867,8 @@
     "0x291060"
    ],
    "jp": "コウゲキされると     はんげきするバリアをはる",
-   "en": ""
+   "en": "When attacked,     barrier strikes back",
+   "status": "translated"
   },
   {
    "id": "s27EBDC",
@@ -6740,7 +6877,8 @@
     "0x291064"
    ],
    "jp": "はんげきバリア中",
-   "en": ""
+   "en": " Counter Barrier 2",
+   "status": "translated"
   },
   {
    "id": "s27EBEE",
@@ -6767,7 +6905,8 @@
     "0x291070"
    ],
    "jp": "はんげきバリア強",
-   "en": ""
+   "en": " Counter Barrier 3",
+   "status": "translated"
   },
   {
    "id": "s27EC08",
@@ -6776,7 +6915,8 @@
     "0x291074"
    ],
    "jp": "攻撃されると敵にはんげきするバリアをはる",
-   "en": ""
+   "en": "Barrier that strikes back when attacked",
+   "status": "translated"
   },
   {
    "id": "s27EC32",
@@ -6785,7 +6925,8 @@
     "0x291078"
    ],
    "jp": "コウゲキされると     はんげきするバリアをはる",
-   "en": ""
+   "en": "When attacked,     barrier strikes back",
+   "status": "translated"
   },
   {
    "id": "s27EC66",
@@ -6794,7 +6935,8 @@
     "0x29107c"
    ],
    "jp": "はんげきバリア強",
-   "en": ""
+   "en": " Counter Barrier 3",
+   "status": "translated"
   },
   {
    "id": "s27EC78",
@@ -6821,7 +6963,8 @@
     "0x291088"
    ],
    "jp": "かばう",
-   "en": ""
+   "en": "Cover",
+   "status": "translated"
   },
   {
    "id": "s27EC88",
@@ -6830,7 +6973,8 @@
     "0x29108c"
    ],
    "jp": "味方一体を守って\nかわりにダメージをうける",
-   "en": ""
+   "en": "Guards 1 ally\nand takes its damage",
+   "status": "translated"
   },
   {
    "id": "s27ECB4",
@@ -6839,7 +6983,8 @@
     "0x291090"
    ],
    "jp": "みかた1タイをまもって  かわりにダメージをうける",
-   "en": ""
+   "en": "Guards 1 ally, taking the damage instead",
+   "status": "translated"
   },
   {
    "id": "s27ECE8",
@@ -6848,7 +6993,8 @@
     "0x291094"
    ],
    "jp": "逃げる！",
-   "en": ""
+   "en": "Escape!",
+   "status": "translated"
   },
   {
    "id": "s27ECF2",
@@ -6857,7 +7003,8 @@
     "0x291098"
    ],
    "jp": "戦闘からカクジツに逃げられる",
-   "en": ""
+   "en": "Always escapes from battle",
+   "status": "translated"
   },
   {
    "id": "s27ED10",
@@ -6866,7 +7013,8 @@
     "0x29109c"
    ],
    "jp": "セントウから       カクジツににげられる",
-   "en": ""
+   "en": "Escapes from       battle for sure",
+   "status": "translated"
   },
   {
    "id": "s27ED40",
@@ -6875,7 +7023,8 @@
     "0x2910a0"
    ],
    "jp": "逃がさない！",
-   "en": ""
+   "en": "No Escape!",
+   "status": "translated"
   },
   {
    "id": "s27ED4E",
@@ -6884,7 +7033,8 @@
     "0x2910a4"
    ],
    "jp": "敵を戦闘からゼッタイに逃げ出せなくする",
-   "en": ""
+   "en": "Makes foes unable to flee from battle",
+   "status": "translated"
   },
   {
    "id": "s27ED76",

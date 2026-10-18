@@ -38,7 +38,7 @@ def padded(jp):
 
 BOX_PX = {"r290000": 216,  # credits / Data Pad help: whole width
           "t1AA48C": 112, "t293E34": 112}  # place names: the Data Pad map-name box (fit.TABLE_NAME_PX in dialogue)
-NAME_FIELD_PX = 84  # guess until the battle move list is measured on screen (docs/status.md)
+NAME_FIELD_PX = 96  # list fields; the skills list (cost column at ~52 px) gets an engine fix (docs/status.md)
 MSG_BOX = {"t1A1568", "t098F4C", "t1A952C"}  # battle message window: event-box geometry (fit.first_x / line_x)
 
 
