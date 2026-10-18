@@ -57,7 +57,7 @@
     5
    ],
    "jp": "{8002}{9201}エンジンのせいぎょソウチだ{8400}{8100}",
-   "en": "{8002}{9201}It's the engine's control unit.{8400}{8100}",
+   "en": "{8002}{9201}It's the engine control unit.{8400}{8100}",
    "status": "translated"
   },
   {
@@ -129,7 +129,7 @@
     13
    ],
    "jp": "{8001}{860F}{94A5}「あ！コラ！{8207}そのキカイには使うなって言っただろ！」{8400}{8100}",
-   "en": "{8001}{860F}{94A5}Ah! Hey! Didn't I tell you not to use that on the machine?!{8400}{8100}",
+   "en": "{8001}{860F}{94A5}Ah! Hey! Didn't I tell you not to use it on that machine?!{8400}{8100}",
    "status": "translated"
   },
   {

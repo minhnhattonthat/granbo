@@ -39,7 +39,7 @@ Options and reasons for each ruling: `docs/decisions.md`.
 | 本部長 | Chief | 7 | HQ chief | |
 | かんごふ | Nurse | 7 | | |
 | ハルナ | Haruna | 7 | | |
-| 子分 | Grunt | 7 | Sky Shark henchman; 子分3 -> Grunt 3 | Underling |
+| 子分 | Grunt | 7 | Sky Shark henchman; 子分3 -> Grunt 3; capitalised as a label/title, "grunt(s)" as a common noun in prose | Underling |
 | ゲンじい | Old Gen | 7 | slot 17 | |
 | グラッチョ | Grazio | 7 | slot 18; pairs with Grazie | |
 
@@ -191,10 +191,11 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
 - ヴォルグ -> Volg; HP/AT/SP/ENチップ -> HP/AT/SP/EN Chip; レスキューカプセル -> Rescue Capsule; チリョウしつ ->
   treatment room; 博士 {9405} -> Dr. {9405} (Akari calls Grazie "Professor"); ATカノン中 -> AT Cannon 2; ALLダウン強 -> ALL
   Down 3; 回復マシン -> healing machine; サロン -> salon; Message Board sign-offs: 町内会より -> From the Neighborhood
-  Association, むすめより -> From your daughter. OPEN for review: who Grazie is (a scientist, Dr. {9405}, apparently a
-  father; ev225624_081 and ev232210_016 read serious, not "moi") - check every Grazie line in one pass.
+  Association, むすめより -> From your daughter. Grazie (review pass, settled): one man, the flamboyant Grand Change
+  researcher ("moi") in most scenes and Dr. {9405}, Shizuku's father, who speaks plainly (私/キミ) in the reveal
+  scenes (ev225624, ev232210); he/him.
 - ウォンライ -> Wonrai; 研究シセツ -> research facility; セイバーブタイ -> Saver forces; グランボセイバー本部 -> Granbo
-  Saver HQ; セイバー本部長 -> Chief of Saver HQ. (Review: ev225624_081 is labelled Grazie but reads as a father.)
+  Saver HQ; セイバー本部長 -> Chief of Saver HQ.
 - ベルドー -> Beldo; ドルッピー -> Doruppy; ラザルス -> Lazarus; スナイパー -> Sniper; ショットガン中 -> Shotgun 2;
   ウイルスキバ強 -> Virus Fang 3; エラーボム中 -> Error Bomb 2; ALLカノン強 -> ALL Cannon 3; パーフェクトシールド -> Perfect
   Shield; シールドブレイカー -> Shield Breaker; 犬猿の仲 joke (dog vs monkey) -> "dogs and monkeys really can't get along".
@@ -213,7 +214,8 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   VIP用エレベーター -> VIP elevator; 闇グランドチェンジ -> Dark Grand Change; ルーレットボム強 -> Roulette Bomb 3;
   パンチ強 -> Punch 3; バナナバクダン -> Banana Bomb; おんせんくみあい -> Hot Spring Association; Xより -> "From X".
   Granbo/pets: ウッキィ -> Ukky (pet), パタフラン -> Patafran, マーキエリ -> Markieri, アルマル -> Armaru.
-  Grazie/Grazio say "Ciao!!" for それじゃあね; グラッチェの妹 is Grazio (sister; "my brother Grazie").
+  Grazie/Grazio say "Ciao!!" for それじゃあね; Grazio is Grazie's brother (male: 彼, ミーのブラザー; the JP
+  calls Grazie both 兄 and 弟, so the English says just "my brother").
 - ゲージカノン中 -> Gauge Cannon 2; プロハント -> Pro Hunt; ヘッドハマー -> Head Hammer; オンセン -> hot spring;
   SPA stays SPA; dog cry ワン -> "Woof!".
 - オウオウ -> Owow (sea-lion species; Ashikamaru is one; cry オウッ -> "Ork!"); ストップアタック -> Stop Attack;

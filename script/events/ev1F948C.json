@@ -12,7 +12,7 @@
     0
    ],
    "jp": "{8002}{94C8}おじさん「あああ・・・新しくたてたばかりの{8207}オレの家がああああああっ！！！」{8300}{94C8}おじさん「あは・・・{8207}あはは・・・{8207}アハハハハハハハッ・・・」{8400}{8100}",
-   "en": "{8002}{94C8}Man「Ahhh... My house... I only just built it... Noooooo!!!{8300}{94C8}Man「Aha... Ahaha... Ahahahahahaha...{8400}{8100}",
+   "en": "{8002}{94C8}Man「Ahhh... My house... I only just built it... Noooooo!!{8300}{94C8}Man「Aha... Ahaha... Ahahahahahaha...{8400}{8100}",
    "status": "translated"
   },
   {
@@ -21,7 +21,7 @@
     1
    ],
    "jp": "{8002}{94C8}女の子「とつぜん、見たこともない{8207}大きな{940A}が{8207}北の方からとんできたの！！！」{8300}{94C8}女の子「そして、わたし達の家を{8207}どんどんこわしていったの・・・」{8400}{8100}",
-   "en": "{8002}{94C8}Girl「All of a sudden, a huge {940A} I'd never seen before came flying in from the north!!!{8300}{94C8}Girl「And then it smashed our houses one after another...{8400}{8100}",
+   "en": "{8002}{94C8}Girl「All of a sudden, a huge {940A} I'd never seen before came flying in from the north!!{8300}{94C8}Girl「And then it smashed our houses one after another...{8400}{8100}",
    "status": "translated"
   },
   {
@@ -174,7 +174,7 @@
     18
    ],
    "jp": "{8002}{94C8}おじいさん「そうか・・・今後の戦いに{8207}{8855}オウオウ{8800}は外せんか・・・」{8400}{8100}",
-   "en": "{8002}{94C8}Old Man「I see... You can't do without {8855}Owow{8800} in your battles ahead...{8400}{8100}",
+   "en": "{8002}{94C8}Old Man「I see... You can't do without your {8855}Owow{8800} in your battles ahead...{8400}{8100}",
    "status": "translated"
   },
   {
@@ -210,7 +210,7 @@
     22
    ],
    "jp": "{8002}{94C8}女の子「とつぜん、見たこともない{8207}大きな{940A}が{8207}北の方からとんできたの！！！」{8300}{94C8}女の子「そして、わたし達の家を{8207}どんどんこわしていったの・・・」{8300}{94C8}女の子「おねがい、{8833}SPチップ{8800}をあげるから{8207}あのグランボをやっつけて！」\n{8D00}",
-   "en": "{8002}{94C8}Girl「All of a sudden, a huge {940A} I'd never seen before came flying in from the north!!!{8300}{94C8}Girl「And then it smashed our houses one after another...{8300}{94C8}Girl「Please, I'll give you an {8833}SP Chip{8800}, so beat that Granbo!{8D00}",
+   "en": "{8002}{94C8}Girl「All of a sudden, a huge {940A} I'd never seen before came flying in from the north!!{8300}{94C8}Girl「And then it smashed our houses one after another...{8300}{94C8}Girl「Please, I'll give you an {8833}SP Chip{8800}, so beat that Granbo!{8D00}",
    "status": "translated"
   },
   {

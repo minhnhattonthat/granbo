@@ -21,7 +21,7 @@
     1
    ],
    "jp": "{8002}{8602}{9498}「あっ、{9400}くん～！{8207}大変だよ～～～！！」{8300}{8612}{9498}「この先の細いハシにたくさんの{8207}子分と、あとエーゲがまちかまえて{8207}いるんだよ！！」{8300}{8612}{9498}「ぜんいんと戦うのは大変そうだね・・・{8207}なんとか戦わないですませられないかな？」{8300}{8602}{9498}「戦いになった時のために{8833}さいきどう{8800}の{8207}アイテムを持っていくといいよ？」\n{8D00}",
-   "en": "{8002}{8602}{9498}Ah, {9400}~! This is bad~!!{8300}{8612}{9498}On the narrow bridge ahead, lots of Grunts and Aegean too are lying in wait!!{8300}{8612}{9498}Fighting them all sounds really tough... Isn't there some way you can get by without fighting?{8300}{8602}{9498}In case it comes to a fight, you should take {8833}Reboot{8800} items with you, y'know?{8D00}",
+   "en": "{8002}{8602}{9498}Ah, {9400}~! This is bad~!!{8300}{8612}{9498}Lots of Grunts are lying in wait on the narrow bridge ahead, and Aegean too!!{8300}{8612}{9498}Fighting them all sounds really tough... Isn't there some way you can get by without fighting?{8300}{8602}{9498}In case it comes to a fight, you should take {8833}Reboot{8800} items with you, y'know?{8D00}",
    "status": "translated"
   },
   {
@@ -372,7 +372,7 @@
     40
    ],
    "jp": "{8002}{860F}{94A5}「む？なんだ、お前？{8207}新入りの子分か？」{8300}{860F}{94A5}「子分のジョウシキを知らないようなヤツは{8207}ここを通すわけには行かないぜ」{8300}{860F}{94A5}「よしっ、お前をためしてやる！{8207}オレの出すシツモンにこたえてみな！」{8300}{860F}{94A5}「お金をひろったら{8207}ケイサツにとどけよう？」{9200}\n{8E02}               {8F01}とどける {8F00}とどけない{8100}",
-   "en": "{8002}{860F}{94A5}Hm? What's this, who are you? A new Grunt?{8300}{860F}{94A5}Anybody who doesn't know a Grunt's common sense can't get past here.{8300}{860F}{94A5}All right, I'll test you! Try answering my questions!{8300}{860F}{94A5}If you find money, you take it to the police?{9200} {8E02}               {8F01}Turn it in {8F00}Don't{8100}",
+   "en": "{8002}{860F}{94A5}Hm? What's this, who are you? A new Grunt?{8300}{860F}{94A5}Anybody who doesn't know the Grunt Basics can't get past here.{8300}{860F}{94A5}All right, I'll test you! Try answering my questions!{8300}{860F}{94A5}If you find money, you take it to the police?{9200} {8E02}               {8F01}Turn it in {8F00}Don't{8100}",
    "status": "translated"
   },
   {

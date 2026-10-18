@@ -57,7 +57,7 @@
     5
    ],
    "jp": "{8002}{94A0}「ばた、ば～～～った！」{8207}（ママのいうとおりバタ！）{8400}{8100}",
-   "en": "{8002}{94A0}Bata, baaaata! (Mom's right, bata!){8400}{8100}",
+   "en": "{8002}{94A0}Hop, hoooopper! (Mom's right, hop!){8400}{8100}",
    "status": "translated"
   },
   {
@@ -75,7 +75,7 @@
     7
    ],
    "jp": "{8002}{94A0}「ウィッキ～～～ッ！」{8207}（いい名前ウキー！！）{8400}{8100}",
-   "en": "{8002}{94A0}Wikkiiii! (Great name, ooky!!){8400}{8100}",
+   "en": "{8002}{94A0}Wikkiiii! (Great name, ook!!){8400}{8100}",
    "status": "translated"
   },
   {
@@ -165,7 +165,7 @@
     17
    ],
    "jp": "{8002}{861F}{94A5}「キャプテン・・・ヒック！！」{8300}{861F}{94A5}「なっとくできませぇん！{8207}どぉしてこのオ～レ～がぁ！{8207}こ～んな町の見はりやくなんですかぁ！」{8300}{861F}{94A5}「何とか言って下さいよぉ・・・{8207}キャプテン・・・・・・ウィ～ヒック！」{8400}{8100}",
-   "en": "{8002}{861F}{94A5}Captain... hic!!{8300}{861F}{94A5}I don't geeet it! Whyyy did meee get stuck as lookout for a dinky town like thiiis?!{8300}{861F}{94A5}C'mon, say somethin'... Captain...... wheee~hic!{8400}{8100}",
+   "en": "{8002}{861F}{94A5}Captain... hic!!{8300}{861F}{94A5}I don't geeet it! Whyyy is somebody like meee stuck as lookout for a dinky town like thiiis?!{8300}{861F}{94A5}C'mon, say somethin'... Captain...... wheee~hic!{8400}{8100}",
    "status": "translated"
   },
   {
@@ -417,7 +417,7 @@
     45
    ],
    "jp": "{8002}{94C8}男の子「はずかしくてお母さんには{8207}言えないけど・・・」{8300}{94C8}男の子「ぼく、もう何もいらない！{8207}お母さんとバタきちさえいれば{8207}それでじゅうぶんなんだ・・・」{8400}{8100}",
-   "en": "{8002}{94C8}Boy「I'm too embarrassed to tell my mom...{8300}{94C8}Boy「but I don't need anything anymore! As long as I've got Mom and Hopper, that's plenty...{8400}{8100}",
+   "en": "{8002}{94C8}Boy「I'm too embarrassed to tell my mom...{8300}{94C8}Boy「but I don't need anything anymore! As long as I've got Mom and Batakichi, that's plenty...{8400}{8100}",
    "status": "translated"
   },
   {
@@ -714,7 +714,7 @@
     78
    ],
    "jp": "{8002}{94C8}男の子「あれからはお母さんとバタキチの{8207}3人でなかよくやってるよ！」{8300}{94C8}男の子「どうもありがとう！{8207}お兄ちゃん！」{8400}{8100}",
-   "en": "{8002}{94C8}Boy「Since then, Mom, Hopper and I have been getting along great, just the 3 of us!{8300}{94C8}Boy「Thank you so much, big brother!{8400}{8100}",
+   "en": "{8002}{94C8}Boy「Since then, Mom, Batakichi and I have been getting along great, just the three of us!{8300}{94C8}Boy「Thank you so much, big brother!{8400}{8100}",
    "status": "translated"
   },
   {
@@ -732,7 +732,7 @@
     80
    ],
    "jp": "{8002}{94A0}「ばた、ばった！」{8207}（親子ってむずかしいバタ！）{8400}{8100}",
-   "en": "{8002}{94A0}Bata, batta! (Parents and kids are complicated, bata!){8400}{8100}",
+   "en": "{8002}{94A0}Hop, hopper! (Parents and kids are complicated, hop!){8400}{8100}",
    "status": "translated"
   },
   {

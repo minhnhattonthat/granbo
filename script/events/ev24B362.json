@@ -183,7 +183,7 @@
     19
    ],
    "jp": "{8002}{860F}{94A5}「おっ！今度こそ子分になる決心を{8207}してくれたのか？」{8400}{8100}",
-   "en": "{8002}{860F}{94A5}Oh! Have you finally made up your mind to become a grunt?{8400}{8100}",
+   "en": "{8002}{860F}{94A5}Oh! Have you finally made up your mind to become a Grunt?{8400}{8100}",
    "status": "translated"
   },
   {
@@ -192,7 +192,7 @@
     20
    ],
    "jp": "{8002}{861F}{94A5}「エーゲさま、この上のフロアで{9400}を{8207}まちうけているらしいぞ！！」{8300}{861F}{94A5}「どんな戦いになるのかミモノだぜ！！」{8400}{8100}",
-   "en": "{8002}{861F}{94A5}I hear Aegean is waiting for {9400} on the floor above!!{8300}{861F}{94A5}This fight's gonna be something to see!!{8400}{8100}",
+   "en": "{8002}{861F}{94A5}I hear Boss Aegean is waiting for {9400} on the floor above!!{8300}{861F}{94A5}This fight's gonna be something to see!!{8400}{8100}",
    "status": "translated"
   },
   {
@@ -363,7 +363,7 @@
     39
    ],
    "jp": "{8001}{860F}{94A5}「子分の道はオクがふかいぜ・・・」{8400}{8100}",
-   "en": "{8001}{860F}{94A5}The way of the grunt runs deep...{8400}{8100}",
+   "en": "{8001}{860F}{94A5}The way of the Grunt runs deep...{8400}{8100}",
    "status": "translated"
   }
  ]

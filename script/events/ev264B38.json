@@ -21,7 +21,7 @@
     1
    ],
    "jp": "{8001}{860A}{949F}「そうか！バルトだな・・・」{8300}{860A}{949F}「スカイシャークにいる時から{8207}フユカイなヤツだとは思っていたが・・・」{8300}{861A}{949F}「最後の最後まで我のジャマを{8207}するとは・・・！！」{8400}{8100}",
-   "en": "{8001}{860A}{949F}I see! It was Baltic...{8300}{860A}{949F}I always thought him an unpleasant fellow, even back in the Sky Shark...{8300}{861A}{949F}To get in my way to the very last...!!{8400}{8100}",
+   "en": "{8001}{860A}{949F}I see! It was Baltic...{8300}{860A}{949F}I always thought him an unpleasant fellow, even back in Sky Shark...{8300}{861A}{949F}To get in my way to the very last...!!{8400}{8100}",
    "status": "translated"
   },
   {
@@ -201,7 +201,7 @@
     21
    ],
    "jp": "{8001}{860A}{949F}「そう・・・ワールドチェンジタワーを作った{8207}博士のただ一人のしそん・・・」{8300}{860A}{949F}「それが彼女、シズクなのだよ！！」{8400}{8100}",
-   "en": "{8001}{860A}{949F}Yes... the one and only descendant of the Doctor who built the World Change Tower...{8300}{860A}{949F}That is she... Shizuku!!{8400}{8100}",
+   "en": "{8001}{860A}{949F}Yes... the one and only descendant of the Doctor who built the World Change Tower...{8300}{860A}{949F}And that is none other than Shizuku!!{8400}{8100}",
    "status": "translated"
   },
   {
@@ -336,7 +336,7 @@
     36
    ],
    "jp": "{8001}{861A}{949F}「ふん・・・ザンネンだが、そうは行かん！{8207}コントロールを失ったこのタワーは{8207}まもなくホウカイするのだからな！！」{8400}{8100}",
-   "en": "{8001}{861A}{949F}Hmph... Unfortunately, it won't be that simple! This tower has lost control, and it will soon collapse!!{8400}{8100}",
+   "en": "{8001}{861A}{949F}Hmph... Unfortunately, it won't be that simple! This tower is out of control, and it will soon collapse!!{8400}{8100}",
    "status": "translated"
   },
   {
@@ -354,7 +354,7 @@
     38
    ],
    "jp": "{8001}{860A}{949F}「ふふふ・・・はははははは・・・・・・！！」{8400}{8100}",
-   "en": "{8001}{860A}{949F}Heh heh heh... Ha ha ha ha ha ha......!!{8400}{8100}",
+   "en": "{8001}{860A}{949F}Fufufu... Hahahahahaha......!!{8400}{8100}",
    "status": "translated"
   },
   {

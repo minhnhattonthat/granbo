@@ -58,7 +58,7 @@
     5
    ],
    "jp": "{8002}{9201}{9300}メッセージボードに\nゲンじいのすきなコトバが入っている{8300}{9201}『逃げたら負けだ！あきらめずに最後まで戦え！』{8400}{8100}",
-   "en": "{8002}{9201}{9300}Old Gen's favorite saying is on the message board.{8300}{9201}\"Run away and you lose! Never give up, and fight to the very end!\"{8400}{8100}",
+   "en": "{8002}{9201}{9300}Old Gen's favorite saying is on the Message Board.{8300}{9201}\"Run away and you lose! Never give up, and fight to the very end!\"{8400}{8100}",
    "status": "translated"
   },
   {
@@ -148,7 +148,7 @@
     15
    ],
    "jp": "{8002}{8620}{94A7}「・・・平和じゃのう・・・」{8300}{8620}{94A7}「良い事なんじゃろうが、どうにも{8207}元グランボセイバーのワシには{8207}たいくつでシカタがないわい・・・」{8300}{8620}{94A7}「・・・そうじゃ！」{8300}{8620}{94A7}「何か新しいジョウホウが{8207}入っていないか、メッセージボードで{8207}しらべてみるかの」{8400}{8100}",
-   "en": "{8002}{8620}{94A7}...How peaceful...{8300}{8620}{94A7}I suppose that's a good thing, but for an old Granbo Saver like me, it's dreadfully boring...{8300}{8620}{94A7}...I know!{8300}{8620}{94A7}Let's check the message board and see if there's any new info.{8400}{8100}",
+   "en": "{8002}{8620}{94A7}...How peaceful...{8300}{8620}{94A7}I suppose that's a good thing, but for an old Granbo Saver like me, it's dreadfully boring...{8300}{8620}{94A7}...I know!{8300}{8620}{94A7}Let's check the Message Board and see if there's any new info.{8400}{8100}",
    "status": "translated"
   },
   {
@@ -427,7 +427,7 @@
     46
    ],
    "jp": "{8002}{8621}{94A7}「コイツにもワシと同じグランボセイバーの{8207}チがながれておる・・・」{8300}{8621}{94A7}「お前さんのような子をほうっては{8207}おけないんじゃよ！！」{8400}{8100}",
-   "en": "{8002}{8621}{94A7}This one has the same Granbo Saver blood in its veins as I do...{8300}{8621}{94A7}We can't just abandon a young one like you!!{8400}{8100}",
+   "en": "{8002}{8621}{94A7}This kid has the same Granbo Saver blood in their veins as I do...{8300}{8621}{94A7}We can't just abandon a young one like you!!{8400}{8100}",
    "status": "translated"
   },
   {
@@ -472,7 +472,7 @@
     51
    ],
    "jp": "{8002}{8603}{9499}「ま、まさかおいかけて・・・」{8400}{8100}",
-   "en": "{8002}{8603}{9499}N-No, they followed me...{8400}{8100}",
+   "en": "{8002}{8603}{9499}D-Don't tell me they followed me here...{8400}{8100}",
    "status": "translated"
   },
   {

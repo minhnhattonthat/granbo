@@ -84,7 +84,7 @@
     8
    ],
    "jp": "{8002}{8603}{9499}「{9400}さん、おきてください！{8207}良いニュースが2つあるんです！！」{8300}{8603}{9499}「まず1つ目ですが{8207}さっきグランボセイバー本部から{8207}レンラクがあって・・・」{8300}{8613}{9499}「{9400}さんが{8207}通信対戦で『{8833}グランボバトル{8800}』をする{8207}キョカが出たそうです！！」{8300}{8613}{9499}「通信対戦のバトルスタイルの中に{8207}『{8833}グランボバトル{8800}』のコウモクがツイカ{8800}{8207}されているはずですよ！！」{8300}{8613}{9499}「これで他のセイバーのみなさんと{8207}{8833}いつでもグランボをかけて戦えます{8800}ね！」{8300}{8613}{9499}「きっと{9400}さんのこれまでの{8207}カツヤクがみとめられたんですよ！」{8300}{8603}{9499}「それと、2つ目のニュースですが・・・」{8300}{8613}{9499}「じつは{9400}さんに会いたいと{8207}いう方が来てるんです！」{8400}{8100}",
-   "en": "{8002}{8603}{9499}{9400}, please wake up! I have two pieces of good news!!{8300}{8603}{9499}First, a little while ago, Granbo Saver HQ contacted us...{8300}{8613}{9499}They say you've been given permission to have \"{8833}Granbo battles{8800}\" in link battles, {9400}!!{8300}{8613}{9499}A \"{8833}Granbo Battle{8800}\" option should have been added{8800} to the link battle Battle Styles!!{8300}{8613}{9499}Now you can {8833}battle the other Savers with Granbo on the line anytime{8800}!{8300}{8613}{9499}I'm sure it's because they recognized everything you've done so far, {9400}!{8300}{8603}{9499}And as for the second piece of news...{8300}{8613}{9499}Actually, someone is here who wants to meet you, {9400}!{8400}{8100}",
+   "en": "{8002}{8603}{9499}{9400}, please wake up! I have two pieces of good news!!{8300}{8603}{9499}First, a little while ago, Granbo Saver HQ contacted us...{8300}{8613}{9499}They say you've been given permission to play \"{8833}Granbo Battle{8800}\" in link battles, {9400}!!{8300}{8613}{9499}A \"{8833}Granbo Battle{8800}\" option should have been added{8800} to the link battle Battle Styles!!{8300}{8613}{9499}Now you can {8833}battle the other Savers with Granbo on the line anytime{8800}!{8300}{8613}{9499}I'm sure it's because they recognized everything you've done so far, {9400}!{8300}{8603}{9499}And as for the second piece of news...{8300}{8613}{9499}Actually, someone is here who wants to meet you, {9400}!{8400}{8100}",
    "status": "translated"
   },
   {
@@ -147,7 +147,7 @@
     15
    ],
    "jp": "{8001}{8602}{9498}「{8877}ウッディーナ{8800}で{9400}くんが{8207}グランドチェンジするのを手助けして{8207}くれたんだよね～」{8400}{8100}",
-   "en": "{8001}{8602}{9498}She helped {9400} do the Grand Change in {8877}Woodina{8800}~{8400}{8100}",
+   "en": "{8001}{8602}{9498}He helped {9400} do the Grand Change in {8877}Woodina{8800}~{8400}{8100}",
    "status": "translated"
   },
   {
@@ -363,7 +363,7 @@
     39
    ],
    "jp": "{8001}{8601}{9497}「あいつの言ってる事が本当かどうかは{8207}わからないけど・・・」{8300}{8601}{9497}「とりあえず今はスカイシャークが{8207}あらわれたっていう{8877}フォレスティア{8800}に{8207}むかうしかないんじゃない？」{8400}{8100}",
-   "en": "{8001}{8601}{9497}I don't know if what she said is true or not...{8300}{8601}{9497}But for now, don't we have to head to {8877}Forestia{8800}, where Sky Shark showed up?{8400}{8100}",
+   "en": "{8001}{8601}{9497}I don't know if what he said is true or not...{8300}{8601}{9497}But for now, don't we have to head to {8877}Forestia{8800}, where Sky Shark showed up?{8400}{8100}",
    "status": "translated"
   },
   {
@@ -390,7 +390,7 @@
     42
    ],
    "jp": "{8001}{8601}{9497}「ほら、シズクも何か言ってやんなよ！！」{8400}{8100}",
-   "en": "{8001}{8601}{9497}Come on, Shizuku, you say something to her too!!{8400}{8100}",
+   "en": "{8001}{8601}{9497}Come on, Shizuku, you say something to him too!!{8400}{8100}",
    "status": "translated"
   }
  ]

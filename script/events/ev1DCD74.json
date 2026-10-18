@@ -30,7 +30,7 @@
     2
    ],
    "jp": "{8002}{94C8}おばあさん「ここからスカイシップで{8207}スカイシャークから{8207}逃げようと思ったんじゃが・・・」{8300}{94C8}おばあさん「大人がだれもおらんで{8207}スカイシップもこんのじゃ・・・」{8300}{94C8}おばあさん「どうしたらええんじゃ・・・」{8400}{8100}",
-   "en": "{8002}{94C8}Old Lady「We meant to flee from the Sky Shark on a Skyship from here...{8300}{94C8}Old Lady「but there's not a grown-up around, and the Skyship won't come...{8300}{94C8}Old Lady「Whatever shall we do...{8400}{8100}",
+   "en": "{8002}{94C8}Old Lady「We meant to flee from Sky Shark on a Skyship from here...{8300}{94C8}Old Lady「but there's not a grown-up around, and the Skyship won't come...{8300}{94C8}Old Lady「Whatever shall we do...{8400}{8100}",
    "status": "translated"
   },
   {
@@ -192,7 +192,7 @@
     20
    ],
    "jp": "{8000}{8603}{9499}「・・・{9400}さん{8207}シュッパツする前にもう一度だけ{8207}ききます・・・」{8300}{8603}{9499}「スカイシャークをおいかけるのは{8207}たぶんあなたが思っているいじょうに{8207}大変な事です」{8300}{8603}{9499}「それでも私といっしょに{8207}来てくださるのですか？」{8400}{8100}",
-   "en": "{8000}{8603}{9499}...{9400}, let me ask you one more time before we set out...{8300}{8603}{9499}Chasing the Sky Shark will probably be harder than you think.{8300}{8603}{9499}Will you still come with me?{8400}{8100}",
+   "en": "{8000}{8603}{9499}...{9400}, let me ask you one more time before we set out...{8300}{8603}{9499}Chasing Sky Shark will probably be harder than you think.{8300}{8603}{9499}Will you still come with me?{8400}{8100}",
    "status": "translated"
   },
   {
@@ -210,7 +210,7 @@
     22
    ],
    "jp": "{8000}{8602}{9498}「話はぜんぶ{8207}ゲンゾウさんにきいたよ～」{8300}{8602}{9498}「オイラも{940A}を悪い事に使う{8207}スカイシャークがゆるせないんだな～」{8300}{8602}{9498}「だから{8207}{9403}ちゃんにキョウリョクするのは{8207}トウゼンなんだな～」{8300}{8602}{9498}「ね？{9400}くん～？」{8400}{8100}",
-   "en": "{8000}{8602}{9498}I heard the whole story from Mr. Genzo!{8300}{8602}{9498}I can't forgive the Sky Shark for using {940A} for bad things, y'know!{8300}{8602}{9498}So of course I'm gonna help {9403}, y'know!{8300}{8602}{9498}Right, {9400}?{8400}{8100}",
+   "en": "{8000}{8602}{9498}I heard the whole story from Mr. Genzo!{8300}{8602}{9498}I can't forgive Sky Shark for using {940A} for bad things, y'know!{8300}{8602}{9498}So of course I'm gonna help {9403}, y'know!{8300}{8602}{9498}Right, {9400}?{8400}{8100}",
    "status": "translated"
   },
   {

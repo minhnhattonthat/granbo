@@ -66,7 +66,7 @@
     6
    ],
    "jp": "{8002}{94C8}女の子「子分が家の中をあらしたから・・・」{8300}{94C8}女の子「かくしておいたテストのとうあんが{8207}お母さんに見つかって{8207}サンザンおこられたわ・・・」{8300}{94C8}女の子「スカイシャーク・・・{8207}ゼッタイにゆるせない！！」{8400}{8100}",
-   "en": "{8002}{94C8}Girl「Because the Grunts trashed our house...{8300}{94C8}Girl「Mom found the test sheets I'd hidden, and I got a huge scolding...{8300}{94C8}Girl「Sky Shark... I'll never, ever forgive them!!{8400}{8100}",
+   "en": "{8002}{94C8}Girl「Because the grunts trashed our house...{8300}{94C8}Girl「Mom found the test sheets I'd hidden, and I got a huge scolding...{8300}{94C8}Girl「Sky Shark... I'll never, ever forgive them!!{8400}{8100}",
    "status": "translated"
   },
   {
@@ -102,7 +102,7 @@
     10
    ],
    "jp": "{8002}{9201}メッセージボードは\nテレビモードになっている{8300}{9201}今はグランボバトルのテレビちゅうけいを\n行っているようだ{8400}{8100}",
-   "en": "{8002}{9201}The message board is in TV mode.{8300}{9201}It seems to be showing a Granbo battle broadcast right now.{8400}{8100}",
+   "en": "{8002}{9201}The Message Board is in TV mode.{8300}{9201}It seems to be showing a Granbo battle broadcast right now.{8400}{8100}",
    "status": "translated"
   },
   {
@@ -138,7 +138,7 @@
     14
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": "{8002}Examine message for Work 05{8400}{8100}",
+   "en": "{8002}Work 05 examine message{8400}{8100}",
    "status": "translated"
   },
   {
@@ -147,7 +147,7 @@
     15
    ],
    "jp": "{8002}ワーク06のしらべるメッセージ{8400}{8100}",
-   "en": "{8002}Examine message for Work 06{8400}{8100}",
+   "en": "{8002}Work 06 examine message{8400}{8100}",
    "status": "translated"
   },
   {
