@@ -7,7 +7,8 @@
     "0x290578"
    ],
    "jp": "コンテナ",
-   "en": ""
+   "en": "Container",
+   "status": "translated"
   },
   {
    "id": "s26E3DE",
@@ -16,7 +17,8 @@
     "0x29057c"
    ],
    "jp": "リサイクルボックス",
-   "en": ""
+   "en": "Recycle Box",
+   "status": "translated"
   },
   {
    "id": "s26E3F2",
@@ -25,7 +27,8 @@
     "0x290580"
    ],
    "jp": "タナ",
-   "en": ""
+   "en": "Rack",
+   "status": "translated"
   },
   {
    "id": "s26E3F8",
@@ -34,7 +37,8 @@
     "0x290584"
    ],
    "jp": "ローボード",
-   "en": ""
+   "en": "Cabinet",
+   "status": "translated"
   },
   {
    "id": "s26E404",
@@ -43,7 +47,8 @@
     "0x290588"
    ],
    "jp": "たからばこ",
-   "en": ""
+   "en": "Chest",
+   "status": "translated"
   },
   {
    "id": "s26E410",
@@ -52,7 +57,8 @@
     "0x29058c"
    ],
    "jp": "木ばこ",
-   "en": ""
+   "en": "Crate",
+   "status": "translated"
   },
   {
    "id": "s26E418",
@@ -61,7 +67,8 @@
     "0x290590"
    ],
    "jp": "ロッカー",
-   "en": ""
+   "en": "Locker",
+   "status": "translated"
   },
   {
    "id": "s26E422",
@@ -70,7 +77,8 @@
     "0x290594"
    ],
    "jp": "タル",
-   "en": ""
+   "en": "Cask",
+   "status": "translated"
   },
   {
    "id": "s2797F4",
@@ -97,7 +105,8 @@
     "0x2905c0"
    ],
    "jp": "クロー",
-   "en": ""
+   "en": "Claw",
+   "status": "translated"
   },
   {
    "id": "s279804",
@@ -106,7 +115,8 @@
     "0x2905c4"
    ],
    "jp": "ツメでひっかいて攻撃",
-   "en": ""
+   "en": "Slash with claws",
+   "status": "translated"
   },
   {
    "id": "s27981A",
@@ -115,7 +125,8 @@
     "0x2905c8"
    ],
    "jp": "ツメでコウゲキ",
-   "en": ""
+   "en": "Claw attack",
+   "status": "translated"
   },
   {
    "id": "s27982A",
@@ -124,7 +135,8 @@
     "0x2905cc"
    ],
    "jp": "ウイルスクロー弱",
-   "en": ""
+   "en": "Virus Claw 1",
+   "status": "translated"
   },
   {
    "id": "s27983C",
@@ -133,7 +145,8 @@
     "0x2905d0"
    ],
    "jp": "ツメでひっかいて攻撃\nウイルスにする事がある",
-   "en": ""
+   "en": "Slash with claws\nMay cause Virus",
+   "status": "translated"
   },
   {
    "id": "s27986A",
@@ -142,7 +155,8 @@
     "0x2905d4"
    ],
    "jp": "ツメでコウゲキ      ウイルスにすることがある",
-   "en": ""
+   "en": "Claw attack      May cause Virus",
+   "status": "translated"
   },
   {
    "id": "s27989E",
@@ -151,7 +165,8 @@
     "0x2905d8"
    ],
    "jp": "ウイルスクロー中",
-   "en": ""
+   "en": "Virus Claw 2",
+   "status": "translated"
   },
   {
    "id": "s2798B0",
@@ -160,7 +175,8 @@
     "0x2905dc"
    ],
    "jp": "ツメでひっかいて攻撃\n高いカクリツでウイルスにする",
-   "en": ""
+   "en": "Slash with claws\nHigh chance of Virus",
+   "status": "translated"
   },
   {
    "id": "s2798E4",
@@ -169,7 +185,8 @@
     "0x2905e0"
    ],
    "jp": "ツメでコウゲキ      ウイルスにすることがある",
-   "en": ""
+   "en": "Claw attack      May cause Virus",
+   "status": "translated"
   },
   {
    "id": "s279918",
@@ -178,7 +195,8 @@
     "0x2905e4"
    ],
    "jp": "ウイルスクロー強",
-   "en": ""
+   "en": "Virus Claw 3",
+   "status": "translated"
   },
   {
    "id": "s27992A",
@@ -187,7 +205,8 @@
     "0x2905e8"
    ],
    "jp": "ツメでひっかいて攻撃\nかなり高いカクリツでウイルスにする",
-   "en": ""
+   "en": "Slash with claws\nVery high chance of Virus",
+   "status": "translated"
   },
   {
    "id": "s279964",
@@ -196,7 +215,8 @@
     "0x2905ec"
    ],
    "jp": "ツメでコウゲキ      ウイルスにすることがある",
-   "en": ""
+   "en": "Claw attack      May cause Virus",
+   "status": "translated"
   },
   {
    "id": "s279998",
@@ -205,7 +225,8 @@
     "0x2905f0"
    ],
    "jp": "エラークロー弱",
-   "en": ""
+   "en": "Error Claw 1",
+   "status": "translated"
   },
   {
    "id": "s2799A8",
@@ -214,7 +235,8 @@
     "0x2905f4"
    ],
    "jp": "ツメでひっかいて攻撃\nエラーにする事がある",
-   "en": ""
+   "en": "Slash with claws\nMay cause Error",
+   "status": "translated"
   },
   {
    "id": "s2799D4",
@@ -223,7 +245,8 @@
     "0x2905f8"
    ],
    "jp": "ツメでコウゲキ      エラーにすることがある",
-   "en": ""
+   "en": "Claw attack      May cause Error",
+   "status": "translated"
   },
   {
    "id": "s279A06",
@@ -232,7 +255,8 @@
     "0x2905fc"
    ],
    "jp": "エラークロー中",
-   "en": ""
+   "en": "Error Claw 2",
+   "status": "translated"
   },
   {
    "id": "s279A16",
@@ -241,7 +265,8 @@
     "0x290600"
    ],
    "jp": "ツメでひっかいて攻撃\n高いカクリツでエラーにする",
-   "en": ""
+   "en": "Slash with claws\nHigh chance of Error",
+   "status": "translated"
   },
   {
    "id": "s279A48",
@@ -250,7 +275,8 @@
     "0x290604"
    ],
    "jp": "ツメでコウゲキ      エラーにすることがある",
-   "en": ""
+   "en": "Claw attack      May cause Error",
+   "status": "translated"
   },
   {
    "id": "s279A7A",
@@ -259,7 +285,8 @@
     "0x290608"
    ],
    "jp": "エラークロー強",
-   "en": ""
+   "en": "Error Claw 3",
+   "status": "translated"
   },
   {
    "id": "s279A8A",
@@ -268,7 +295,8 @@
     "0x29060c"
    ],
    "jp": "ツメでひっかいて攻撃\nかなり高いカクリツでエラーにする",
-   "en": ""
+   "en": "Slash with claws\nVery high chance of Error",
+   "status": "translated"
   },
   {
    "id": "s279AC2",
@@ -277,7 +305,8 @@
     "0x290610"
    ],
    "jp": "ツメでコウゲキ      エラーにすることがある",
-   "en": ""
+   "en": "Claw attack      May cause Error",
+   "status": "translated"
   },
   {
    "id": "s279AF4",
@@ -286,7 +315,8 @@
     "0x290614"
    ],
    "jp": "ストップクロー弱",
-   "en": ""
+   "en": "Stop Claw 1",
+   "status": "translated"
   },
   {
    "id": "s279B06",
@@ -295,7 +325,8 @@
     "0x290618"
    ],
    "jp": "ツメでひっかいて攻撃\nストップにする事がある",
-   "en": ""
+   "en": "Slash with claws\nMay cause Stop",
+   "status": "translated"
   },
   {
    "id": "s279B34",
@@ -304,7 +335,8 @@
     "0x29061c"
    ],
    "jp": "ツメでコウゲキ      ストップにすることがある",
-   "en": ""
+   "en": "Claw attack      May cause Stop",
+   "status": "translated"
   },
   {
    "id": "s279B68",
@@ -313,7 +345,8 @@
     "0x290620"
    ],
    "jp": "ストップクロー中",
-   "en": ""
+   "en": "Stop Claw 2",
+   "status": "translated"
   },
   {
    "id": "s279B7A",
@@ -322,7 +355,8 @@
     "0x290624"
    ],
    "jp": "ツメでひっかいて攻撃\n高いカクリツでストップにする",
-   "en": ""
+   "en": "Slash with claws\nHigh chance of Stop",
+   "status": "translated"
   },
   {
    "id": "s279BAE",
@@ -331,7 +365,8 @@
     "0x290628"
    ],
    "jp": "ツメでコウゲキ      ストップにすることがある",
-   "en": ""
+   "en": "Claw attack      May cause Stop",
+   "status": "translated"
   },
   {
    "id": "s279BE2",
@@ -340,7 +375,8 @@
     "0x29062c"
    ],
    "jp": "ストップクロー強",
-   "en": ""
+   "en": "Stop Claw 3",
+   "status": "translated"
   },
   {
    "id": "s279BF4",
@@ -349,7 +385,8 @@
     "0x290630"
    ],
    "jp": "ツメでひっかいて攻撃\nかなり高いカクリツでストップにする",
-   "en": ""
+   "en": "Slash with claws\nVery high chance of Stop",
+   "status": "translated"
   },
   {
    "id": "s279C2E",
@@ -358,7 +395,8 @@
     "0x290634"
    ],
    "jp": "ツメでコウゲキ      ストップにすることがある",
-   "en": ""
+   "en": "Claw attack      May cause Stop",
+   "status": "translated"
   },
   {
    "id": "s279C62",
@@ -367,7 +405,8 @@
     "0x290638"
    ],
    "jp": "ホーン中",
-   "en": ""
+   "en": "Horn 2",
+   "status": "translated"
   },
   {
    "id": "s279C6C",
@@ -394,7 +433,8 @@
     "0x290644"
    ],
    "jp": "ATホーン中",
-   "en": ""
+   "en": "AT Horn 2",
+   "status": "translated"
   },
   {
    "id": "s279C82",
@@ -403,7 +443,8 @@
     "0x290648"
    ],
    "jp": "ツノでつきさして攻撃\nATを下げる事がある",
-   "en": ""
+   "en": "Pierce with horn\nMay lower AT",
+   "status": "translated"
   },
   {
    "id": "s279CAE",
@@ -412,7 +453,8 @@
     "0x29064c"
    ],
    "jp": "ツノでコウゲキ      ATをさげることがある",
-   "en": ""
+   "en": "Horn attack      May lower AT",
+   "status": "translated"
   },
   {
    "id": "s279CE0",
@@ -421,7 +463,8 @@
     "0x290650"
    ],
    "jp": "ATホーン強",
-   "en": ""
+   "en": "AT Horn 3",
+   "status": "translated"
   },
   {
    "id": "s279CEE",
@@ -430,7 +473,8 @@
     "0x290654"
    ],
    "jp": "ツノでつきさして攻撃\n高いカクリツでATを下げる",
-   "en": ""
+   "en": "Pierce with horn\nHigh chance to lower AT",
+   "status": "translated"
   },
   {
    "id": "s279D20",
@@ -439,7 +483,8 @@
     "0x290658"
    ],
    "jp": "ツノでコウゲキ      ATをさげることがある",
-   "en": ""
+   "en": "Horn attack      May lower AT",
+   "status": "translated"
   },
   {
    "id": "s279D52",
@@ -448,7 +493,8 @@
     "0x29065c"
    ],
    "jp": "ATホーン様",
-   "en": ""
+   "en": "AT Horn EX",
+   "status": "translated"
   },
   {
    "id": "s279D60",
@@ -457,7 +503,8 @@
     "0x290660"
    ],
    "jp": "ツノでつきさして攻撃\nかなり高いカクリツでATを下げる",
-   "en": ""
+   "en": "Pierce with horn\nVery high chance to lower AT",
+   "status": "translated"
   },
   {
    "id": "s279D98",
@@ -466,7 +513,8 @@
     "0x290664"
    ],
    "jp": "ツノでコウゲキ      ATをさげることがある",
-   "en": ""
+   "en": "Horn attack      May lower AT",
+   "status": "translated"
   },
   {
    "id": "s279DCA",
@@ -475,7 +523,8 @@
     "0x290668"
    ],
    "jp": "DFホーン弱",
-   "en": ""
+   "en": "DF Horn 1",
+   "status": "translated"
   },
   {
    "id": "s279DD8",
@@ -484,7 +533,8 @@
     "0x29066c"
    ],
    "jp": "ツノでつきさして攻撃\nDFを下げる事がある",
-   "en": ""
+   "en": "Pierce with horn\nMay lower DF",
+   "status": "translated"
   },
   {
    "id": "s279E04",
@@ -493,7 +543,8 @@
     "0x290670"
    ],
    "jp": "ツノでコウゲキ      DFをさげることがある",
-   "en": ""
+   "en": "Horn attack      May lower DF",
+   "status": "translated"
   },
   {
    "id": "s279E36",
@@ -502,7 +553,8 @@
     "0x290674"
    ],
    "jp": "DFホーン中",
-   "en": ""
+   "en": "DF Horn 2",
+   "status": "translated"
   },
   {
    "id": "s279E44",
@@ -511,7 +563,8 @@
     "0x290678"
    ],
    "jp": "ツノでつきさして攻撃\n高いカクリツでDFを下げる",
-   "en": ""
+   "en": "Pierce with horn\nHigh chance to lower DF",
+   "status": "translated"
   },
   {
    "id": "s279E76",
@@ -520,7 +573,8 @@
     "0x29067c"
    ],
    "jp": "ツノでコウゲキ      DFをさげることがある",
-   "en": ""
+   "en": "Horn attack      May lower DF",
+   "status": "translated"
   },
   {
    "id": "s279EA8",
@@ -529,7 +583,8 @@
     "0x290680"
    ],
    "jp": "DFホーン強",
-   "en": ""
+   "en": "DF Horn 3",
+   "status": "translated"
   },
   {
    "id": "s279EB6",
@@ -538,7 +593,8 @@
     "0x290684"
    ],
    "jp": "ツノでつきさして攻撃\nかなり高いカクリツでDFを下げる",
-   "en": ""
+   "en": "Pierce with horn\nVery high chance to lower DF",
+   "status": "translated"
   },
   {
    "id": "s279EEE",
@@ -547,7 +603,8 @@
     "0x290688"
    ],
    "jp": "ツノでコウゲキ      DFをさげることがある",
-   "en": ""
+   "en": "Horn attack      May lower DF",
+   "status": "translated"
   },
   {
    "id": "s279F20",
@@ -556,7 +613,8 @@
     "0x29068c"
    ],
    "jp": "SPホーン中",
-   "en": ""
+   "en": "SP Horn 2",
+   "status": "translated"
   },
   {
    "id": "s279F2E",
@@ -565,7 +623,8 @@
     "0x290690"
    ],
    "jp": "ツノでつきさして攻撃\nSPを下げる事がある",
-   "en": ""
+   "en": "Pierce with horn\nMay lower SP",
+   "status": "translated"
   },
   {
    "id": "s279F5A",
@@ -574,7 +633,8 @@
     "0x290694"
    ],
    "jp": "ツノでコウゲキ      SPをさげることがある",
-   "en": ""
+   "en": "Horn attack      May lower SP",
+   "status": "translated"
   },
   {
    "id": "s279F8C",
@@ -583,7 +643,8 @@
     "0x290698"
    ],
    "jp": "SPホーン強",
-   "en": ""
+   "en": "SP Horn 3",
+   "status": "translated"
   },
   {
    "id": "s279F9A",
@@ -592,7 +653,8 @@
     "0x29069c"
    ],
    "jp": "ツノでつきさして攻撃\n高いカクリツでSPを下げる",
-   "en": ""
+   "en": "Pierce with horn\nHigh chance to lower SP",
+   "status": "translated"
   },
   {
    "id": "s279FCC",
@@ -601,7 +663,8 @@
     "0x2906a0"
    ],
    "jp": "ツノでコウゲキ      SPをさげることがある",
-   "en": ""
+   "en": "Horn attack      May lower SP",
+   "status": "translated"
   },
   {
    "id": "s279FFE",
@@ -610,7 +673,8 @@
     "0x2906a4"
    ],
    "jp": "SPホーン様",
-   "en": ""
+   "en": "SP Horn EX",
+   "status": "translated"
   },
   {
    "id": "s27A00C",
@@ -619,7 +683,8 @@
     "0x2906a8"
    ],
    "jp": "ツノでつきさして攻撃\nかなり高いカクリツでSPを下げる",
-   "en": ""
+   "en": "Horn-stab attack\nVery likely to lower SP",
+   "status": "translated"
   },
   {
    "id": "s27A044",
@@ -628,7 +693,8 @@
     "0x2906ac"
    ],
    "jp": "ツノでコウゲキ      SPをさげることがある",
-   "en": ""
+   "en": "Horn attack      May lower SP",
+   "status": "translated"
   },
   {
    "id": "s27A076",
@@ -637,7 +703,8 @@
     "0x2906b0"
    ],
    "jp": "ALLホーン弱",
-   "en": ""
+   "en": "ALL Horn 1",
+   "status": "translated"
   },
   {
    "id": "s27A086",
@@ -646,7 +713,8 @@
     "0x2906b4"
    ],
    "jp": "ツノでつきさして攻撃\nALLダウンにする事がある",
-   "en": ""
+   "en": "Horn-stab attack\nMay inflict ALL Down",
+   "status": "translated"
   },
   {
    "id": "s27A0B8",
@@ -655,7 +723,8 @@
     "0x2906b8"
    ],
    "jp": "ツノでコウゲキ      ALLダウンにすることも",
-   "en": ""
+   "en": "Horn attack      May inflict ALL Down",
+   "status": "translated"
   },
   {
    "id": "s27A0EC",
@@ -664,7 +733,8 @@
     "0x2906bc"
    ],
    "jp": "ALLホーン中",
-   "en": ""
+   "en": "ALL Horn 2",
+   "status": "translated"
   },
   {
    "id": "s27A0FC",
@@ -673,7 +743,8 @@
     "0x2906c0"
    ],
    "jp": "ツノでつきさして攻撃\n高いカクリツでALLダウンにする",
-   "en": ""
+   "en": "Horn-stab attack\nLikely to inflict ALL Down",
+   "status": "translated"
   },
   {
    "id": "s27A134",
@@ -682,7 +753,8 @@
     "0x2906c4"
    ],
    "jp": "ツノでコウゲキ      ALLダウンにすることも",
-   "en": ""
+   "en": "Horn attack      May inflict ALL Down",
+   "status": "translated"
   },
   {
    "id": "s27A168",
@@ -691,7 +763,8 @@
     "0x2906c8"
    ],
    "jp": "ALLホーン強",
-   "en": ""
+   "en": "ALL Horn 3",
+   "status": "translated"
   },
   {
    "id": "s27A178",
@@ -700,7 +773,8 @@
     "0x2906cc"
    ],
    "jp": "ツノでつきさして攻撃\nかなり高いカクリツでALLダウンにする",
-   "en": ""
+   "en": "Horn-stab attack\nVery likely to inflict ALL Down",
+   "status": "translated"
   },
   {
    "id": "s27A1B6",
@@ -709,7 +783,8 @@
     "0x2906d0"
    ],
    "jp": "ツノでコウゲキ      ALLダウンにすることも",
-   "en": ""
+   "en": "Horn attack      May inflict ALL Down",
+   "status": "translated"
   },
   {
    "id": "s27A1EA",
@@ -718,7 +793,8 @@
     "0x2906d4"
    ],
    "jp": "キック",
-   "en": ""
+   "en": "Kick",
+   "status": "translated"
   },
   {
    "id": "s27A1F2",
@@ -727,7 +803,8 @@
     "0x2906d8"
    ],
    "jp": "キックで攻撃",
-   "en": ""
+   "en": "Kick attack",
+   "status": "translated"
   },
   {
    "id": "s27A200",
@@ -736,7 +813,8 @@
     "0x2906dc"
    ],
    "jp": "キックでコウゲキ",
-   "en": ""
+   "en": "Kick attack",
+   "status": "translated"
   },
   {
    "id": "s27A212",
@@ -745,7 +823,8 @@
     "0x2906e0"
    ],
    "jp": "ワザ止めキック弱",
-   "en": ""
+   "en": "Move-Stop Kick 1",
+   "status": "translated"
   },
   {
    "id": "s27A224",
@@ -754,7 +833,8 @@
     "0x2906e4"
    ],
    "jp": "キックで攻撃\nワザをふうじる事がある",
-   "en": ""
+   "en": "Kick attack\nMay seal moves",
+   "status": "translated"
   },
   {
    "id": "s27A24A",
@@ -763,7 +843,8 @@
     "0x2906e8"
    ],
    "jp": "キックでコウゲキ     ワザをふうじることがある",
-   "en": ""
+   "en": "Kick attack     May seal moves",
+   "status": "translated"
   },
   {
    "id": "s27A27E",
@@ -772,7 +853,8 @@
     "0x2906ec"
    ],
    "jp": "ワザ止めキック中",
-   "en": ""
+   "en": "Move-Stop Kick 2",
+   "status": "translated"
   },
   {
    "id": "s27A290",
@@ -781,7 +863,8 @@
     "0x2906f0"
    ],
    "jp": "キックで攻撃\n高いカクリツでワザをふうじる",
-   "en": ""
+   "en": "Kick attack\nLikely to seal moves",
+   "status": "translated"
   },
   {
    "id": "s27A2BC",
@@ -790,7 +873,8 @@
     "0x2906f4"
    ],
    "jp": "キックでコウゲキ     ワザをふうじることがある",
-   "en": ""
+   "en": "Kick attack     May seal moves",
+   "status": "translated"
   },
   {
    "id": "s27A2F0",
@@ -799,7 +883,8 @@
     "0x2906f8"
    ],
    "jp": "ワザ止めキック強",
-   "en": ""
+   "en": "Move-Stop Kick 3",
+   "status": "translated"
   },
   {
    "id": "s27A302",
@@ -808,7 +893,8 @@
     "0x2906fc"
    ],
    "jp": "キックで攻撃\nかなり高いカクリツでワザをふうじる",
-   "en": ""
+   "en": "Kick attack\nVery likely to seal moves",
+   "status": "translated"
   },
   {
    "id": "s27A334",
@@ -817,7 +903,8 @@
     "0x290700"
    ],
    "jp": "キックでコウゲキ     ワザをふうじることがある",
-   "en": ""
+   "en": "Kick attack     May seal moves",
+   "status": "translated"
   },
   {
    "id": "s27A368",
@@ -826,7 +913,8 @@
     "0x290704"
    ],
    "jp": "ヒット中",
-   "en": ""
+   "en": "Hit 2",
+   "status": "translated"
   },
   {
    "id": "s27A372",
@@ -835,7 +923,8 @@
     "0x290708"
    ],
    "jp": "体当たりで攻撃",
-   "en": ""
+   "en": "Tackle attack",
+   "status": "translated"
   },
   {
    "id": "s27A382",
@@ -844,7 +933,8 @@
     "0x29070c"
    ],
    "jp": "たいあたりでコウゲキ",
-   "en": ""
+   "en": "Tackle attack",
+   "status": "translated"
   },
   {
    "id": "s27A398",
@@ -853,7 +943,8 @@
     "0x290710"
    ],
    "jp": "ヒット強",
-   "en": ""
+   "en": "Hit 3",
+   "status": "translated"
   },
   {
    "id": "s27A3A2",
@@ -862,7 +953,8 @@
     "0x290714"
    ],
    "jp": "体当たりで攻撃",
-   "en": ""
+   "en": "Tackle attack",
+   "status": "translated"
   },
   {
    "id": "s27A3B2",
@@ -871,7 +963,8 @@
     "0x290718"
    ],
    "jp": "たいあたりでコウゲキ",
-   "en": ""
+   "en": "Tackle attack",
+   "status": "translated"
   },
   {
    "id": "s27A3C8",
@@ -880,7 +973,8 @@
     "0x29071c"
    ],
    "jp": "ヒット様",
-   "en": ""
+   "en": "Hit EX",
+   "status": "translated"
   },
   {
    "id": "s27A3D2",
@@ -889,7 +983,8 @@
     "0x290720"
    ],
    "jp": "体当たりで攻撃",
-   "en": ""
+   "en": "Tackle attack",
+   "status": "translated"
   },
   {
    "id": "s27A3E2",
@@ -898,7 +993,8 @@
     "0x290724"
    ],
    "jp": "たいあたりでコウゲキ",
-   "en": ""
+   "en": "Tackle attack",
+   "status": "translated"
   },
   {
    "id": "s27A3F8",
@@ -907,7 +1003,8 @@
     "0x290728"
    ],
    "jp": "キバ弱",
-   "en": ""
+   "en": "Fang 1",
+   "status": "translated"
   },
   {
    "id": "s27A400",
@@ -916,7 +1013,8 @@
     "0x29072c"
    ],
    "jp": "キバでかみついて攻撃\n使いつづけるといりょくが上がる",
-   "en": ""
+   "en": "Fang bite attack\nGets stronger with each use",
+   "status": "translated"
   },
   {
    "id": "s27A436",
@@ -925,7 +1023,8 @@
     "0x290730"
    ],
    "jp": "キバでコウゲキ      つづけてつかうとつよくなる",
-   "en": ""
+   "en": "Fang attack      Stronger with repeated use",
+   "status": "translated"
   },
   {
    "id": "s27A46C",
@@ -934,7 +1033,8 @@
     "0x290734"
    ],
    "jp": "キバ中",
-   "en": ""
+   "en": "Fang 2",
+   "status": "translated"
   },
   {
    "id": "s27A474",
@@ -943,7 +1043,8 @@
     "0x290738"
    ],
    "jp": "キバでかみついて攻撃\n使いつづけるといりょくが上がる",
-   "en": ""
+   "en": "Fang bite attack\nGets stronger with each use",
+   "status": "translated"
   },
   {
    "id": "s27A4AA",
@@ -952,7 +1053,8 @@
     "0x29073c"
    ],
    "jp": "キバでコウゲキ      つづけてつかうとつよくなる",
-   "en": ""
+   "en": "Fang attack      Stronger with repeated use",
+   "status": "translated"
   },
   {
    "id": "s27A4E0",
@@ -961,7 +1063,8 @@
     "0x290740"
    ],
    "jp": "キバ強",
-   "en": ""
+   "en": "Fang 3",
+   "status": "translated"
   },
   {
    "id": "s27A4E8",
@@ -970,7 +1073,8 @@
     "0x290744"
    ],
    "jp": "キバでかみついて攻撃\n使いつづけるといりょくが上がる",
-   "en": ""
+   "en": "Fang bite attack\nGets stronger with each use",
+   "status": "translated"
   },
   {
    "id": "s27A51E",
@@ -979,7 +1083,8 @@
     "0x290748"
    ],
    "jp": "つかいつづけると     いりょくがあがる",
-   "en": ""
+   "en": "Keep using it     and its power rises",
+   "status": "translated"
   },
   {
    "id": "s27A54A",
@@ -988,7 +1093,8 @@
     "0x29074c"
    ],
    "jp": "プレス弱",
-   "en": ""
+   "en": "Press 1",
+   "status": "translated"
   },
   {
    "id": "s27A554",
@@ -997,7 +1103,8 @@
     "0x290750"
    ],
    "jp": "ジャンプでふみつぶす攻撃\nいりょくは高いが、攻撃するのは最後になる",
-   "en": ""
+   "en": "Jumping stomp attack\nPowerful, but always attacks last",
+   "status": "translated"
   },
   {
    "id": "s27A598",
@@ -1006,7 +1113,8 @@
     "0x290754"
    ],
    "jp": "ふみつぶすコウゲキ    つよいがコウゲキはさいごに",
-   "en": ""
+   "en": "Stomp attack     Strong, but goes last",
+   "status": "translated"
   },
   {
    "id": "s27A5CE",
@@ -1015,7 +1123,8 @@
     "0x290758"
    ],
    "jp": "プレス中",
-   "en": ""
+   "en": "Press 2",
+   "status": "translated"
   },
   {
    "id": "s27A5D8",
@@ -1024,7 +1133,8 @@
     "0x29075c"
    ],
    "jp": "ジャンプでふみつぶす攻撃\nいりょくは高いが、攻撃するのは最後になる",
-   "en": ""
+   "en": "Jumping stomp attack\nPowerful, but always attacks last",
+   "status": "translated"
   },
   {
    "id": "s27A61C",
@@ -1033,7 +1143,8 @@
     "0x290760"
    ],
    "jp": "ふみつぶすコウゲキ    つよいがコウゲキはさいごに",
-   "en": ""
+   "en": "Stomp attack     Strong, but goes last",
+   "status": "translated"
   },
   {
    "id": "s27A652",
@@ -1042,7 +1153,8 @@
     "0x290764"
    ],
    "jp": "プレス強",
-   "en": ""
+   "en": "Press 3",
+   "status": "translated"
   },
   {
    "id": "s27A65C",
@@ -1051,7 +1163,8 @@
     "0x290768"
    ],
    "jp": "ジャンプでふみつぶす攻撃\nいりょくは高いが、攻撃するのは最後になる",
-   "en": ""
+   "en": "Jumping stomp attack\nPowerful, but always attacks last",
+   "status": "translated"
   },
   {
    "id": "s27A6A0",
@@ -1060,7 +1173,8 @@
     "0x29076c"
    ],
    "jp": "ふみつぶすコウゲキ    つよいが、コウゲキはさいご",
-   "en": ""
+   "en": "Stomp attack     Strong, but goes last",
+   "status": "translated"
   },
   {
    "id": "s27A6D6",
@@ -1069,7 +1183,8 @@
     "0x290770"
    ],
    "jp": "ダイブ中",
-   "en": ""
+   "en": "Dive 2",
+   "status": "translated"
   },
   {
    "id": "s27A6E0",
@@ -1078,7 +1193,8 @@
     "0x290774"
    ],
    "jp": "空から飛びかかる攻撃\nクリティカルする事がある",
-   "en": ""
+   "en": "Aerial dive attack\nMay land a critical",
+   "status": "translated"
   },
   {
    "id": "s27A710",
@@ -1087,7 +1203,8 @@
     "0x290778"
    ],
    "jp": "そらからとびかかるコウゲキクリティカルすることがある",
-   "en": ""
+   "en": "Dive from the sky  May land a critical",
+   "status": "translated"
   },
   {
    "id": "s27A746",
@@ -1096,7 +1213,8 @@
     "0x29077c"
    ],
    "jp": "ダイブ強",
-   "en": ""
+   "en": "Dive 3",
+   "status": "translated"
   },
   {
    "id": "s27A750",
@@ -1105,7 +1223,8 @@
     "0x290780"
    ],
    "jp": "空から飛びかかる攻撃\nクリティカルする事がある",
-   "en": ""
+   "en": "Aerial dive attack\nMay land a critical",
+   "status": "translated"
   },
   {
    "id": "s27A780",
@@ -1114,7 +1233,8 @@
     "0x290784"
    ],
    "jp": "そらからとびかかるコウゲキクリティカルすることがある",
-   "en": ""
+   "en": "Dive from the sky  May land a critical",
+   "status": "translated"
   },
   {
    "id": "s27A7B6",
@@ -1123,7 +1243,8 @@
     "0x290788"
    ],
    "jp": "ダイブ様",
-   "en": ""
+   "en": "Dive EX",
+   "status": "translated"
   },
   {
    "id": "s27A7C0",
@@ -1132,7 +1253,8 @@
     "0x29078c"
    ],
    "jp": "空から飛びかかる攻撃\nクリティカルする事がある",
-   "en": ""
+   "en": "Aerial dive attack\nMay land a critical",
+   "status": "translated"
   },
   {
    "id": "s27A7F0",
@@ -1141,7 +1263,8 @@
     "0x290790"
    ],
    "jp": "そらからとびかかるコウゲキクリティカルすることがある",
-   "en": ""
+   "en": "Dive from the sky  May land a critical",
+   "status": "translated"
   },
   {
    "id": "s27A826",
@@ -1150,7 +1273,8 @@
     "0x290794"
    ],
    "jp": "パンチ中",
-   "en": ""
+   "en": "Punch 2",
+   "status": "translated"
   },
   {
    "id": "s27A830",
@@ -1159,7 +1283,8 @@
     "0x290798"
    ],
    "jp": "パンチで攻撃\nいりょくは高いが、かわされやすい",
-   "en": ""
+   "en": "Punches\nPowerful, but easy to dodge",
+   "status": "translated"
   },
   {
    "id": "s27A860",
@@ -1168,7 +1293,8 @@
     "0x29079c"
    ],
    "jp": "パンチでコウゲキ     つよいが、かわされることも",
-   "en": ""
+   "en": "Punch attack     Strong, but may be dodged",
+   "status": "translated"
   },
   {
    "id": "s27A896",
@@ -1177,7 +1303,8 @@
     "0x2907a0"
    ],
    "jp": "パンチ中",
-   "en": ""
+   "en": "Punch 2",
+   "status": "translated"
   },
   {
    "id": "s27A8A0",
@@ -1204,7 +1331,8 @@
     "0x2907ac"
    ],
    "jp": "パンチ中",
-   "en": ""
+   "en": "Punch 2",
+   "status": "translated"
   },
   {
    "id": "s27A8B2",
@@ -1231,7 +1359,8 @@
     "0x2907b8"
    ],
    "jp": "パンチ強",
-   "en": ""
+   "en": "Punch 3",
+   "status": "translated"
   },
   {
    "id": "s27A8C4",
@@ -1240,7 +1369,8 @@
     "0x2907bc"
    ],
    "jp": "パンチで攻撃\nいりょくは高いが、かわされやすい",
-   "en": ""
+   "en": "Punches\nPowerful, but easy to dodge",
+   "status": "translated"
   },
   {
    "id": "s27A8F4",
@@ -1249,7 +1379,8 @@
     "0x2907c0"
    ],
    "jp": "パンチでコウゲキ     つよいが、かわされることも",
-   "en": ""
+   "en": "Punch attack     Strong, but may be dodged",
+   "status": "translated"
   },
   {
    "id": "s27A92A",
@@ -1258,7 +1389,8 @@
     "0x2907c4"
    ],
    "jp": "パンチ強",
-   "en": ""
+   "en": "Punch 3",
+   "status": "translated"
   },
   {
    "id": "s27A934",
@@ -1285,7 +1417,8 @@
     "0x2907d0"
    ],
    "jp": "パンチ強",
-   "en": ""
+   "en": "Punch 3",
+   "status": "translated"
   },
   {
    "id": "s27A946",
@@ -1312,7 +1445,8 @@
     "0x2907dc"
    ],
    "jp": "パンチ様",
-   "en": ""
+   "en": "Punch EX",
+   "status": "translated"
   },
   {
    "id": "s27A958",
@@ -1321,7 +1455,8 @@
     "0x2907e0"
    ],
    "jp": "パンチで攻撃\nいりょくは高いが、かわされやすい",
-   "en": ""
+   "en": "Punches\nPowerful, but easy to dodge",
+   "status": "translated"
   },
   {
    "id": "s27A988",
@@ -1330,7 +1465,8 @@
     "0x2907e4"
    ],
    "jp": "パンチでこうげき     つよいが、かわされることも",
-   "en": ""
+   "en": "Punch attack     Strong, but may be dodged",
+   "status": "translated"
   },
   {
    "id": "s27A9BE",
@@ -1339,7 +1475,8 @@
     "0x2907e8"
    ],
    "jp": "パンチ様",
-   "en": ""
+   "en": "Punch EX",
+   "status": "translated"
   },
   {
    "id": "s27A9C8",
@@ -1366,7 +1503,8 @@
     "0x2907f4"
    ],
    "jp": "パンチ様",
-   "en": ""
+   "en": "Punch EX",
+   "status": "translated"
   },
   {
    "id": "s27A9DA",
@@ -1393,7 +1531,8 @@
     "0x290800"
    ],
    "jp": "ルーレットボム弱",
-   "en": ""
+   "en": "Roulette Bomb 1",
+   "status": "translated"
   },
   {
    "id": "s27A9F4",
@@ -1402,7 +1541,8 @@
     "0x290804"
    ],
    "jp": "ボムで攻撃\nいりょくは高いが、だれに当たるかわからない",
-   "en": ""
+   "en": "Bombing\nPowerful, but it could hit anyone",
+   "status": "translated"
   },
   {
    "id": "s27AA2C",
@@ -1411,7 +1551,8 @@
     "0x290808"
    ],
    "jp": "きょうりょくボムでこうげきだれにあたるかわからない",
-   "en": ""
+   "en": "Big bomb attack  Could hit anyone",
+   "status": "translated"
   },
   {
    "id": "s27AA60",
@@ -1420,7 +1561,8 @@
     "0x29080c"
    ],
    "jp": "ルーレットボム中",
-   "en": ""
+   "en": "Roulette Bomb 2",
+   "status": "translated"
   },
   {
    "id": "s27AA72",
@@ -1429,7 +1571,8 @@
     "0x290810"
    ],
    "jp": "ボムで攻撃\nいりょくは高いが、だれに当たるかわからない",
-   "en": ""
+   "en": "Bombing\nPowerful, but it could hit anyone",
+   "status": "translated"
   },
   {
    "id": "s27AAAA",
@@ -1438,7 +1581,8 @@
     "0x290814"
    ],
    "jp": "きょうりょくボムでこうげきだれにあたるかわからない",
-   "en": ""
+   "en": "Big bomb attack  Could hit anyone",
+   "status": "translated"
   },
   {
    "id": "s27AADE",
@@ -1447,7 +1591,8 @@
     "0x290818"
    ],
    "jp": "ルーレットボム強",
-   "en": ""
+   "en": "Roulette Bomb 3",
+   "status": "translated"
   },
   {
    "id": "s27AAF0",
@@ -1456,7 +1601,8 @@
     "0x29081c"
    ],
    "jp": "ボムで攻撃\nいりょくは高いが、だれに当たるかわからない",
-   "en": ""
+   "en": "Bombing\nPowerful, but it could hit anyone",
+   "status": "translated"
   },
   {
    "id": "s27AB28",
@@ -1465,7 +1611,8 @@
     "0x290820"
    ],
    "jp": "きょうりょくボムでこうげきだれにあたるかわからない",
-   "en": ""
+   "en": "Big bomb attack  Could hit anyone",
+   "status": "translated"
   },
   {
    "id": "s27AB5C",
@@ -1474,7 +1621,8 @@
     "0x290824"
    ],
    "jp": "トツゲキ中",
-   "en": ""
+   "en": "Rush 2",
+   "status": "translated"
   },
   {
    "id": "s27AB68",
@@ -1483,7 +1631,8 @@
     "0x290828"
    ],
    "jp": "トツゲキして攻撃\nいりょくは高いが、攻撃するのは次のターン",
-   "en": ""
+   "en": "Rush attack\nPowerful, but hits on the next turn",
+   "status": "translated"
   },
   {
    "id": "s27ABA4",
@@ -1492,7 +1641,8 @@
     "0x29082c"
    ],
    "jp": "トツゲキしてコウゲキ   つよいが、2ターンつかう",
-   "en": ""
+   "en": "Rush attack      Strong, but takes 2 turns",
+   "status": "translated"
   },
   {
    "id": "s27ABD8",
@@ -1501,7 +1651,8 @@
     "0x290830"
    ],
    "jp": "トツゲキ中",
-   "en": ""
+   "en": "Rush 2",
+   "status": "translated"
   },
   {
    "id": "s27ABE4",
@@ -1528,7 +1679,8 @@
     "0x29083c"
    ],
    "jp": "トツゲキ強",
-   "en": ""
+   "en": "Rush 3",
+   "status": "translated"
   },
   {
    "id": "s27ABF8",
@@ -1537,7 +1689,8 @@
     "0x290840"
    ],
    "jp": "トツゲキして攻撃\nいりょくは高いが、攻撃するのは次のターン",
-   "en": ""
+   "en": "Rush attack\nPowerful, but hits on the next turn",
+   "status": "translated"
   },
   {
    "id": "s27AC34",
@@ -1546,7 +1699,8 @@
     "0x290844"
    ],
    "jp": "トツゲキしてコウゲキ   つよいが、2ターンつかう",
-   "en": ""
+   "en": "Rush attack      Strong, but takes 2 turns",
+   "status": "translated"
   },
   {
    "id": "s27AC68",
@@ -1555,7 +1709,8 @@
     "0x290848"
    ],
    "jp": "トツゲキ強",
-   "en": ""
+   "en": "Rush 3",
+   "status": "translated"
   },
   {
    "id": "s27AC74",
@@ -1582,7 +1737,8 @@
     "0x290854"
    ],
    "jp": "トツゲキ様",
-   "en": ""
+   "en": "Rush EX",
+   "status": "translated"
   },
   {
    "id": "s27AC88",
@@ -1591,7 +1747,8 @@
     "0x290858"
    ],
    "jp": "トツゲキして攻撃\nいりょくは高いが、攻撃するのは次のターン",
-   "en": ""
+   "en": "Rush attack\nPowerful, but hits on the next turn",
+   "status": "translated"
   },
   {
    "id": "s27ACC4",
@@ -1600,7 +1757,8 @@
     "0x29085c"
    ],
    "jp": "トツゲキしてコウゲキ   つよいが、2ターンつかう",
-   "en": ""
+   "en": "Rush attack      Strong, but takes 2 turns",
+   "status": "translated"
   },
   {
    "id": "s27ACF8",
@@ -1609,7 +1767,8 @@
     "0x290860"
    ],
    "jp": "トツゲキ様",
-   "en": ""
+   "en": "Rush EX",
+   "status": "translated"
   },
   {
    "id": "s27AD04",
@@ -1636,7 +1795,8 @@
     "0x29086c"
    ],
    "jp": "あいうち弱",
-   "en": ""
+   "en": "Clash 1",
+   "status": "translated"
   },
   {
    "id": "s27AD18",
@@ -1645,7 +1805,8 @@
     "0x290870"
    ],
    "jp": "ゼンリョクで攻撃\nいりょくは高いが、自分もダメージをうけてしまう",
-   "en": ""
+   "en": "All-out attack\nPowerful, but the user takes damage too",
+   "status": "translated"
   },
   {
    "id": "s27AD5A",
@@ -1654,7 +1815,8 @@
     "0x290874"
    ],
    "jp": "ゼンリョクでコウゲキ   つよいがジブンにもダメージ",
-   "en": ""
+   "en": "All-out attack   Strong, but hurts the user too",
+   "status": "translated"
   },
   {
    "id": "s27AD90",
@@ -1663,7 +1825,8 @@
     "0x290878"
    ],
    "jp": "あいうち中",
-   "en": ""
+   "en": "Clash 2",
+   "status": "translated"
   },
   {
    "id": "s27AD9C",
@@ -1672,7 +1835,8 @@
     "0x29087c"
    ],
    "jp": "ゼンリョクで攻撃\nいりょくは高いが、自分もダメージをうけてしまう",
-   "en": ""
+   "en": "All-out attack\nPowerful, but the user takes damage too",
+   "status": "translated"
   },
   {
    "id": "s27ADDE",
@@ -1681,7 +1845,8 @@
     "0x290880"
    ],
    "jp": "ゼンリョクでコウゲキ   つよいがジブンにもダメージ",
-   "en": ""
+   "en": "All-out attack   Strong, but hurts the user too",
+   "status": "translated"
   },
   {
    "id": "s27AE14",
@@ -1690,7 +1855,8 @@
     "0x290884"
    ],
    "jp": "あいうち強",
-   "en": ""
+   "en": "Clash 3",
+   "status": "translated"
   },
   {
    "id": "s27AE20",
@@ -1699,7 +1865,8 @@
     "0x290888"
    ],
    "jp": "ゼンリョクで攻撃\nいりょくは高いが、自分もダメージをうけてしまう",
-   "en": ""
+   "en": "All-out attack\nPowerful, but the user takes damage too",
+   "status": "translated"
   },
   {
    "id": "s27AE62",
@@ -1708,7 +1875,8 @@
     "0x29088c"
    ],
    "jp": "ゼンリョクでコウゲキ   つよいがジブンにもダメージ",
-   "en": ""
+   "en": "All-out attack   Strong, but hurts the user too",
+   "status": "translated"
   },
   {
    "id": "s27AE98",
@@ -1717,7 +1885,8 @@
     "0x290890"
    ],
    "jp": "カット弱",
-   "en": ""
+   "en": "Cut 1",
+   "status": "translated"
   },
   {
    "id": "s27AEA2",
@@ -1726,7 +1895,8 @@
     "0x290894"
    ],
    "jp": "きりさく攻撃\n敵を一撃でたおす事もある",
-   "en": ""
+   "en": "Slashes\nMay KO a foe in one hit",
+   "status": "translated"
   },
   {
    "id": "s27AECA",
@@ -1735,7 +1905,8 @@
     "0x290898"
    ],
    "jp": "きりさくコウゲキ     イチゲキでたおせることも",
-   "en": ""
+   "en": "Slash attack     May KO in one hit",
+   "status": "translated"
   },
   {
    "id": "s27AEFE",
@@ -1744,7 +1915,8 @@
     "0x29089c"
    ],
    "jp": "カット中",
-   "en": ""
+   "en": "Cut 2",
+   "status": "translated"
   },
   {
    "id": "s27AF08",
@@ -1753,7 +1925,8 @@
     "0x2908a0"
    ],
    "jp": "きりさく攻撃\n敵を一撃でたおす事もある",
-   "en": ""
+   "en": "Slashes\nMay KO a foe in one hit",
+   "status": "translated"
   },
   {
    "id": "s27AF30",
@@ -1762,7 +1935,8 @@
     "0x2908a4"
    ],
    "jp": "きりさくコウゲキ     イチゲキでたおせることも",
-   "en": ""
+   "en": "Slash attack     May KO in one hit",
+   "status": "translated"
   },
   {
    "id": "s27AF64",
@@ -1771,7 +1945,8 @@
     "0x2908a8"
    ],
    "jp": "カット強",
-   "en": ""
+   "en": "Cut 3",
+   "status": "translated"
   },
   {
    "id": "s27AF6E",
@@ -1780,7 +1955,8 @@
     "0x2908ac"
    ],
    "jp": "きりさく攻撃\n敵を一撃でたおす事もある",
-   "en": ""
+   "en": "Slashes\nMay KO a foe in one hit",
+   "status": "translated"
   },
   {
    "id": "s27AF96",
@@ -1789,7 +1965,8 @@
     "0x2908b0"
    ],
    "jp": "きりさくコウゲキ     イチゲキでたおせることも",
-   "en": ""
+   "en": "Slash attack     May KO in one hit",
+   "status": "translated"
   },
   {
    "id": "s27AFCA",
@@ -1798,7 +1975,8 @@
     "0x2908b4"
    ],
    "jp": "すて身中",
-   "en": ""
+   "en": "Gambit 2",
+   "status": "translated"
   },
   {
    "id": "s27AFD4",
@@ -1807,7 +1985,8 @@
     "0x2908b8"
    ],
    "jp": "キケンをかえりみずに攻撃\nいりょくは高いが、使用後は戦闘不能になってしまう",
-   "en": ""
+   "en": "Reckless attack\nPowerful, but the user is KO'd after use",
+   "status": "translated"
   },
   {
    "id": "s27B020",
@@ -1816,7 +1995,8 @@
     "0x2908bc"
    ],
    "jp": "すてみのコウゲキ     つかうとセントウフノウに",
-   "en": ""
+   "en": "Reckless attack  User is KO'd after use",
+   "status": "translated"
   },
   {
    "id": "s27B054",
@@ -1825,7 +2005,8 @@
     "0x2908c0"
    ],
    "jp": "すて身強",
-   "en": ""
+   "en": "Gambit 3",
+   "status": "translated"
   },
   {
    "id": "s27B05E",
@@ -1834,7 +2015,8 @@
     "0x2908c4"
    ],
    "jp": "キケンをかえりみずに攻撃\nいりょくは高いが、使用後は戦闘不能になってしまう",
-   "en": ""
+   "en": "Reckless attack\nPowerful, but the user is KO'd after use",
+   "status": "translated"
   },
   {
    "id": "s27B0AA",
@@ -1843,7 +2025,8 @@
     "0x2908c8"
    ],
    "jp": "すてみのコウゲキ     つかうとセントウフノウに",
-   "en": ""
+   "en": "Reckless attack  User is KO'd after use",
+   "status": "translated"
   },
   {
    "id": "s27B0DE",
@@ -1852,7 +2035,8 @@
     "0x2908cc"
    ],
    "jp": "すて身様",
-   "en": ""
+   "en": "Gambit EX",
+   "status": "translated"
   },
   {
    "id": "s27B0E8",
@@ -1861,7 +2045,8 @@
     "0x2908d0"
    ],
    "jp": "キケンをかえりみずに攻撃\nいりょくは高いが、使用後は戦闘不能になってしまう",
-   "en": ""
+   "en": "Reckless attack\nPowerful, but the user is KO'd after use",
+   "status": "translated"
   },
   {
    "id": "s27B134",
@@ -1870,7 +2055,8 @@
     "0x2908d4"
    ],
    "jp": "すてみのコウゲキ     つかうとセントウフノウに",
-   "en": ""
+   "en": "Reckless attack  User is KO'd after use",
+   "status": "translated"
   },
   {
    "id": "s27B168",
@@ -1879,7 +2065,8 @@
     "0x2908d8"
    ],
    "jp": "ボム強",
-   "en": ""
+   "en": "Bomb 3",
+   "status": "translated"
   },
   {
    "id": "s27B170",
@@ -1888,7 +2075,8 @@
     "0x2908dc"
    ],
    "jp": "全体にボムで攻撃",
-   "en": ""
+   "en": "Bombs all foes",
+   "status": "translated"
   },
   {
    "id": "s27B182",
@@ -1897,7 +2085,8 @@
     "0x2908e0"
    ],
    "jp": "ゼンタイにボムでコウゲキ",
-   "en": ""
+   "en": "Bomb attack on all foes",
+   "status": "translated"
   },
   {
    "id": "s27B19C",
@@ -1906,7 +2095,8 @@
     "0x2908e4"
    ],
    "jp": "ウイルスボム弱",
-   "en": ""
+   "en": "Virus Bomb 1",
+   "status": "translated"
   },
   {
    "id": "s27B1AC",
@@ -1915,7 +2105,8 @@
     "0x2908e8"
    ],
    "jp": "全体にボムで攻撃\nウイルスにする事がある",
-   "en": ""
+   "en": "Bombs all foes\nMay inflict Virus",
+   "status": "translated"
   },
   {
    "id": "s27B1D6",
@@ -1924,7 +2115,8 @@
     "0x2908ec"
    ],
    "jp": "ゼンタイにボムでコウゲキ ウイルスにすることがある",
-   "en": ""
+   "en": "Bombs all foes   May inflict Virus",
+   "status": "translated"
   },
   {
    "id": "s27B20A",
@@ -1933,7 +2125,8 @@
     "0x2908f0"
    ],
    "jp": "ウイルスボム中",
-   "en": ""
+   "en": "Virus Bomb 2",
+   "status": "translated"
   },
   {
    "id": "s27B21A",
@@ -1942,7 +2135,8 @@
     "0x2908f4"
    ],
    "jp": "全体にボムで攻撃\n高いカクリツでウイルスにする",
-   "en": ""
+   "en": "Bombs all foes\nLikely to inflict Virus",
+   "status": "translated"
   },
   {
    "id": "s27B24A",
@@ -1951,7 +2145,8 @@
     "0x2908f8"
    ],
    "jp": "ゼンタイにボムでコウゲキ ウイルスにすることがある",
-   "en": ""
+   "en": "Bombs all foes   May inflict Virus",
+   "status": "translated"
   },
   {
    "id": "s27B27E",
@@ -1960,7 +2155,8 @@
     "0x2908fc"
    ],
    "jp": "ウイルスボム強",
-   "en": ""
+   "en": "Virus Bomb 3",
+   "status": "translated"
   },
   {
    "id": "s27B28E",
@@ -1969,7 +2165,8 @@
     "0x290900"
    ],
    "jp": "全体にボムで攻撃\nかなり高いカクリツでウイルスにする",
-   "en": ""
+   "en": "Bombs all foes\nVery likely to inflict Virus",
+   "status": "translated"
   },
   {
    "id": "s27B2C4",
@@ -1978,7 +2175,8 @@
     "0x290904"
    ],
    "jp": "ゼンタイにボムでコウゲキ ウイルスにすることがある",
-   "en": ""
+   "en": "Bombs all foes   May inflict Virus",
+   "status": "translated"
   },
   {
    "id": "s27B2F8",
@@ -1987,7 +2185,8 @@
     "0x290908"
    ],
    "jp": "エラーボム弱",
-   "en": ""
+   "en": "Error Bomb 1",
+   "status": "translated"
   },
   {
    "id": "s27B306",
@@ -1996,7 +2195,8 @@
     "0x29090c"
    ],
    "jp": "全体にボムで攻撃\nエラーにする事がある",
-   "en": ""
+   "en": "Bombs all foes\nMay inflict Error",
+   "status": "translated"
   },
   {
    "id": "s27B32E",
@@ -2005,7 +2205,8 @@
     "0x290910"
    ],
    "jp": "ゼンタイにボムでコウゲキ エラーにすることがある",
-   "en": ""
+   "en": "Bombs all foes   May inflict Error",
+   "status": "translated"
   },
   {
    "id": "s27B360",
@@ -2014,7 +2215,8 @@
     "0x290914"
    ],
    "jp": "エラーボム中",
-   "en": ""
+   "en": "Error Bomb 2",
+   "status": "translated"
   },
   {
    "id": "s27B36E",
@@ -2023,7 +2225,8 @@
     "0x290918"
    ],
    "jp": "全体にボムで攻撃\n高いカクリツでエラーにする",
-   "en": ""
+   "en": "Bombs all foes\nLikely to inflict Error",
+   "status": "translated"
   },
   {
    "id": "s27B39C",
@@ -2032,7 +2235,8 @@
     "0x29091c"
    ],
    "jp": "ゼンタイにボムでコウゲキ エラーにすることがある",
-   "en": ""
+   "en": "Bombs all foes   May inflict Error",
+   "status": "translated"
   },
   {
    "id": "s27B3CE",
@@ -2041,7 +2245,8 @@
     "0x290920"
    ],
    "jp": "エラーボム強",
-   "en": ""
+   "en": "Error Bomb 3",
+   "status": "translated"
   },
   {
    "id": "s27B3DC",
@@ -2050,7 +2255,8 @@
     "0x290924"
    ],
    "jp": "全体にボムで攻撃\nかなり高いカクリツでエラーにする",
-   "en": ""
+   "en": "Bombs all foes\nVery likely to inflict Error",
+   "status": "translated"
   },
   {
    "id": "s27B410",
@@ -2059,7 +2265,8 @@
     "0x290928"
    ],
    "jp": "ゼンタイにボムでコウゲキ エラーにすることがある",
-   "en": ""
+   "en": "Bombs all foes   May inflict Error",
+   "status": "translated"
   },
   {
    "id": "s27B442",
@@ -2068,7 +2275,8 @@
     "0x29092c"
    ],
    "jp": "ストップボム弱",
-   "en": ""
+   "en": "Stop Bomb 1",
+   "status": "translated"
   },
   {
    "id": "s27B452",
@@ -2077,7 +2285,8 @@
     "0x290930"
    ],
    "jp": "全体にボムで攻撃\nストップにする事がある",
-   "en": ""
+   "en": "Bombs all foes\nMay inflict Stop",
+   "status": "translated"
   },
   {
    "id": "s27B47C",
@@ -2086,7 +2295,8 @@
     "0x290934"
    ],
    "jp": "ゼンタイにボムでこうげき ストップにすることがある",
-   "en": ""
+   "en": "Bombs all foes   May inflict Stop",
+   "status": "translated"
   },
   {
    "id": "s27B4B0",
@@ -2095,7 +2305,8 @@
     "0x290938"
    ],
    "jp": "ストップボム中",
-   "en": ""
+   "en": "Stop Bomb 2",
+   "status": "translated"
   },
   {
    "id": "s27B4C0",
@@ -2104,7 +2315,8 @@
     "0x29093c"
    ],
    "jp": "全体にボムで攻撃\n高いカクリツでストップにする",
-   "en": ""
+   "en": "Bombs all foes\nLikely to inflict Stop",
+   "status": "translated"
   },
   {
    "id": "s27B4F0",
@@ -2113,7 +2325,8 @@
     "0x290940"
    ],
    "jp": "ゼンタイにボムでこうげき ストップにすることがある",
-   "en": ""
+   "en": "Bombs all foes   May inflict Stop",
+   "status": "translated"
   },
   {
    "id": "s27B524",
@@ -2122,7 +2335,8 @@
     "0x290944"
    ],
    "jp": "ストップボム強",
-   "en": ""
+   "en": "Stop Bomb 3",
+   "status": "translated"
   },
   {
    "id": "s27B534",
@@ -6679,7 +6893,8 @@
     "0x2910a8"
    ],
    "jp": "てきをセントウから    ゼッタイににげだせなくする",
-   "en": ""
+   "en": "Foe can never      flee the battle",
+   "status": "translated"
   },
   {
    "id": "s27EDAC",
@@ -6688,7 +6903,8 @@
     "0x2910ac"
    ],
    "jp": "HPスチール中",
-   "en": ""
+   "en": "HP Steal 2",
+   "status": "translated"
   },
   {
    "id": "s27EDBC",
@@ -6697,7 +6913,8 @@
     "0x2910b0"
    ],
    "jp": "攻撃してHPをうばう",
-   "en": ""
+   "en": "Hit and steal HP",
+   "status": "translated"
   },
   {
    "id": "s27EDD2",
@@ -6706,7 +6923,8 @@
     "0x2910b4"
    ],
    "jp": "コウゲキして       HPをうばう",
-   "en": ""
+   "en": "Attack and       steal HP",
+   "status": "translated"
   },
   {
    "id": "s27EDFA",
@@ -6715,7 +6933,8 @@
     "0x2910b8"
    ],
    "jp": "HPスチール強",
-   "en": ""
+   "en": "HP Steal 3",
+   "status": "translated"
   },
   {
    "id": "s27EE0A",
@@ -6724,7 +6943,8 @@
     "0x2910bc"
    ],
    "jp": "攻撃して多くのHPをうばう",
-   "en": ""
+   "en": "Hit and steal lots of HP",
+   "status": "translated"
   },
   {
    "id": "s27EE26",
@@ -6733,7 +6953,8 @@
     "0x2910c0"
    ],
    "jp": "コウゲキして       おおくのHPをうばう",
-   "en": ""
+   "en": "Attack and       steal lots of HP",
+   "status": "translated"
   },
   {
    "id": "s27EE56",
@@ -6742,7 +6963,8 @@
     "0x2910c4"
    ],
    "jp": "HPスチール様",
-   "en": ""
+   "en": "HP Steal EX",
+   "status": "translated"
   },
   {
    "id": "s27EE66",
@@ -6751,7 +6973,8 @@
     "0x2910c8"
    ],
    "jp": "攻撃してかなり多くのHPをうばう",
-   "en": ""
+   "en": "Hit and steal tons of HP",
+   "status": "translated"
   },
   {
    "id": "s27EE88",
@@ -6760,7 +6983,8 @@
     "0x2910cc"
    ],
    "jp": "コウゲキして       かなりおおくのHPをうばう",
-   "en": ""
+   "en": "Attack and       steal tons of HP",
+   "status": "translated"
   },
   {
    "id": "s27EEBE",
@@ -6769,7 +6993,8 @@
     "0x2910d0"
    ],
    "jp": "ENスチール弱",
-   "en": ""
+   "en": "EN Steal 1",
+   "status": "translated"
   },
   {
    "id": "s27EECE",
@@ -6778,7 +7003,8 @@
     "0x2910d4"
    ],
    "jp": "攻撃してENをうばう",
-   "en": ""
+   "en": "Hit and steal EN",
+   "status": "translated"
   },
   {
    "id": "s27EEE4",
@@ -6787,7 +7013,8 @@
     "0x2910d8"
    ],
    "jp": "コウゲキして       ENをうばう",
-   "en": ""
+   "en": "Attack and       steal EN",
+   "status": "translated"
   },
   {
    "id": "s27EF0C",
@@ -6796,7 +7023,8 @@
     "0x2910dc"
    ],
    "jp": "ENスチール中",
-   "en": ""
+   "en": "EN Steal 2",
+   "status": "translated"
   },
   {
    "id": "s27EF1C",
@@ -6805,7 +7033,8 @@
     "0x2910e0"
    ],
    "jp": "攻撃して多くのENをうばう",
-   "en": ""
+   "en": "Hit and steal lots of EN",
+   "status": "translated"
   },
   {
    "id": "s27EF38",
@@ -6814,7 +7043,8 @@
     "0x2910e4"
    ],
    "jp": "コウゲキして       おおくのENをうばう",
-   "en": ""
+   "en": "Attack and       steal lots of EN",
+   "status": "translated"
   },
   {
    "id": "s27EF68",
@@ -6823,7 +7053,8 @@
     "0x2910e8"
    ],
    "jp": "ENスチール強",
-   "en": ""
+   "en": "EN Steal 3",
+   "status": "translated"
   },
   {
    "id": "s27EF78",
@@ -6832,7 +7063,8 @@
     "0x2910ec"
    ],
    "jp": "攻撃してかなり多くのENをうばう",
-   "en": ""
+   "en": "Hit and steal tons of EN",
+   "status": "translated"
   },
   {
    "id": "s27EF9A",
@@ -6841,7 +7073,8 @@
     "0x2910f0"
    ],
    "jp": "コウゲキして       かなりおおくのENをうばう",
-   "en": ""
+   "en": "Attack and       steal tons of EN",
+   "status": "translated"
   },
   {
    "id": "s27EFD0",
@@ -6850,7 +7083,8 @@
     "0x2910f4"
    ],
    "jp": "思い出した攻撃弱",
-   "en": ""
+   "en": "Recall Attack 1",
+   "status": "translated"
   },
   {
    "id": "s27EFE2",
@@ -6859,7 +7093,8 @@
     "0x2910f8"
    ],
    "jp": "わすれていた攻撃ワザを使う",
-   "en": ""
+   "en": "Forgotten attack move",
+   "status": "translated"
   },
   {
    "id": "s27EFFE",
@@ -6868,7 +7103,8 @@
     "0x2910fc"
    ],
    "jp": "わすれていた       コウゲキワザをつかう",
-   "en": ""
+   "en": "Use a forgotten       attack move",
+   "status": "translated"
   },
   {
    "id": "s27F02E",
@@ -6877,7 +7113,8 @@
     "0x291100"
    ],
    "jp": "思い出した攻撃中",
-   "en": ""
+   "en": "Recall Attack 2",
+   "status": "translated"
   },
   {
    "id": "s27F040",
@@ -6886,7 +7123,8 @@
     "0x291104"
    ],
    "jp": "わすれていた強い攻撃ワザを使う",
-   "en": ""
+   "en": "Forgotten strong attack move",
+   "status": "translated"
   },
   {
    "id": "s27F060",
@@ -6895,7 +7133,8 @@
     "0x291108"
    ],
    "jp": "わすれていた       コウゲキワザをつかう",
-   "en": ""
+   "en": "Use a forgotten       attack move",
+   "status": "translated"
   },
   {
    "id": "s27F090",
@@ -6904,7 +7143,8 @@
     "0x29110c"
    ],
    "jp": "思い出した攻撃強",
-   "en": ""
+   "en": "Recall Attack 3",
+   "status": "translated"
   },
   {
    "id": "s27F0A2",
@@ -6913,7 +7153,8 @@
     "0x291110"
    ],
    "jp": "わすれていたかなり強い攻撃ワザを使う",
-   "en": ""
+   "en": "Forgotten very strong attack move",
+   "status": "translated"
   },
   {
    "id": "s27F0C8",
@@ -6922,7 +7163,8 @@
     "0x291114"
    ],
    "jp": "わすれていた       コウゲキワザをつかう",
-   "en": ""
+   "en": "Use a forgotten       attack move",
+   "status": "translated"
   },
   {
    "id": "s27F0F8",
@@ -6931,7 +7173,8 @@
     "0x291118"
    ],
    "jp": "思い出した回復小",
-   "en": ""
+   "en": "Recall Heal 1",
+   "status": "translated"
   },
   {
    "id": "s27F10A",
@@ -6940,7 +7183,8 @@
     "0x29111c"
    ],
    "jp": "わすれていた回復ワザを使う",
-   "en": ""
+   "en": "Forgotten heal move",
+   "status": "translated"
   },
   {
    "id": "s27F126",
@@ -6949,7 +7193,8 @@
     "0x291120"
    ],
    "jp": "わすれていた       カイフクワザをつかう",
-   "en": ""
+   "en": "Use a forgotten       healing move",
+   "status": "translated"
   },
   {
    "id": "s27F156",
@@ -6958,7 +7203,8 @@
     "0x291124"
    ],
    "jp": "思い出した回復中",
-   "en": ""
+   "en": "Recall Heal 2",
+   "status": "translated"
   },
   {
    "id": "s27F168",
@@ -6967,7 +7213,8 @@
     "0x291128"
    ],
    "jp": "わすれていた強い回復ワザを使う",
-   "en": ""
+   "en": "Forgotten strong heal move",
+   "status": "translated"
   },
   {
    "id": "s27F188",
@@ -6976,7 +7223,8 @@
     "0x29112c"
    ],
    "jp": "わすれていた       カイフクワザをつかう",
-   "en": ""
+   "en": "Use a forgotten       healing move",
+   "status": "translated"
   },
   {
    "id": "s27F1B8",
@@ -6985,7 +7233,8 @@
     "0x291130"
    ],
    "jp": "思い出した回復大",
-   "en": ""
+   "en": "Recall Heal 3",
+   "status": "translated"
   },
   {
    "id": "s27F1CA",
@@ -6994,7 +7243,8 @@
     "0x291134"
    ],
    "jp": "わすれていたかなり強い回復ワザを使う",
-   "en": ""
+   "en": "Forgotten very strong heal move",
+   "status": "translated"
   },
   {
    "id": "s27F1F0",
@@ -7003,7 +7253,8 @@
     "0x291138"
    ],
    "jp": "わすれていた       カイフクワザをつかう",
-   "en": ""
+   "en": "Use a forgotten       healing move",
+   "status": "translated"
   },
   {
    "id": "s27F220",
@@ -7012,7 +7263,8 @@
     "0x29113c"
    ],
    "jp": "ヘンゲ",
-   "en": ""
+   "en": "Morph",
+   "status": "translated"
   },
   {
    "id": "s27F228",
@@ -7021,7 +7273,8 @@
     "0x291140"
    ],
    "jp": "しばらくの間、敵グランボにバケられる\nただし、戦闘不能になるとカイジョされる",
-   "en": ""
+   "en": "Pose as an enemy Granbo a while\nBut it wears off if knocked out",
+   "status": "translated"
   },
   {
    "id": "s27F276",
@@ -7030,7 +7283,8 @@
     "0x291144"
    ],
    "jp": "しばらく、てきにバケる  セントウフノウでカイジョ",
-   "en": ""
+   "en": "Pose as a foe a while  Ends if knocked out",
+   "status": "translated"
   },
   {
    "id": "s27F2AA",
@@ -7039,7 +7293,8 @@
     "0x291148"
    ],
    "jp": "むしヘンゲ弱",
-   "en": ""
+   "en": "Bug Morph 1",
+   "status": "translated"
   },
   {
    "id": "s27F2B8",
@@ -7048,7 +7303,8 @@
     "0x29114c"
    ],
    "jp": "ムシがたグランボのどれかにヘンゲする",
-   "en": ""
+   "en": "Become a random bug-type Granbo",
+   "status": "translated"
   },
   {
    "id": "s27F2DE",
@@ -7057,7 +7313,8 @@
     "0x291150"
    ],
    "jp": "ムシがたグランボのどれかにヘンゲする",
-   "en": ""
+   "en": "Become a random bug-type Granbo",
+   "status": "translated"
   },
   {
    "id": "s27F304",
@@ -7066,7 +7323,8 @@
     "0x291154"
    ],
    "jp": "むしヘンゲ中",
-   "en": ""
+   "en": "Bug Morph 2",
+   "status": "translated"
   },
   {
    "id": "s27F312",
@@ -7075,7 +7333,8 @@
     "0x291158"
    ],
    "jp": "ムシがたグランボのどれかにヘンゲする",
-   "en": ""
+   "en": "Become a random bug-type Granbo",
+   "status": "translated"
   },
   {
    "id": "s27F338",
@@ -7084,7 +7343,8 @@
     "0x29115c"
    ],
    "jp": "ムシがたグランボのどれかにヘンゲする",
-   "en": ""
+   "en": "Become a random bug-type Granbo",
+   "status": "translated"
   },
   {
    "id": "s27F35E",
@@ -7093,7 +7353,8 @@
     "0x291160"
    ],
    "jp": "むしヘンゲ強",
-   "en": ""
+   "en": "Bug Morph 3",
+   "status": "translated"
   },
   {
    "id": "s27F36C",
@@ -7102,7 +7363,8 @@
     "0x291164"
    ],
    "jp": "ムシがたグランボのどれかにヘンゲする",
-   "en": ""
+   "en": "Become a random bug-type Granbo",
+   "status": "translated"
   },
   {
    "id": "s27F392",
@@ -7111,7 +7373,8 @@
     "0x291168"
    ],
    "jp": "ムシがたグランボのどれかにヘンゲする",
-   "en": ""
+   "en": "Become a random bug-type Granbo",
+   "status": "translated"
   },
   {
    "id": "s27F3B8",
@@ -7120,7 +7383,8 @@
     "0x29116c"
    ],
    "jp": "ハント",
-   "en": ""
+   "en": "Hunt",
+   "status": "translated"
   },
   {
    "id": "s27F3C0",
@@ -7129,7 +7393,8 @@
     "0x291170"
    ],
    "jp": "敵グランボのデータボールをうばう",
-   "en": ""
+   "en": "Steal an enemy's Data Ball",
+   "status": "translated"
   },
   {
    "id": "s27F3E2",
@@ -7138,7 +7403,8 @@
     "0x291174"
    ],
    "jp": "てきグランボの      データボールをうばう",
-   "en": ""
+   "en": "Steal an enemy      Granbo's Data Ball",
+   "status": "translated"
   },
   {
    "id": "s27F412",
@@ -7147,7 +7413,8 @@
     "0x291178"
    ],
    "jp": "プロハント",
-   "en": ""
+   "en": "Pro Hunt",
+   "status": "translated"
   },
   {
    "id": "s27F41E",
@@ -7156,7 +7423,8 @@
     "0x29117c"
    ],
    "jp": "敵グランボのデータボールをうばう\n成功のカクリツが高い",
-   "en": ""
+   "en": "Steal an enemy's Data Ball\nHigh success rate",
+   "status": "translated"
   },
   {
    "id": "s27F456",
@@ -7165,7 +7433,8 @@
     "0x291180"
    ],
    "jp": "てきグランボの      データボールをうばう",
-   "en": ""
+   "en": "Steal an enemy      Granbo's Data Ball",
+   "status": "translated"
   },
   {
    "id": "s27F486",
@@ -7174,7 +7443,8 @@
     "0x291184"
    ],
    "jp": "マスターハント",
-   "en": ""
+   "en": "Master Hunt",
+   "status": "translated"
   },
   {
    "id": "s27F496",
@@ -7183,7 +7453,8 @@
     "0x291188"
    ],
    "jp": "敵グランボのデータボールをうばう\n成功のカクリツがかなり高い",
-   "en": ""
+   "en": "Steal an enemy's Data Ball\nVery high success rate",
+   "status": "translated"
   },
   {
    "id": "s27F4D4",
@@ -7192,7 +7463,8 @@
     "0x29118c"
    ],
    "jp": "てきグランボの      データボールをうばう",
-   "en": ""
+   "en": "Steal an enemy      Granbo's Data Ball",
+   "status": "translated"
   },
   {
    "id": "s27F504",
@@ -7201,7 +7473,8 @@
     "0x291190"
    ],
    "jp": "ゲージカノン弱",
-   "en": ""
+   "en": "Gauge Cannon 1",
+   "status": "translated"
   },
   {
    "id": "s27F514",
@@ -7210,7 +7483,8 @@
     "0x291194"
    ],
    "jp": "いかく攻撃でひるませる\n成功するとハントゲージをためることができる",
-   "en": ""
+   "en": "Scare foe to flinch\nOn success, it can fill the Hunt Gauge",
+   "status": "translated"
   },
   {
    "id": "s27F558",
@@ -7219,7 +7493,8 @@
     "0x291198"
    ],
    "jp": "セイコウするとハントゲージをためることができる",
-   "en": ""
+   "en": "On success, it can fill the Hunt Gauge",
+   "status": "translated"
   },
   {
    "id": "s27F588",
@@ -7228,7 +7503,8 @@
     "0x29119c"
    ],
    "jp": "ゲージカノン弱",
-   "en": ""
+   "en": "Gauge Cannon 1",
+   "status": "translated"
   },
   {
    "id": "s27F598",
@@ -7255,7 +7531,8 @@
     "0x2911a8"
    ],
    "jp": "ゲージカノン弱",
-   "en": ""
+   "en": "Gauge Cannon 1",
+   "status": "translated"
   },
   {
    "id": "s27F5B0",
@@ -7282,7 +7559,8 @@
     "0x2911b4"
    ],
    "jp": "ゲージカノン中",
-   "en": ""
+   "en": "Gauge Cannon 2",
+   "status": "translated"
   },
   {
    "id": "s27F5C8",
@@ -7291,7 +7569,8 @@
     "0x2911b8"
    ],
    "jp": "いかく攻撃でひるませる\n成功するとハントゲージをためることができる",
-   "en": ""
+   "en": "Scare foe to flinch\nOn success, it can fill the Hunt Gauge",
+   "status": "translated"
   },
   {
    "id": "s27F60C",
@@ -7300,7 +7579,8 @@
     "0x2911bc"
    ],
    "jp": "セイコウするとハントゲージをためることができる",
-   "en": ""
+   "en": "On success, it can fill the Hunt Gauge",
+   "status": "translated"
   },
   {
    "id": "s27F63C",
@@ -7309,7 +7589,8 @@
     "0x2911c0"
    ],
    "jp": "ゲージカノン中",
-   "en": ""
+   "en": "Gauge Cannon 2",
+   "status": "translated"
   },
   {
    "id": "s27F64C",
@@ -7336,7 +7617,8 @@
     "0x2911cc"
    ],
    "jp": "ゲージカノン中",
-   "en": ""
+   "en": "Gauge Cannon 2",
+   "status": "translated"
   },
   {
    "id": "s27F664",
@@ -7363,7 +7645,8 @@
     "0x2911d8"
    ],
    "jp": "ゲージカノン強",
-   "en": ""
+   "en": "Gauge Cannon 3",
+   "status": "translated"
   },
   {
    "id": "s27F67C",
@@ -7372,7 +7655,8 @@
     "0x2911dc"
    ],
    "jp": "いかく攻撃でひるませる\n成功するとハントゲージをためることができる",
-   "en": ""
+   "en": "Scare foe to flinch\nOn success, it can fill the Hunt Gauge",
+   "status": "translated"
   },
   {
    "id": "s27F6C0",
@@ -7381,7 +7665,8 @@
     "0x2911e0"
    ],
    "jp": "セイコウするとハントゲージをためることができる",
-   "en": ""
+   "en": "On success, it can fill the Hunt Gauge",
+   "status": "translated"
   },
   {
    "id": "s27F6F0",
@@ -7390,7 +7675,8 @@
     "0x2911e4"
    ],
    "jp": "ゲージカノン強",
-   "en": ""
+   "en": "Gauge Cannon 3",
+   "status": "translated"
   },
   {
    "id": "s27F700",
@@ -7417,7 +7703,8 @@
     "0x2911f0"
    ],
    "jp": "ゲージカノン強",
-   "en": ""
+   "en": "Gauge Cannon 3",
+   "status": "translated"
   },
   {
    "id": "s27F718",
@@ -7444,7 +7731,8 @@
     "0x2911fc"
    ],
    "jp": "とまどい！！！",
-   "en": ""
+   "en": " Confused!!",
+   "status": "translated"
   },
   {
    "id": "s27F730",
@@ -7471,7 +7759,8 @@
     "0x291208"
    ],
    "jp": "とどめ",
-   "en": ""
+   "en": " Finish",
+   "status": "translated"
   },
   {
    "id": "s27F740",
@@ -7498,7 +7787,8 @@
     "0x291214"
    ],
    "jp": "HP回復",
-   "en": ""
+   "en": "HP Heal",
+   "status": "translated"
   },
   {
    "id": "s27F752",
@@ -7525,7 +7815,8 @@
     "0x291220"
    ],
    "jp": "サイキドウ",
-   "en": ""
+   "en": "Reboot",
+   "status": "translated"
   },
   {
    "id": "s27F766",
@@ -7552,7 +7843,8 @@
     "0x29122c"
    ],
    "jp": "イジョウ回復",
-   "en": ""
+   "en": "Status Heal",
+   "status": "translated"
   },
   {
    "id": "s27F77C",
@@ -7579,7 +7871,8 @@
     "0x291238"
    ],
    "jp": "ハント",
-   "en": ""
+   "en": "Hunt",
+   "status": "translated"
   },
   {
    "id": "s27F78C",
@@ -7606,7 +7899,8 @@
     "0x291244"
    ],
    "jp": "逃げる！",
-   "en": ""
+   "en": "Run!",
+   "status": "translated"
   },
   {
    "id": "s27F79E",
@@ -7633,7 +7927,8 @@
     "0x291250"
    ],
    "jp": "とまどい！！！",
-   "en": ""
+   "en": " Confused!!",
+   "status": "translated"
   },
   {
    "id": "s27F7B6",
@@ -7660,7 +7955,8 @@
     "0x29125c"
    ],
    "jp": "とまどい！！！",
-   "en": ""
+   "en": " Confused!!",
+   "status": "translated"
   },
   {
    "id": "s27F7CE",
@@ -7687,7 +7983,8 @@
     "0x291268"
    ],
    "jp": "とまどい！！！",
-   "en": ""
+   "en": " Confused!!",
+   "status": "translated"
   },
   {
    "id": "s27F7E6",
@@ -7714,7 +8011,8 @@
     "0x291274"
    ],
    "jp": "パンチ3連ぱつ",
-   "en": ""
+   "en": "Triple Punch",
+   "status": "translated"
   },
   {
    "id": "s27F7FE",
@@ -7723,7 +8021,8 @@
     "0x291278"
    ],
    "jp": "3連ぱつのパンチで攻撃",
-   "en": ""
+   "en": "Attack with 3 punches",
+   "status": "translated"
   },
   {
    "id": "s27F816",
@@ -7732,7 +8031,8 @@
     "0x29127c"
    ],
    "jp": "3れんぱつのパンチで   コウゲキ",
-   "en": ""
+   "en": "A 3-punch combo   attack",
+   "status": "translated"
   },
   {
    "id": "s27F83A",
@@ -7741,7 +8041,8 @@
     "0x291280"
    ],
    "jp": "スピードヒット中",
-   "en": ""
+   "en": "Speed Hit 2",
+   "status": "translated"
   },
   {
    "id": "s27F84C",
@@ -7750,7 +8051,8 @@
     "0x291284"
    ],
    "jp": "だれよりも早く、体当たりで攻撃",
-   "en": ""
+   "en": "Tackle before anyone else",
+   "status": "translated"
   },
   {
    "id": "s27F86C",
@@ -7759,7 +8061,8 @@
     "0x291288"
    ],
    "jp": "ダレよりもはやく     たいアタリでコウゲキ",
-   "en": ""
+   "en": "Before anyone else     tackle attack",
+   "status": "translated"
   },
   {
    "id": "s27F89C",
@@ -7768,7 +8071,8 @@
     "0x29128c"
    ],
    "jp": "スピードヒット強",
-   "en": ""
+   "en": "Speed Hit 3",
+   "status": "translated"
   },
   {
    "id": "s27F8AE",
@@ -7777,7 +8081,8 @@
     "0x291290"
    ],
    "jp": "だれよりも早く、体当たりで攻撃",
-   "en": ""
+   "en": "Tackle before anyone else",
+   "status": "translated"
   },
   {
    "id": "s27F8CE",
@@ -7786,7 +8091,8 @@
     "0x291294"
    ],
    "jp": "ダレよりもはやく     たいアタリでコウゲキ",
-   "en": ""
+   "en": "Before anyone else     tackle attack",
+   "status": "translated"
   },
   {
    "id": "s27F8FE",
@@ -7795,7 +8101,8 @@
     "0x291298"
    ],
    "jp": "スピードヒット様",
-   "en": ""
+   "en": "Speed Hit EX",
+   "status": "translated"
   },
   {
    "id": "s27F910",
@@ -7804,7 +8111,8 @@
     "0x29129c"
    ],
    "jp": "だれよりも早く、体当たりで攻撃",
-   "en": ""
+   "en": "Tackle before anyone else",
+   "status": "translated"
   },
   {
    "id": "s27F930",
@@ -7813,7 +8121,8 @@
     "0x2912a0"
    ],
    "jp": "ダレよりもはやく     たいアタリでコウゲキ",
-   "en": ""
+   "en": "Before anyone else     tackle attack",
+   "status": "translated"
   },
   {
    "id": "s27F960",
@@ -7822,7 +8131,8 @@
     "0x2912a4"
    ],
    "jp": "のろのろヒット弱",
-   "en": ""
+   "en": " Slow Hit 1",
+   "status": "translated"
   },
   {
    "id": "s27F972",
@@ -7831,7 +8141,8 @@
     "0x2912a8"
    ],
    "jp": "体当たりで攻撃\nいりょくは高いが、攻撃するのは最後になる",
-   "en": ""
+   "en": "Tackle attack\nPowerful, but it always goes last",
+   "status": "translated"
   },
   {
    "id": "s27F9AC",
@@ -7840,7 +8151,8 @@
     "0x2912ac"
    ],
    "jp": "たいあたりでコウゲキ   つよいがコウゲキはさいごに",
-   "en": ""
+   "en": "Tackle attack   Strong but goes last",
+   "status": "translated"
   },
   {
    "id": "s27F9E2",
@@ -7849,7 +8161,8 @@
     "0x2912b0"
    ],
    "jp": "のろのろヒット中",
-   "en": ""
+   "en": " Slow Hit 2",
+   "status": "translated"
   },
   {
    "id": "s27F9F4",
@@ -7858,7 +8171,8 @@
     "0x2912b4"
    ],
    "jp": "体当たりで攻撃\nいりょくは高いが、攻撃するのは最後になる",
-   "en": ""
+   "en": "Tackle attack\nPowerful, but it always goes last",
+   "status": "translated"
   },
   {
    "id": "s27FA2E",
@@ -7867,7 +8181,8 @@
     "0x2912b8"
    ],
    "jp": "たいあたりでコウゲキ   つよいがコウゲキはさいごに",
-   "en": ""
+   "en": "Tackle attack   Strong but goes last",
+   "status": "translated"
   },
   {
    "id": "s27FA64",
@@ -7876,7 +8191,8 @@
     "0x2912bc"
    ],
    "jp": "のろのろヒット強",
-   "en": ""
+   "en": " Slow Hit 3",
+   "status": "translated"
   },
   {
    "id": "s27FA76",
@@ -7885,7 +8201,8 @@
     "0x2912c0"
    ],
    "jp": "体当たりで攻撃\nいりょくは高いが、攻撃するのは最後になる",
-   "en": ""
+   "en": "Tackle attack\nPowerful, but it always goes last",
+   "status": "translated"
   },
   {
    "id": "s27FAB0",
@@ -7894,7 +8211,8 @@
     "0x2912c4"
    ],
    "jp": "たいあたりでコウゲキ   つよいがコウゲキはさいごに",
-   "en": ""
+   "en": "Tackle attack   Strong but goes last",
+   "status": "translated"
   },
   {
    "id": "s27FAE6",
@@ -7903,7 +8221,8 @@
     "0x2912c8"
    ],
    "jp": "全ヒット中",
-   "en": ""
+   "en": "Team Hit 2",
+   "status": "translated"
   },
   {
    "id": "s27FAF2",
@@ -7912,7 +8231,8 @@
     "0x2912cc"
    ],
    "jp": "全体に体当たりで攻撃",
-   "en": ""
+   "en": "Tackle all foes",
+   "status": "translated"
   },
   {
    "id": "s27FB08",
@@ -7921,7 +8241,8 @@
     "0x2912d0"
    ],
    "jp": "ぜんたいにたいあたりで  コウゲキ",
-   "en": ""
+   "en": "Tackle attack on  all foes",
+   "status": "translated"
   },
   {
    "id": "s27FB2C",
@@ -7930,7 +8251,8 @@
     "0x2912d4"
    ],
    "jp": "全ヒット強",
-   "en": ""
+   "en": "Team Hit 3",
+   "status": "translated"
   },
   {
    "id": "s27FB38",
@@ -7939,7 +8261,8 @@
     "0x2912d8"
    ],
    "jp": "全体に体当たりで攻撃",
-   "en": ""
+   "en": "Tackle all foes",
+   "status": "translated"
   },
   {
    "id": "s27FB4E",
@@ -7948,7 +8271,8 @@
     "0x2912dc"
    ],
    "jp": "ぜんたいにたいあたりで  コウゲキ",
-   "en": ""
+   "en": "Tackle attack on  all foes",
+   "status": "translated"
   },
   {
    "id": "s27FB72",
@@ -7957,7 +8281,8 @@
     "0x2912e0"
    ],
    "jp": "全ヒット様",
-   "en": ""
+   "en": "Team Hit EX",
+   "status": "translated"
   },
   {
    "id": "s27FB7E",
@@ -7966,7 +8291,8 @@
     "0x2912e4"
    ],
    "jp": "全体に体当たりで攻撃",
-   "en": ""
+   "en": "Tackle all foes",
+   "status": "translated"
   },
   {
    "id": "s27FB94",
@@ -7975,7 +8301,8 @@
     "0x2912e8"
    ],
    "jp": "ぜんたいにたいあたりで  コウゲキ",
-   "en": ""
+   "en": "Tackle attack on  all foes",
+   "status": "translated"
   },
   {
    "id": "s27FBB8",
@@ -7984,7 +8311,8 @@
     "0x2912ec"
    ],
    "jp": "タコ8アタック",
-   "en": ""
+   "en": "Octo Attack",
+   "status": "translated"
   },
   {
    "id": "s27FBC8",
@@ -7993,7 +8321,8 @@
     "0x2912f0"
    ],
    "jp": "8回れんぞく攻撃をする",
-   "en": ""
+   "en": "8 hits in a row",
+   "status": "translated"
   },
   {
    "id": "s27FBE0",
@@ -8002,7 +8331,8 @@
     "0x2912f4"
    ],
    "jp": "8かいれんぞくで     コウゲキ",
-   "en": ""
+   "en": "8 hits in     a row",
+   "status": "translated"
   },
   {
    "id": "s27FC04",
@@ -8011,7 +8341,8 @@
     "0x2912f8"
    ],
    "jp": "連続づき",
-   "en": ""
+   "en": "Peck Peck",
+   "status": "translated"
   },
   {
    "id": "s27FC0E",
@@ -8020,7 +8351,8 @@
     "0x2912fc"
    ],
    "jp": "何度もつついて攻撃",
-   "en": ""
+   "en": "Peck repeatedly",
+   "status": "translated"
   },
   {
    "id": "s27FC22",
@@ -8029,7 +8361,8 @@
     "0x291300"
    ],
    "jp": "なんどもつついてコウゲキ",
-   "en": ""
+   "en": "Peck over and over",
+   "status": "translated"
   },
   {
    "id": "s27FC3C",
@@ -8038,7 +8371,8 @@
     "0x291304"
    ],
    "jp": "大コンラン",
-   "en": ""
+   "en": "Chaos",
+   "status": "translated"
   },
   {
    "id": "s27FC48",
@@ -8047,7 +8381,8 @@
     "0x291308"
    ],
    "jp": "光がはねまわってあたりをコンランにおとしいれる\n敵味方全体がエラーになる事も",
-   "en": ""
+   "en": "Bouncing light throws everything into chaos\nFoe or ally may get Error",
+   "status": "translated"
   },
   {
    "id": "s27FC96",
@@ -8056,7 +8391,8 @@
     "0x29130c"
    ],
    "jp": "ヒカリがはねまわる    ぜんいんエラーになることも",
-   "en": ""
+   "en": "Light bounces around    all may get Error",
+   "status": "translated"
   },
   {
    "id": "s27FCCC",
@@ -8065,7 +8401,8 @@
     "0x291310"
    ],
    "jp": "ALLソング弱",
-   "en": ""
+   "en": "ALL Song 1",
+   "status": "translated"
   },
   {
    "id": "s27FCDC",
@@ -8074,7 +8411,8 @@
     "0x291314"
    ],
    "jp": "元気の出るうたごえで\n全体をALLアップにする",
-   "en": ""
+   "en": "A rousing song\ngives the team ALL Up",
+   "status": "translated"
   },
   {
    "id": "s27FD0C",
@@ -8083,7 +8421,8 @@
     "0x291318"
    ],
    "jp": "うたごえでぜんたいの   パラメータをすべてあげる",
-   "en": ""
+   "en": "A song raises all     allies' stats",
+   "status": "translated"
   },
   {
    "id": "s27FD40",
@@ -8092,7 +8431,8 @@
     "0x29131c"
    ],
    "jp": "ALLソング中",
-   "en": ""
+   "en": "ALL Song 2",
+   "status": "translated"
   },
   {
    "id": "s27FD50",
@@ -8101,7 +8441,8 @@
     "0x291320"
    ],
    "jp": "元気の出るうたごえで\n全体をALLアップにする",
-   "en": ""
+   "en": "A rousing song\ngives the team ALL Up",
+   "status": "translated"
   },
   {
    "id": "s27FD80",
@@ -8110,7 +8451,8 @@
     "0x291324"
    ],
    "jp": "うたごえでぜんたいの   パラメータをすべてあげる",
-   "en": ""
+   "en": "A song raises all     allies' stats",
+   "status": "translated"
   },
   {
    "id": "s27FDB4",
@@ -8119,7 +8461,8 @@
     "0x291328"
    ],
    "jp": "ALLソング強",
-   "en": ""
+   "en": "ALL Song 3",
+   "status": "translated"
   },
   {
    "id": "s27FDC4",
@@ -8128,7 +8471,8 @@
     "0x29132c"
    ],
    "jp": "元気の出るうたごえで\n全体をALLアップにする",
-   "en": ""
+   "en": "A rousing song\ngives the team ALL Up",
+   "status": "translated"
   },
   {
    "id": "s27FDF4",
@@ -8137,7 +8481,8 @@
     "0x291330"
    ],
    "jp": "うたごえでぜんたいの   パラメータをすべてあげる",
-   "en": ""
+   "en": "A song raises all     allies' stats",
+   "status": "translated"
   },
   {
    "id": "s27FE28",
@@ -8146,7 +8491,8 @@
     "0x291334"
    ],
    "jp": "かいオンパ弱",
-   "en": ""
+   "en": "Weird Wave 1",
+   "status": "translated"
   },
   {
    "id": "s27FE36",
@@ -8155,7 +8501,8 @@
     "0x291338"
    ],
    "jp": "敵味方全体にかいオンパを出して\nエラーにする事がある",
-   "en": ""
+   "en": "Weird waves hit everyone\nMay cause Error",
+   "status": "translated"
   },
   {
    "id": "s27FE6C",
@@ -8164,7 +8511,8 @@
     "0x29133c"
    ],
    "jp": "ぜんたいにオンパをだして エラーにすることがある",
-   "en": ""
+   "en": "Weird waves hit all  may cause Error",
+   "status": "translated"
   },
   {
    "id": "s27FE9E",
@@ -8173,7 +8521,8 @@
     "0x291340"
    ],
    "jp": "かいオンパ中",
-   "en": ""
+   "en": "Weird Wave 2",
+   "status": "translated"
   },
   {
    "id": "s27FEAC",
@@ -8182,7 +8531,8 @@
     "0x291344"
    ],
    "jp": "敵味方全体にかいオンパを出して\n高いカクリツでエラーにする",
-   "en": ""
+   "en": "Weird waves hit everyone\nLikely to cause Error",
+   "status": "translated"
   },
   {
    "id": "s27FEE8",
@@ -8191,7 +8541,8 @@
     "0x291348"
    ],
    "jp": "ぜんたいにオンパをだして エラーにすることがある",
-   "en": ""
+   "en": "Weird waves hit all  may cause Error",
+   "status": "translated"
   },
   {
    "id": "s27FF1A",
@@ -8200,7 +8551,8 @@
     "0x29134c"
    ],
    "jp": "かいオンパ強",
-   "en": ""
+   "en": "Weird Wave 3",
+   "status": "translated"
   },
   {
    "id": "s27FF28",
@@ -8209,7 +8561,8 @@
     "0x291350"
    ],
    "jp": "敵味方全体にかいオンパを出して\nかなり高いカクリツでエラーにする",
-   "en": ""
+   "en": "Weird waves hit everyone\nVery likely to cause Error",
+   "status": "translated"
   },
   {
    "id": "s27FF6A",
@@ -8218,7 +8571,8 @@
     "0x291354"
    ],
    "jp": "ぜんたいにオンパをだして エラーにすることがある",
-   "en": ""
+   "en": "Weird waves hit all  may cause Error",
+   "status": "translated"
   },
   {
    "id": "s27FF9C",
@@ -8227,7 +8581,8 @@
     "0x291358"
    ],
    "jp": "ニンジンバクダン",
-   "en": ""
+   "en": "Carrot Bomb",
+   "status": "translated"
   },
   {
    "id": "s27FFAE",
@@ -8236,7 +8591,8 @@
     "0x29135c"
    ],
    "jp": "とくしゅなニンジンを\n全体になげつけて攻撃",
-   "en": ""
+   "en": " Throw a special\ncarrot at all foes",
+   "status": "translated"
   },
   {
    "id": "s27FFDA",
@@ -8245,7 +8601,8 @@
     "0x291360"
    ],
    "jp": "とくしゅなニンジンをなげてゼンタイにコウゲキ",
-   "en": ""
+   "en": " Throw a special carrot to hit all foes",
+   "status": "translated"
   },
   {
    "id": "s280008",
@@ -8254,7 +8611,8 @@
     "0x291364"
    ],
    "jp": "タマゴバクダン",
-   "en": ""
+   "en": "Egg Bomb",
+   "status": "translated"
   },
   {
    "id": "s280018",
@@ -8263,7 +8621,8 @@
     "0x291368"
    ],
    "jp": "とくしゅなタマゴを\n全体になげつけて攻撃",
-   "en": ""
+   "en": " Throw a special\negg at all foes",
+   "status": "translated"
   },
   {
    "id": "s280042",
@@ -8272,7 +8631,8 @@
     "0x29136c"
    ],
    "jp": "とくしゅなタマゴをなげて ゼンタイにコウゲキ",
-   "en": ""
+   "en": " Throw a special egg to hit all foes",
+   "status": "translated"
   },
   {
    "id": "s280070",
@@ -8281,7 +8641,8 @@
     "0x291370"
    ],
    "jp": "バナナバクダン",
-   "en": ""
+   "en": "Banana Bomb",
+   "status": "translated"
   },
   {
    "id": "s280080",
@@ -8290,7 +8651,8 @@
     "0x291374"
    ],
    "jp": "とくしゅなバナナを\n全体になげつけて攻撃",
-   "en": ""
+   "en": " Throw a special\nbanana at all foes",
+   "status": "translated"
   },
   {
    "id": "s2800AA",
@@ -8299,7 +8661,8 @@
     "0x291378"
    ],
    "jp": "とくしゅなバナナをなげて ゼンタイにコウゲキ",
-   "en": ""
+   "en": " Throw a special banana to hit all foes",
+   "status": "translated"
   },
   {
    "id": "s2800D8",
@@ -8308,7 +8671,8 @@
     "0x29137c"
    ],
    "jp": "ボールバクダン",
-   "en": ""
+   "en": "Ball Bomb",
+   "status": "translated"
   },
   {
    "id": "s2800E8",
@@ -8317,7 +8681,8 @@
     "0x291380"
    ],
    "jp": "とくしゅなボールを\n全体になげつけて攻撃",
-   "en": ""
+   "en": " A special ball\nis hurled at all foes",
+   "status": "translated"
   },
   {
    "id": "s280112",
@@ -8326,7 +8691,8 @@
     "0x291384"
    ],
    "jp": "とくしゅなボールをなげて ゼンタイにコウゲキ",
-   "en": ""
+   "en": " Throws a special ball at all foes",
+   "status": "translated"
   },
   {
    "id": "s280140",
@@ -8335,7 +8701,8 @@
     "0x291388"
    ],
    "jp": "HP回復ニンジン",
-   "en": ""
+   "en": "Heal Carrot",
+   "status": "translated"
   },
   {
    "id": "s280152",
@@ -8344,7 +8711,8 @@
     "0x29138c"
    ],
    "jp": "自分のHPを50回復",
-   "en": ""
+   "en": "Heals self 50 HP",
+   "status": "translated"
   },
   {
    "id": "s280168",
@@ -8353,7 +8721,8 @@
     "0x291390"
    ],
    "jp": "じぶんのHPを      50カイフク",
-   "en": ""
+   "en": "Heals own HP      by 50",
+   "status": "translated"
   },
   {
    "id": "s280190",
@@ -8362,7 +8731,8 @@
     "0x291394"
    ],
    "jp": "HP回復タマゴ",
-   "en": ""
+   "en": "Heal Egg",
+   "status": "translated"
   },
   {
    "id": "s2801A0",
@@ -8371,7 +8741,8 @@
     "0x291398"
    ],
    "jp": "自分のHPを50回復",
-   "en": ""
+   "en": "Heals self 50 HP",
+   "status": "translated"
   },
   {
    "id": "s2801B6",
@@ -8380,7 +8751,8 @@
     "0x29139c"
    ],
    "jp": "じぶんのHPを      50カイフク",
-   "en": ""
+   "en": "Heals own HP      by 50",
+   "status": "translated"
   },
   {
    "id": "s2801DE",
@@ -8389,7 +8761,8 @@
     "0x2913a0"
    ],
    "jp": "HP回復バナナ",
-   "en": ""
+   "en": "Heal Banana",
+   "status": "translated"
   },
   {
    "id": "s2801EE",
@@ -8398,7 +8771,8 @@
     "0x2913a4"
    ],
    "jp": "自分のHPを50回復",
-   "en": ""
+   "en": "Heals self 50 HP",
+   "status": "translated"
   },
   {
    "id": "s280204",
@@ -8407,7 +8781,8 @@
     "0x2913a8"
    ],
    "jp": "じぶんのHPを      50カイフク",
-   "en": ""
+   "en": "Heals own HP      by 50",
+   "status": "translated"
   },
   {
    "id": "s28022C",
@@ -8416,7 +8791,8 @@
     "0x2913ac"
    ],
    "jp": "HP回復ボール",
-   "en": ""
+   "en": "Heal Ball",
+   "status": "translated"
   },
   {
    "id": "s28023C",
@@ -8425,7 +8801,8 @@
     "0x2913b0"
    ],
    "jp": "自分のHPを50回復",
-   "en": ""
+   "en": "Heals self 50 HP",
+   "status": "translated"
   },
   {
    "id": "s280252",
@@ -8434,7 +8811,8 @@
     "0x2913b4"
    ],
    "jp": "じぶんのHPを      50カイフク",
-   "en": ""
+   "en": "Heals own HP      by 50",
+   "status": "translated"
   },
   {
    "id": "s28027A",
@@ -8443,7 +8821,8 @@
     "0x2913b8"
    ],
    "jp": "親の助け",
-   "en": ""
+   "en": "Parent Aid",
+   "status": "translated"
   },
   {
    "id": "s280284",
@@ -8452,7 +8831,8 @@
     "0x2913bc"
    ],
    "jp": "親子でキョウリョクして攻撃\n敵はよけられない",
-   "en": ""
+   "en": "Parent and child team up\nFoe can't dodge",
+   "status": "translated"
   },
   {
    "id": "s2802B2",
@@ -8461,7 +8841,8 @@
     "0x2913c0"
    ],
    "jp": "おやこでキョウリョクして よけられないコウゲキ",
-   "en": ""
+   "en": "Parent and child team up; can't be dodged",
+   "status": "translated"
   },
   {
    "id": "s2802E2",
@@ -8470,7 +8851,8 @@
     "0x2913c4"
    ],
    "jp": "子の助け",
-   "en": ""
+   "en": "Child Aid",
+   "status": "translated"
   },
   {
    "id": "s2802EC",
@@ -8479,7 +8861,8 @@
     "0x2913c8"
    ],
    "jp": "親子でキョウリョクして全体に攻撃",
-   "en": ""
+   "en": "Parent and child hit all foes",
+   "status": "translated"
   },
   {
    "id": "s28030E",
@@ -8488,7 +8871,8 @@
     "0x2913cc"
    ],
    "jp": "おやこでキョウリョクして ゼンタイにコウゲキ",
-   "en": ""
+   "en": "Parent and child team up to hit all foes",
+   "status": "translated"
   },
   {
    "id": "s28033C",
@@ -8497,7 +8881,8 @@
     "0x2913d0"
    ],
    "jp": "なかまの助け",
-   "en": ""
+   "en": "Friend Aid",
+   "status": "translated"
   },
   {
    "id": "s28034A",
@@ -8506,7 +8891,8 @@
     "0x2913d4"
    ],
    "jp": "なかまをよんで全体に攻撃",
-   "en": ""
+   "en": "Calls pals to hit all foes",
+   "status": "translated"
   },
   {
    "id": "s280364",
@@ -8515,7 +8901,8 @@
     "0x2913d8"
    ],
    "jp": "なかまをよんで      ゼンタイにコウゲキ",
-   "en": ""
+   "en": "Calls friends      to hit all foes",
+   "status": "translated"
   },
   {
    "id": "s280392",
@@ -8524,7 +8911,8 @@
     "0x2913dc"
    ],
    "jp": "キツネ火",
-   "en": ""
+   "en": "Foxfire",
+   "status": "translated"
   },
   {
    "id": "s28039C",
@@ -8533,7 +8921,8 @@
     "0x2913e0"
    ],
    "jp": "あやしいほのおでまどわし\n高いカクリツでエラーにする",
-   "en": ""
+   "en": "Eerie flames confuse\nHigh odds of Error",
+   "status": "translated"
   },
   {
    "id": "s2803D2",
@@ -8542,7 +8931,8 @@
     "0x2913e4"
    ],
    "jp": "アヤシイほのおでまどわし エラーにすることがある",
-   "en": ""
+   "en": "Eerie flames confuse and may cause Error",
+   "status": "translated"
   },
   {
    "id": "s280404",
@@ -8551,7 +8941,8 @@
     "0x2913e8"
    ],
    "jp": "ユウワク",
-   "en": ""
+   "en": "Charm",
+   "status": "translated"
   },
   {
    "id": "s28040E",
@@ -8560,7 +8951,8 @@
     "0x2913ec"
    ],
    "jp": "相手をミリョウしてエラーにする",
-   "en": ""
+   "en": "Charms the foe into Error",
+   "status": "translated"
   },
   {
    "id": "s28042E",
@@ -8569,7 +8961,8 @@
     "0x2913f0"
    ],
    "jp": "あいてをみりょうして   エラーにする",
-   "en": ""
+   "en": "Charms the foe   into Error",
+   "status": "translated"
   },
   {
    "id": "s280456",
@@ -8578,7 +8971,8 @@
     "0x2913f4"
    ],
    "jp": "スパイダーネット",
-   "en": ""
+   "en": "Spider Net",
+   "status": "translated"
   },
   {
    "id": "s280468",
@@ -8587,7 +8981,8 @@
     "0x2913f8"
    ],
    "jp": "ネットを使って動きを止め\n高いカクリツでストップにする",
-   "en": ""
+   "en": "A net stops movement\nHigh odds of Stop",
+   "status": "translated"
   },
   {
    "id": "s2804A0",
@@ -8596,7 +8991,8 @@
     "0x2913fc"
    ],
    "jp": "ネットでうごきをとめ   ストップにする",
-   "en": ""
+   "en": "A net binds the foe   Causes Stop",
+   "status": "translated"
   },
   {
    "id": "s2804CA",
@@ -8605,7 +9001,8 @@
     "0x291400"
    ],
    "jp": "タコスミ",
-   "en": ""
+   "en": "Octo Ink",
+   "status": "translated"
   },
   {
    "id": "s2804D4",
@@ -8614,7 +9011,8 @@
     "0x291404"
    ],
    "jp": "スミをふきかけ\n高いカクリツでエラーにする",
-   "en": ""
+   "en": "Sprays ink\nHigh odds of Error",
+   "status": "translated"
   },
   {
    "id": "s280500",
@@ -8623,7 +9021,8 @@
     "0x291408"
    ],
    "jp": "スミをふきかけ      エラーにする",
-   "en": ""
+   "en": "Sprays ink      Causes Error",
+   "status": "translated"
   },
   {
    "id": "s280528",
@@ -8632,7 +9031,8 @@
     "0x29140c"
    ],
    "jp": "タイムストップ",
-   "en": ""
+   "en": "Time Stop",
+   "status": "translated"
   },
   {
    "id": "s280538",
@@ -8641,7 +9041,8 @@
     "0x291410"
    ],
    "jp": "時間を止めて\n敵味方全体を高いカクリツでストップにする",
-   "en": ""
+   "en": "Stops time\nHigh odds of Stop on everyone",
+   "status": "translated"
   },
   {
    "id": "s280570",
@@ -8650,7 +9051,8 @@
     "0x291414"
    ],
    "jp": "じかんをとめて      てきみかたすべてストップに",
-   "en": ""
+   "en": "Stops time      Stop on everyone",
+   "status": "translated"
   },
   {
    "id": "s2805A6",
@@ -8659,7 +9061,8 @@
     "0x291418"
    ],
    "jp": "うんだめしハント",
-   "en": ""
+   "en": "Luck Hunt",
+   "status": "translated"
   },
   {
    "id": "s2805B8",
@@ -8668,7 +9071,8 @@
     "0x29141c"
    ],
    "jp": "ハントゲージが赤くなっている時に\nとれるカクリツがランダムで変わる",
-   "en": ""
+   "en": "When the Hunt Gauge is red,\ncatch odds change at random",
+   "status": "translated"
   },
   {
    "id": "s2805FC",
@@ -8677,7 +9081,8 @@
     "0x291420"
    ],
    "jp": "ハントゲージがあかいとき ランダムでハントせいこう",
-   "en": ""
+   "en": "Red Hunt Gauge: random hunt success",
+   "status": "translated"
   },
   {
    "id": "s280630",
@@ -8686,7 +9091,8 @@
     "0x291424"
    ],
    "jp": "むりやりハント",
-   "en": ""
+   "en": "Force Hunt",
+   "status": "translated"
   },
   {
    "id": "s280640",
@@ -8695,7 +9101,8 @@
     "0x291428"
    ],
    "jp": "かなり高いカクリツでハントに成功するが\nハントしたグランボのレベルが1になってしまう",
-   "en": ""
+   "en": "Very high odds of hunting, but\nthe Granbo drops to level 1",
+   "status": "translated"
   },
   {
    "id": "s280696",
@@ -8704,7 +9111,8 @@
     "0x29142c"
    ],
    "jp": "ほぼせいこうするハント  てきのレベルは1になる",
-   "en": ""
+   "en": "Near-sure hunt; foe drops to level 1",
+   "status": "translated"
   },
   {
    "id": "s2806C8",
@@ -8713,7 +9121,8 @@
     "0x291430"
    ],
    "jp": "ネットでハント",
-   "en": ""
+   "en": "Net Hunt",
+   "status": "translated"
   },
   {
    "id": "s2806D8",
@@ -8722,7 +9131,8 @@
     "0x291434"
    ],
    "jp": "ネットを使ったハント\n成功カクリツが高い",
-   "en": ""
+   "en": "A hunt with a net\nHigh success odds",
+   "status": "translated"
   },
   {
    "id": "s280702",
@@ -8731,7 +9141,8 @@
     "0x291438"
    ],
    "jp": "ネットをつかったハント  セイコウカクリツがたかい",
-   "en": ""
+   "en": "A hunt with a net; high success odds",
+   "status": "translated"
   },
   {
    "id": "s280736",
@@ -8740,7 +9151,8 @@
     "0x29143c"
    ],
    "jp": "タコスミハント",
-   "en": ""
+   "en": "Octo Ink Hunt",
+   "status": "translated"
   },
   {
    "id": "s280746",
@@ -8749,7 +9161,8 @@
     "0x291440"
    ],
    "jp": "スミを使ったハント\n成功カクリツが高い",
-   "en": ""
+   "en": "A hunt with ink\nHigh success odds",
+   "status": "translated"
   },
   {
    "id": "s28076E",
@@ -8758,7 +9171,8 @@
     "0x291444"
    ],
    "jp": "スミをつかったハント   セイコウカクリツがたかい",
-   "en": ""
+   "en": "A hunt with ink   High success odds",
+   "status": "translated"
   },
   {
    "id": "s2807A2",
@@ -8767,7 +9181,8 @@
     "0x291448"
    ],
    "jp": "3体同時攻撃",
-   "en": ""
+   "en": "Trio Attack",
+   "status": "translated"
   },
   {
    "id": "s2807B0",
@@ -8776,7 +9191,8 @@
     "0x29144c"
    ],
    "jp": "3体が35ずつENをしょうひして攻撃\n3体そろっていないと使えないが、敵はよけられない",
-   "en": ""
+   "en": "All 3 spend 35 EN each to attack\nNeeds all 3, but foe can't dodge",
+   "status": "translated"
   },
   {
    "id": "s280808",
@@ -8785,7 +9201,8 @@
     "0x291450"
    ],
    "jp": "3たいともENを35つかうよけられないコウゲキ",
-   "en": ""
+   "en": "All 3 spend 35 EN; can't be dodged",
+   "status": "translated"
   },
   {
    "id": "s280838",
@@ -8794,7 +9211,8 @@
     "0x291454"
    ],
    "jp": "闇うち",
-   "en": ""
+   "en": "Ambush",
+   "status": "translated"
   },
   {
    "id": "s280840",
@@ -8803,7 +9221,8 @@
     "0x291458"
    ],
    "jp": "攻撃されなければ、次のターンに\nイリョクの高い攻撃ができる",
-   "en": ""
+   "en": "If not attacked, next turn\nit lands a powerful attack",
+   "status": "translated"
   },
   {
    "id": "s28087C",
@@ -8812,7 +9231,8 @@
     "0x29145c"
    ],
    "jp": "コウゲキされなければつぎのターンにつよいコウゲキ",
-   "en": ""
+   "en": "If not hit, a strong attack next turn",
+   "status": "translated"
   },
   {
    "id": "s2808AE",
@@ -8821,7 +9241,8 @@
     "0x291460"
    ],
    "jp": "闇うち",
-   "en": ""
+   "en": "Ambush",
+   "status": "translated"
   },
   {
    "id": "s2808B6",
@@ -8848,7 +9269,8 @@
     "0x29146c"
    ],
    "jp": "ウイルスネット",
-   "en": ""
+   "en": "Virus Net",
+   "status": "translated"
   },
   {
    "id": "s2808CE",
@@ -8857,7 +9279,8 @@
     "0x291470"
    ],
    "jp": "どくのネットをからめて\nウイルスにする",
-   "en": ""
+   "en": "Snares in a toxic net\nCauses Virus",
+   "status": "translated"
   },
   {
    "id": "s2808F6",
@@ -8866,7 +9289,8 @@
     "0x291474"
    ],
    "jp": "どくのネットをからめて  ウイルスにする",
-   "en": ""
+   "en": "Snares in a toxic net and causes Virus",
+   "status": "translated"
   },
   {
    "id": "s280920",
@@ -8875,7 +9299,8 @@
     "0x291478"
    ],
    "jp": "リンプンハント",
-   "en": ""
+   "en": "Powder Hunt",
+   "status": "translated"
   },
   {
    "id": "s280930",
@@ -8884,7 +9309,8 @@
     "0x29147c"
    ],
    "jp": "リンプンをふりまき\nカクランした上でハントする",
-   "en": ""
+   "en": "Scatters powder\nConfuses, then hunts",
+   "status": "translated"
   },
   {
    "id": "s280960",
@@ -8893,7 +9319,8 @@
     "0x291480"
    ],
    "jp": "リンプンをふりまき カクランしてハントする",
-   "en": ""
+   "en": "Scatters powder to confuse, then hunts",
+   "status": "translated"
   },
   {
    "id": "s28098C",
@@ -8902,7 +9329,8 @@
     "0x291484"
    ],
    "jp": "とうみん",
-   "en": ""
+   "en": " Hibernate",
+   "status": "translated"
   },
   {
    "id": "s280996",
@@ -8911,7 +9339,8 @@
     "0x291488"
    ],
    "jp": "いっさい行動できなくなるが\nそのかわりHPが回復する",
-   "en": ""
+   "en": "Can't act at all,\nbut restores HP instead",
+   "status": "translated"
   },
   {
    "id": "s2809CC",
@@ -8920,7 +9349,8 @@
     "0x29148c"
    ],
    "jp": "コウドウできなくなるが  HPがカイフク",
-   "en": ""
+   "en": "Can't act, but HP is restored",
+   "status": "translated"
   },
   {
    "id": "s2809F6",
@@ -8929,7 +9359,8 @@
     "0x291490"
    ],
    "jp": "ファンファーレ",
-   "en": ""
+   "en": "Fanfare",
+   "status": "translated"
   },
   {
    "id": "s280A06",
@@ -8938,7 +9369,8 @@
     "0x291494"
    ],
    "jp": "元気の出るオンガクで\n全体のHPを100回復",
-   "en": ""
+   "en": "Rousing music\nHeals all allies 100 HP",
+   "status": "translated"
   },
   {
    "id": "s280A34",
@@ -8947,7 +9379,8 @@
     "0x291498"
    ],
    "jp": "ゼンタイのHPを     100カイフク",
-   "en": ""
+   "en": "Heals team HP     by 100",
+   "status": "translated"
   },
   {
    "id": "s280A5E",
@@ -8956,7 +9389,8 @@
     "0x29149c"
    ],
    "jp": "ジャンプキック強",
-   "en": ""
+   "en": "Jump Kick 3",
+   "status": "translated"
   },
   {
    "id": "s280A70",
@@ -8965,7 +9399,8 @@
     "0x2914a0"
    ],
    "jp": "ジャンプ後のキックで攻撃",
-   "en": ""
+   "en": "Leaps, then kicks",
+   "status": "translated"
   },
   {
    "id": "s280A8A",
@@ -8974,7 +9409,8 @@
     "0x2914a4"
    ],
    "jp": "ジャンプごのキックで   コウゲキ",
-   "en": ""
+   "en": "Jumps, then   kicks",
+   "status": "translated"
   },
   {
    "id": "s280AAE",
@@ -8983,7 +9419,8 @@
     "0x2914a8"
    ],
    "jp": "フリーズガン",
-   "en": ""
+   "en": "Freeze Gun",
+   "status": "translated"
   },
   {
    "id": "s280ABC",
@@ -8992,7 +9429,8 @@
     "0x2914ac"
    ],
    "jp": "全体にフリーズガンで攻撃\nストップにする事がある",
-   "en": ""
+   "en": "Freeze Gun hits all foes\nMay cause Stop",
+   "status": "translated"
   },
   {
    "id": "s280AEE",
@@ -9001,7 +9439,8 @@
     "0x2914b0"
    ],
    "jp": "ゼンタイにガンでコウゲキ ストップにすることがある",
-   "en": ""
+   "en": "Gun hits all foes and may cause Stop",
+   "status": "translated"
   },
   {
    "id": "s280B22",
@@ -9010,7 +9449,8 @@
     "0x2914b4"
    ],
    "jp": "大ぼうそう",
-   "en": ""
+   "en": "Rampage",
+   "status": "translated"
   },
   {
    "id": "s280B2E",
@@ -9019,7 +9459,8 @@
     "0x2914b8"
    ],
    "jp": "1ターン力をためた上で\n次のターン、全体に攻撃する",
-   "en": ""
+   "en": "Charges for 1 turn,\nhits all foes next turn",
+   "status": "translated"
   },
   {
    "id": "s280B62",
@@ -9028,7 +9469,8 @@
     "0x2914bc"
    ],
    "jp": "ゼンタイにこうげき    つよいが、2ターンかかる",
-   "en": ""
+   "en": "Hits all foes    Strong, but takes 2 turns",
+   "status": "translated"
   },
   {
    "id": "s280B96",
@@ -9037,7 +9479,8 @@
     "0x2914c0"
    ],
    "jp": "大ぼうそう",
-   "en": ""
+   "en": "Rampage",
+   "status": "translated"
   },
   {
    "id": "s280BA2",
@@ -9064,7 +9507,8 @@
     "0x2914cc"
    ],
    "jp": "トリプルガン弱",
-   "en": ""
+   "en": "Triple Gun 1",
+   "status": "translated"
   },
   {
    "id": "s280BBA",
@@ -9073,7 +9517,8 @@
     "0x2914d0"
    ],
    "jp": "全体にトリプルガンで攻撃",
-   "en": ""
+   "en": "Triple Gun hits all foes",
+   "status": "translated"
   },
   {
    "id": "s280BD4",
@@ -9082,7 +9527,8 @@
     "0x2914d4"
    ],
    "jp": "ゼンタイにトリプルガンで コウゲキ",
-   "en": ""
+   "en": "Triple Gun hits all foes",
+   "status": "translated"
   },
   {
    "id": "s280BF8",
@@ -9091,7 +9537,8 @@
     "0x2914d8"
    ],
    "jp": "トリプルガン中",
-   "en": ""
+   "en": "Triple Gun 2",
+   "status": "translated"
   },
   {
    "id": "s280C08",
@@ -9100,7 +9547,8 @@
     "0x2914dc"
    ],
    "jp": "全体にトリプルガンで攻撃",
-   "en": ""
+   "en": "Triple Gun hits all foes",
+   "status": "translated"
   },
   {
    "id": "s280C22",
@@ -9109,7 +9557,8 @@
     "0x2914e0"
    ],
    "jp": "ゼンタイにトリプルガンで コウゲキ",
-   "en": ""
+   "en": "Triple Gun hits all foes",
+   "status": "translated"
   },
   {
    "id": "s280C46",
@@ -9118,7 +9567,8 @@
     "0x2914e4"
    ],
    "jp": "トリプルガン強",
-   "en": ""
+   "en": "Triple Gun 3",
+   "status": "translated"
   },
   {
    "id": "s280C56",
@@ -9127,7 +9577,8 @@
     "0x2914e8"
    ],
    "jp": "全体にトリプルガンで攻撃",
-   "en": ""
+   "en": "Triple Gun hits all foes",
+   "status": "translated"
   },
   {
    "id": "s280C70",
@@ -9136,7 +9587,8 @@
     "0x2914ec"
    ],
    "jp": "ゼンタイにトリプルガンで コウゲキ",
-   "en": ""
+   "en": "Triple Gun hits all foes",
+   "status": "translated"
   },
   {
    "id": "s280C94",
@@ -9145,7 +9597,8 @@
     "0x2914f0"
    ],
    "jp": "全ALLノイズ弱",
-   "en": ""
+   "en": "Team ALL Noise 1",
+   "status": "translated"
   },
   {
    "id": "s280CA6",
@@ -9154,7 +9607,8 @@
     "0x2914f4"
    ],
    "jp": "うたごえでまどわし\n敵全体をALLダウンにする",
-   "en": ""
+   "en": "Sings to confuse\nGives all foes ALL Down",
+   "status": "translated"
   },
   {
    "id": "s280CD6",
@@ -9163,7 +9617,8 @@
     "0x2914f8"
    ],
    "jp": "うたごえでてきぜんたいを ALLダウンにする",
-   "en": ""
+   "en": "Singing gives all foes ALL Down",
+   "status": "translated"
   },
   {
    "id": "s280D04",
@@ -9172,7 +9627,8 @@
     "0x2914fc"
    ],
    "jp": "全ALLノイズ中",
-   "en": ""
+   "en": "Team ALL Noise 2",
+   "status": "translated"
   },
   {
    "id": "s280D16",
@@ -9181,7 +9637,8 @@
     "0x291500"
    ],
    "jp": "うたごえでまどわし\n敵全体をALLダウンにする",
-   "en": ""
+   "en": "Sings to confuse\nGives all foes ALL Down",
+   "status": "translated"
   },
   {
    "id": "s280D46",
@@ -9190,7 +9647,8 @@
     "0x291504"
    ],
    "jp": "うたごえでてきぜんたいを ALLダウンにする",
-   "en": ""
+   "en": "Singing gives all foes ALL Down",
+   "status": "translated"
   },
   {
    "id": "s280D74",
@@ -9199,7 +9657,8 @@
     "0x291508"
    ],
    "jp": "全ALLノイズ強",
-   "en": ""
+   "en": "Team ALL Noise 3",
+   "status": "translated"
   },
   {
    "id": "s280D86",
@@ -9208,7 +9667,8 @@
     "0x29150c"
    ],
    "jp": "うたごえでまどわし\n敵全体をALLダウンにする",
-   "en": ""
+   "en": "Sings to confuse\nGives all foes ALL Down",
+   "status": "translated"
   },
   {
    "id": "s280DB6",
@@ -9217,7 +9677,8 @@
     "0x291510"
    ],
    "jp": "うたごえでてきぜんたいを ALLダウンにする",
-   "en": ""
+   "en": "Singing gives all foes ALL Down",
+   "status": "translated"
   },
   {
    "id": "s280DE4",
@@ -9226,7 +9687,8 @@
     "0x291514"
    ],
    "jp": "ハントUPクロー",
-   "en": ""
+   "en": "Hunt Up Claw",
+   "status": "translated"
   },
   {
    "id": "s280DF6",
@@ -9235,7 +9697,8 @@
     "0x291518"
    ],
    "jp": "ツメでひっかいて攻撃\nハントUPじょうたいにする",
-   "en": ""
+   "en": "Claws the foe\nGives Hunt Up",
+   "status": "translated"
   },
   {
    "id": "s280E28",
@@ -9244,7 +9707,8 @@
     "0x29151c"
    ],
    "jp": "ツメでコウゲキ      ハントUPにする",
-   "en": ""
+   "en": "Claw attack      Gives Hunt Up",
+   "status": "translated"
   },
   {
    "id": "s280E54",
@@ -9253,7 +9717,8 @@
     "0x291520"
    ],
    "jp": "かみつく",
-   "en": ""
+   "en": "Bite",
+   "status": "translated"
   },
   {
    "id": "s280E5E",
@@ -9262,7 +9727,8 @@
     "0x291524"
    ],
    "jp": "敵にかみついて攻撃",
-   "en": ""
+   "en": "Bites the foe",
+   "status": "translated"
   },
   {
    "id": "s280E72",
@@ -9271,7 +9737,8 @@
     "0x291528"
    ],
    "jp": "かみついてコウゲキ",
-   "en": ""
+   "en": "Bite attack",
+   "status": "translated"
   },
   {
    "id": "s280E86",
@@ -9280,7 +9747,8 @@
     "0x29152c"
    ],
    "jp": "ウイルスバリア",
-   "en": ""
+   "en": "Virus Barrier",
+   "status": "translated"
   },
   {
    "id": "s280E96",
@@ -9289,7 +9757,8 @@
     "0x291530"
    ],
    "jp": "ちょくせつ攻撃してきた相手を\nウイルスにする事ができる",
-   "en": ""
+   "en": "Foes that hit it directly\ncan get Virus",
+   "status": "translated"
   },
   {
    "id": "s280ECE",
@@ -9298,7 +9767,8 @@
     "0x291534"
    ],
    "jp": "コウゲキしてきたアイテを ウイルスにすることができる",
-   "en": ""
+   "en": "Attackers can get Virus",
+   "status": "translated"
   },
   {
    "id": "s280F04",
@@ -9307,7 +9777,8 @@
     "0x291538"
    ],
    "jp": "ウイルスバリア",
-   "en": ""
+   "en": "Virus Barrier",
+   "status": "translated"
   },
   {
    "id": "s280F14",
@@ -9334,7 +9805,8 @@
     "0x291544"
    ],
    "jp": "大じしん",
-   "en": ""
+   "en": "Big Quake",
+   "status": "translated"
   },
   {
    "id": "s280F26",
@@ -9343,7 +9815,8 @@
     "0x291548"
    ],
    "jp": "ターンの最後にじしんをおこして\n敵味方全体にダメージをあたえる",
-   "en": ""
+   "en": "Causes a quake at turn's end,\ndamaging everyone",
+   "status": "translated"
   },
   {
    "id": "s280F66",
@@ -9352,7 +9825,8 @@
     "0x29154c"
    ],
    "jp": "ターンのさいごにじしんで てきみかたすべてにダメージ",
-   "en": ""
+   "en": "A quake at turn's end hits everyone",
+   "status": "translated"
   },
   {
    "id": "s280F9C",
@@ -9361,7 +9835,8 @@
     "0x291550"
    ],
    "jp": "めざましソング",
-   "en": ""
+   "en": "Wake-Up Song",
+   "status": "translated"
   },
   {
    "id": "s280FAC",
@@ -9370,7 +9845,8 @@
     "0x291554"
    ],
    "jp": "元気の出るうたごえで\n全体のストップを回復する",
-   "en": ""
+   "en": "A rousing song\ncures Stop for all allies",
+   "status": "translated"
   },
   {
    "id": "s280FDC",
@@ -9379,7 +9855,8 @@
     "0x291558"
    ],
    "jp": "うたごえでぜんたいの   ストップをかいふくする",
-   "en": ""
+   "en": "A song cures all   allies of Stop",
+   "status": "translated"
   },
   {
    "id": "s28100E",
@@ -9388,7 +9865,8 @@
     "0x29155c"
    ],
    "jp": "めざましソング",
-   "en": ""
+   "en": "Wake-Up Song",
+   "status": "translated"
   },
   {
    "id": "s28101E",
@@ -9415,7 +9893,8 @@
     "0x291568"
    ],
    "jp": "ポケットアイテム",
-   "en": ""
+   "en": "Pocket Item",
+   "status": "translated"
   },
   {
    "id": "s281038",
@@ -9424,7 +9903,8 @@
     "0x29156c"
    ],
    "jp": "ポケットの中から\n何かアイテムを見つけ出す",
-   "en": ""
+   "en": "From its pocket,\nit finds some item",
+   "status": "translated"
   },
   {
    "id": "s281064",
@@ -9433,7 +9913,8 @@
     "0x291570"
    ],
    "jp": "ポケットのなかから    なにかアイテムをだす",
-   "en": ""
+   "en": "From its pocket    pulls out an item",
+   "status": "translated"
   },
   {
    "id": "s281094",
@@ -9442,7 +9923,8 @@
     "0x291574"
    ],
    "jp": "パンチ！キック！",
-   "en": ""
+   "en": "Punch! Kick!",
+   "status": "translated"
   },
   {
    "id": "s2810A6",
@@ -9451,7 +9933,8 @@
     "0x291578"
    ],
    "jp": "パンチとキックの連続攻撃",
-   "en": ""
+   "en": "Punch and kick combo",
+   "status": "translated"
   },
   {
    "id": "s2810C0",
@@ -9460,7 +9943,8 @@
     "0x29157c"
    ],
    "jp": "パンチとキックの     れんぞくコウゲキ",
-   "en": ""
+   "en": "Punch and kick     combo attack",
+   "status": "translated"
   },
   {
    "id": "s2810EC",
@@ -9469,7 +9953,8 @@
     "0x291580"
    ],
    "jp": "おやこタッグ",
-   "en": ""
+   "en": "Family Tag",
+   "status": "translated"
   },
   {
    "id": "s2810FA",
@@ -9478,7 +9963,8 @@
     "0x291584"
    ],
    "jp": "親子でタッグ攻撃\n同時にビームをうつ",
-   "en": ""
+   "en": "Family tag team\nBoth fire beams",
+   "status": "translated"
   },
   {
    "id": "s281120",
@@ -9487,7 +9973,8 @@
     "0x291588"
    ],
    "jp": "おやこでタッグコウゲキ  どうじにビームをうつ",
-   "en": ""
+   "en": "Parent and child fire beams at once",
+   "status": "translated"
   },
   {
    "id": "s281150",
@@ -9496,7 +9983,8 @@
     "0x29158c"
    ],
    "jp": "そこぢから",
-   "en": ""
+   "en": "Reserve Power",
+   "status": "translated"
   },
   {
    "id": "s28115C",
@@ -9505,7 +9993,8 @@
     "0x291590"
    ],
    "jp": "HPがすくないほどイリョクが上がる攻撃",
-   "en": ""
+   "en": "The lower its HP, the stronger it hits",
+   "status": "translated"
   },
   {
    "id": "s281184",
@@ -9514,7 +10003,8 @@
     "0x291594"
    ],
    "jp": "HPがすくないほど    イリョクがあがる",
-   "en": ""
+   "en": "The lower its HP    the stronger",
+   "status": "translated"
   },
   {
    "id": "s2811B0",
@@ -9523,7 +10013,8 @@
     "0x291598"
    ],
    "jp": "そこぢから",
-   "en": ""
+   "en": "Reserve Power",
+   "status": "translated"
   },
   {
    "id": "s2811BC",
@@ -9550,7 +10041,8 @@
     "0x2915a4"
    ],
    "jp": "そこぢから",
-   "en": ""
+   "en": "Reserve Power",
+   "status": "translated"
   },
   {
    "id": "s2811D0",
@@ -9577,7 +10069,8 @@
     "0x2915b0"
    ],
    "jp": "そこぢから",
-   "en": ""
+   "en": "Reserve Power",
+   "status": "translated"
   },
   {
    "id": "s2811E4",
@@ -9604,7 +10097,8 @@
     "0x2915bc"
    ],
    "jp": "ウイルスクロー弱",
-   "en": ""
+   "en": "Virus Claw 1",
+   "status": "translated"
   },
   {
    "id": "s2811FE",
@@ -9631,7 +10125,8 @@
     "0x2915c8"
    ],
    "jp": "エラークロー弱",
-   "en": ""
+   "en": "Error Claw 1",
+   "status": "translated"
   },
   {
    "id": "s281216",
@@ -9658,7 +10153,8 @@
     "0x2915d4"
    ],
    "jp": "ストップクロー弱",
-   "en": ""
+   "en": "Stop Claw 1",
+   "status": "translated"
   },
   {
    "id": "s281230",
@@ -9685,7 +10181,8 @@
     "0x2915e0"
    ],
    "jp": "ATホーン弱",
-   "en": ""
+   "en": "AT Horn 1",
+   "status": "translated"
   },
   {
    "id": "s281246",
@@ -9694,7 +10191,8 @@
     "0x2915e4"
    ],
    "jp": "ツノでつきさす攻撃\nたまにATを下げる事がある",
-   "en": ""
+   "en": "Stabs with a horn\nMay lower AT",
+   "status": "translated"
   },
   {
    "id": "s281276",
@@ -9703,7 +10201,8 @@
     "0x2915e8"
    ],
    "jp": "ツノでコウゲキ      ATをさげることがある",
-   "en": ""
+   "en": "Horn attack      May lower AT",
+   "status": "translated"
   },
   {
    "id": "s2812A8",
@@ -9712,7 +10211,8 @@
     "0x2915ec"
    ],
    "jp": "DFホーン弱",
-   "en": ""
+   "en": "DF Horn 1",
+   "status": "translated"
   },
   {
    "id": "s2812B6",
@@ -9739,7 +10239,8 @@
     "0x2915f8"
    ],
    "jp": "SPホーン弱",
-   "en": ""
+   "en": "SP Horn 1",
+   "status": "translated"
   },
   {
    "id": "s2812CC",
@@ -9748,7 +10249,8 @@
     "0x2915fc"
    ],
    "jp": "ツノでつきさす攻撃\nたまにSPを下げる事がある",
-   "en": ""
+   "en": "Stabs with a horn\nMay lower SP",
+   "status": "translated"
   },
   {
    "id": "s2812FC",
@@ -9757,7 +10259,8 @@
     "0x291600"
    ],
    "jp": "ツノでコウゲキ      SPをさげることがある",
-   "en": ""
+   "en": "Horn attack      May lower SP",
+   "status": "translated"
   },
   {
    "id": "s28132E",
@@ -9766,7 +10269,8 @@
     "0x291604"
    ],
    "jp": "ALLホーン弱",
-   "en": ""
+   "en": "ALL Horn 1",
+   "status": "translated"
   },
   {
    "id": "s28133E",
@@ -9793,7 +10297,8 @@
     "0x291610"
    ],
    "jp": "ワザ止めキック弱",
-   "en": ""
+   "en": "Move-Stop Kick 1",
+   "status": "translated"
   },
   {
    "id": "s281358",
@@ -9820,7 +10325,8 @@
     "0x29161c"
    ],
    "jp": "ダイブ弱",
-   "en": ""
+   "en": "Dive 1",
+   "status": "translated"
   },
   {
    "id": "s28136A",
@@ -9829,7 +10335,8 @@
     "0x291620"
    ],
    "jp": "空から飛びかかる攻撃\nたまにクリティカルする事がある",
-   "en": ""
+   "en": "Swoops from above\nMay land a critical hit",
+   "status": "translated"
   },
   {
    "id": "s2813A0",
@@ -9838,7 +10345,8 @@
     "0x291624"
    ],
    "jp": "そらからとびかかるコウゲキクリティカルすることがある",
-   "en": ""
+   "en": "Swoops from the sky; may land a critical",
+   "status": "translated"
   },
   {
    "id": "s2813D6",
@@ -9847,7 +10355,8 @@
     "0x291628"
    ],
    "jp": "パンチ弱",
-   "en": ""
+   "en": "Punch 1",
+   "status": "translated"
   },
   {
    "id": "s2813E0",
@@ -9856,7 +10365,8 @@
     "0x29162c"
    ],
    "jp": "パンチで攻撃\nいりょくは高いが、かわされやすい",
-   "en": ""
+   "en": "Punches\nStrong, but easy to dodge",
+   "status": "translated"
   },
   {
    "id": "s281410",
@@ -9865,7 +10375,8 @@
     "0x291630"
    ],
    "jp": "パンチでコウゲキ     つよいが、かわされることも",
-   "en": ""
+   "en": "Punch attack     Strong, but may miss",
+   "status": "translated"
   },
   {
    "id": "s281446",
@@ -9874,7 +10385,8 @@
     "0x291634"
    ],
    "jp": "ボム弱",
-   "en": ""
+   "en": "Bomb 1",
+   "status": "translated"
   },
   {
    "id": "s28144E",
@@ -9883,7 +10395,8 @@
     "0x291638"
    ],
    "jp": "全体にボムで攻撃",
-   "en": ""
+   "en": "Bombs all foes",
+   "status": "translated"
   },
   {
    "id": "s281460",
@@ -9892,7 +10405,8 @@
     "0x29163c"
    ],
    "jp": "ぜんたいにボムでコウゲキ",
-   "en": ""
+   "en": "Bombs all foes",
+   "status": "translated"
   },
   {
    "id": "s28147A",
@@ -9901,7 +10415,8 @@
     "0x291640"
    ],
    "jp": "カノン弱",
-   "en": ""
+   "en": "Cannon 1",
+   "status": "translated"
   },
   {
    "id": "s281484",
@@ -9910,7 +10425,8 @@
     "0x291644"
    ],
    "jp": "全体にカノンで攻撃",
-   "en": ""
+   "en": "Cannons all foes",
+   "status": "translated"
   },
   {
    "id": "s281498",
@@ -9919,7 +10435,8 @@
     "0x291648"
    ],
    "jp": "ぜんたいにカノンでコウゲキ",
-   "en": ""
+   "en": "Cannon fire on all foes",
+   "status": "translated"
   },
   {
    "id": "s2814B4",
@@ -9928,7 +10445,8 @@
     "0x29164c"
    ],
    "jp": "ビーム弱",
-   "en": ""
+   "en": "Beam 1",
+   "status": "translated"
   },
   {
    "id": "s2814BE",
@@ -9955,7 +10473,8 @@
     "0x291658"
    ],
    "jp": "すて身弱",
-   "en": ""
+   "en": "Gambit 1",
+   "status": "translated"
   },
   {
    "id": "s2814D0",
@@ -9964,7 +10483,8 @@
     "0x29165c"
    ],
    "jp": "キケンをかえりみずに攻撃\nいりょくは高いが、使用後は戦闘不能になってしまう",
-   "en": ""
+   "en": "Reckless attack\nPowerful, but the user is KO'd after use",
+   "status": "translated"
   },
   {
    "id": "s28151C",
@@ -9973,7 +10493,8 @@
     "0x291660"
    ],
    "jp": "すてみのコウゲキ     つかうとセントウフノウに",
-   "en": ""
+   "en": "Reckless attack  User is KO'd after use",
+   "status": "translated"
   },
   {
    "id": "s281550",
@@ -9982,7 +10503,8 @@
     "0x291664"
    ],
    "jp": "HPスチール弱",
-   "en": ""
+   "en": "HP Steal 1",
+   "status": "translated"
   },
   {
    "id": "s281560",
@@ -9991,7 +10513,8 @@
     "0x291668"
    ],
    "jp": "攻撃して少しHPをうばう",
-   "en": ""
+   "en": "Attack, steal a little HP",
+   "status": "translated"
   },
   {
    "id": "s28157A",
@@ -10000,7 +10523,8 @@
     "0x29166c"
    ],
    "jp": "コウゲキして       すこしHPをうばう",
-   "en": ""
+   "en": "Attack and  steal a little HP",
+   "status": "translated"
   },
   {
    "id": "s2815A8",
@@ -10009,7 +10533,8 @@
     "0x291670"
    ],
    "jp": "ENスチール弱",
-   "en": ""
+   "en": "EN Steal 1",
+   "status": "translated"
   },
   {
    "id": "s2815B8",
@@ -10036,7 +10561,8 @@
     "0x29167c"
    ],
    "jp": "むしヘンゲ弱",
-   "en": ""
+   "en": "Bug Morph 1",
+   "status": "translated"
   },
   {
    "id": "s2815CE",
@@ -10063,7 +10589,8 @@
     "0x291688"
    ],
    "jp": "スピードヒット弱",
-   "en": ""
+   "en": "Speed Hit 1",
+   "status": "translated"
   },
   {
    "id": "s2815E8",
@@ -10072,7 +10599,8 @@
     "0x29168c"
    ],
    "jp": "だれよりも早く、体当たりで攻撃",
-   "en": ""
+   "en": "Tackle before anyone else",
+   "status": "translated"
   },
   {
    "id": "s281608",
@@ -10081,7 +10609,8 @@
     "0x291690"
    ],
    "jp": "ダレよりもはやく     たいアタリでコウゲキ",
-   "en": ""
+   "en": "Before anyone else  tackle attack",
+   "status": "translated"
   },
   {
    "id": "s281638",
@@ -10090,7 +10619,8 @@
     "0x291694"
    ],
    "jp": "のろのろヒット弱",
-   "en": ""
+   "en": " Slow Hit 1",
+   "status": "translated"
   },
   {
    "id": "s28164A",
@@ -10117,7 +10647,8 @@
     "0x2916a0"
    ],
    "jp": "戦音プ味全",
-   "en": ""
+   "en": "BSnd P Ally",
+   "status": "translated"
   },
   {
    "id": "s28165E",
@@ -10144,7 +10675,8 @@
     "0x2916ac"
    ],
    "jp": "戦音パ敵味",
-   "en": ""
+   "en": "BSnd P Both",
+   "status": "translated"
   },
   {
    "id": "s281672",
@@ -10171,7 +10703,8 @@
     "0x2916b8"
    ],
    "jp": "戦イトドク",
-   "en": ""
+   "en": "B.Web Psn",
+   "status": "translated"
   },
   {
    "id": "s281686",
@@ -10198,7 +10731,8 @@
     "0x2916c4"
    ],
    "jp": "戦ショさん",
-   "en": ""
+   "en": "B.Sho-san",
+   "status": "translated"
   },
   {
    "id": "s28169A",
@@ -10225,7 +10759,8 @@
     "0x2916d0"
    ],
    "jp": "戦音プ全",
-   "en": ""
+   "en": "BSnd P All",
+   "status": "translated"
   },
   {
    "id": "s2816AC",
@@ -10252,7 +10787,8 @@
     "0x2916dc"
    ],
    "jp": "全ヒット弱",
-   "en": ""
+   "en": "Team Hit 1",
+   "status": "translated"
   },
   {
    "id": "s2816C0",
@@ -10261,7 +10797,8 @@
     "0x2916e0"
    ],
    "jp": "全体に体当たりで攻撃",
-   "en": ""
+   "en": "Tackle all foes",
+   "status": "translated"
   },
   {
    "id": "s2816D6",
@@ -10270,7 +10807,8 @@
     "0x2916e4"
    ],
    "jp": "ぜんたいにたいあたりで  コウゲキ",
-   "en": ""
+   "en": "Tackle attack on  all foes",
+   "status": "translated"
   },
   {
    "id": "s2816FA",
@@ -10279,7 +10817,8 @@
     "0x2916e8"
    ],
    "jp": "ジャンプキック弱",
-   "en": ""
+   "en": "Jump Kick 1",
+   "status": "translated"
   },
   {
    "id": "s28170C",
@@ -10288,7 +10827,8 @@
     "0x2916ec"
    ],
    "jp": "ジャンプ後のキックで攻撃",
-   "en": ""
+   "en": "Jump and kick to attack",
+   "status": "translated"
   },
   {
    "id": "s281726",
@@ -10297,7 +10837,8 @@
     "0x2916f0"
    ],
    "jp": "ジャンプごのキックで   コウゲキ",
-   "en": ""
+   "en": "Jumping kick  attack",
+   "status": "translated"
   },
   {
    "id": "s28174A",
@@ -10306,7 +10847,8 @@
     "0x2916f4"
    ],
    "jp": "なかまの助け弱",
-   "en": ""
+   "en": "Ally Help 1",
+   "status": "translated"
   },
   {
    "id": "s28175A",
@@ -10333,7 +10875,8 @@
     "0x291700"
    ],
    "jp": "戦ショット",
-   "en": ""
+   "en": "B.Shot",
+   "status": "translated"
   },
   {
    "id": "s28176E",
@@ -10360,7 +10903,8 @@
     "0x29170c"
    ],
    "jp": "アルマゲドン",
-   "en": ""
+   "en": "Armageddon",
+   "status": "translated"
   },
   {
    "id": "s281784",
@@ -10369,7 +10913,8 @@
     "0x291710"
    ],
    "jp": "全体にレーザーで攻撃\nひじょうに強力",
-   "en": ""
+   "en": "Lasers all foes\nVery strong",
+   "status": "translated"
   },
   {
    "id": "s2817AA",
@@ -10378,7 +10923,8 @@
     "0x291714"
    ],
    "jp": "ぜんたいにレーザーこうげきひじょうにきょうりょく",
-   "en": ""
+   "en": "Laser attack on all foes; very strong",
+   "status": "translated"
   },
   {
    "id": "s2817DC",
@@ -10387,7 +10933,8 @@
     "0x291718"
    ],
    "jp": "ファイヤーブレス",
-   "en": ""
+   "en": "Fire Breath",
+   "status": "translated"
   },
   {
    "id": "s2817EE",
@@ -10396,7 +10943,8 @@
     "0x29171c"
    ],
    "jp": "全体にブレスで攻撃\nひじょうに強力",
-   "en": ""
+   "en": "Breath on all foes\nVery strong",
+   "status": "translated"
   },
   {
    "id": "s281812",
@@ -10405,7 +10953,8 @@
     "0x291720"
    ],
    "jp": "ぜんたいにブレスでこうげきひじょうにきょうりょく",
-   "en": ""
+   "en": "Breath attack on all foes; very strong",
+   "status": "translated"
   },
   {
    "id": "s281844",
@@ -10414,7 +10963,8 @@
     "0x291724"
    ],
    "jp": "アイスブレス",
-   "en": ""
+   "en": "Ice Breath",
+   "status": "translated"
   },
   {
    "id": "s281852",
@@ -10423,7 +10973,8 @@
     "0x291728"
    ],
    "jp": "全体にブレスで攻撃\nストップにする事がある",
-   "en": ""
+   "en": "Breath on all foes\nMay cause Stop",
+   "status": "translated"
   },
   {
    "id": "s28187E",
@@ -10432,7 +10983,8 @@
     "0x29172c"
    ],
    "jp": "ぜんたいにブレスでこうげきストップにすることもがある",
-   "en": ""
+   "en": "Breath attack on all foes; may cause Stop",
+   "status": "translated"
   },
   {
    "id": "s2818B4",
@@ -10441,7 +10993,8 @@
     "0x291730"
    ],
    "jp": "ライフリバース",
-   "en": ""
+   "en": "Life Reverse",
+   "status": "translated"
   },
   {
    "id": "s2818C4",
@@ -10450,7 +11003,8 @@
     "0x291734"
    ],
    "jp": "自分のHPがじょじょに回復していく",
-   "en": ""
+   "en": "Slowly restores your own HP",
+   "status": "translated"
   },
   {
    "id": "s2818E8",
@@ -10459,7 +11013,8 @@
     "0x291738"
    ],
    "jp": "じぶんのHPが      じょじょにかいふく",
-   "en": ""
+   "en": "Your own HP  slowly heals",
+   "status": "translated"
   },
   {
    "id": "s281916",
@@ -10468,7 +11023,8 @@
     "0x29173c"
    ],
    "jp": "トリプルレーザー",
-   "en": ""
+   "en": "Triple Laser",
+   "status": "translated"
   },
   {
    "id": "s281928",
@@ -10477,7 +11033,8 @@
     "0x291740"
    ],
    "jp": "全体にトリプルレーザーで攻撃",
-   "en": ""
+   "en": "Triple lasers hit all foes",
+   "status": "translated"
   },
   {
    "id": "s281946",
@@ -10486,7 +11043,8 @@
     "0x291744"
    ],
    "jp": "ゼンタイに        トリプルレーザーでコウゲキ",
-   "en": ""
+   "en": "All foes  hit by Triple Laser",
+   "status": "translated"
   },
   {
    "id": "s28197C",
@@ -10495,7 +11053,8 @@
     "0x291748"
    ],
    "jp": "エンジェルマーチ",
-   "en": ""
+   "en": "Angel March",
+   "status": "translated"
   },
   {
    "id": "s28198E",
@@ -10504,7 +11063,8 @@
     "0x29174c"
    ],
    "jp": "楽しいオンガクで全体をALLアップにする",
-   "en": ""
+   "en": "Fun music gives the team ALL Up",
+   "status": "translated"
   },
   {
    "id": "s2819B8",
@@ -10513,7 +11073,8 @@
     "0x291750"
    ],
    "jp": "たのしいオンガクで    ぜんたいALLアップに",
-   "en": ""
+   "en": "Fun music gives  the team ALL Up",
+   "status": "translated"
   },
   {
    "id": "s2819EA",
@@ -10522,7 +11083,8 @@
     "0x291754"
    ],
    "jp": "サイコアタック",
-   "en": ""
+   "en": "Psycho Attack",
+   "status": "translated"
   },
   {
    "id": "s2819FA",
@@ -10531,7 +11093,8 @@
     "0x291758"
    ],
    "jp": "敵のENにダメージをあたえる攻撃",
-   "en": ""
+   "en": "Attack that damages a foe's EN",
+   "status": "translated"
   },
   {
    "id": "s281A1C",
@@ -10540,7 +11103,8 @@
     "0x29175c"
    ],
    "jp": "てきのENにダメージを  あたえるこうげき",
-   "en": ""
+   "en": "Attack that  damages a foe's EN",
+   "status": "translated"
   },
   {
    "id": "s281A48",
@@ -10549,7 +11113,8 @@
     "0x291760"
    ],
    "jp": "ストーンハント",
-   "en": ""
+   "en": "Stone Hunt",
+   "status": "translated"
   },
   {
    "id": "s281A58",
@@ -10558,7 +11123,8 @@
     "0x291764"
    ],
    "jp": "敵をストップにした上でハントする",
-   "en": ""
+   "en": "Stops a foe, then hunts it",
+   "status": "translated"
   },
   {
    "id": "s281A7A",
@@ -10567,7 +11133,8 @@
     "0x291768"
    ],
    "jp": "ストップにしたうえで   ハントする",
-   "en": ""
+   "en": "Stops the foe,  then hunts it",
+   "status": "translated"
   },
   {
    "id": "s281AA0",
@@ -10576,7 +11143,8 @@
     "0x29176c"
    ],
    "jp": "ヒートウェーブ",
-   "en": ""
+   "en": "Heat Wave",
+   "status": "translated"
   },
   {
    "id": "s281AB0",
@@ -10585,7 +11153,8 @@
     "0x291770"
    ],
    "jp": "全体にウェーブで攻撃\nひじょうに強力",
-   "en": ""
+   "en": "Waves hit all foes\nVery strong",
+   "status": "translated"
   },
   {
    "id": "s281AD6",
@@ -10594,7 +11163,8 @@
     "0x291774"
    ],
    "jp": "ぜんたいにウェーブこうげきひじょうにきょうりょく",
-   "en": ""
+   "en": "Wave attack on all foes; very strong",
+   "status": "translated"
   },
   {
    "id": "s281B08",
@@ -10603,7 +11173,8 @@
     "0x291778"
    ],
    "jp": "ビッグウェーブ",
-   "en": ""
+   "en": "Big Wave",
+   "status": "translated"
   },
   {
    "id": "s281B18",
@@ -10612,7 +11183,8 @@
     "0x29177c"
    ],
    "jp": "全体にウェーブで攻撃\nひじょうに強力",
-   "en": ""
+   "en": "Waves hit all foes\nVery strong",
+   "status": "translated"
   },
   {
    "id": "s281B3E",
@@ -10621,7 +11193,8 @@
     "0x291780"
    ],
    "jp": "ぜんたいにウェーブこうげきひじょうにきょうりょく",
-   "en": ""
+   "en": "Wave attack on all foes; very strong",
+   "status": "translated"
   },
   {
    "id": "s281B70",
@@ -10630,7 +11203,8 @@
     "0x291784"
    ],
    "jp": "ダークジャッジ",
-   "en": ""
+   "en": "Dark Judge",
+   "status": "translated"
   },
   {
    "id": "s281B80",
@@ -10639,7 +11213,8 @@
     "0x291788"
    ],
    "jp": "敵につっこんで攻撃\nきわめて強力",
-   "en": ""
+   "en": "Rams into a foe\nDevastating",
+   "status": "translated"
   },
   {
    "id": "s281BA2",
@@ -10648,7 +11223,8 @@
     "0x29178c"
    ],
    "jp": "つっこんでこうげき    きわめてきょうりょく",
-   "en": ""
+   "en": "Ramming attack  Devastating",
+   "status": "translated"
   },
   {
    "id": "s281BD2",
@@ -10657,7 +11233,8 @@
     "0x291790"
    ],
    "jp": "リンカネーション",
-   "en": ""
+   "en": "Reincarnation",
+   "status": "translated"
   },
   {
    "id": "s281BE4",
@@ -10666,7 +11243,8 @@
     "0x291794"
    ],
    "jp": "戦闘不能になっても1度だけ\n自動的にさいきどうするが、ENは0になる",
-   "en": ""
+   "en": "If KO'd, just once,\nit auto-reboots, but EN drops to 0",
+   "status": "translated"
   },
   {
    "id": "s281C2A",
@@ -10675,7 +11253,8 @@
     "0x291798"
    ],
    "jp": "せんとうふのうから1どだけじどうさいきどう EN0に",
-   "en": ""
+   "en": "Auto-reboots once after a KO; EN to 0",
+   "status": "translated"
   },
   {
    "id": "s281C60",
@@ -10684,7 +11263,8 @@
     "0x29179c"
    ],
    "jp": "メテオアタック",
-   "en": ""
+   "en": "Meteor Attack",
+   "status": "translated"
   },
   {
    "id": "s281C70",
@@ -10693,7 +11273,8 @@
     "0x2917a0"
    ],
    "jp": "全体にメテオで攻撃\nひじょうに強力",
-   "en": ""
+   "en": "Meteors pelt foes\nVery strong",
+   "status": "translated"
   },
   {
    "id": "s281C94",
@@ -10702,7 +11283,8 @@
     "0x2917a4"
    ],
    "jp": "ぜんたいにメテオでこうげきひじょうにきょうりょく",
-   "en": ""
+   "en": "Meteor attack on all foes; very strong",
+   "status": "translated"
   },
   {
    "id": "s281CC6",
@@ -10711,7 +11293,8 @@
     "0x2917a8"
    ],
    "jp": "デストロイヤー",
-   "en": ""
+   "en": "Destroyer",
+   "status": "translated"
   },
   {
    "id": "s281CD6",
@@ -10720,7 +11303,8 @@
     "0x2917ac"
    ],
    "jp": "敵に連続ですさまじい攻撃をくわえる",
-   "en": ""
+   "en": "A fierce combo on a foe",
+   "status": "translated"
   },
   {
    "id": "s281CFA",
@@ -10729,7 +11313,8 @@
     "0x2917b0"
    ],
    "jp": "れんぞくですさまじい   コウゲキをくわえる",
-   "en": ""
+   "en": "A fierce combo  of attacks",
+   "status": "translated"
   },
   {
    "id": "s281D28",
@@ -10738,7 +11323,8 @@
     "0x2917b4"
    ],
    "jp": "おうじゃの力",
-   "en": ""
+   "en": "King's Power",
+   "status": "translated"
   },
   {
    "id": "s281D36",
@@ -10747,7 +11333,8 @@
     "0x2917b8"
    ],
    "jp": "敵全体がALLダウンに\n味方全体はALLアップになる",
-   "en": ""
+   "en": "All foes get ALL Down\nAll allies get ALL Up",
+   "status": "translated"
   },
   {
    "id": "s281D6C",
@@ -10756,7 +11343,8 @@
     "0x2917bc"
    ],
    "jp": "てきぜんたいはALLダウンみかたはALLアップになる",
-   "en": ""
+   "en": "Foes get ALL Down, allies get ALL Up",
+   "status": "translated"
   },
   {
    "id": "s281DA2",
@@ -10765,7 +11353,8 @@
     "0x2917c0"
    ],
    "jp": "ものまね",
-   "en": ""
+   "en": " Mimic",
+   "status": "translated"
   },
   {
    "id": "s281DAC",
@@ -10774,7 +11363,8 @@
     "0x2917c4"
    ],
    "jp": "敵にされたこうげきを\nものまねしてやりかえす",
-   "en": ""
+   "en": "Copies a foe's\nattack and hits back",
+   "status": "translated"
   },
   {
    "id": "s281DDA",
@@ -10783,7 +11373,8 @@
     "0x2917c8"
    ],
    "jp": "てきにされたこうげきを  ものまねしてやりかえす",
-   "en": ""
+   "en": "Copies a foe's attack  and hits back",
+   "status": "translated"
   },
   {
    "id": "s281E0C",
@@ -10792,7 +11383,8 @@
     "0x2917cc"
    ],
    "jp": "ものまね",
-   "en": ""
+   "en": " Mimic",
+   "status": "translated"
   },
   {
    "id": "s281E16",
@@ -10819,7 +11411,8 @@
     "0x2917d8"
    ],
    "jp": "とまどい！！！",
-   "en": ""
+   "en": " Confused!!",
+   "status": "translated"
   },
   {
    "id": "s281E2E",
@@ -10846,7 +11439,8 @@
     "0x2917e4"
    ],
    "jp": "全力とっしん",
-   "en": ""
+   "en": "Full Charge",
+   "status": "translated"
   },
   {
    "id": "s281E44",
@@ -10855,7 +11449,8 @@
     "0x2917e8"
    ],
    "jp": "全力でとっしんする攻撃\n攻撃すると自分はストップになってしまう",
-   "en": ""
+   "en": "Full-force charge\nBut it leaves the user with Stop",
+   "status": "translated"
   },
   {
    "id": "s281E84",
@@ -10864,7 +11459,8 @@
     "0x2917ec"
    ],
    "jp": "きょうりょくだがコウゲキごストップになってしまう",
-   "en": ""
+   "en": "Strong, but user gets Stop after attacking",
+   "status": "translated"
   },
   {
    "id": "s281EB6",
@@ -10873,7 +11469,8 @@
     "0x2917f0"
    ],
    "jp": "スナイパー",
-   "en": ""
+   "en": "Sniper",
+   "status": "translated"
   },
   {
    "id": "s281EC2",
@@ -10882,7 +11479,8 @@
     "0x2917f4"
    ],
    "jp": "敵の弱てんをねらいうつ攻撃\n敵を一撃でたおす事もある",
-   "en": ""
+   "en": "Shoots a foe's weak spot\nMay defeat it in one hit",
+   "status": "translated"
   },
   {
    "id": "s281EF8",
@@ -10891,7 +11489,8 @@
     "0x2917f8"
    ],
    "jp": "じゃくてんをねらうコウゲキイチゲキでたおせることも",
-   "en": ""
+   "en": "Aims at weak spots; may KO in one hit",
+   "status": "translated"
   },
   {
    "id": "s281F2C",
@@ -10900,7 +11499,8 @@
     "0x2917fc"
    ],
    "jp": "つれさる",
-   "en": ""
+   "en": "Abduct",
+   "status": "translated"
   },
   {
    "id": "s281F36",
@@ -10909,7 +11509,8 @@
     "0x291800"
    ],
    "jp": "上空につれさって\nじめんへなげおとす攻撃",
-   "en": ""
+   "en": "Lifts a foe up\nand hurls it down",
+   "status": "translated"
   },
   {
    "id": "s281F60",
@@ -10918,7 +11519,8 @@
     "0x291804"
    ],
    "jp": "ジョウクウからじめんへ  なげおとすコウゲキ",
-   "en": ""
+   "en": "Hurls a foe from the sky  to the ground",
+   "status": "translated"
   },
   {
    "id": "s281F8E",
@@ -10927,7 +11529,8 @@
     "0x291808"
    ],
    "jp": "とびまわり",
-   "en": ""
+   "en": " Flit About",
+   "status": "translated"
   },
   {
    "id": "s281F9A",
@@ -10936,7 +11539,8 @@
     "0x29180c"
    ],
    "jp": "敵のまわりをとびまわり\n高いカクリツでエラーにする",
-   "en": ""
+   "en": "Flits around the foe\nLikely to cause Error",
+   "status": "translated"
   },
   {
    "id": "s281FCE",
@@ -10945,7 +11549,8 @@
     "0x291810"
    ],
    "jp": "てきのまわりをとびまわり エラーにすることがある",
-   "en": ""
+   "en": "Flits around foes;  may cause Error",
+   "status": "translated"
   },
   {
    "id": "s282000",
@@ -10954,7 +11559,8 @@
     "0x291814"
    ],
    "jp": "ねらいうち",
-   "en": ""
+   "en": "Aimed Shot",
+   "status": "translated"
   },
   {
    "id": "s28200C",
@@ -10963,7 +11569,8 @@
     "0x291818"
    ],
    "jp": "敵をねらいうつ攻撃",
-   "en": ""
+   "en": "Shoots a foe",
+   "status": "translated"
   },
   {
    "id": "s282020",
@@ -10972,7 +11579,8 @@
     "0x29181c"
    ],
    "jp": "てきをねらいうつ",
-   "en": ""
+   "en": "Shoots at a foe",
+   "status": "translated"
   },
   {
    "id": "s282032",
@@ -10981,7 +11589,8 @@
     "0x291820"
    ],
    "jp": "フラッシュ",
-   "en": ""
+   "en": "Flash",
+   "status": "translated"
   },
   {
    "id": "s28203E",
@@ -10990,7 +11599,8 @@
     "0x291824"
    ],
    "jp": "光をはっして敵の目をくらませ\nストップにすることがある",
-   "en": ""
+   "en": "A flash blinds the foe\nMay cause Stop",
+   "status": "translated"
   },
   {
    "id": "s282076",
@@ -10999,7 +11609,8 @@
     "0x291828"
    ],
    "jp": "ヒカリでめをくらませて  ストップにすることがある",
-   "en": ""
+   "en": "Blinding light;  may cause Stop",
+   "status": "translated"
   },
   {
    "id": "s2820AA",
@@ -11008,7 +11619,8 @@
     "0x29182c"
    ],
    "jp": "ウイルスとばし",
-   "en": ""
+   "en": "Virus Toss",
+   "status": "translated"
   },
   {
    "id": "s2820BA",
@@ -11017,7 +11629,8 @@
     "0x291830"
    ],
    "jp": "ウイルスのカタマリをとばし\nかなり高いカクリツでウイルスにする",
-   "en": ""
+   "en": "Hurls a lump of virus\nVery likely to cause Virus",
+   "status": "translated"
   },
   {
    "id": "s2820FA",
@@ -11026,7 +11639,8 @@
     "0x291834"
    ],
    "jp": "ウイルスのカタマリをとばしたかいカクリツでウイルスに",
-   "en": ""
+   "en": "Hurls a virus lump; very likely to cause Virus",
+   "status": "translated"
   },
   {
    "id": "s282130",
@@ -11035,7 +11649,8 @@
     "0x291838"
    ],
    "jp": "おしつぶし",
-   "en": ""
+   "en": "Crush",
+   "status": "translated"
   },
   {
    "id": "s28213C",
@@ -11044,7 +11659,8 @@
     "0x29183c"
    ],
    "jp": "敵全体にのしかかって攻撃\nいりょくは高いが、攻撃するのは最後になる",
-   "en": ""
+   "en": "Body-slams all foes\nPowerful, but it always goes last",
+   "status": "translated"
   },
   {
    "id": "s282180",
@@ -11053,7 +11669,8 @@
     "0x291840"
    ],
    "jp": "ぜんたいおしつぶすコウゲキつよいがコウゲキはさいごに",
-   "en": ""
+   "en": "Crushes all foes; strong but goes last",
+   "status": "translated"
   },
   {
    "id": "s2821B6",
@@ -11062,7 +11679,8 @@
     "0x291844"
    ],
    "jp": "イカちゅぅ攻撃",
-   "en": ""
+   "en": "Squid Suck",
+   "status": "translated"
   },
   {
    "id": "s2821C6",
@@ -11071,7 +11689,8 @@
     "0x291848"
    ],
    "jp": "敵全体を攻撃してHPをうばう",
-   "en": ""
+   "en": "Hits all foes and steals HP",
+   "status": "translated"
   },
   {
    "id": "s2821E4",
@@ -11080,7 +11699,8 @@
     "0x29184c"
    ],
    "jp": "てきぜんたいをコウゲキしてHPをうばう",
-   "en": ""
+   "en": "Attacks all foes and steals HP",
+   "status": "translated"
   },
   {
    "id": "s28220C",
@@ -11089,7 +11709,8 @@
     "0x291850"
    ],
    "jp": "土中攻撃",
-   "en": ""
+   "en": "Burrow",
+   "status": "translated"
   },
   {
    "id": "s282216",
@@ -11098,7 +11719,8 @@
     "0x291854"
    ],
    "jp": "土の下からおそいかかる攻撃",
-   "en": ""
+   "en": "Strikes from below",
+   "status": "translated"
   },
   {
    "id": "s282232",
@@ -11107,7 +11729,8 @@
     "0x291858"
    ],
    "jp": "つちのしたから      おそいかかるコウゲキ",
-   "en": ""
+   "en": "From underground  strikes the foe",
+   "status": "translated"
   },
   {
    "id": "s282262",
@@ -11116,7 +11739,8 @@
     "0x29185c"
    ],
    "jp": "土中攻撃",
-   "en": ""
+   "en": "Burrow",
+   "status": "translated"
   },
   {
    "id": "s28226C",
@@ -11143,7 +11767,8 @@
     "0x291868"
    ],
    "jp": "土中攻撃",
-   "en": ""
+   "en": "Burrow",
+   "status": "translated"
   },
   {
    "id": "s28227E",
@@ -11170,7 +11795,8 @@
     "0x291874"
    ],
    "jp": "ウイルスキバ弱",
-   "en": ""
+   "en": "Virus Fang 1",
+   "status": "translated"
   },
   {
    "id": "s282296",
@@ -11179,7 +11805,8 @@
     "0x291878"
    ],
    "jp": "キバでかみついて攻撃\nウイルスにする事がある",
-   "en": ""
+   "en": "Fang bite attack\nMay cause Virus",
+   "status": "translated"
   },
   {
    "id": "s2822C4",
@@ -11188,7 +11815,8 @@
     "0x29187c"
    ],
    "jp": "かみついてコウゲキ    ウイルスにすることがある",
-   "en": ""
+   "en": "Bite attack  May cause Virus",
+   "status": "translated"
   },
   {
    "id": "s2822F8",
@@ -11197,7 +11825,8 @@
     "0x291880"
    ],
    "jp": "ウイルスキバ中",
-   "en": ""
+   "en": "Virus Fang 2",
+   "status": "translated"
   },
   {
    "id": "s282308",
@@ -11206,7 +11835,8 @@
     "0x291884"
    ],
    "jp": "キバでかみついて攻撃\n高いカクリツでウイルスにする",
-   "en": ""
+   "en": "Fang bite attack\nLikely to cause Virus",
+   "status": "translated"
   },
   {
    "id": "s28233C",
@@ -11215,7 +11845,8 @@
     "0x291888"
    ],
    "jp": "かみついてコウゲキ    ウイルスにすることがある",
-   "en": ""
+   "en": "Bite attack  May cause Virus",
+   "status": "translated"
   },
   {
    "id": "s282370",
@@ -11224,7 +11855,8 @@
     "0x29188c"
    ],
    "jp": "ウイルスキバ強",
-   "en": ""
+   "en": "Virus Fang 3",
+   "status": "translated"
   },
   {
    "id": "s282380",
@@ -11233,7 +11865,8 @@
     "0x291890"
    ],
    "jp": "キバでかみついて攻撃\nかなり高いカクリツでウイルスにする",
-   "en": ""
+   "en": "Fang bite attack\nVery likely to cause Virus",
+   "status": "translated"
   },
   {
    "id": "s2823BA",
@@ -11242,7 +11875,8 @@
     "0x291894"
    ],
    "jp": "かみついてコウゲキ    ウイルスにすることがある",
-   "en": ""
+   "en": "Bite attack  May cause Virus",
+   "status": "translated"
   },
   {
    "id": "s2823EE",
@@ -11251,7 +11885,8 @@
     "0x291898"
    ],
    "jp": "キバ弱",
-   "en": ""
+   "en": "Fang 1",
+   "status": "translated"
   },
   {
    "id": "s2823F6",
@@ -11278,7 +11913,8 @@
     "0x2918a4"
    ],
    "jp": "ウイルスキバ弱",
-   "en": ""
+   "en": "Virus Fang 1",
+   "status": "translated"
   },
   {
    "id": "s28240E",
@@ -11305,7 +11941,8 @@
     "0x2918b0"
    ],
    "jp": "エラーキバ弱",
-   "en": ""
+   "en": "Error Fang 1",
+   "status": "translated"
   },
   {
    "id": "s282424",
@@ -11332,7 +11969,8 @@
     "0x2918bc"
    ],
    "jp": "ストップキバ弱",
-   "en": ""
+   "en": "Stop Fang 1",
+   "status": "translated"
   },
   {
    "id": "s28243C",
@@ -11359,7 +11997,8 @@
     "0x2918c8"
    ],
    "jp": "いかくドラム",
-   "en": ""
+   "en": "Scare Drum",
+   "status": "translated"
   },
   {
    "id": "s282452",
@@ -11368,7 +12007,8 @@
     "0x2918cc"
    ],
    "jp": "敵全体を大きな音でいかくして\nハントゲージをためる",
-   "en": ""
+   "en": "A loud noise scares all foes\nFills Hunt Gauges",
+   "status": "translated"
   },
   {
    "id": "s282486",
@@ -11377,7 +12017,8 @@
     "0x2918d0"
    ],
    "jp": "てきぜんたいをいかくして ハントゲージをためる",
-   "en": ""
+   "en": "Scares all foes;  fills Hunt Gauges",
+   "status": "translated"
   },
   {
    "id": "s2824B6",
@@ -11386,7 +12027,8 @@
     "0x2918d4"
    ],
    "jp": "エラードラム",
-   "en": ""
+   "en": "Error Drum",
+   "status": "translated"
   },
   {
    "id": "s2824C4",
@@ -11395,7 +12037,8 @@
     "0x2918d8"
    ],
    "jp": "敵全体を大きな音でひるませ\nエラーにすることがある",
-   "en": ""
+   "en": "Loud noise rattles foes\nMay cause Error",
+   "status": "translated"
   },
   {
    "id": "s2824F8",
@@ -11404,7 +12047,8 @@
     "0x2918dc"
    ],
    "jp": "おおきなおとでひるませ  エラーにすることがある",
-   "en": ""
+   "en": "A loud noise to flinch  may cause Error",
+   "status": "translated"
   },
   {
    "id": "s28252A",
@@ -11413,7 +12057,8 @@
     "0x2918e0"
    ],
    "jp": "ストップドラム",
-   "en": ""
+   "en": "Stop Drum",
+   "status": "translated"
   },
   {
    "id": "s28253A",
@@ -11422,7 +12067,8 @@
     "0x2918e4"
    ],
    "jp": "敵全体を大きな音でひるませ\nストップにすることがある",
-   "en": ""
+   "en": "Loud noise rattles foes\nMay cause Stop",
+   "status": "translated"
   },
   {
    "id": "s282570",
@@ -11431,7 +12077,8 @@
     "0x2918e8"
    ],
    "jp": "おおきなおとでひるませ  ストップにすることがある",
-   "en": ""
+   "en": "A loud noise to flinch  may cause Stop",
+   "status": "translated"
   },
   {
    "id": "s2825A4",
@@ -11440,7 +12087,8 @@
     "0x2918ec"
    ],
    "jp": "ウイルスアタック",
-   "en": ""
+   "en": "Virus Attack",
+   "status": "translated"
   },
   {
    "id": "s2825B6",
@@ -11449,7 +12097,8 @@
     "0x2918f0"
    ],
    "jp": "ダメージはあたえられないが\n高いカクリツでウイルスにする",
-   "en": ""
+   "en": "Deals no damage, but\nis likely to cause Virus",
+   "status": "translated"
   },
   {
    "id": "s2825F0",
@@ -11458,7 +12107,8 @@
     "0x2918f4"
    ],
    "jp": "ダメージはあたえられないがたかいカクリツでウイルスに",
-   "en": ""
+   "en": "No damage, but likely to cause Virus",
+   "status": "translated"
   },
   {
    "id": "s282626",
@@ -11467,7 +12117,8 @@
     "0x2918f8"
    ],
    "jp": "エラーアタック",
-   "en": ""
+   "en": "Error Attack",
+   "status": "translated"
   },
   {
    "id": "s282636",
@@ -11476,7 +12127,8 @@
     "0x2918fc"
    ],
    "jp": "ダメージはあたえられないが\n高いカクリツでエラーにする",
-   "en": ""
+   "en": "Deals no damage, but\nis likely to cause Error",
+   "status": "translated"
   },
   {
    "id": "s28266E",
@@ -11485,7 +12137,8 @@
     "0x291900"
    ],
    "jp": "ダメージはあたえられないがたかいカクリツでエラーに",
-   "en": ""
+   "en": "No damage, but likely to cause Error",
+   "status": "translated"
   },
   {
    "id": "s2826A2",
@@ -11494,7 +12147,8 @@
     "0x291904"
    ],
    "jp": "ストップアタック",
-   "en": ""
+   "en": "Stop Attack",
+   "status": "translated"
   },
   {
    "id": "s2826B4",
@@ -11503,7 +12157,8 @@
     "0x291908"
    ],
    "jp": "ダメージはあたえられないが\n高いカクリツでストップにする",
-   "en": ""
+   "en": "Deals no damage, but\nis likely to cause Stop",
+   "status": "translated"
   },
   {
    "id": "s2826EE",
@@ -11512,7 +12167,8 @@
     "0x29190c"
    ],
    "jp": "ダメージはあたえられないがたかいカクリツでストップに",
-   "en": ""
+   "en": "No damage, but likely to cause Stop",
+   "status": "translated"
   },
   {
    "id": "s282724",
@@ -11521,7 +12177,8 @@
     "0x291910"
    ],
    "jp": "トツゲキ弱",
-   "en": ""
+   "en": "Rush 1",
+   "status": "translated"
   },
   {
    "id": "s282730",
@@ -11530,7 +12187,8 @@
     "0x291914"
    ],
    "jp": "トツゲキして攻撃\nいりょくは高いが、攻撃するのは次のターン",
-   "en": ""
+   "en": "Rush attack\nPowerful, but hits on the next turn",
+   "status": "translated"
   },
   {
    "id": "s28276C",
@@ -11539,7 +12197,8 @@
     "0x291918"
    ],
    "jp": "トツゲキしてコウゲキ   つよいが、2ターンつかう",
-   "en": ""
+   "en": "Rush attack  Strong, but takes 2 turns",
+   "status": "translated"
   },
   {
    "id": "s2827A0",
@@ -11548,7 +12207,8 @@
     "0x29191c"
    ],
    "jp": "トツゲキ弱",
-   "en": ""
+   "en": "Rush 1",
+   "status": "translated"
   },
   {
    "id": "s2827AC",
@@ -11575,7 +12235,8 @@
     "0x291928"
    ],
    "jp": "しっぽハンマー弱",
-   "en": ""
+   "en": "Tail Hammer 1",
+   "status": "translated"
   },
   {
    "id": "s2827C6",
@@ -11584,7 +12245,8 @@
     "0x29192c"
    ],
    "jp": "しっぽをふりまわして攻撃\n強力だがはずれやすい",
-   "en": ""
+   "en": "Swings its tail to attack\nStrong, but erratic",
+   "status": "translated"
   },
   {
    "id": "s2827F6",
@@ -11593,7 +12255,8 @@
     "0x291930"
    ],
    "jp": "しっぽでコウゲキ     つよいがはずれやすい",
-   "en": ""
+   "en": "Tail attack  Strong but often misses",
+   "status": "translated"
   },
   {
    "id": "s282826",
@@ -11602,7 +12265,8 @@
     "0x291934"
    ],
    "jp": "ワザ止めプレス",
-   "en": ""
+   "en": "Move-Stop Press",
+   "status": "translated"
   },
   {
    "id": "s282836",

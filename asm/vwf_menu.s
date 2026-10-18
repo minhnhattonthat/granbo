@@ -9,8 +9,11 @@
 @ copy queue (0x0804D284, flushed at vblank), plus the two tilemap entries. Pixels are then written into the
 @ buffer, which is fine until the vblank flush. Colours as glyph16: ink 1/2 + ([0x020260C5] & 15) when that byte
 @ is non-zero; background 3, or 0 (transparent) when [0x020260C4] == 1.
-@ Uses sl (VRAM base) and r8 (tilemap attribute) of the caller read-only. Thumb-1 only. Symbols: STATE (28 bytes
-@ RAM), WIDTHS.
+@ Columns: menus pad with spaces to line things up (a name, spaces, then a cost or count; choices). Under the VWF a
+@ space is 3 px, so a glyph that follows 2+ spaces snaps to the column it had in the original monospace layout
+@ (8 px x its index in the run), when that is right of the pen. Text before the gap must fit its old cells.
+@ Uses sl (VRAM base) and r8 (tilemap attribute) of the caller read-only. Thumb-1 only. Symbols: STATE (40 bytes
+@ RAM: slot, map, buf0, buf1, pen, ret slot, ret map, run start slot, glyph index, space run), WIDTHS.
     .thumb
 vwf_menu:
     push {r4-r7, lr}
@@ -28,7 +31,42 @@ newrun:
     str r3, [r7, #8]
     str r3, [r7, #12]
     str r3, [r7, #16]
+    str r0, [r7, #28]
+    str r3, [r7, #32]
+    str r3, [r7, #36]
 blit:
+    cmp r1, #0
+    bne notspace
+    ldr r3, [r7, #36]
+    adds r3, #1
+    str r3, [r7, #36]
+    b counted
+notspace:
+    ldr r3, [r7, #36]
+    cmp r3, #2
+    blt nosnap
+    push {r1}
+    ldr r0, [r7, #32]
+    lsls r0, r0, #3
+    ldr r2, [r7, #0]
+    ldr r3, [r7, #28]
+    subs r2, r2, r3
+    lsls r2, r2, #2
+    ldr r3, [r7, #16]
+    adds r2, r2, r3
+    subs r0, r0, r2
+    ble snap_done
+    adds r0, r0, r3
+    bl move_pen
+snap_done:
+    pop {r1}
+nosnap:
+    movs r3, #0
+    str r3, [r7, #36]
+counted:
+    ldr r3, [r7, #32]
+    adds r3, #1
+    str r3, [r7, #32]
     push {r1}
     ldr r3, lit_fontptr
     ldr r3, [r3]
@@ -87,9 +125,25 @@ nextpx:
     ldrb r3, [r3, r1]
     ldr r0, [r7, #16]
     adds r0, r0, r3
-advance:
+    bl move_pen
+retvals:
+    ldr r0, [r7, #0]
+    adds r0, #2
+    str r0, [r7, #20]
+    ldr r1, [r7, #4]
+    adds r1, #2
+    str r1, [r7, #24]
+    pop {r4-r7}
+    pop {r3}
+    bx r3
+
+@ move_pen(r0 = new pen, from the current cell's left edge): walks into later cells, making sure every cell the pen
+@ passes (and the one it stops inside) exists, so the tilemap has entries for blank cells too. Keeps r1-r7.
+move_pen:
+    push {r1-r6, lr}
+mp_loop:
     cmp r0, #8
-    blt advanced
+    blt mp_done
     push {r0}
     movs r0, #0
     bl ensure
@@ -105,23 +159,15 @@ advance:
     str r1, [r7, #12]
     pop {r0}
     subs r0, #8
-    b advance
-advanced:
+    b mp_loop
+mp_done:
     str r0, [r7, #16]
     cmp r0, #0
-    beq retvals
+    beq mp_ret
     movs r0, #0
     bl ensure
-retvals:
-    ldr r0, [r7, #0]
-    adds r0, #2
-    str r0, [r7, #20]
-    ldr r1, [r7, #4]
-    adds r1, #2
-    str r1, [r7, #24]
-    pop {r4-r7}
-    pop {r3}
-    bx r3
+mp_ret:
+    pop {r1-r6, pc}
 
 @ ensure(r0 = 0: current cell, 1: next cell) -> r0 = its buffer, allocating it on first use. Keeps r1-r7.
 ensure:

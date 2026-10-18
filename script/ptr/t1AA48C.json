@@ -13,7 +13,8 @@
     "0x293e54"
    ],
    "jp": "ウッディーナ",
-   "en": ""
+   "en": "Woodina",
+   "status": "translated"
   },
   {
    "id": "s26E6E4",
@@ -23,7 +24,8 @@
     "0x293e38"
    ],
    "jp": "ウォーティア",
-   "en": ""
+   "en": "Wateria",
+   "status": "translated"
   },
   {
    "id": "s26E6F2",
@@ -33,7 +35,8 @@
     "0x293e3c"
    ],
    "jp": "ボルカニア",
-   "en": ""
+   "en": "Volcania",
+   "status": "translated"
   },
   {
    "id": "s26E6FE",
@@ -43,7 +46,8 @@
     "0x293e40"
    ],
    "jp": "フォレスティア",
-   "en": ""
+   "en": "Forestia",
+   "status": "translated"
   },
   {
    "id": "s26E70E",
@@ -53,7 +57,8 @@
     "0x293e44"
    ],
    "jp": "フレイマー",
-   "en": ""
+   "en": "Flamer",
+   "status": "translated"
   },
   {
    "id": "s26E71A",
@@ -63,7 +68,8 @@
     "0x293e48"
    ],
    "jp": "マッドアクア",
-   "en": ""
+   "en": "Mud Aqua",
+   "status": "translated"
   },
   {
    "id": "s26E740",
@@ -73,7 +79,8 @@
     "0x293e58"
    ],
    "jp": "ブロッサムタウン",
-   "en": ""
+   "en": "Blossom Town",
+   "status": "translated"
   },
   {
    "id": "s26E752",
@@ -83,7 +90,8 @@
     "0x293e5c"
    ],
    "jp": "ハントグローブ研究所",
-   "en": ""
+   "en": "Huntgrove Lab",
+   "status": "translated"
   },
   {
    "id": "s26E768",
@@ -93,7 +101,8 @@
     "0x293e60"
    ],
    "jp": "アプリコットタウン",
-   "en": ""
+   "en": "Apricot Town",
+   "status": "translated"
   },
   {
    "id": "s26E77C",
@@ -103,7 +112,8 @@
     "0x293e64"
    ],
    "jp": "グランドチェンジタワー",
-   "en": ""
+   "en": "Grand Change Tower",
+   "status": "translated"
   },
   {
    "id": "s26E794",
@@ -113,7 +123,8 @@
     "0x293e68"
    ],
    "jp": "グラッチェの家",
-   "en": ""
+   "en": "Grazie's Home",
+   "status": "translated"
   },
   {
    "id": "s26E7A4",
@@ -123,7 +134,8 @@
     "0x293e6c"
    ],
    "jp": "スカイポート",
-   "en": ""
+   "en": "Skyport",
+   "status": "translated"
   },
   {
    "id": "s26E7B2",
@@ -133,7 +145,8 @@
     "0x293e70"
    ],
    "jp": "スカイシャーク水中アジト",
-   "en": ""
+   "en": "Sky Shark Sea Hideout",
+   "status": "translated"
   },
   {
    "id": "s26E7CC",
@@ -143,7 +156,8 @@
     "0x293e74"
    ],
    "jp": "08？？？？？",
-   "en": ""
+   "en": "08?????",
+   "status": "translated"
   },
   {
    "id": "s26E7DC",
@@ -153,7 +167,8 @@
     "0x293e78"
    ],
    "jp": "09？？？？？",
-   "en": ""
+   "en": "09?????",
+   "status": "translated"
   },
   {
    "id": "s26E7EC",
@@ -163,7 +178,8 @@
     "0x293e7c"
    ],
    "jp": "マスカットタウン",
-   "en": ""
+   "en": "Muscat Town",
+   "status": "translated"
   },
   {
    "id": "s26E7FE",
@@ -173,7 +189,8 @@
     "0x293e80"
    ],
    "jp": "ドウクツ研究所",
-   "en": ""
+   "en": "Cave Lab",
+   "status": "translated"
   },
   {
    "id": "s26E80E",
@@ -183,7 +200,8 @@
     "0x293e84"
    ],
    "jp": "ピーチタウン",
-   "en": ""
+   "en": "Peach Town",
+   "status": "translated"
   },
   {
    "id": "s26E81C",
@@ -193,7 +211,8 @@
     "0x293e88"
    ],
    "jp": "グランドチェンジタワー",
-   "en": ""
+   "en": "Grand Change Tower",
+   "status": "translated"
   },
   {
    "id": "s26E834",
@@ -203,7 +222,8 @@
     "0x293e8c"
    ],
    "jp": "0E？？？",
-   "en": ""
+   "en": "0E???",
+   "status": "translated"
   },
   {
    "id": "s26E840",
@@ -213,7 +233,8 @@
     "0x293e90"
    ],
    "jp": "0Fまち",
-   "en": ""
+   "en": "0F town",
+   "status": "translated"
   },
   {
    "id": "s26E84A",
@@ -223,7 +244,8 @@
     "0x293e94"
    ],
    "jp": "スカイポート",
-   "en": ""
+   "en": "Skyport",
+   "status": "translated"
   },
   {
    "id": "s26E858",
@@ -233,7 +255,8 @@
     "0x293e98"
    ],
    "jp": "11くうこう？",
-   "en": ""
+   "en": "11 Airport?",
+   "status": "translated"
   },
   {
    "id": "s26E868",
@@ -243,7 +266,8 @@
     "0x293e9c"
    ],
    "jp": "バトルスタジアム",
-   "en": ""
+   "en": "Battle Stadium",
+   "status": "translated"
   },
   {
    "id": "s26E87A",
@@ -253,7 +277,8 @@
     "0x293ea0"
    ],
    "jp": "なぞの研究しせつ",
-   "en": ""
+   "en": "Mystery Lab",
+   "status": "translated"
   },
   {
    "id": "s26E88C",
@@ -263,7 +288,8 @@
     "0x293ea4"
    ],
    "jp": "14？？？？",
-   "en": ""
+   "en": "14????",
+   "status": "translated"
   },
   {
    "id": "s26E89A",
@@ -273,7 +299,8 @@
     "0x293ea8"
    ],
    "jp": "闇ダンジョン",
-   "en": ""
+   "en": "Dark Dungeon",
+   "status": "translated"
   },
   {
    "id": "s26E8A8",
@@ -283,7 +310,8 @@
     "0x293eac"
    ],
    "jp": "16ひくうていないぶ",
-   "en": ""
+   "en": "16 Inside Airship",
+   "status": "translated"
   },
   {
    "id": "s26E8BE",
@@ -293,7 +321,8 @@
     "0x293eb0"
    ],
    "jp": "キウイタウン",
-   "en": ""
+   "en": "Kiwi Town",
+   "status": "translated"
   },
   {
    "id": "s26E8CC",
@@ -303,7 +332,8 @@
     "0x293eb4"
    ],
    "jp": "キウイタウン",
-   "en": ""
+   "en": "Kiwi Town",
+   "status": "translated"
   },
   {
    "id": "s26E8DA",
@@ -313,7 +343,8 @@
     "0x293eb8"
    ],
    "jp": "ココナッツタウン",
-   "en": ""
+   "en": "Coconut Town",
+   "status": "translated"
   },
   {
    "id": "s26E8EC",
@@ -323,7 +354,8 @@
     "0x293ebc"
    ],
    "jp": "ココナッツタウン",
-   "en": ""
+   "en": "Coconut Town",
+   "status": "translated"
   },
   {
    "id": "s26E8FE",
@@ -333,7 +365,8 @@
     "0x293ec0"
    ],
    "jp": "ホテル・グランドボルカニア",
-   "en": ""
+   "en": "Hotel Grand Volcania",
+   "status": "translated"
   },
   {
    "id": "s26E91A",
@@ -343,7 +376,8 @@
     "0x293ec4"
    ],
    "jp": "ホテル・グランドボルカニア",
-   "en": ""
+   "en": "Hotel Grand Volcania",
+   "status": "translated"
   },
   {
    "id": "s26E936",
@@ -353,7 +387,8 @@
     "0x293ec8"
    ],
    "jp": "タワーへのぬけ道",
-   "en": ""
+   "en": "Tower Shortcut",
+   "status": "translated"
   },
   {
    "id": "s26E948",
@@ -363,7 +398,8 @@
     "0x293ecc"
    ],
    "jp": "エーゲのひみつダンジョン",
-   "en": ""
+   "en": "Aegean's Secret Lair",
+   "status": "translated"
   },
   {
    "id": "s26E962",
@@ -373,7 +409,8 @@
     "0x293ed0"
    ],
    "jp": "グランドチェンジタワー",
-   "en": ""
+   "en": "Grand Change Tower",
+   "status": "translated"
   },
   {
    "id": "s26E97A",
@@ -383,7 +420,8 @@
     "0x293ed4"
    ],
    "jp": "20ひくうていないぶ",
-   "en": ""
+   "en": "20 Inside Airship",
+   "status": "translated"
   },
   {
    "id": "s26E990",
@@ -393,7 +431,8 @@
     "0x293ed8"
    ],
    "jp": "スカイポート",
-   "en": ""
+   "en": "Skyport",
+   "status": "translated"
   },
   {
    "id": "s26E99E",
@@ -403,7 +442,8 @@
     "0x293edc"
    ],
    "jp": "22くうこう？？",
-   "en": ""
+   "en": "22 Airport??",
+   "status": "translated"
   },
   {
    "id": "s26E9B0",
@@ -413,7 +453,8 @@
     "0x293ee0"
    ],
    "jp": "23ひくうていないぶ",
-   "en": ""
+   "en": "23 Inside Airship",
+   "status": "translated"
   },
   {
    "id": "s26E9C6",
@@ -423,7 +464,8 @@
     "0x293ee4"
    ],
    "jp": "タワーれんらく道",
-   "en": ""
+   "en": "Tower Passage",
+   "status": "translated"
   },
   {
    "id": "s26E9D8",
@@ -433,7 +475,8 @@
     "0x293ee8"
    ],
    "jp": "スカイポート",
-   "en": ""
+   "en": "Skyport",
+   "status": "translated"
   },
   {
    "id": "s26E9E6",
@@ -443,7 +486,8 @@
     "0x293eec"
    ],
    "jp": "ブルーベリータウン",
-   "en": ""
+   "en": "Blueberry Town",
+   "status": "translated"
   },
   {
    "id": "s26E9FA",
@@ -453,7 +497,8 @@
     "0x293ef0"
    ],
    "jp": "ハルナの家",
-   "en": ""
+   "en": "Haruna's House",
+   "status": "translated"
   },
   {
    "id": "s26EA06",
@@ -463,7 +508,8 @@
     "0x293ef4"
    ],
    "jp": "ドリームマウンテン",
-   "en": ""
+   "en": "Dream Mountain",
+   "status": "translated"
   },
   {
    "id": "s26EA1A",
@@ -473,7 +519,8 @@
     "0x293ef8"
    ],
    "jp": "グランドチェンジタワー",
-   "en": ""
+   "en": "Grand Change Tower",
+   "status": "translated"
   },
   {
    "id": "s26EA32",
@@ -483,7 +530,8 @@
     "0x293efc"
    ],
    "jp": "2a？？？？",
-   "en": ""
+   "en": "2a????",
+   "status": "translated"
   },
   {
    "id": "s26EA40",
@@ -493,7 +541,8 @@
     "0x293f00"
    ],
    "jp": "2b？？？？",
-   "en": ""
+   "en": "2b????",
+   "status": "translated"
   },
   {
    "id": "s26EA4E",
@@ -503,7 +552,8 @@
     "0x293f04"
    ],
    "jp": "火ダンジョン",
-   "en": ""
+   "en": "Fire Dungeon",
+   "status": "translated"
   },
   {
    "id": "s26EA5C",
@@ -513,7 +563,8 @@
     "0x293f08"
    ],
    "jp": "ローズタウン",
-   "en": ""
+   "en": "Rose Town",
+   "status": "translated"
   },
   {
    "id": "s26EA6A",
@@ -523,7 +574,8 @@
     "0x293f0c"
    ],
    "jp": "カトレアタウン",
-   "en": ""
+   "en": "Cattleya Town",
+   "status": "translated"
   },
   {
    "id": "s26EA7A",
@@ -533,7 +585,8 @@
     "0x293f10"
    ],
    "jp": "バミューダのきち",
-   "en": ""
+   "en": "Bermuda's Base",
+   "status": "translated"
   },
   {
    "id": "s26EA8C",
@@ -543,7 +596,8 @@
     "0x293f14"
    ],
    "jp": "30まち",
-   "en": ""
+   "en": "30 town",
+   "status": "translated"
   },
   {
    "id": "s26EA96",
@@ -553,7 +607,8 @@
     "0x293f18"
    ],
    "jp": "グランドチェンジタワー",
-   "en": ""
+   "en": "Grand Change Tower",
+   "status": "translated"
   },
   {
    "id": "s26EAAE",
@@ -563,7 +618,8 @@
     "0x293f1c"
    ],
    "jp": "32ひくうていないぶ",
-   "en": ""
+   "en": "32 Inside Airship",
+   "status": "translated"
   },
   {
    "id": "s26EAC4",
@@ -573,7 +629,8 @@
     "0x293f20"
    ],
    "jp": "スカイポート",
-   "en": ""
+   "en": "Skyport",
+   "status": "translated"
   },
   {
    "id": "s26EAD2",
@@ -583,7 +640,8 @@
     "0x293f24"
    ],
    "jp": "水ダンジョン",
-   "en": ""
+   "en": "Water Dungeon",
+   "status": "translated"
   },
   {
    "id": "s26EAE0",
@@ -593,7 +651,8 @@
     "0x293f28"
    ],
    "jp": "バトルスタジアム",
-   "en": ""
+   "en": "Battle Stadium",
+   "status": "translated"
   },
   {
    "id": "s26EAF2",
@@ -603,7 +662,8 @@
     "0x293f2c"
    ],
    "jp": "バミューダのひみつきち",
-   "en": ""
+   "en": "Bermuda's Hideaway",
+   "status": "translated"
   },
   {
    "id": "s26EB0A",
@@ -613,7 +673,8 @@
     "0x293f30"
    ],
    "jp": "ローズタウン",
-   "en": ""
+   "en": "Rose Town",
+   "status": "translated"
   },
   {
    "id": "s26EB18",
@@ -623,7 +684,8 @@
     "0x293f34"
    ],
    "jp": "スカイシャーク本きょ地",
-   "en": ""
+   "en": "Sky Shark HQ",
+   "status": "translated"
   },
   {
    "id": "s26EB30",
@@ -633,7 +695,8 @@
     "0x293f38"
    ],
    "jp": "グランドチェンジタワー",
-   "en": ""
+   "en": "Grand Change Tower",
+   "status": "translated"
   },
   {
    "id": "s26EB48",
@@ -643,7 +706,8 @@
     "0x293f3c"
    ],
    "jp": "3A？？？？",
-   "en": ""
+   "en": "3A????",
+   "status": "translated"
   },
   {
    "id": "s26EB56",
@@ -653,7 +717,8 @@
     "0x293f40"
    ],
    "jp": "スカイポート",
-   "en": ""
+   "en": "Skyport",
+   "status": "translated"
   },
   {
    "id": "s26EB64",
@@ -663,7 +728,8 @@
     "0x293f44"
    ],
    "jp": "水ダンジョン",
-   "en": ""
+   "en": "Water Dungeon",
+   "status": "translated"
   },
   {
    "id": "s26EB72",
@@ -673,7 +739,8 @@
     "0x293f48"
    ],
    "jp": "ワールドチェンジタワー",
-   "en": ""
+   "en": "World Change Tower",
+   "status": "translated"
   },
   {
    "id": "s26EB8A",
@@ -683,7 +750,8 @@
     "0x293f4c"
    ],
    "jp": "ヒミツダンジョン1",
-   "en": ""
+   "en": "Secret Dungeon 1",
+   "status": "translated"
   },
   {
    "id": "s26EB9E",
@@ -693,7 +761,8 @@
     "0x293f50"
    ],
    "jp": "ヒミツダンジョン2",
-   "en": ""
+   "en": "Secret Dungeon 2",
+   "status": "translated"
   }
  ]
 }

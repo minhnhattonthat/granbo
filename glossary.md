@@ -141,6 +141,8 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- のコナ -> Dust (Virus/Error/Stop Dust N); ウイルスオンパ -> Virus Wave; リンプンをふりまき -> scatters powder; ガンで攻撃
+  -> gun shot; カノンで攻撃 -> cannons all foes.
 - Move families: ストップオンパ -> Stop Wave (オンパ -> Wave); ATノイズ.. -> AT/DF/SP/ALL Noise N; ATバブル.. -> AT/DF/SP/ALL
   Bubble N; ALLアップ -> ALL Up N; 全ATアップ -> Team AT Up N. Description words: カイオンパ -> odd waves; 敵 -> foe,
   敵全体 -> all foes; 味方1体 -> 1 ally; 味方全体 -> all allies; 大きく下げる -> lowers a lot; かなり大きく -> a whole lot;
