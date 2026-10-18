@@ -100,11 +100,28 @@ def centre(s):
     return " " * (n if 8 * n + w <= 224 else 1) + t
 
 
+GAP = "\N{EM SPACE}"  # blank glyph with an 8 px advance (engine.EN_CODES, font_en)
+
+
+def clear_portrait(s):
+    """Battle dialogue (t1A1568): the battle box leaves the speaker's name slot empty, so a page starts after the
+    blank name's padding - 48 px in the JP (6 cells), 24 px under the VWF (8 spaces), under the 32 px portrait.
+    GAP glyphs (blank, 8 px each) after each portrait+speaker header put the text clear of it."""
+    pages = []
+    for page in fit.split_pages(s):
+        h = fit.header(page)
+        if re.search(r"\{86[0-9A-F]{2}\}", h) and fit.is_speaker(h):
+            page = h + GAP * 3 + page[len(h):].lstrip(" ")
+        pages.append(page)
+    return fit.PAGE.join(pages)
+
+
 def place_rel(r, orig, files, lang, marker):
     """Strings code reaches as base pointer + fixed offset (tools/find_rel.py: kind "adds" = `adds rX, #off` at
-    site, "subs" = `subs rX, #-off`, "word" = a literal word holding off, "neg" = `movs rX, #-off`, then negated). Every string linked this way
-    is placed in one block, in original order (offset signs stay), and each site rewritten. Targets without a script
-    entry are skipped (find_rel.py --missing lists them). Returns {id: new offset} for the ptr loop."""
+    site, "subs" = `subs rX, #-off`, "word" = a literal word holding off, "neg" = `movs rX, #-off`, then
+    negated). Every string linked this way is placed in one block, in original order (offset signs stay), and each
+    site rewritten. Targets without a script entry are skipped (find_rel.py --missing lists them). Returns
+    {id: new offset} for the ptr loop."""
     ents = {e["id"]: e for n, f in files.items() if n.startswith("ptr/") for e in f["entries"]}
     by_at = {int(e["at"], 16): i for i, e in ents.items()}
     rels = [(by_at[t], b, k, s) for t, b, k, s in find_rel.relations(orig, ents.values()) if t in by_at]
@@ -146,7 +163,7 @@ def build(orig, files, lang="en", marker=None, engine_patch=True):
     if engine_patch:
         engine.patch(r, lig)
         if lang == "en":
-            gfx.patch(r)
+            gfx.patch(r, lig["pairs"])
     for name, f in files.items():
         if not name.startswith("events/"):
             continue
@@ -192,6 +209,8 @@ def build(orig, files, lang="en", marker=None, engine_patch=True):
                 else:
                     if name in CENTRED and e["jp"].startswith("  ") and "\n" not in e["jp"] and not marker:
                         s = centre(s)
+                    if name == "ptr/t1A1568.json" and not marker:
+                        s = clear_portrait(s)
                     enc = text.encode_en(s)
                 if enc not in placed:
                     placed[enc] = r.alloc(enc, f"str {e['id']}", align=2)

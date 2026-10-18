@@ -124,7 +124,13 @@ def fit_page(page, jp_page, cont_header, names=None):
     choice = bool(re.search(r"(\{82[0-9A-F]{2}\}|\n)$", jp_body))  # empty last line kept for a Yes/No prompt
     px = LINE_END - line_x(code)
     first = LINE_END - first_x(h) - (width(h, names) if not is_speaker(h) else 0)
-    lines = wrap(body.strip(), first, px, names)
+    if is_speaker(h):  # a name code after the speaker ("{949B}{9400}, have you...") prints as running text
+        m = re.search(r"((?:\{94(?:[0-8][0-9A-F]|9[0-5])\})+)$", h)
+        first -= width(m.group(1), names) if m else 0
+    # "{9400} and friends...": a header ending in a name code that is running text keeps the space after it
+    lead = " " if body[:1] == " " and re.search(r"\{94[0-9A-F]{2}\}$", h) and not is_speaker(h) else ""
+    lines = wrap(body.strip(), first - width(lead), px, names)
+    lines[0] = lead + lines[0]
     chunks, i = [], 0
     while i < len(lines):
         n = LINES - 1 if choice and len(lines) - i <= LINES - 1 else LINES
