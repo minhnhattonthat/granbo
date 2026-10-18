@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}かかりいん「バトルスタジアムへようこそ！」{8300}{94C8}かかりいん「ここでは{940A}バトルに{8207}サンカする事ができます！」{8300}{94C8}かかりいん「げんざいジュンビ中ですので{8207}またおこし下さい！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「Welcome to the Battle Stadium!{8300}{94C8}Staff「Here you can take part in {940A} battles!{8300}{94C8}Staff「We're still getting ready, so please come again!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F1F88_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{9201}カウンターにはだれもいない{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There's no one at the counter.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F1F88_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{9201}向こうがわからカギがかかってるみたいだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It seems to be locked from the other side.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F1F88_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1F1F88_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1F1F88_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1F1F88_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1F1F88_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1F1F88_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{8602}{9498}「{9400}くん～～～！！{8207}中のコウゾウをたしかめておいたよ～！！」{8300}{8602}{9498}「このたてものは左右が{8207}にたような形になっているんだ～！」{8300}{8602}{9498}「子分を何人か見かけたから{8207}HPはいつでも回復できるように{8207}しておいた方がいいよ～！」{8300}{8602}{9498}「そうだ！オイラの持っている{8207}{8833}ウイルスボム弱{8800}のワザもいるかい～？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{8602}{9498}{9400}~~~!! I checked out the layout inside~!!{8300}{8602}{9498}This building's left and right sides are shaped about the same~!{8300}{8602}{9498}I saw a few grunts, so you'd better be ready to restore HP anytime~!{8300}{8602}{9498}Oh, I know! Do you want the {8833}Virus Bomb 1{8800} move I've got~?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1F1F88_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{8602}{9498}「それじゃあ、あげるよ～！{8207}大事に使ってね～！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Here you go, then~! Use it wisely~!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F1F88_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{8612}{9498}「ええ～っ、いらないの～？{8207}ゼッタイやくにたつと思うんだけどな～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8612}{9498}Whaaat, you don't want it~? I'm sure it'd come in handy~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F1F88_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{8602}{9498}「中ではくれぐれも{8207}シンチョウに行動してね～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Be extra careful in there~!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

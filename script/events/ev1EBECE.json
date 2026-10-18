@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}男の子「{940A}のシュウリをたのみに{8207}来たんだ・・・」{8300}{94C8}男の子「この大陸のカンキョウは{8207}{940A}にはあまり良くないそうだよ」{8300}{94C8}男の子「父ちゃんはシツドがどうとか{8207}言ってたけどボクには良くわかんないや！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「I came to get my {940A} repaired...{8300}{94C8}Boy「They say the environment on this continent isn't very good for {940A}.{8300}{94C8}Boy「My dad said something about humidity, but I don't really get it!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94A0}「フキュ～～～・・・・・・」{8207}（この大陸は体がさびやすいフキュ～）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Fukyuuu...... (Bodies rust so easily on this continent, fukyu...){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}男の子「南の山をソウガンキョウで{8207}のぞいたら・・・」{8300}{94C8}男の子「いっぱいアナがあいてて{8207}その{8833}アナから人が出入りしていた{8800}んだ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「When I looked at the south mountain through my binoculars...{8300}{94C8}Boy「it was full of holes, and {8833}people were going in and out of those holes{8800}!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94A0}「フキュキュキュ・・・」{8207}（南の変な山であそんでみたいフキュ！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Fukyukyukyu... (I wanna play in that weird mountain to the south, fukyu!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}男の子「あのアナがいっぱいの山に入ったの？」{8300}{94C8}男の子「いいなぁ・・・ボクも一度{8207}あの中に入ってみたいなぁ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「You went inside that mountain full of holes?{8300}{94C8}Boy「Lucky... I wanna go in there just once, too...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94A0}「フキュキュキュ・・・」{8207}（南のアナがいっぱいの山であそぶフキュ！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Fukyukyukyu... (Gonna play in the mountain full of holes to the south, fukyu!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}男の子「ボクの{940A}も{8207}シュウリが終わったんだ！！」{8300}{94C8}男の子「ボクも{940A}バトルに{8207}サンカしてみよっかな！？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「My {940A} is all repaired too!!{8300}{94C8}Boy「Maybe I should try entering {940A} battles too?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94A0}「フキューーーーーッ！！！」{8207}（これからもがんばるフキュ！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Fukyuuuuu!! (I'll keep doing my best, fukyu!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}男の子「あっ、その{8877}コロコラン{8800}いいなぁ～！{8207}{8833}イジョウ回復{8800}のワザとコウカンしてよ！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Ooh, that {8877}Korokoran{8800} is so cool! Trade it to me for the {8833}Status Heal{8800} move!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}男の子「やったあ！ありがとう！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Yay! Thank you!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}男の子「がくっ・・・{8207}ざんねんだよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Aww... That's too bad...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}男の子「やったやったぁ！{8207}{8877}コロコラン{8800}バンザ～イ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Yay, yay! Hooray for {8877}Korokoran{8800}!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{94C8}男の子「ボク・・・2つ目のグランボは{8207}{8877}コロコラン{8800}に決めてるんだ！」{8300}{94C8}男の子「{8877}コロコラン{8800}が手に入るのなら{8207}{8833}イジョウ回復{8800}のワザをあげても{8207}いいんだけどな～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「My second Granbo... I've already decided it'll be a {8877}Korokoran{8800}!{8300}{94C8}Boy「If I could get a {8877}Korokoran{8800}, I'd give you the {8833}Status Heal{8800} move for it...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{94C8}男の子「すっごくうれしいよ！{8207}おれいにキミのグランボも{8207}回復しておくね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「I'm so happy! As thanks, I'll heal your Granbo too!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8002}{94C8}てんいん「いらっしゃいませ！{8207}どのようなごようけんですか？」{9200}\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Clerk「Welcome! How may I help you?{9200} {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EBECE_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8002}{94C8}てんいん「ほかに何かございますか？」\n\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Clerk「Is there anything else? {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   }
  ]
 }

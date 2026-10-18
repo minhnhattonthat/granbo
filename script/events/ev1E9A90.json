@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}ばあさん町長「私はこの町の町長だよ」{8300}{94C8}ばあさん町長「この町、人が少ないじゃろ・・・？」{8300}{94C8}ばあさん町長「この大陸の人間はみんな{940A}バトル{8207}が大スキでな・・・」{8300}{94C8}ばあさん町長「{940A}バトルが行われる{8207}スタジアムに近い西の町に引っこすものが{8207}あとをたたんのじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Mayor「I'm the mayor of this town.{8300}{94C8}Mayor「Not many folks in this town, eh...?{8300}{94C8}Mayor「Everyone on this continent just loves {940A} battles...{8300}{94C8}Mayor「So folks keep on moving to the town in the west, near the stadium where {940A} battles are held...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}おじいさん「また{940A}バトルを{8207}見に行きたいのう・・・」{8300}{94C8}おじいさん「しかしこの町からじゃと{8207}バトルスタジアムは遠すぎるわい・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「I'd sure like to go watch {940A} battles again...{8300}{94C8}Old Man「But from this town, the Battle Stadium is just too far away...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おばさん「町の南にあるハシが{8207}こわされているのは見た？」{8300}{94C8}おばさん「だれが何の目的で{8207}あんな事をしたのかしら・・・？」{8300}{94C8}おばさん「シュウリにはもうしばらく{8207}時間がかかるそうよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Did you see that the bridge south of town has been wrecked?{8300}{94C8}Lady「Who would do such a thing, and why...?{8300}{94C8}Lady「I hear the repairs will take a while longer.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}男の子「オラ、しょうらいはゼッタイ{8207}グランボセイバーになってグランボバトルに{8207}サンカするんだ！！」{8300}{94C8}男の子「そのためにはマイニチのトックンが{8207}かかせないよ！！」{8300}{94C8}男の子「がんばれ！アシカマル！！{8207}バトルスタジアムで戦えるようになるまで{8207}いっしょにがんばろう！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Someday I'm gonna be a Granbo Saver for sure and take part in Granbo battles!!{8300}{94C8}Boy「That means I can't skip my training, not even one day!!{8300}{94C8}Boy「Go for it, Ashikamaru!! Let's work hard together until we can fight at the Battle Stadium!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94A0}「オウッオウッオウッ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Ork! Ork! Ork!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}女の子「ねぇ、キミの{8855}メガニワン{8800}を{8207}{8833}ローバッファ{8800}とコウカンしない？」{8300}{94C8}女の子「コウカンしてくれたらキミのグランボを{8207}回復してあげるけど、どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Hey, want to trade your {8855}Meganiwan{8800} for my {8833}Robuffa{8800}?{8300}{94C8}Girl「If you trade with me, I'll heal your Granbo. What do you say?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}女の子「ありがとっ！{8207}それじゃコウカンしよっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thanks! Let's trade, then!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}女の子「ええ～っ！{8207}しんじられない～～～っ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Whaaat! I can't belieeeve it!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}女の子「やったね！！{8207}ありがと～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Yay!! Thank youuu!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}女の子「え～と・・・{8855}メガニワン{8800}は{8207}持ってないんだね・・・」{8300}{94C8}女の子「{8855}メガニワン{8800}を手に入れたら{8207}また話しかけてね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Um... looks like you don't have a {8855}Meganiwan{8800}...{8300}{94C8}Girl「Come talk to me again once you get a {8855}Meganiwan{8800}!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}ばあさん町長「私はこの町の町長じゃが・・・」{8300}{94C8}ばあさん町長「大変な事になってしもうた・・・！！」{8300}{94C8}ばあさん町長「私の家のタカラがスカイシャークに{8207}うばわれてしもうたんじゃ！！」{8300}{94C8}ばあさん町長「アレはゼッタイに持ち出してはならんと{8207}言われているものでな・・・{8207}まったく、どうしたらええんじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Mayor「I'm the mayor of this town, but...{8300}{94C8}Mayor「Something terrible has happened...!!{8300}{94C8}Mayor「My family's treasure was stolen by Sky Shark!!{8300}{94C8}Mayor「I was told it must never, ever leave this house... Oh, what on earth am I to do...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}おじいさん「町長の家のタカラが{8207}うばわれたそうじゃ・・・」{8300}{94C8}おじいさん「たしか、{8833}どこかのタワーのカギ{8800}だとか{8207}言っておったな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「I hear the mayor's family treasure was stolen...{8300}{94C8}Old Man「If I recall, folks said it was {8833}a key to some tower{8800} or other...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{94C8}おばさん「{8833}南のハシのシュウリが終わった{8800}そうよ」{8300}{94C8}おばさん「でも・・・スカイシャークのスカイシップも{8207}南に向かったそうだから{8207}今は近づかない方がいいかもね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「I hear {8833}the south bridge repairs are finished{8800}.{8300}{94C8}Lady「But... I heard Sky Shark's Skyship headed south too, so maybe it's best not to go near there for now...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{94C8}男の子「ちくしょーっ！！」{8300}{94C8}男の子「アシカマルといっしょに戦ったんだけど{8207}あのバルトにはハがたたなかったよ・・・」{8300}{94C8}男の子「まだまだシュギョウ不足か・・・{8207}よし、もっとレンシュウするぞ！！」{8400}{8100}{9803}{9803}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Dang it!!{8300}{94C8}Boy「I fought alongside Ashikamaru, but we were no match for that Baltic...{8300}{94C8}Boy「Guess I still need more training... All right, I'm gonna practice even harder!!{8400}{8100}{9803}{9803}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94A0}「オウ～ッ・・・・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Orrrk...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{8603}{9499}「あっ、{9400}さん・・・{8207}もう動いてもダイジョウブなんですか？」{8300}{8603}{9499}「何人かに話をきいたんですが・・・{8207}どうやら{8833}バルトが何かをうばっていった{8800}{8207}みたいなんです」{8300}{8603}{9499}「何をうばったかまでは{8207}わからないんですが・・・{8207}他の人にも話をきいてみます」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}Oh, {9400}... Are you sure you're all right to be up and about?{8300}{8603}{9499}I asked a few people... and it seems {8833}Baltic stole something{8800}.{8300}{8603}{9499}I don't know what he stole yet, though... I'll ask some other people too.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{94C8}女の子「ねぇ、キミの{8855}メガニワン{8800}を{8207}{8833}ローバッファ{8800}とコウカンしない？」{8300}{94C8}女の子「コウカンしてくれたらキミのグランボを{8207}回復してあげるけど、どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Hey, want to trade your {8855}Meganiwan{8800} for my {8833}Robuffa{8800}?{8300}{94C8}Girl「If you trade with me, I'll heal your Granbo. What do you say?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{94C8}女の子「ありがとっ！{8207}それじゃコウカンしよっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thanks! Let's trade, then!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{94C8}女の子「ええ～っ！{8207}しんじられない～～～っ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Whaaat! I can't belieeeve it!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{94C8}女の子「やったね！！{8207}ありがと～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Yay!! Thank youuu!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8002}{94C8}女の子「え～と・・・{8855}メガニワン{8800}は{8207}持ってないんだね・・・」{8300}{94C8}女の子「{8855}メガニワン{8800}を手に入れたら{8207}また話しかけてね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Um... looks like you don't have a {8855}Meganiwan{8800}...{8300}{94C8}Girl「Come talk to me again once you get a {8855}Meganiwan{8800}!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8002}{94C8}ばあさん町長「なんと、タワーのカギを{8207}とりもどしてくれたのか！？{8207}ではさっそく私に・・・」{8300}{94C8}ばあさん町長「・・・何！？カギを使わせてほしい？」{8300}{94C8}ばあさん町長「・・・・・・・・・」{8300}{94C8}ばあさん町長「まぁ、お前さんならあのカギを悪い事に{8207}使ったりはせんじゃろうな・・・」{8300}{94C8}ばあさん町長「・・・わかった！！{8207}そのカギ、お前さんにあずけよう！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Mayor「What, you got the Tower Key back for me?! Then hand it right over...{8300}{94C8}Mayor「...What?! You want to use the key?{8300}{94C8}Mayor「...{8300}{94C8}Mayor「Well, I don't suppose someone like you would use that key for anything wicked...{8300}{94C8}Mayor「...Very well!! I'll entrust that key to you!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8002}{94C8}おじいさん「町長の家のタカラを{8207}だれかがとりもどしたそうじゃ・・・」{8300}{8100}{9714}{8002}{94C8}おじいさん「何？とりもどしたのはおヌシじゃと？{8207}・・・これはおどろいた、大したモンじゃ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「I hear somebody got the mayor's family treasure back...{8300}{8100}{9714}{8002}{94C8}Old Man「What? It was you who got it back? ...Well, I'll be. That's quite something.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8002}{94C8}おばさん「スカイシャークにバクハされた{8207}スタジアムにつうじるハシは{8207}まだ元にもどらないそうよ！」{8300}{94C8}おばさん「池がなくなりでもしないかぎり{8207}スタジアムには行けそうにないわ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「I hear the bridge to the stadium that Sky Shark blew up still hasn't been fixed!{8300}{94C8}Lady「Unless the pond dried up or something, I doubt anyone could get to the stadium.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8002}{94C8}男の子「ちくしょーっ！！」{8300}{94C8}男の子「アシカマルといっしょに戦ったんだけど{8207}あのバルトにはハがたたなかったよ・・・」{8300}{94C8}男の子「まだまだシュギョウ不足か・・・{8207}よし、もっとレンシュウするぞ！！」{8400}{8100}{9803}{9803}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Dang it!!{8300}{94C8}Boy「I fought alongside Ashikamaru, but we were no match for that Baltic...{8300}{94C8}Boy「Guess I still need more training... All right, I'm gonna practice even harder!!{8400}{8100}{9803}{9803}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8002}{94A0}「オウ～ッ・・・・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Orrrk...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_026",
@@ -220,7 +246,8 @@
     26
    ],
    "jp": "{8002}{94C8}女の子「ねぇ、キミの{8855}メガニワン{8800}を{8207}{8833}ローバッファ{8800}とコウカンしない？」{8300}{94C8}女の子「コウカンしてくれたらキミのグランボを{8207}回復してあげるけど、どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Hey, want to trade your {8855}Meganiwan{8800} for my {8833}Robuffa{8800}?{8300}{94C8}Girl「If you trade with me, I'll heal your Granbo. What do you say?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_027",
@@ -228,7 +255,8 @@
     27
    ],
    "jp": "{8002}{94C8}女の子「ありがとっ！{8207}それじゃコウカンしよっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thanks! Let's trade, then!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_028",
@@ -236,7 +264,8 @@
     28
    ],
    "jp": "{8002}{94C8}女の子「ええ～っ！{8207}しんじられない～～～っ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Whaaat! I can't belieeeve it!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_029",
@@ -244,7 +273,8 @@
     29
    ],
    "jp": "{8002}{94C8}女の子「やったね！！{8207}ありがと～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Yay!! Thank youuu!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_030",
@@ -252,7 +282,8 @@
     30
    ],
    "jp": "{8002}{94C8}女の子「え～と・・・{8855}メガニワン{8800}は{8207}持ってないんだね・・・」{8300}{94C8}女の子「{8855}メガニワン{8800}を手に入れたら{8207}また話しかけてね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Um... looks like you don't have a {8855}Meganiwan{8800}...{8300}{94C8}Girl「Come talk to me again once you get a {8855}Meganiwan{8800}!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_031",
@@ -260,7 +291,8 @@
     31
    ],
    "jp": "{8002}{94C8}ばあさん町長「スカイシャークをおい出してくれて{8207}ありがとうよ・・・」{8300}{94C8}ばあさん町長「それにしてもあの{8207}山の中に作られた研究所・・・{8207}町の新しい名所にできんかのう・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Mayor「Thank you for driving Sky Shark out...{8300}{94C8}Mayor「Still, that lab they built inside the mountain... I wonder if we could make it the town's new sightseeing spot...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_032",
@@ -268,7 +300,8 @@
     32
    ],
    "jp": "{8002}{94C8}おじいさん「グランドチェンジは{8207}すばらしいのぉ！！」{8300}{94C8}おじいさん「なにせバトルスタジアムに{8207}近道できるからの・・・ワシのような{8207}年よりにはありがたいわい」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「That Grand Change sure is wonderful!!{8300}{94C8}Old Man「After all, it gives us a shortcut to the Battle Stadium... A real blessing for an old-timer like me.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_033",
@@ -276,7 +309,8 @@
     33
    ],
    "jp": "{8002}{94C8}おばさん「ひさしぶりに{940A}バトルを{8207}見に行こうかしらね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Maybe I'll go watch {940A} battles for the first time in ages!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_034",
@@ -284,7 +318,8 @@
     34
    ],
    "jp": "{8002}{94C8}男の子「オラ、これからは{8207}キミのようなグランボセイバーをめざすよ！」{8300}{94C8}男の子「そのためにはもっと{8207}トックンしなきゃいけないね！！」{8300}{94C8}男の子「がんばれ！アシカマル！！{8207}スカイシャークと戦えるようになるまで{8207}いっしょにがんばろう！！」{8400}{8100}{9803}{9803}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「From now on, I'm gonna aim to be a Granbo Saver like you!{8300}{94C8}Boy「That means I've gotta train even harder!!{8300}{94C8}Boy「Go for it, Ashikamaru!! Let's work hard together until we're strong enough to fight Sky Shark!!{8400}{8100}{9803}{9803}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_035",
@@ -292,7 +327,8 @@
     35
    ],
    "jp": "{8002}{94A0}「オウッオウッオウッオウッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Ork! Ork! Ork! Ork!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_036",
@@ -300,7 +336,8 @@
     36
    ],
    "jp": "{8002}{94C8}女の子「ねぇ、キミの{8855}メガニワン{8800}を{8207}{8833}ローバッファ{8800}とコウカンしない？」{8300}{94C8}女の子「コウカンしてくれたらキミのグランボを{8207}回復してあげるけど、どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Hey, want to trade your {8855}Meganiwan{8800} for my {8833}Robuffa{8800}?{8300}{94C8}Girl「If you trade with me, I'll heal your Granbo. What do you say?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_037",
@@ -308,7 +345,8 @@
     37
    ],
    "jp": "{8002}{94C8}女の子「ありがとっ！{8207}それじゃコウカンしよっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thanks! Let's trade, then!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_038",
@@ -316,7 +354,8 @@
     38
    ],
    "jp": "{8002}{94C8}女の子「ええ～っ！{8207}しんじられない～～～っ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Whaaat! I can't belieeeve it!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_039",
@@ -324,7 +363,8 @@
     39
    ],
    "jp": "{8002}{94C8}女の子「やったね！！{8207}ありがと～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Yay!! Thank youuu!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_040",
@@ -332,7 +372,8 @@
     40
    ],
    "jp": "{8002}{94C8}女の子「え～と・・・{8855}メガニワン{8800}は{8207}持ってないんだね・・・」{8300}{94C8}女の子「{8855}メガニワン{8800}を手に入れたら{8207}また話しかけてね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Um... so you don't have a {8855}Meganiwan{8800}...{8300}{94C8}Girl「When you get a {8855}Meganiwan{8800}, come talk to me again!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_041",
@@ -340,7 +381,8 @@
     41
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_042",
@@ -348,7 +390,8 @@
     42
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_043",
@@ -356,7 +399,8 @@
     43
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_044",
@@ -364,7 +408,8 @@
     44
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_045",
@@ -372,7 +417,8 @@
     45
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_046",
@@ -380,7 +426,8 @@
     46
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_047",
@@ -388,7 +435,8 @@
     47
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_048",
@@ -396,7 +444,8 @@
     48
    ],
    "jp": "{8002}{94C8}女の子「ねぇ、キミの{8855}メガニワン{8800}を{8207}{8833}ローバッファ{8800}とコウカンしない？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Hey, wanna trade your {8855}Meganiwan{8800} for a {8833}Robuffa{8800}?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_049",
@@ -404,7 +453,8 @@
     49
    ],
    "jp": "{8002}{94C8}女の子「ありがとっ！{8207}それじゃコウカンしよっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thanks! Let's trade, then!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_050",
@@ -412,7 +462,8 @@
     50
    ],
    "jp": "{8002}{94C8}女の子「ええ～っ！{8207}しんじられない～～～っ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Whaaat! I can't believe it!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_051",
@@ -420,7 +471,8 @@
     51
    ],
    "jp": "{8002}{94C8}女の子「ホントにありがとう！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thank you so, so much!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_052",
@@ -428,7 +480,8 @@
     52
    ],
    "jp": "{8002}{94C8}女の子「え～と・・・{8855}メガニワン{8800}は{8207}持ってないんだね・・・」{8300}{94C8}女の子「{8855}メガニワン{8800}を手に入れたら{8207}また話しかけてね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Um... so you don't have a {8855}Meganiwan{8800}...{8300}{94C8}Girl「When you get a {8855}Meganiwan{8800}, come talk to me again!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_053",
@@ -436,7 +489,8 @@
     53
    ],
    "jp": "{8002}{94C8}女の子「ホントにありがとうっ！{8207}うれしいからあなたのグランボも{8207}回復しちゃうね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thank you so, so much! I'm so happy, I'll heal your Granbo too!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_054",
@@ -444,7 +498,8 @@
     54
    ],
    "jp": "{8002}{94C8}ばあさん町長「私はこの町の町長だよ」{8300}{94C8}ばあさん町長「この町、人が少ないじゃろ・・・？」{8300}{94C8}ばあさん町長「この大陸の人間はみんな{940A}バトル{8207}が大スキでな・・・」{8300}{94C8}ばあさん町長「{940A}バトルが行われる{8207}スタジアムに近い西の町に引っこすものが{8207}あとをたたんのじゃ・・・」{8300}{94C8}ばあさん町長「さっきその西の町の方から{8207}すごい音がきこえてきたが・・・{8207}なんだったんじゃろうか？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Mayor「I'm the mayor of this town.{8300}{94C8}Mayor「Not many people in this town, are there...?{8300}{94C8}Mayor「Everyone on this continent just loves {940A} battles...{8300}{94C8}Mayor「so folks keep on moving to the town in the west, near the stadium where {940A} battles are held...{8300}{94C8}Mayor「A while ago I heard a terrible noise from that western town... What could it have been?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_055",
@@ -452,7 +507,8 @@
     55
    ],
    "jp": "{8002}{94C8}おじいさん「また{940A}バトルを{8207}見に行きたいのう・・・」{8300}{94C8}おじいさん「しかしさっきのバクハツ音は{8207}一体なんなんじゃ・・・？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「I'd like to go watch {940A} battles again...{8300}{94C8}Old Man「But what on earth was that explosion just now...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_056",
@@ -460,7 +516,8 @@
     56
    ],
    "jp": "{8002}{94C8}おばさん「町の南にあるハシが{8207}こわされているのは見た？」{8300}{94C8}おばさん「だれが何の目的で{8207}あんな事をしたのかしら・・・？」{8300}{94C8}おばさん「シュウリにはもうしばらく{8207}時間がかかるそうよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Did you see that the bridge south of town has been destroyed?{8300}{94C8}Lady「Who would do such a thing, and why...?{8300}{94C8}Lady「They say the repairs will take a while longer.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_057",
@@ -468,7 +525,8 @@
     57
    ],
    "jp": "{8002}{94C8}男の子「オラ、しょうらいはゼッタイ{8207}グランボセイバーになってグランボバトルに{8207}サンカするんだ！！」{8300}{94C8}男の子「え？なになに？」{8300}{94C8}男の子「バトルスタジアムに行けなくなった？」{8300}{94C8}男の子「そ、そんな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Someday I'm gonna be a Granbo Saver for sure, and enter Granbo battles!!{8300}{94C8}Boy「Huh? What's that?{8300}{94C8}Boy「We can't get to the Battle Stadium anymore?{8300}{94C8}Boy「N-no way...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_058",
@@ -476,7 +534,8 @@
     58
    ],
    "jp": "{8002}{94A0}「オウッオウッオウッ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Ork! Ork! Ork!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_059",
@@ -484,7 +543,8 @@
     59
    ],
    "jp": "{8002}{94C8}女の子「ねぇ、キミの{8855}メガニワン{8800}を{8207}{8833}ローバッファ{8800}とコウカンしない？」{8300}{94C8}女の子「コウカンしてくれたらキミのグランボを{8207}回復してあげるけど、どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Hey, wanna trade your {8855}Meganiwan{8800} for a {8833}Robuffa{8800}?{8300}{94C8}Girl「If you trade with me, I'll heal your Granbo. What do you say?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_060",
@@ -492,7 +552,8 @@
     60
    ],
    "jp": "{8002}{94C8}女の子「ありがとっ！{8207}それじゃコウカンしよっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thanks! Let's trade, then!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_061",
@@ -500,7 +561,8 @@
     61
    ],
    "jp": "{8002}{94C8}女の子「ええ～っ！{8207}しんじられない～～～っ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Whaaat! I can't believe it!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_062",
@@ -508,7 +570,8 @@
     62
    ],
    "jp": "{8002}{94C8}女の子「やったね！！{8207}ありがと～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Yay!! Thank youuu!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_063",
@@ -516,7 +579,8 @@
     63
    ],
    "jp": "{8002}{94C8}女の子「え～と・・・{8855}メガニワン{8800}は{8207}持ってないんだね・・・」{8300}{94C8}女の子「{8855}メガニワン{8800}を手に入れたら{8207}また話しかけてね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Um... so you don't have a {8855}Meganiwan{8800}...{8300}{94C8}Girl「When you get a {8855}Meganiwan{8800}, come talk to me again!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_064",
@@ -524,7 +588,8 @@
     64
    ],
    "jp": "{8002}{94C8}ばあさん町長「私はこの町の町長だよ」{8300}{94C8}ばあさん町長「この町、人が少ないじゃろ・・・？」{8300}{94C8}ばあさん町長「この大陸の人間はみんな{940A}バトル{8207}が大スキでな・・・」{8300}{94C8}ばあさん町長「ほとんどみんなアシカマルの{8207}オウエンに行ってしまったわい！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Mayor「I'm the mayor of this town.{8300}{94C8}Mayor「Not many people in this town, are there...?{8300}{94C8}Mayor「Everyone on this continent just loves {940A} battles...{8300}{94C8}Mayor「Nearly everyone's gone off to cheer for Ashikamaru!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_065",
@@ -532,7 +597,8 @@
     65
    ],
    "jp": "{8002}{94C8}おばさん「この町からずっと北に行った所に{8207}出てくるダンジョン・・・」{8300}{94C8}おばさん「見に行った人の話だと、知らないうちに{8207}ベツの場所にとばされる事があるそうよ！」{8300}{94C8}おばさん「それにおそろしいスガタのグランボを{8207}見たっていう人もいるし・・・」{8300}{94C8}おばさん「まぁ、よっぽど自信がないかぎり{8207}近よらない方がいいでしょうね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「There's a dungeon that appears far to the north of this town...{8300}{94C8}Lady「People who went to see it say you can get sent to some other place before you know it!{8300}{94C8}Lady「And some folks say they saw a Granbo with a terrifying look...{8300}{94C8}Lady「Well, unless you're really confident, you'd better stay away.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_066",
@@ -540,7 +606,8 @@
     66
    ],
    "jp": "{8002}{94C8}女の子「ねぇ、あなたの{8855}オウオウ{8800}・・・{8207}{8833}ストップアタック{8800}のワザとコウカンしない？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Hey, your {8855}Owow{8800}... want to trade it for the {8833}Stop Attack{8800} move?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_067",
@@ -548,7 +615,8 @@
     67
    ],
    "jp": "{8002}{94C8}女の子「ありがとうっ！{8207}それじゃコウカンだねっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thank you! It's a trade, then!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_068",
@@ -556,7 +624,8 @@
     68
    ],
    "jp": "{8002}{94C8}女の子「ええ～っ！{8207}べつにいいじゃないっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Whaaat! Come on, what's the harm?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_069",
@@ -564,7 +633,8 @@
     69
    ],
    "jp": "{8002}{94C8}女の子「私はここで第二のアシカマルを{8207}そだてるわ！そしてあの人においつくの！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I'm going to raise a second Ashikamaru right here! And then I'll catch up with him!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_070",
@@ -572,7 +642,8 @@
     70
    ],
    "jp": "{8002}{94C8}女の子「ざんねん・・・{8855}オウオウ{8800}は{8207}持ってないか・・・」{8300}{94C8}女の子「もし{8855}オウオウ{8800}を手に入れたら{8207}まっ先に私に話しかけてね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Too bad... you don't have an {8855}Owow{8800}...{8300}{94C8}Girl「If you ever get an {8855}Owow{8800}, come talk to me first thing!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_071",
@@ -580,7 +651,8 @@
     71
    ],
    "jp": "{8002}{94C8}女の子「本当にありがとう！{8207}せっかくだからあなたのグランボも{8207}回復しておくね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thank you so much! While I'm at it, I'll heal your Granbo too!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_072",
@@ -588,7 +660,8 @@
     72
    ],
    "jp": "{8002}{94C8}ばあさん町長「私はこの町の町長だよ」{8300}{94C8}ばあさん町長「この町、人が少ないじゃろ・・・？」{8300}{94C8}ばあさん町長「この大陸の人間はみんな{940A}バトル{8207}が大スキでな・・・」{8300}{94C8}ばあさん町長「ほとんどみんなアシカマルの{8207}オウエンに行ってしまったわい！」{8300}{94C8}ばあさん町長「それはともかく、おヌシには{8207}この大陸をすくってもらったれいを{8207}せねばならんのう・・・」{8300}{94C8}ばあさん村長「つまらない物ですまぬが・・・{8207}{8833}ENチップ{8800}を持っていってくれ」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Mayor「I'm the mayor of this town.{8300}{94C8}Mayor「Not many people in this town, are there...?{8300}{94C8}Mayor「Everyone on this continent just loves {940A} battles...{8300}{94C8}Mayor「Nearly everyone's gone off to cheer for Ashikamaru!{8300}{94C8}Mayor「Anyway, I must thank you for saving this continent...{8300}{94C8}Chief「It's only a small thing, I'm afraid... but please take this {8833}EN Chip{8800}.{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_073",
@@ -596,7 +669,8 @@
     73
    ],
    "jp": "{8002}{94C8}ばあさん村長「それでは、わたすぞ{8207}本当にありがとう！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Chief「Here you are, then. Thank you so much!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_074",
@@ -604,7 +678,8 @@
     74
    ],
    "jp": "{8002}{94C8}ばあさん村長「ん・・・いらんのか？{8207}それはザンネンじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Chief「Hm... you don't want it? What a shame...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E9A90_075",
@@ -612,7 +687,8 @@
     75
    ],
    "jp": "{8002}{94C8}ばあさん村長「よかったらまたこの町に{8207}あそびに来ておくれ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Chief「Do come and visit this town again sometime.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

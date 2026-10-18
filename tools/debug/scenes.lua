@@ -58,6 +58,16 @@ S.battle = { desc = "random battle in cave map 2/1 (2 ホッパー): battle scre
   W.encounter("up")
 end }
 
+S.battle_won = { desc = "battle result screen '戦闘に勝った!!!' (mode 8), after attacking with A (GOD on)",
+  run = function(W)
+  GOD = true
+  W.new_game()
+  W.warp(2, 1)
+  W.encounter("up")
+  W.mash_until(function() return W.r32(W.A.mode) == 8 end, "a", "battle won", 50)
+  W.wait(W.fade_done, "result screen fade-in")
+end }
+
 -- Field menu: top 0 Granbo (skills...), 1 items, 2 info (map...), 3 system (save...); sub 0..2 per top.
 S.menu = { desc = "field menu, top list (B in the field)", run = function(W)
   W.new_game(); W.warp(1, 0, 400, 300, 0); W.menu_open()

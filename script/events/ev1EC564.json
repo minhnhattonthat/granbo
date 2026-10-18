@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}少女セイバー「見てのとおり・・・{8207}ここにはアタシ一人しかいないよ・・・」{8300}{94C8}少女セイバー「はぁ・・・アタシもこんな{8207}イナカ、早く出て行きたいよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「As you can see... I'm the only one here...{8300}{94C8}Gal Saver「Sigh... I wanna get out of this backwater soon, too...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EC564_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}少女セイバー「もうダイジョウブなの？」{8300}{94C8}少女セイバー「{8877}ウッディーナ{8800}のグランボセイバーの{8207}みんなもシンパイしていたよ！！」{8300}{94C8}少女セイバー「{9400}君って、今やグランボセイバーの{8207}キタイの新人なんだから・・・{8207}くれぐれもムチャはしないでね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Are you all right now?{8300}{94C8}Gal Saver「The Granbo Savers of {8877}Woodina{8800} were all worried too!!{8300}{94C8}Gal Saver「You're the Granbo Savers' most promising newcomer now, {9400}... so please, don't do anything reckless.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EC564_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}少女セイバー「バルトにあんなにボコボコに{8207}されたばっかりなのに・・・」{8300}{94C8}少女セイバー「またバルトがいるスカイシャークの{8207}アジトにのりこんじゃうなんて！！」{8300}{94C8}少女セイバー「・・・でもグランボセイバーって{8207}そういう前向きな所がないと{8207}ダメなのかもね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「You just got beaten black and blue by Baltic...{8300}{94C8}Gal Saver「and now you're charging right back into the Sky Shark hideout where he is?!{8300}{94C8}Gal Saver「...But maybe a Granbo Saver needs that kind of never-look-back spirit...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EC564_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}少女セイバー「おめでとう！{8207}やったじゃない！！」{8300}{94C8}少女セイバー「こんなイナカ町だけど・・・{8207}アタシ、がんばって守りとおすわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Congratulations! You did it!!{8300}{94C8}Gal Saver「It may be a backwater town, but... I'll do my best to protect it to the end!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EC564_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{9201}グランボセイバーの作戦カイギ用ディスプレイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a display for Granbo Savers' strategy meetings.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EC564_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{9201}「{8833}南の山の中{8800}に『{8855}メガニワン{8800}』というグランボが{8201}シュツゲンするというホウコクあり！{8201}{8833}ATが高い{8800}というセツもあるのでチュウイせよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Report: a Granbo called \"{8855}Meganiwan{8800}\" appears {8833}inside the south mountain{8800}! It is also said to have {8833}high AT{8800}, so be careful!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EC564_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{9201}ドリンクのちゅうもんディスプレイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a display for ordering drinks.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EC564_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}しらべるワーク03のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EC564_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}しらべるワーク04のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EC564_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}しらべるワーク05のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EC564_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}しらべるワーク06のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

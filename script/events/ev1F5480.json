@@ -12,7 +12,8 @@
     0
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1F5480_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8001}{94C8}男の声「やはりまだ、ちょうせい不足か・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Voice「As I thought, it still needs more tuning...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F5480_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}    {9300}{9201}{8833}新しいバトルメカエッグ{8800}を手にいれた\n{8900}{9200}    {9300}{9201}{8877}木トカゲ{8800}のデータボールがはまっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9300}{9201}You got a {8833}new Battle Mecha Egg{8800}! {8900}{9200} {9300}{9201}A {8877}Wood Lizard{8800} Data Ball is set in it.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F5480_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{9201}ふくざつなソウチだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a complicated device.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F5480_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{9201}もう、何もはんのうしない{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It doesn't respond anymore.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F5480_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{9201}何かをジッケンしていたようなツクエだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a desk that looks like it was used for some kind of experiment.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F5480_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{9201}ショルイがちらばっている\nそこにはこんなことが書いてあった{8300}{9201}「目的の物2つはすでにわが手中、もう1つもすぐに{9200}{8201}{9201}手に入る所にある・・・ここでさらに1つが完成すれば{9200}{8201}{9201}わがヤボウは・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Papers are scattered around. This is what was written on them:{8300}{9201}Two of the objects I seek are already in my hands, and the third is{9200} {9201}nearly within reach... If one more is completed here,{9200} {9201}my ambition will...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F5480_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1F5480_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1F5480_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{8604}{949A}「バクハそうちをかいじょしたら{8207}ここのバリアかいじょキーも{8207}さがしてほしい・・・」{8300}{8604}{949A}「ここにつかまっている人達も{8207}そろそろゲンカイなんだ・・・{8207}たのむよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8604}{949A}Once you've disarmed the bomb, please look for the barrier release key here too...{8300}{8604}{949A}The people trapped here are nearly at their limit... Please!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F2BD6_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{860F}{94A5}「な、なんだ！お前は！？」{8300}{860F}{94A5}「さては、お前が今ウワサになっている{8207}{9400}だな！！！」{8300}{860F}{94A5}「よぅーし！{8207}お前をたおして{8207}オレもカンブのなかま入りだっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Wh-what! Who are you?!{8300}{860F}{94A5}So you're the {9400} everyone's talking about!!{8300}{860F}{94A5}Allll right! I'll beat you and join the bosses' ranks!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F2BD6_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{861F}{94A5}「や、やっぱりオレなんかじゃ{8207}手も足も出ないよーっ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}J-just like I thought, a guy like me doesn't stand a chance!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F2BD6_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{8604}{949A}「子分をカンタンにたおすなんて・・・{8207}キミは一体、何者なんだい？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8604}{949A}Beating a grunt so easily... Just who are you?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F2BD6_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8001}{8900} {9201}{9300}{9400}は彼らにジジョウをセツメイした{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8900}{9201}{9300}{9400} explained the situation to them.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F2BD6_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{8604}{949A}「そうか・・・・・・」{8300}{8604}{949A}「ヤツらはここをバクハすると{8207}おどしてきてるんだね？」{8300}{8604}{949A}「だけど、このでんじバリアがあるかぎり{8207}ボク達はここから出られないんだ・・・」{8300}{8604}{949A}「ヤツら、バリアかいじょキーを{8207}{8833}ヨソウもつかない場所{8800}にかくしたって{8207}言ってたっけ・・・」{8300}{8604}{949A}「{9400}君って言ったね・・・」{8300}{8604}{949A}「ボク達の事はいいから、それよりもまず{8207}{8833}バクハそうちをカイジョ{8800}してほしい！！」{8300}{8604}{949A}「スタジアムはボク達にとって{8207}命よりも大事な物なんだ！たのむ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8604}{949A}I see...{8300}{8604}{949A}So they're threatening to blow this place up?{8300}{8604}{949A}But as long as this electric barrier is up, we can't get out of here...{8300}{8604}{949A}They said they hid the barrier release key {8833}somewhere no one would ever guess{8800}...{8300}{8604}{949A}{9400}, was it?{8300}{8604}{949A}Never mind about us. Before anything else, please {8833}disarm the bomb{8800}!!{8300}{8604}{949A}The stadium means more to us than our own lives! Please!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F2BD6_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{8604}{949A}「ありがとう・・・助かったよ」{8300}{8604}{949A}「キミがスカイシャークを{8207}おいはらってくれたんだね？」{8300}{8604}{949A}「おかげでスタジアムもバクハされずに{8207}すんだよ・・・これでグランボバトルも{8207}すぐにサイカイできるね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8604}{949A}Thank you... You saved us.{8300}{8604}{949A}You're the one who drove off Sky Shark, right?{8300}{8604}{949A}Thanks to you, the stadium didn't get blown up... Now Granbo battles can start again soon!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F2BD6_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{8604}{949A}「そうだっ！」{8300}{8604}{949A}「グランボバトルがサイカイされたら{8207}キミもサンカしてみなよ！！」{8300}{8604}{949A}「ウデだめしにちょうど良いと思うよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8604}{949A}I know!{8300}{8604}{949A}When Granbo battles start up again, you should enter too!!{8300}{8604}{949A}I think it'd be just the thing to test your skills!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F2BD6_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{8604}{949A}「それじゃ、ボクはこれで！{8207}グランボバトルに向けて、これからすぐに{8207}トレーニングをサイカイするよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8604}{949A}Well then, I'll be going! I'm getting right back to training for the Granbo battles!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F2BD6_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{9201}ここにバリアかいじょキーをさしこめば\nでんじバリアをかいじょできる{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Insert the barrier release key here to shut off the electric barrier.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F2BD6_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1F2BD6_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

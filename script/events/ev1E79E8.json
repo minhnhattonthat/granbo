@@ -21,7 +21,8 @@
     1
    ],
    "jp": "{8002}{860F}{94A5}「この『わくわく{940A}』のビデオ・・・{8207}手に入れるのにくろうしたんだぜ！！」{8300}{860F}{94A5}「エンリョすんな！お前も見ろよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}This \"Exciting {940A}\" video... was a real pain to get my hands on!!{8300}{860F}{94A5}Don't be shy! You watch it too!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E79E8_002",
@@ -29,7 +30,8 @@
     2
    ],
    "jp": "{970D}{8002}{861F}{94A5}「ビデオを見ている間に{8207}5人もシンニュウシャが{8207}あらわれたらしくてな・・・」{8300}{861F}{94A5}「{9407}さまにこっぴどく{8207}おこられちまったよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{970D}{8002}{861F}{94A5}Looks like while we were watching the video, five whole intruders showed up...{8300}{861F}{94A5}Boss {9407} chewed us out something awful...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E79E8_003",
@@ -37,7 +39,8 @@
     3
    ],
    "jp": "{970C}{8002}{861F}{94A5}「どうしてオレ達がさぼっている時に{8207}かぎってシンニュウシャが{8207}あらわれるんだ！！」{8400}{8100}",
-   "en": ""
+   "en": "{970C}{8002}{861F}{94A5}Why do intruders always have to show up right when we're slacking off!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E79E8_004",
@@ -45,7 +48,8 @@
     4
    ],
    "jp": "{8002}{9201}スイッチをおしますか？{9200}\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Press the switch?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E79E8_005",
@@ -53,7 +57,8 @@
     5
    ],
    "jp": "{8002}{9201}かんしカメラのディスプレイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a security camera display.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E79E8_006",
@@ -61,7 +66,8 @@
     6
    ],
    "jp": "{8002}{9201}エレベーターのデンゲンが入っていないみたいだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The elevator doesn't seem to have any power.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E79E8_007",
@@ -69,7 +75,8 @@
     7
    ],
    "jp": "{8002}{9201}モニターには、かわいい{940A}が\nあそんでいるスガタがうつし出されている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The monitor shows cute {940A} playing around.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E79E8_008",
@@ -77,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E79E8_009",
@@ -85,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E79E8_010",
@@ -93,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

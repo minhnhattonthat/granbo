@@ -239,11 +239,9 @@ L.on_frame(function(f)
   end
 end)
 
--- Opt-in cheats, applied every frame once in the game.
-if GOD or NOENC then
-  L.on_frame(function()
-    if W.r32(A.top) ~= 1 then return end
-    if GOD and scenes.god then scenes.god(W) end
-    if NOENC and scenes.noenc then scenes.noenc(W) end
-  end)
-end
+-- Opt-in cheats (globals, so a scene can also turn them on), applied every frame once in the game.
+L.on_frame(function()
+  if W.r32(A.top) ~= 1 then return end
+  if GOD and scenes.god then scenes.god(W) end
+  if NOENC and scenes.noenc then scenes.noenc(W) end
+end)

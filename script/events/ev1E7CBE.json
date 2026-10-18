@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「おおっ、オウエンに{8207}かけつけてくれたのか！？」{8300}{860F}{94A5}「{9407}さまはそのドアのむこうで{8207}{8833}シンニュウシャの相手{8800}をしている！！」{8300}{860F}{94A5}「{9407}さまの事だからダイジョウブ{8207}だとは思うが、ネンのために{8207}エンゴに行ってくれ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Whoa, you rushed over to back us up?!{8300}{860F}{94A5}Boss {9407} is behind that door, {8833}dealing with the intruder{8800}!!{8300}{860F}{94A5}It's Boss {9407}, so I'm sure he'll be fine, but just to be safe, go give him a hand!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E7CBE_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{970D}{8002}{860F}{94A5}「なんなんだ今の子・・・」{8300}{860F}{94A5}「いきなりオレに向かって{8207}『命びろいしたわねっ！』ってさけぶと{8207}そのまま逃げちまいやがった・・・」{8400}{8100}",
-   "en": ""
+   "en": "{970D}{8002}{860F}{94A5}What was with that kid just now...{8300}{860F}{94A5}She suddenly yelled \"Consider yourself lucky!\" at me, and then just ran right off...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E7CBE_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{9201}かんしカメラのディスプレイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a security camera display.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E7CBE_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{9201}スイッチをおしますか？{9200}\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Press the switch?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E7CBE_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{9201}エレベーターのデンゲンが入っていないみたいだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The elevator doesn't seem to have any power.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E7CBE_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E7CBE_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E7CBE_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E7CBE_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おじさん「オレは{940A}バトルがスキでスキで{8207}しょうがないんだっ！！」{8300}{94C8}おじさん「あのテツとテツのぶつかりあいっ！{8207}とびちるオイルッ！！{8207}くーっ、たまんねぇ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「I just love {940A} battles so, so much!!{8300}{94C8}Man「Steel crashing into steel! Oil flying everywhere!! Ooh, I can't get enough!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EDBEC_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}おじさん「・・・・・・・・・」{8300}{94C8}おじさん「・・・・・・・・・」{8300}{94C8}おじさん「・・・・・・・・・」{8300}{94C8}おじさん「話しかけないでくれ・・・{8207}{940A}バトルがないんじゃ{8207}何もやる気にならねぇんだ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「.........{8300}{94C8}Man「.........{8300}{94C8}Man「.........{8300}{94C8}Man「Don't talk to me... Without {940A} battles, I can't get motivated for anything...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EDBEC_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おじさん「・・・・・・・・・」{8300}{94C8}おじさん「・・・・・・・・・」{8300}{94C8}おじさん「・・・・・・・・・」{8300}{94C8}おじさん「話しかけないでくれ・・・{8207}{940A}バトルがないんじゃ{8207}何もやる気にならねぇんだ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「.........{8300}{94C8}Man「.........{8300}{94C8}Man「.........{8300}{94C8}Man「Don't talk to me... Without {940A} battles, I can't get motivated for anything...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EDBEC_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}おじさん「うおおおおおおっ！！{8207}キミか！キミがスカイシャークを{8207}やっつけてくれたのか」{8300}{94C8}おじさん「ありがとう！ありがとう！ありがとう！{8207}ありがとう！ありがとう！ありがとう！」{8300}{94C8}おじさん「ああ、何回言っても言い足りない！！{8207}本当にありがとう！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Whoooaaa!! It's you! You're the one who beat Sky Shark?!{8300}{94C8}Man「Thank you! Thank you! Thank you! Thank you! Thank you! Thank you!{8300}{94C8}Man「Ah, no matter how many times I say it, it's not enough!! Thank you so much!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EDBEC_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1EDBEC_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1EDBEC_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1EDBEC_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1EDBEC_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1EDBEC_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1EDBEC_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

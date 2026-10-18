@@ -12,7 +12,8 @@
     0
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}男の子「え・・・？この大陸の人が{8207}いちばん大事にしている物は何かって？」{8300}{94C8}男の子「う～ん・・ボクもこの大陸にきた{8207}ばかりだから良くわからないんだ」{8300}{94C8}男の子「{8833}南に町がある{8800}から{8207}そこで話をきいてみたらどうかな？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Huh...? What do the people of this continent treasure most?{8300}{94C8}Boy「Hmm... I just got to this continent too, so I don't really know.{8300}{94C8}Boy「There's {8833}a town to the south{8800}, so why not ask around there?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}男の子「スカイシャークがハシを・・・？{8207}くそっ、ヤツらは一体何を{8207}かんがえているんだ？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Sky Shark did that to the bridge...? Darn it, what on earth are they thinking?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}男の子「{8855}ウォーティア{8800}をカイホウしても{8207}まだキミの戦いは続くのかい？{8207}大変だろうけど、がんばってくれよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Even after freeing {8855}Wateria{8800}, your fight still goes on? It must be tough, but hang in there!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{9201}この大陸のあんないエイゾウだ・・・\n大陸の中心に大きなたてものが、その左右に町があるようだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a guide display for this continent... There seems to be a big building at its center, with a town on either side.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}男の子「最近とうちゃくしたスカイシップから{8207}おりたお客さんはみんなバトルスタジアムに{8207}向かってるみたいだ！！」{8300}{94C8}男の子「1度はバトルスタジアムをセンリョウした{8207}スカイシャークが・・・」{8300}{94C8}男の子「今ではバトルスタジアムにたくさんの{8207}お客さんをあつめてるんだから・・・{8207}世の中って何がどうなるかわからないね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Everyone getting off the Skyship that just arrived seems to be heading for the Battle Stadium!!{8300}{94C8}Boy「Sky Shark, who once took over the Battle Stadium...{8300}{94C8}Boy「are now drawing huge crowds to it... You never know how things will turn out in this world!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{8603}{9499}「もうすぐスカイシップが出ます{8207}さっそくのりこみましょう！」\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}The Skyship leaves soon. Let's get on board right away!{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{8603}{9499}「では、ジュンビができるまで{8207}私達はここでまっていますね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}Then we'll wait here until you're ready.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{8602}{9498}「もうすぐスカイシップが出るみたいだよ～{8207}はやくのろうよ～！」\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Looks like the Skyship's leaving soon~ Let's hurry and get on~!{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{8602}{9498}「ジュンビができるまで{8207}オイラ達はここでまってるよ～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}We'll wait here till you're ready~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8000}{8610}{9497}「まってまってまってー！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8610}{9497}Wait wait waaait!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8000}{8601}{9497}「アタシ、決めたんだ！{8207}{9400}について行くって！！」{8300}{8601}{9497}「今回の事でアタシもまだまだだって{8207}わかったからね」{8300}{8601}{9497}「ゼッタイやくにたつからさ！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8601}{9497}I've decided! I'm going with {9400}!!{8300}{8601}{9497}This whole thing showed me I've still got a long way to go.{8300}{8601}{9497}I'll totally be a big help!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8000}{8601}{9497}「ま、そういうわけでヨロシクね！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8601}{9497}So yeah, that's how it is. Glad to be aboard!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8000}{8601}{9497}「それじゃ、レッツ・ゴー！！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8601}{9497}Okay then, let's go!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8000}{94C8}かいさついん「ごりようありがとうございます」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Gatekeep「Thank you for your patronage.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8001}{94C8}かいさついん「次のスカイシップは{8207}まもなくシュッパツですよ」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Gatekeep「The next Skyship departs shortly.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{94C8}かいさついん「スカイシップにのりますか？」{8207}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Will you board the Skyship?{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8002}{94C8}かいさついん「それではごとうじょうください」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Then please board.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8002}{94C8}かいさついん「ごりようありがとうございます」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Thank you for your patronage.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8000}{94C8}かいさついん「ごりようありがとうございました{8207}これからもよろしくおねがいします」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Gatekeep「Thank you for flying with us. We look forward to serving you again.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8002}{8603}{9499}「スカイシャークの目的をたしかめましょう！{8207}私達は先に町に行っていますね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}Let's find out what Sky Shark is after! We'll go on ahead to town.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8002}{8602}{9498}「たいせつな場所か・・・{8207}やっぱり食べ物にかんけいあるのかな～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}An important place, huh... I bet it's got something to do with food after all~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1EE57C_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8000}{94C8}かいさついん「ごりようありがとうございました」{8300}{94C8}かいさついん「これからも{8207}よろしくおねがいいたします」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Gatekeep「Thank you for flying with us.{8300}{94C8}Gatekeep「We look forward to serving you again.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

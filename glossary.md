@@ -141,6 +141,16 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- オウオウ -> Owow (sea-lion species; Ashikamaru is one; cry オウッ -> "Ork!"); ストップアタック -> Stop Attack;
+  イジョウ回復 -> Status Heal; ENチップ -> EN Chip; ソウガンキョウ -> binoculars; cry フキュ -> "Fukyu";
+  全HP回復中 -> All HP Heal 2 (全 = All, also 全HPカプセル -> All HP Capsule); グランドチェンジキー -> Grand Change Key;
+  リョカン -> inn; ヒトジチ -> hostages.
+- バリアかいじょキー -> barrier release key; でんじバリア -> electric barrier; バクハそうち -> bomb; バクダンキー -> Bomb Key;
+  スイモン -> floodgate (そうさする/しない -> Operate / Don't operate); 木トカゲ -> Wood Lizard;
+  モンスターがた{940A} -> monster-type {940A}; エーゲさま/バミューダさま in plain text -> Boss Aegean / Boss Bermuda.
+- アシカマル -> Ashikamaru (pet sea lion; cries オウッ -> "Ork!"); 水ヤドカリ -> Water Hermit Crab; タワーのカギ -> Tower Key;
+  『わくわく{940A}』 -> "Exciting {940A}"; シンニュウシャ -> intruder; かんしカメラ -> security camera;
+  アネゴ -> Big Sis (always; b017's "boss lady" aligned before merge).
 - DFアップ弱 -> DF Up 1; 本きょ地 -> headquarters; イモムシがたのデータボール -> caterpillar-type Data Ball; the
   Captain's コゾウ / ボウズ -> squirt / kid; rabbit Granbo cry ウサ -> "bun!".
 - バタッチ -> Batatch (pet nickname, cry "hop!"); フリーズガン -> Freeze Gun; ALLソング中 -> ALL Song 2 (ALL moves keep

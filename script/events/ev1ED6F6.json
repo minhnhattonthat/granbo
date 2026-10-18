@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}女の子「私はこのリョカンの{8207}一人娘なの・・・」{8300}{94C8}女の子「お手つだいしたくても{8207}お客さんがいないんじゃ{8207}どうしようもないわ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I'm the only daughter of this inn...{8300}{94C8}Girl「I'd like to help out, but with no guests, there's nothing to do!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED6F6_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}女の子「あ、気がついたのね？」{8300}{94C8}女の子「あのおとなしそうな女の子・・・{8207}ずっとキミのそばでシンパイそうに{8207}していたよ・・・」{8300}{94C8}女の子「なんだか・・・{8207}ちょっとうらやましいな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Oh, you're awake?{8300}{94C8}Girl「That quiet-looking girl... she stayed by your side the whole time, looking so worried...{8300}{94C8}Girl「Somehow... I'm a little jealous...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED6F6_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}女の子「町長のタカラをとりもどすなんて{8207}すごいじゃない！！」{8300}{94C8}女の子「キミといっしょに行動できる{8207}あの子が本当にうらやましいよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「You got the Mayor's treasure back? That's amazing!!{8300}{94C8}Girl「I'm really jealous of that girl, getting to go everywhere with you!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED6F6_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}女の子「ねぇねぇ！{8207}サインちょうだい！！」{8300}{94C8}女の子「え？まだ早い？{8207}そんな事ないわよ！」{8300}{94C8}女の子「キミはしょうらいゼッタイ{8207}ゆうめい人になるんだから！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Hey, hey! Give me your autograph!!{8300}{94C8}Girl「What? Too early? No way!{8300}{94C8}Girl「You're totally going to be famous someday!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED6F6_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}しらべるワーク00のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 00 check message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED6F6_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}しらべるワーク01のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 check message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED6F6_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}しらべるワーク02のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 check message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED6F6_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}しらべるワーク03のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 check message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED6F6_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}しらべるワーク04のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 check message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED6F6_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}しらべるワーク05のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 check message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED6F6_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}しらべるワーク06のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 check message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED6F6_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{8613}{9499}「{9400}さん！{8207}良かった・・・{8207}気がついたんですね・・・」{8300}{8603}{9499}「このまましんじゃうんじゃないかって{8207}本当にシンパイしました・・・」{8300}{8603}{9499}「{9407}にやられたって{8207}きいたんですけど・・・」{8300}{8603}{9499}「{9407}はこの町で{8207}何をしていたんでしょうね？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8613}{9499}{9400}! Thank goodness... You're awake...{8300}{8603}{9499}I was so worried you might die...{8300}{8603}{9499}I heard {9407} beat you...{8300}{8603}{9499}I wonder what {9407} was doing in this town?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED6F6_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{8603}{9499}「町の人達に話をきけば{8207}何かわかるかも知れません」{8300}{8613}{9499}「私・・・{8207}先に行ってますね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}If we talk to the people in town, we might find something out.{8300}{8613}{9499}I'll... go on ahead!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

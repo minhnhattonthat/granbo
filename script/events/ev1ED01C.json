@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おかみ「いらっしゃい！！{8207}ここはリョカンだよ！！」{8300}{94C8}おかみ「・・・え？お客じゃない？」{8300}{94C8}おかみ「まぁ、いいや・・・{8207}ゆっくりしていきな！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Landlady「Welcome!! This is an inn!!{8300}{94C8}Landlady「...Huh? You're not a guest?{8300}{94C8}Landlady「Oh well... Make yourself at home!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED01C_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}客の男「だまされた・・・！！」{8300}{94C8}客の男「やたらリョウキンが安いと{8207}思ったら、バトルスタジアムには{8207}遠回りするヒツヨウがあったのか！！」{8300}{94C8}客の男「たしかにスタジアムは目の前だけど{8207}これはサギだろ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Guest「I've been had...!!{8300}{94C8}Guest「I thought the rates were awfully cheap... Turns out you have to take the long way around to get to the Battle Stadium!!{8300}{94C8}Guest「Sure, the Stadium's right in front of us, but this is a scam...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED01C_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おかみ「やぁ、気がついたんだね！」{8300}{94C8}おかみ「・・・じゃあ、リョウキンの方を{8207}はらってもらおうか」{8300}{94C8}おかみ「・・・なーんてね！！{8207}ジョーダンだよ、ジョーダン！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Landlady「Hey, you've come to!{8300}{94C8}Landlady「...Now then, time to pay your bill.{8300}{94C8}Landlady「...Just kidding!! It's a joke, a joke!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED01C_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}客の男「そこのおかみ・・・」{8300}{94C8}客の男「キミのためにイシャをよんだり{8207}いろいろと世話してくれたんだよ」{8300}{94C8}客の男「ちゃんとおれいを{8207}言っておいた方がいいね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Guest「The landlady there...{8300}{94C8}Guest「She called a doctor for you and looked after you in all sorts of ways.{8300}{94C8}Guest「You'd better thank her properly.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED01C_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}おかみ「町長のタカラをとりもどしたって？」{8300}{94C8}おかみ「初めて見た時からあんたは他のセイバーとは{8207}どこかちがうと思ってたよ！！」{8300}{94C8}おかみ「・・・なーんてね！！{8207}ジョーダンだよ、ジョーダン！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Landlady「You got the Mayor's treasure back?{8300}{94C8}Landlady「From the first time I saw you, I knew you were different from the other Savers!!{8300}{94C8}Landlady「...Just kidding!! It's a joke, a joke!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED01C_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}客の男「そこのおかみ・・・」{8300}{94C8}客の男「そうとうキミの事が{8207}気に入ったみたいだね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Guest「The landlady there...{8300}{94C8}Guest「She seems to have really taken a liking to you.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED01C_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}おかみ「よくやったね！{8207}おめでとう！！」{8300}{94C8}おかみ「ところで・・・{8207}もしあんたがスカイシャークを{8207}やっつけてくれたら・・・」{8300}{94C8}おかみ「ウチも{8207}『あの{9400}がとまったリョカン』って{8207}事でユウメイになるのかねぇ！？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Landlady「Well done! Congratulations!!{8300}{94C8}Landlady「By the way... if you beat Sky Shark for us...{8300}{94C8}Landlady「Maybe this place'll get famous as \"the inn where {9400} stayed\"!?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED01C_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}客の男「なんか・・・」{8300}{94C8}客の男「おかみはいい人だし・・・{8207}とまってみたら良いリョカンだったよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Guest「You know...{8300}{94C8}Guest「The landlady's a nice person... and now that I've stayed here, it turned out to be a good inn.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED01C_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}おかみ「やぁ、気がついたんだね！」{8300}{94C8}おかみ「・・・あんた、あのバルトと{8207}戦ったそうじゃないか」{8300}{94C8}おかみ「ゆうかんなのはけっこうだけど{8207}あんまり友達をシンパイさせるんじゃないよ」{8300}{94C8}おかみ「ほら、この{8833}全HP回復中{8800}のワザを{8207}持って行きな！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Landlady「Hey, you've come to!{8300}{94C8}Landlady「...I hear you fought that Baltic.{8300}{94C8}Landlady「Being brave is all well and good, but don't make your friends worry so much.{8300}{94C8}Landlady「Here, take this {8833}All HP Heal 2{8800} move with you!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1ED01C_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}おかみ「ほれ、持って行きな！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Landlady「Here, take it!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED01C_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}おかみ「自信があるのはケッコウなんだけどね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Landlady「Being confident is all well and good, but...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED01C_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}おかみ「気をつけんだよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Landlady「Take care, now!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1ED01C_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1ED01C_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1ED01C_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1ED01C_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1ED01C_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1ED01C_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1ED01C_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

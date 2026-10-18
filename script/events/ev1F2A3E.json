@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「おおっ、あのカズキが{8207}使っていたメカエッグだ！！」{8300}{860F}{94A5}「これは高く売れるかも・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Whoa, it's the Mecha Egg that Kazuki was using!!{8300}{860F}{94A5}This might sell for a lot...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F2A3E_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{860F}{94A5}「今回の作戦・・・{8207}{9407}さまは最後まで{8207}ハンタイだったらしい・・・」{8300}{860F}{94A5}「こんなヒキョウな手は{8207}使いたくないって・・・」{8300}{861F}{94A5}「{9409}のかんがえる作戦は{8207}こんなのばっかりだからな・・・{8207}{9407}さまがいやがるのもわかるよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}About this operation... I hear Boss {9407} was against it right to the end...{8300}{860F}{94A5}Said he didn't want to use such a dirty trick...{8300}{861F}{94A5}The plans {9409} comes up with are all like this... I can see why Boss {9407} hates it.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F2A3E_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{9201}センシュようのロッカーだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a locker for the competitors.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F2A3E_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1F2A3E_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1F2A3E_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1F2A3E_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1F2A3E_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1F2A3E_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }
