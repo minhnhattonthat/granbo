@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{861F}{94A5}「{8833}フレイマー{8800}ではさんざんだったな・・・」{8300}{861F}{94A5}「バミューダさまのヘンソウは見やぶられるし{8207}・・・グランドチェンジタワーのカギは{8207}かけわすれるし・・・」{8300}{861F}{94A5}「この{8833}子分ようせい所{8800}で{8207}一からベンキョウしなおそうかな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Things sure went badly in {8833}Flamer{8800}...{8300}{861F}{94A5}Boss Bermuda's disguise got seen through... ...and I forgot to lock the Grand Change Tower...{8300}{861F}{94A5}Maybe I should study again from scratch here at the {8833}Grunt Training School{8800}...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev249D2E_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{860F}{94A5}「う～ん・・・・・・」{8300}{860F}{94A5}「今日はAランチにするか・・・{8207}それともスカイシャークべんとうに{8207}しようかな？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Hmmm......{8300}{860F}{94A5}Should I get the A Lunch today... or should I go with the Sky Shark Bento?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev249D2E_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{861F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev249D2E_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{860F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev249D2E_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{860F}{94A5}「この子分ようせい所も・・・」{8300}{860F}{94A5}「今やスカイシャークの子分{8207}たいけんコーナーになっちまった・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Even this Grunt Training School...{8300}{860F}{94A5}has turned into a \"Try Being a Sky Shark Grunt\" corner now...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev249D2E_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{860F}{94A5}「う～ん・・・・・・」{8300}{860F}{94A5}「今日はBランチにするか・・・{8207}それともスカイシャークべんとうに{8207}しようかな？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Hmmm......{8300}{860F}{94A5}Should I get the B Lunch today... or should I go with the Sky Shark Bento?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev249D2E_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{861F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev249D2E_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{860F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev249D2E_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{9201}{9300}メッセージボードに\nデンゴンが入っている{8300}{9201}『命令・・・4Fにつうじるカイダンへは{8201}ダレもとおさないように！！』{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}{9300}There's a message on the Message Board.{8300}{9201}\"Orders... Let no one through to the stairs leading to 4F!!\"{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev249D2E_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{9201}{9300}メッセージボードに\nデンゴンが入っている{8300}{9201}『トランプかえせ！！』{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}{9300}There's a message on the Message Board.{8300}{9201}\"Give back the cards!!\"{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev249D2E_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}木バコがつみあがっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}Wooden crates are stacked up here.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev249D2E_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev249D2E_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}ワーク04のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev249D2E_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev249D2E_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}ワーク06のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{9201}ばんごうちょうせいようダミー{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Numbering filler dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev244AC0_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{9201}ばんごうちょうせいようダミー{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Numbering filler dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev244AC0_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{9201}ばんごうちょうせいようダミー{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Numbering filler dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev244AC0_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{9201}ばんごうちょうせいようダミー{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Numbering filler dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev244AC0_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{9201}メッセージボードに\nメッセージが入っている{8300}『家、売ります！セイバー本部の近くで安心なくらしを！』{9200}\n{8900}                     {9300}{9201}元住人より{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There's a message on the Message Board.{8300}\"House for sale! Live safe and sound near Saver HQ!\"{9200} {8900}{9300}{9201}From the former resident{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev244AC0_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{9201}きれいなキッチンだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a clean kitchen.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev244AC0_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev244AC0_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev244AC0_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev244AC0_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev244AC0_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

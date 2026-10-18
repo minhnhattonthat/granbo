@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}少女セイバー「今度勝ったらインタビューに{8207}なんてこたえようっかなーーー！！」{8300}{94C8}少女セイバー「『ヨユウっすよー！』じゃイヤミだし{8207}『ウンが良かっただけです』って言うのも{8207}うそっぽいしなぁ～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「What should I say in my interview if I win next time~!!{8300}{94C8}Gal Saver「\"Easy peasy!\" would sound snooty, and \"I just got lucky\" sounds kinda fake too~!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D744_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}少年セイバー「今度負けたらインタビューに{8207}なんてこたえようかな・・・・・・」{8300}{94C8}少年セイバー「『これがジツリョクです』じゃなさけないし{8207}『目にゴミが入りました』なんて言ったら{8207}一生わらい者にされそうだしな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「What should I say in my interview if I lose next time......{8300}{94C8}Kid Saver「\"This is my true skill\" sounds pathetic, and if I say \"I got dust in my eye,\" they'll laugh at me for the rest of my life...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D744_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{9201}センシュようのロッカーだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a locker for the competitors.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D744_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{8601}{9497}「ふっふっふ・・・{9400}！{8207}手かげんはしないわよ！」{8300}{8601}{9497}「アタシだってグランボのあつかいは{8207}けっこううまいんだから！」{8300}{8601}{9497}「あまく見てたらいたい目に{8207}あうんだからね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Heh heh heh... {9400}! I won't go easy on you!{8300}{8601}{9497}I'm pretty good at handling Granbo too, you know!{8300}{8601}{9497}Underestimate me and you'll be sorry!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D744_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{8612}{9498}「{9400}く～ん・・・・・・」{8300}{8612}{9498}「オイラ、あんまり自信がないから{8207}ゼッタイ本気で戦わないでおくれよ～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8612}{9498}{9400}~......{8300}{8612}{9498}I'm not very confident, so promise you won't fight me for real, y'know~{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

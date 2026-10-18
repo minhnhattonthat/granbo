@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}大人セイバー「今、レーダーでヤツらの逃げた先を{8207}しらべているんだ」{8300}{94C8}大人セイバー「・・・・・・・・・」{8300}{94C8}大人セイバー「ヤツら、ここから北東の方向に{8207}逃げているな・・・」{8300}{94C8}大人セイバー「むむっ、グランドチェンジはんのうだ！{8207}ヤツら、{8833}グランドチェンジを使わないと{8207}行けない所にアジトを作っていた{8800}のか！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Right now we're tracking where they fled on radar.{8300}{94C8}Saver「.........{8300}{94C8}Saver「They're fleeing to the northeast of here...{8300}{94C8}Saver「Whoa, a Grand Change reading! So they built their hideout {8833}somewhere you can't reach without Grand Change{8800}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev243D7C_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}大人セイバー「今、そこの彼がスカイシャークの{8207}逃げた先をレーダーでしらべているわ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Right now, that guy there is tracking where Sky Shark fled on radar.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev243D7C_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{9201}ばんごうちょうせいようダミー{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Numbering dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev243D7C_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{9201}ばんごうちょうせいようダミー{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Numbering dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev243D7C_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{9201}ばんごうちょうせいようダミー{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Numbering dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev243D7C_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{9201}ばんごうちょうせいようダミー{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Numbering dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev243D7C_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{9201}ばんごうちょうせいようダミー{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Numbering dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev243D7C_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{9201}ばんごうちょうせいようダミー{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Numbering dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev243D7C_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{9201}ここで色々なアイテムが作られているらしい{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It seems all kinds of items are made here.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev243D7C_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev243D7C_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev243D7C_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev243D7C_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev243D7C_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev243D7C_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

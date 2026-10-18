@@ -18,6 +18,7 @@ FONT = 0x308BF8
 CODE_BASE = 0x7F3000  # 0xFF padding after the original data (ends 0x7F207B); inside the original 8 MiB
 VWF_STATE = 0x0203F000  # 16 bytes; only boot-time clears touch 0x0203E000-0x0203F5CF (docs/re/text.md)
 DRAW_GLYPH = 0x056058
+DRAW_CELLS = 0x00F9B0  # draw_cells(dst, tile, str, n, big, centre): menus and lists (docs/re/text.md)
 
 EN_CODES = {" ": 0x000}
 EN_CODES.update({str(d): 0x001 + d for d in range(10)})
@@ -50,6 +51,14 @@ def patch(r):
     assert r.orig[DRAW_GLYPH:DRAW_GLYPH + 8] == bytes.fromhex("10b5031c09041204"), r.orig[DRAW_GLYPH:DRAW_GLYPH + 8].hex()
     hook = bytes.fromhex("004b1847") + struct.pack("<I", 0x08000000 + CODE_BASE + 1)  # ldr r3,[pc]; bx r3; .word
     r.put(DRAW_GLYPH, hook, "vwf hook draw_glyph")
+    # fixed-cell strings (menus, lists): 0x0800F9B0 keeps its push; 8x16 mode goes to asm/vwf_cells.s
+    cells = CODE_BASE + 0x800
+    code = asm.assemble(ROOT / "asm/vwf_cells.s", 0x08000000 + cells, {"WIDTHS": 0x08000000 + wt})
+    assert len(code) <= 0x400 and r.orig[cells:cells + 0x400] == b"\xff" * 0x400
+    r.put(cells, code, "vwf_cells code")
+    assert r.orig[DRAW_CELLS:DRAW_CELLS + 12] == bytes.fromhex("f0b557464e464546e0b484b0")
+    hook = bytes.fromhex("014c2047c046") + struct.pack("<I", 0x08000000 + cells + 1)  # ldr r4,[pc,#4]; bx r4; nop
+    r.put(DRAW_CELLS + 2, hook, "vwf_cells hook")
     # speaker-name copy loops (`cmp r4,#5`: 6 units) pad the name with spaces: inline labels from the message (<= 9
     # glyphs) -> 10 units, RAM name slots (16 bytes: <= 7 glyphs + end) -> 8, so a padding space always separates
     # name and text. fit.first_x computes where the text then starts; fit.NAME_PX gates the name width.

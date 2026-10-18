@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}かかりいん「ここは{8833}立入禁止{8800}です」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「This area is {8833}off-limits{8800}.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D532_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}かかりいん「グランボバトルにサンカされる方は{8207}入口の方におまわり下さい」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「If you're entering the Granbo battles, please go around to the entrance.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D532_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{9201}何も書かれていないプリントが\n山づみになっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Blank worksheets are piled up high.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D532_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{9201}{9300}メッセージボードは\nテレビモードになっている{8300}今はグランボバトルのテレビちゅうけいを{9200}\n行っているようだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}{9300}The Message Board is in TV mode.{8300}It seems to be showing a Granbo battle broadcast right now.{9200}{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D532_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}シンプルなキッチンだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}A simple kitchen.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D532_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}正体不明の食べ物がのっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}Some mystery food is sitting here.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D532_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}テーブルの上のコーヒーはすっかりさめてしまっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}The coffee on the table has gone completely cold.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D532_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D532_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}ワーク06のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

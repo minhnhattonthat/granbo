@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「悪いが今いそがしいんだ・・・{8207}話なら後にしてくれないか？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Sorry, but I'm busy right now... Could we talk later?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24834C_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{860F}{94A5}「もう用はすんだんだろ？まだセイビは{8207}終わってないんだ・・・出て行ってくれ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}You're done here, right? The maintenance isn't finished yet... Please leave.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24834C_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{860F}{94A5}「最近はこことバトルスタジアムの{8207}オウフクばかりしているな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Lately I've been doing nothing but going back and forth between here and the Battle Stadium...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24834C_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{9201}大きなエンジンだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a big engine.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24834C_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{9201}エンジンのせいぎょソウチだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's the engine control unit.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24834C_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24834C_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24834C_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24834C_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24834C_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24834C_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8001}{860F}{94A5}「ん・・・何だ？{8207}こっちはいそがしいんだよ！{8207}見てわかんねぇか？」{8300}{860F}{94A5}「あん・・・？{8207}バルトさまのスカイシップのセイビに{8207}エンジンキーがいるって？」{8300}{860F}{94A5}「わかったよ、持ってきな！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}Hm... What is it? I'm busy here! Can't you tell?{8300}{860F}{94A5}Huh...? You need the Engine Key to do maintenance on Boss Baltic's Skyship?{8300}{860F}{94A5}Fine, take it!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

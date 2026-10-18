@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「うおおおおおっ！{8207}いそがしいぜっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Whoooa! So busy!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24007C_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{860F}{94A5}「ひたすらデータをとるマイニチ・・・{8207}しかし、何のデータなんだ？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Every day, nothing but collecting data... But what's the data even for?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24007C_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{8601}{9497}「あっ、{9400}！{8207}子分をとっちめて、バミューダの{8207}トクチョウをききだしたよ！」{8300}{8601}{9497}「いろんなジョウタイイジョウをおこす{8207}アイテムを使ってくるらしいから{8207}気をつけてね！」{8300}{8601}{9497}「そうだ！アタシの持ってる{8207}{8833}ビーム中{8800}のワザも持っていくといいよ！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Ah, {9400}! I roughed up a grunt and got him to tell me how Bermuda fights!{8300}{8601}{9497}Apparently he uses items that cause all kinds of status effects, so be careful!{8300}{8601}{9497}Oh, I know! You should take my {8833}Beam 2{8800} move with you!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev24007C_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{8601}{9497}「それじゃあ、あげる！{8207}早く攻撃できるグランボにおぼえさせる{8207}といいんじゃないかな？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Here you go, then! Maybe teach it to a Granbo that can attack fast?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24007C_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{8601}{9497}「ええっ、どうして？{8207}ゼッタイやくに立つのに・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}What, why? It'd definitely come in handy...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24007C_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{8601}{9497}「それじゃ、気をつけて！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Well then, be careful!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24007C_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{9201}ショルイがのっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Some papers are lying here.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24007C_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{9201}高度なマシンだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's an advanced machine.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24007C_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24007C_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24007C_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24007C_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24007C_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

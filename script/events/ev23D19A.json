@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}かかりいん「お客さま！キケンですから{8207}フェンスにもたれかからないで下さい！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「Excuse me! It's dangerous, so please don't lean on the fence!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D19A_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{9719}{8002}{94C8}ギャル「きゃーっ！きゃーっ！！」{8300}{94C8}ギャル「カズキさま、ステキーーーッ！！」{8400}{8100}{9802}{9802}",
-   "en": ""
+   "en": "{9719}{8002}{94C8}Gal「Kyaaa! Kyaaa!!{8300}{94C8}Gal「Kazuki, you're so dreamyyy!!{8400}{8100}{9802}{9802}",
+   "status": "translated"
   },
   {
    "id": "ev23D19A_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}ギャル「何・・・？{8207}あんたもグランボバトルにサンカするの？」{8300}{94C8}ギャル「カズキさまにケガでもさせたら{8207}ショウチしないわよっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal「What...? You're entering the Granbo battles too?{8300}{94C8}Gal「If you so much as hurt Kazuki, you'll be sorry!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D19A_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}おじいさん「グランボバトルは見ていると{8207}なんだか自分もわかがえったような気が{8207}する所が良いですなぁ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「The great thing about watching Granbo battles is that it somehow makes me feel young again!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D19A_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}男の子「ボクもいつかあのフィールドに{8207}たつんだ・・・ゼッタイに！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Someday I'm gonna stand on that field too... No matter what!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D19A_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{9201}何も書かれていないプリントが\n山づみになっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Blank worksheets are piled up high.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D19A_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{9201}{9300}メッセージボードは\nテレビモードになっている{8300}今はグランボバトルのテレビちゅうけいを{9200}\n行っているようだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}{9300}The Message Board is in TV mode.{8300}It seems to be showing a Granbo battle broadcast right now.{9200}{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D19A_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}シンプルなキッチンだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}A simple kitchen.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D19A_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}正体不明の食べ物がのっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}Some mystery food is sitting here.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D19A_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}テーブルの上のコーヒーはすっかりさめてしまっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}The coffee on the table has gone completely cold.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D19A_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23D19A_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}ワーク06のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

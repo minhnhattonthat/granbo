@@ -13,7 +13,8 @@
     8
    ],
    "jp": "{8002}{94C8}おじさん「す、すかいしゃあくなんて{8207}こわくないぞ・・・」{8300}{94C8}おじさん「な、なんで外に行かないかだと・・・{8207}こ、ここでヤツらをまちぶせてるんだよ！」{8300}{94C8}おじさん「・・・・・・・・・」{8300}{94C8}おじさん「何？もういない？{8207}・・・そ、そうか・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「I-I'm not scared of S-Sky Sh-Shark...{8300}{94C8}Man「Wh-why don't I go outside, you ask...? I-I'm lying in wait for them right here!{8300}{94C8}Man「.........{8300}{94C8}Man「What? They're already gone? ...O-oh, I see...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev244C46_001",
@@ -21,7 +22,8 @@
     1
    ],
    "jp": "{8002}{9201}メッセージボードに\nメールが入っている{8300}『町のシュウヘンのケイビをおこたらないように！』{9200}\n{8900}                      {9300}{9201}町内会より{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There's mail on the Message Board.{8300}\"Do not slack off on guarding the area around town!\"{9200} {8900}{9300}{9201}From the Neighborhood Association{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev244C46_002",
@@ -29,7 +31,8 @@
     2
    ],
    "jp": "{8002}ワーク01のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev244C46_003",
@@ -37,7 +40,8 @@
     3
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev244C46_004",
@@ -45,7 +49,8 @@
     4
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev244C46_005",
@@ -53,7 +58,8 @@
     5
    ],
    "jp": "{8002}ワーク04のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev244C46_006",
@@ -61,7 +67,8 @@
     6
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev244C46_007",
@@ -69,7 +76,8 @@
     7
    ],
    "jp": "{8002}ワーク06のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

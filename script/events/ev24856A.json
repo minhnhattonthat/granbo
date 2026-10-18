@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「今エンジンのセイビ中で{8207}手がはなせないんだ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}I'm in the middle of engine maintenance, so my hands are full right now...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24856A_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{860F}{94A5}「エンジンキーのことだが・・・」{8300}{860F}{94A5}「ゼッタイ{8833}左のキカイ{8800}には使うなよ！{8207}わかったな？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}About the Engine Key...{8300}{860F}{94A5}Don't you dare use it on the {8833}machine on the left{8800}! Got it?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24856A_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{860F}{94A5}「ん・・・今エンジンが動いたような・・・？{8207}気のせいか？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Hm... Did the engine just start up...? Must be my imagination.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24856A_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{860F}{94A5}「カコにここでおきたジケンをキッカケに{8207}エンジンはセキニンシャいがい{8207}動かせないようになったよ」{8300}{860F}{94A5}「まったく、ダレだよ・・・{8207}勝手にエンジン動かしたヤツは・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Ever since that incident here a while back, nobody but the person in charge can start the engine.{8300}{860F}{94A5}Honestly, who was it... that started the engine without permission...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24856A_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{9201}大きなエンジンだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a big engine.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24856A_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{9201}エンジンのせいぎょソウチだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's the engine's control unit.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24856A_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24856A_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24856A_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24856A_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24856A_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24856A_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8001}{860F}{94A5}「エンジンを動かすテストをしようにも{8207}エンジンキーがないじゃないか！」{8300}{861F}{94A5}「はぁ・・・だれかキャプテンのスカイシップ{8207}までとりに行ってくれないかな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}I want to run a test on the engine, but there's no Engine Key!{8300}{861F}{94A5}Sigh... I wish somebody would go fetch it from the Captain's Skyship...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24856A_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8001}{9201}キーをさしこめそうなアナがある{8400}{8100}",
-   "en": ""
+   "en": "{8001}{9201}There's a hole that looks like a key would fit in it.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24856A_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8001}{860F}{94A5}「あ！コラ！{8207}そのキカイには使うなって言っただろ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}Ah! Hey! Didn't I tell you not to use that on the machine?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24856A_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8001}{9201}エンジンキーをとられてしまった{8400}{8100}",
-   "en": ""
+   "en": "{8001}{9201}The Engine Key was taken away.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「キャプテンがいつでもシュッパツできる{8207}ようにしっかりメンテナンス{8207}しとかないとな！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Gotta keep everything well maintained so the Captain can take off any time!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247626_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{861F}{94A5}「エーゲさまはスカイシップのコンテナに{8207}キズがついてるだけでおこるからな～」{8300}{860F}{94A5}「よし、キズはなさそうだ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Boss Aegean gets mad over even one scratch on a Skyship Container~{8300}{860F}{94A5}Okay, no scratches that I can see!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247626_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{861F}{94A5}「いけねえ、シュウリにヒツヨウな{8207}パーツをわすれてきちまった！！」{8300}{860F}{94A5}「キャプテンのスカイシップの中に{8207}同じパーツがあったっけな・・・」{8300}{860F}{94A5}「{8833}シャッターをあけて{8800}まっすぐ{8207}キャプテンのスカイシップに向かうか！」{8300}{860F}{94A5}「たしかシャッターは上の{8833}赤いスイッチ{8800}を{8207}おせばあくんだったよな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Oops, I forgot the parts I need for the repairs!!{8300}{860F}{94A5}I think there were the same parts inside the Captain's Skyship...{8300}{860F}{94A5}Guess I'll {8833}open the shutter{8800} and head straight for the Captain's Skyship!{8300}{860F}{94A5}I'm pretty sure the shutter opens when you press the {8833}red switch{8800} up top...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247626_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{860F}{94A5}「ダミー（話しかけられない子分用）」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Dummy (for a Grunt you can't talk to){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247626_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}ワーク00のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 00 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247626_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}ワーク01のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247626_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247626_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247626_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}ワーク04のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247626_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247626_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}ワーク06のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247626_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8001}{860F}{94A5}「ハッハッハ！！{8207}どうや？このカンペキなボウギョ！！{8207}のりこえられへんやろ？」{8300}{860F}{94A5}「無ソウ音、無コウガイ、エネルギーゼロ！{8207}しぜんにやさしい{8833}エコロジーバリケード{8800}や！{8207}ん～、カッコエエなぁ！」{8300}{860F}{94A5}「でも、この中身って{8833}カヤク{8800}やねん！！{8207}ゼッタイに火ぃ近づけんといてや！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}Hahaha!! Whaddaya think? Perfect defense, huh!! Bet ya can't get past it!{8300}{860F}{94A5}No noise, no pollution, zero energy! It's a nature-friendly {8833}Ecology Barricade{8800}! Mmm, so cool!{8300}{860F}{94A5}But what's inside is {8833}gunpowder{8800}!! Don't ya dare bring fire anywhere near it!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247626_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8001}{860F}{94A5}「だからムリやってば！」{8300}{861F}{94A5}「でもここ・・・すぐ横に{8833}エンジンノズル{8800}が{8207}あって、なんやこわいな～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}Told ya, it's no use!{8300}{861F}{94A5}But here... there's an {8833}engine nozzle{8800} right next to it, and it kinda freaks me out!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

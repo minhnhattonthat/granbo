@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{9201}ショルイがのっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Some papers are lying here.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23FFF2_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{9201}高度なマシンだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's an advanced machine.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23FFF2_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev23FFF2_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev23FFF2_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev23FFF2_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev23FFF2_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev23FFF2_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{9201}スイッチをおしますか？{9200}\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Press the switch?{9200}{8D00}{8100}",
+   "status": "translated"
   }
  ]
 }

@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「なんだかスゴイ音がしたな・・・{8207}また、だれかがヘマをやったのか？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}That was some crazy noise... Did somebody mess up again?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{861F}{94A5}「あわわ・・・バクハツでとんできたハヘンで{8207}コンテナにキズがついちまった！！」{8300}{861F}{94A5}「エーゲさまにおしおきされる・・・」{8300}{861F}{94A5}「『おケショウじっけんだい』のケイか・・・{8207}『セクシーポーズ研究』のケイか・・・」{8300}{861F}{94A5}「どっちにしても3日は{8207}外を歩けなくなるぞ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Uh-oh... Shrapnel from the explosion scratched the Container!!{8300}{861F}{94A5}Boss Aegean's gonna punish me...{8300}{861F}{94A5}Will it be the \"makeup test dummy\" sentence... or the \"sexy pose research\" sentence...{8300}{861F}{94A5}Either way, I won't be able to show my face outside for three days...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{861F}{94A5}「な、なんだなんだ・・・？」{8300}{861F}{94A5}「何がおこったんだ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Wh-what the...?{8300}{861F}{94A5}What just happened?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{860F}{94A5}「ダミー（話しかけられない子分用）」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Dummy (for a Grunt you can't talk to){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{860F}{94A5}「キャプテンの命令で{8207}ブキを全部はずしちゃったけど・・・{8207}本当にいいのかなぁ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}On the Captain's orders, we took off all the weapons... but is that really okay?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{860F}{94A5}「エーゲさまのシュミは相変わらずさ」{8300}{860F}{94A5}「でも、おしおきされる事は{8207}なくなったなぁ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Boss Aegean's hobbies are the same as ever.{8300}{860F}{94A5}But at least I don't get punished anymore...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{860F}{94A5}「バルトさまはオレ達のほこりさ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Boss Baltic is our pride and joy!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{860F}{94A5}「ワイはここに新しいバリケードを作るで！」{8300}{860F}{94A5}「なんやて？{8207}バリケードはもういらんやろって？」{8300}{860F}{94A5}「何言うてんねん！！{8207}これにはワイのプライドが{8207}かかっとるんや！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}I'm gonna build a new barricade right here!{8300}{860F}{94A5}Whazzat? Nobody needs barricades anymore?{8300}{860F}{94A5}Whaddaya talkin' about?! My pride's ridin' on this!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{860F}{94A5}「ダミー（話しかけられない子分用）」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Dummy (for a Grunt you can't talk to){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}ワーク00のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 00 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}ワーク01のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}ワーク04のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}ワーク06のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8000}{861F}{94A5}「ゴホゴホ・・・」{8300}{861F}{94A5}「あ～っ、ムッチャびびったっちゅーねん！{8207}なにしてくれんねん！」{8300}{861F}{94A5}「ホンマにムチャしよんな～！{8207}フツーするか？そーゆーこと・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{861F}{94A5}Cough, cough...{8300}{861F}{94A5}Aaagh, ya scared the daylights outta me! Whaddaya think you're doin'?!{8300}{861F}{94A5}Ya really are reckless! Who'd ever do somethin' like that...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8000}{861F}{94A5}「な、なんやて・・・{8207}バリケードがこわれとんがな！！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{861F}{94A5}Wh-whazzat... The barricade's busted!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8000}{861F}{94A5}「こりゃかなわんわ！{8207}ほな、サイナラ～～～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{861F}{94A5}This is too much for me! Well then, see ya~~~!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8001}{8609}{949F}「ふふふ・・・やはりあらわれましたね・・・」{8300}{8609}{949F}「どうあってもこの先に行くつもりですか？」\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8001}{8609}{949F}Heh heh heh... So you have appeared after all...{8300}{8609}{949F}Do you intend to go on ahead, no matter what?{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8001}{8609}{949F}「ふぅ・・・{8207}すくいようのないおろか者ですね！」{8300}{8609}{949F}「いいでしょう・・・{8207}その身をもって思い知りなさい！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8609}{949F}Sigh... What a hopeless fool you are!{8300}{8609}{949F}Very well... You shall learn your lesson firsthand!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8001}{8609}{949F}「それがけんめいです」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8609}{949F}That is the wise choice.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8001}{8609}{949F}「まだあきらめていなかったのですか？」\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8001}{8609}{949F}You still haven't given up?{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev247B46_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8001}{8609}{949F}「なんと・・・！{8207}私がソウゾウしていたイジョウに{8207}強くなられていたようですね」{8300}{8609}{949F}「これでは私ごときが{8207}あなたにかなうハズもありません！」{8300}{8609}{949F}「おとなしくタイサンするとしましょう」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8609}{949F}My word...! It seems you have grown far stronger than I imagined.{8300}{8609}{949F}Then someone like me cannot hope to match you!{8300}{8609}{949F}I shall make a quiet retreat.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

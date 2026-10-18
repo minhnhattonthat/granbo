@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8001}{8609}{949F}「おっと{8207}会わせるとは言いましたが・・・」{8300}{8609}{949F}「かえすとは言っていませんよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8609}{949F}Oh my, I did say I'd let you see her...{8300}{8609}{949F}But I never said I'd give her back!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2407DE_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8001}{8609}{949F}「・・・つくづくユウカンな子どもですね{8207}・・・いいでしょう！かかってきなさい！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8609}{949F}...What a truly brave child you are... Very well! Come at me!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2407DE_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8001}{8609}{949F}「なかなかやりますね・・・{8207}しかし！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8609}{949F}Not bad at all... But!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2407DE_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8000}{8609}{949F}「フフフ・・・{8207}戦いの方はお見事でしたが{8207}まわりが見えていなかったようですね」{8300}{8609}{949F}「私の{940E}はあくまでオトリ・・・」{8300}{8609}{949F}「とは言え、私の{940E}がやられたのは{8207}意外でした・・・大したものです」{8300}{8609}{949F}「しかし、{9403}さんだけは{8207}おかえしするわけにはいきません・・・{8207}これでシツレイさせてもらいますよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8609}{949F}Heh heh heh... You fought splendidly, but it seems you couldn't see what was going on around you.{8300}{8609}{949F}My {940E} was merely a decoy...{8300}{8609}{949F}Even so, I didn't expect my {940E} to be beaten... Quite impressive.{8300}{8609}{949F}However, {9403} is the one thing I cannot give back to you... And with that, I'll take my leave!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

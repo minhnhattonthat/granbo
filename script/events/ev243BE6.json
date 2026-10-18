@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860B}{94A1}「じつは子分にハッシンキを{8207}とりつけておいたんだ」{8300}{860B}{94A1}「ヤツらの逃げた先を{8207}今レーダーでしらべているよ」{8300}{860B}{94A1}「右となりのヘヤに行ってみたまえ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860B}{94A1}Actually, I planted a transmitter on one of their grunts.{8300}{860B}{94A1}We're tracking where they fled on radar right now.{8300}{860B}{94A1}Go take a look in the room to the right.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev243BE6_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{9201}ばんごうちょうせいようダミー{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Numbering dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev243BE6_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{9201}ばんごうちょうせいようダミー{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Numbering dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev243BE6_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{9201}ばんごうちょうせいようダミー{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Numbering dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev243BE6_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{9201}大きなモニターだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a big monitor.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev243BE6_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{9201}モニターにはスカイシャークの本きょ地がうつっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The monitor shows Sky Shark's headquarters.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev243BE6_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev243BE6_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev243BE6_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev243BE6_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev243BE6_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

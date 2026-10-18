@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「ここにシンニュウするヤツが{8207}いるとはな・・・」{8300}{860F}{94A5}「まぁ、どうせ1Fでつかまるだろうし{8207}オレが気にすることはねぇな！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Who'd have thought anybody would sneak in here...{8300}{860F}{94A5}Well, they'll get caught on 1F anyway, so it's nothing I need to worry about!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2488BA_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{860F}{94A5}「シズクちゃん・・・キミを一目見た時から{8207}オレは・・・オレはあああっ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Shizuku... Ever since the first moment I laid eyes on you... I... I've been... Aaaargh!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2488BA_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{861F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2488BA_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{860F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2488BA_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{860F}{94A5}「ふっふっふっ・・・{8207}メッセージボードでキミがシンニュウ{8207}した事はわかっていたよ・・・」{8300}{861F}{94A5}「いや、まぁ今となっては{8207}ベツにシンニュウされても{8207}かまわないんだけどな」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Heh heh heh... I knew from the Message Board that you'd snuck in...{8300}{861F}{94A5}Well, not that it matters now if you sneak in or not.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2488BA_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{860F}{94A5}「シズクちゃん・・・」{8300}{861F}{94A5}「今ごろ、どこで何をしているの{8207}かなぁ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Shizuku...{8300}{861F}{94A5}I wonder where you are and what you're doing right now...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2488BA_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2488BA_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2488BA_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2488BA_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{9201}{9300}メッセージボードに\nデンゴンが入っている{8300}{9201}『何者かが本きょ地にシンニュウした！{8201}ケイカイせよ！！』{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}{9300}There's a message on the Message Board.{8300}{9201}\"Someone has broken into headquarters! Stay on alert!!\"{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2488BA_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{9201}{9300}メッセージボードに\nデンゴンが入っている{8300}{9201}『シズクファンクラブ{8201}メンバー大ボシュウ中！！』{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}{9300}There's a message on the Message Board.{8300}{9201}\"Shizuku Fan Club now recruiting members!!\"{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2488BA_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{9201}{9300}メッセージボードに\nデンゴンが入っている{8300}{9201}『シゴト時間中のトランプきんし！！』{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}{9300}There's a message on the Message Board.{8300}{9201}\"No playing cards during work hours!!\"{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2488BA_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{9201}メッセージボードには何も入っていない{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There are no messages on the Message Board.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2488BA_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2488BA_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2488BA_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

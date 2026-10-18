@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おじさん「セイバー本部はダイジョウブなのか？」{8300}{94C8}おじさん「くそっ、気になってしょうがない！{8207}しかし、家ぞくをおいていく{8207}ワケにもいかんし・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Is Saver HQ going to be all right?{8300}{94C8}Man「Dang it, I can't stop worrying! But I can't just leave my family behind, either...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2448AC_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}おばさん「本部が気になるなら行けばいいのに・・・」{8300}{94C8}おばさん「この人なりに私達に気を{8207}つかっているのね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「If he's so worried about HQ, he should just go...{8300}{94C8}Lady「I guess this is his way of looking out for us...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2448AC_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}女の子「お父さん・・・{8207}まさか本部にもどるつもりじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Dad... You're not thinking of going back to HQ, are you...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2448AC_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{9201}メッセージボードに\nメッセージが入っている{8300}『お父さんなんて大キライ！！』{9200}\n{8900}                    {9300}{9201}むすめより{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There's a message on the Message Board.{8300}\"I hate you, Dad!!\"{9200} {8900}{9300}{9201}From your daughter{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2448AC_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2448AC_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2448AC_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2448AC_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2448AC_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2448AC_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

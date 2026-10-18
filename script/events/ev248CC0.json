@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「どうよ、このポスター！！」{8300}{860F}{94A5}「全部の作戦にサンカして{8207}全大陸をさがしまわったすえに{8207}やっと手に入れたんだ！！」{8300}{860F}{94A5}「おかげで今やオレは{8207}ヒーローさ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}How about this poster, huh?!{8300}{860F}{94A5}I joined every single operation and searched every continent, and I finally got my hands on it!!{8300}{860F}{94A5}Thanks to this, I'm a hero now!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{8601}{9497}「あ・・・{9400}！{8207}そこでとおせんぼしている子分は{8207}見たよね！！」{8300}{8610}{9497}「スキ勝手なことばっかり言うから{8207}頭に来たわ！！」{8300}{8611}{9497}「でもアイツラの言う事をきかないと{8207}先にはすすめないんだよね・・・」{8300}{8611}{9497}「多分2Fと3Fのヘヤをしらべれば{8207}見つかるんだろうけど・・・」{8300}{8601}{9497}「敵と戦う回数も多いだろうし・・・{8207}{8833}ドーザー{8800}をわたしておくわ！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Oh... {9400}! You saw that grunt blocking the way, right?!{8300}{8610}{9497}He just says whatever he pleases, it makes me so mad!!{8300}{8611}{9497}But if we don't do what those guys say, we can't go any further...{8300}{8611}{9497}We'll probably find what they want if we search the rooms on 2F and 3F, but...{8300}{8601}{9497}You'll have to fight a lot of enemies too... So I'll give you a {8833}Dozer{8800}!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{8601}{9497}「それじゃあ、わたすわ！{8207}うまく使ってね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Okay then, here you go! Use it well!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{8610}{9497}「ええっ、どうして？{8207}もっと良い物を持っているとか？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}What, why not? Do you have something better or something?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{8601}{9497}「それじゃ、気をつけてね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Well then, be careful!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{860F}{94A5}「どうよ、このポスター！！」{8300}{860F}{94A5}「全部の作戦にサンカして{8207}全大陸をさがしまわったすえに{8207}やっと手に入れたんだ！！」{8300}{860F}{94A5}「おかげで今やオレは{8207}ヒーローさ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}How about this poster, huh?!{8300}{860F}{94A5}I joined every single operation and searched every continent, and I finally got my hands on it!!{8300}{860F}{94A5}Thanks to this, I'm a hero now!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{860F}{94A5}「どうよ、このポスター！！」{8300}{860F}{94A5}「全部の作戦にサンカして{8207}全大陸をさがしまわったすえに{8207}やっと手に入れたんだ！！」{8300}{860F}{94A5}「おかげで今やオレは{8207}ヒーローさ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}How about this poster, huh?!{8300}{860F}{94A5}I joined every single operation and searched every continent, and I finally got my hands on it!!{8300}{860F}{94A5}Thanks to this, I'm a hero now!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{861F}{94A5}「はあ・・・・・・」{8300}{861F}{94A5}「世界が平和になって、このポスターも{8207}かんたんに手に入るように{8207}なっちまった・・・」{8300}{861F}{94A5}「オレのエイコウは{8207}みじかかったな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Sigh......{8300}{861F}{94A5}Now that the world's at peace, anybody can get this poster easily...{8300}{861F}{94A5}My glory sure didn't last long...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{9201}メッセージボードには何も入っていない{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There are no messages on the Message Board.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{9201}{9300}メッセージボードに\nデンゴンが入っている{8300}{9201}『トランプかえせ！！』{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}{9300}There's a message on the Message Board.{8300}{9201}\"Give back the cards!!\"{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{9201}木バコがつみあがっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Wooden crates are stacked up here.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{9201}メッセージボードには何も入っていない{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There are no messages on the Message Board.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8002}{861F}{94A5}「ふぁ～あ{8207}ミハリはたいくつダスなぁ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}*Yaaawn* Standin' guard sure is borin', I tell ya...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8002}{860F}{94A5}「そういえば、手はいしょは見たか？{8207}なんかオレ達にはむかってるガキが{8207}いるらしいぞ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Hey, did you see the wanted poster? Seems there's some brat out there fighting against us!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8002}{860F}{94A5}「ここにいるかぎりオレたちには{8207}カンケーねえっすよ！！」{8300}{860F}{94A5}「そうそう、トランプでもやろうっす{8207}ヒマもつぶせるし、ミハリもできるっす」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}As long as we're in here, it's got nothin' to do with us, dude!!{8300}{860F}{94A5}Oh yeah, let's play cards, dude. We can kill time and still keep watch!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_026",
@@ -220,7 +246,8 @@
     26
    ],
    "jp": "{8002}{860F}{94A5}「それイイね！・・・って{8207}だれがトランプとってくるんだよっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Good idea! ...Wait, who's gonna go get the cards?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_027",
@@ -228,7 +255,8 @@
     27
    ],
    "jp": "{8002}{860F}{94A5}「あ、キミ！{8207}ちょうどいいっす」{8300}{860F}{94A5}「ちょっとたのまれてくれないっすか」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Oh, you there! Perfect timing, dude.{8300}{860F}{94A5}Could you do me a little favor?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_028",
@@ -236,7 +264,8 @@
     28
    ],
    "jp": "{8002}{860F}{94A5}「自分のヘヤにある{8833}タナの中{8800}に{8207}トランプがあるんで持ってきてほしいンす」{8300}{860F}{94A5}「ここから北に行った所にあるヘヤっす{8207}よろしくっす！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}There's a deck of cards {8833}in the shelf{8800} in my room, could you bring it here?{8300}{860F}{94A5}It's the room up north from here. Thanks, dude!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_029",
@@ -244,7 +273,8 @@
     29
    ],
    "jp": "{8002}{860F}{94A5}「どうしたっす？ヘヤわかんないっすか？{8207}{8833}北へまっすぐ行って右手{8800}のヘヤっすよ」{8300}{860F}{94A5}「トランプはそのヘヤにある{8207}{8833}タナの中{8800}っす」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}What's up, dude? Can't find the room? It's the room {8833}straight north, on the right{8800}, dude.{8300}{860F}{94A5}The cards are {8833}in the shelf{8800} in that room.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_030",
@@ -252,7 +282,8 @@
     30
    ],
    "jp": "{8002}{860F}{94A5}「ああ、コレっすコレっす！{8207}あんがとっす」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Ah, that's it, that's it! Thanks, dude!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_031",
@@ -260,7 +291,8 @@
     31
    ],
    "jp": "{8002}{861F}{94A5}「これでヒマはつぶせるダスが{8207}おなかがへってきたダスなぁ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Now we can kill some time, I tell ya, but I'm gettin' kinda hungry...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_032",
@@ -268,7 +300,8 @@
     32
    ],
    "jp": "{8002}{860F}{94A5}「あ！そうだ！{8207}お前んとこリンゴあっただろ！{8207}ハコにこーんないっぱい」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Oh! I know! You've got apples at your place! A whole crate fulla this many!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_033",
@@ -276,7 +309,8 @@
     33
    ],
    "jp": "{8002}{860F}{94A5}「オラのオフクロがおくってくれた{8207}リンゴダスね」{8300}{860F}{94A5}「えーっと・・・{8207}たしか{8833}木ばこの中{8800}に{8207}入れておいたはずダス」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}The apples my ma sent me, ya mean?{8300}{860F}{94A5}Lemme see... I'm pretty sure I put 'em {8833}in a wooden crate{8800}, I tell ya.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_034",
@@ -284,7 +318,8 @@
     34
    ],
    "jp": "{8002}{860F}{94A5}「アンタ、もう一回たのまれてくれるダスか？{8207}2Fのオラのヘヤから{8207}リンゴを持って来てほしいダスよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Could you do me another favor, friend? I'd like you to bring the apples from my room on 2F, I tell ya.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_035",
@@ -292,7 +327,8 @@
     35
    ],
    "jp": "{8002}{860F}{94A5}「オラのヘヤダスか？{8207}{8833}左のエレベーターで2Fに下りてすぐの所{8800}{8207}ダスよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}My room, ya mean? It's {8833}right where you get off the left elevator on 2F{8800}, I tell ya.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_036",
@@ -300,7 +336,8 @@
     36
    ],
    "jp": "{8002}{860F}{94A5}「それダスそれダス！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}That's it, that's it!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_037",
@@ -308,7 +345,8 @@
     37
    ],
    "jp": "{8002}{860F}{94A5}「・・・おいっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}...Hey!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_038",
@@ -316,7 +354,8 @@
     38
    ],
    "jp": "{8002}{860F}{94A5}「なんダス？{8207}早く食べながらトランプであそぶダス」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}What is it? Let's hurry and play cards while we eat, I tell ya.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_039",
@@ -324,7 +363,8 @@
     39
    ],
    "jp": "{8002}{860F}{94A5}「リンゴをきるナイフがねーじゃねぇか！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}There's no knife to cut the apples!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_040",
@@ -332,7 +372,8 @@
     40
    ],
    "jp": "{8002}{860F}{94A5}「そんなのまるかじりすればいいダス」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Just bite right into 'em, I tell ya.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_041",
@@ -340,7 +381,8 @@
     41
    ],
    "jp": "{8002}{860F}{94A5}「手がよごれるじゃねーか！{8207}オレはリンゴのしるでベタベタのトランプ{8207}なんかであそびたくねーぞ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}That'll get my hands dirty! I don't wanna play with cards all sticky with apple juice!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_042",
@@ -348,7 +390,8 @@
     42
    ],
    "jp": "{8002}{860F}{94A5}「意外にこまかいっすね・・・{8207}でもナイフなんかあったっすかね？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}You're kinda fussy, huh, dude... But did we even have a knife?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_043",
@@ -356,7 +399,8 @@
     43
    ],
    "jp": "{8002}{860F}{94A5}「ソウコにあるんじゃねぇか？」{8300}{860F}{94A5}「この前ソウコでリンゴを食った後{8207}{8833}フタのあいている木バコ{8800}にしまって{8207}おいたからな！」{8300}{860F}{94A5}「ちなみにソウコってのは・・・」{8300}{860F}{94A5}「エレベーターで2Fに下りた後{8207}まっすぐ東にすすんだ先にあるハシゴを{8207}上がった所にあるアレだ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Isn't there one in the storeroom?{8300}{860F}{94A5}Last time I ate apples in the storeroom, I put it away in {8833}the wooden crate with the open lid{8800}!{8300}{860F}{94A5}By the way, the storeroom is...{8300}{860F}{94A5}that place up the ladder at the end, after you take the elevator down to 2F and go straight east.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_044",
@@ -364,7 +408,8 @@
     44
    ],
    "jp": "{8002}{860F}{94A5}「おおっ！エライ！{8207}くだものナイフじゃねーか！{8207}ありがとよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Whoa! Nice going! A fruit knife! Thanks a lot!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_045",
@@ -372,7 +417,8 @@
     45
    ],
    "jp": "{8002}{860F}{94A5}「よーっし！{8207}んじゃおちついてオレのヘヤであそぼーぜ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Aaall right! Now let's relax and play in my room!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_046",
@@ -380,7 +426,8 @@
     46
    ],
    "jp": "{8002}{860F}{94A5}「さんせいダス～！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Sounds good, I tell ya~!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_047",
@@ -388,7 +435,8 @@
     47
    ],
    "jp": "{8002}{860F}{94A5}「ウッス！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Yessir!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_048",
@@ -396,7 +444,8 @@
     48
    ],
    "jp": "{8002}{861F}{94A5}「あれ？何かわすれてるような・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Huh? I feel like I'm forgetting something...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_049",
@@ -404,7 +453,8 @@
     49
    ],
    "jp": "{8002}{860F}{94A5}「何やってんだー！ 早く来いよー！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}What're you doing?! Hurry up and get over here!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_050",
@@ -412,7 +462,8 @@
     50
    ],
    "jp": "{8002}{860F}{94A5}「ああっ、今行くダス～！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Aah, I'm comin', I tell ya~!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_051",
@@ -420,7 +471,8 @@
     51
    ],
    "jp": "{8002}{860F}{94A5}「・・・次、オマエのばんだぞ{8207}早くカードひけよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}...Your turn next. Hurry up and draw a card.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_052",
@@ -428,7 +480,8 @@
     52
    ],
    "jp": "{8002}{860F}{94A5}「いいカードがきますように・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Please let me get a good card...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_053",
@@ -436,7 +489,8 @@
     53
    ],
    "jp": "{8002}{861F}{94A5}「ああ・・・ババひいちゃったっす～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Aah... I drew the Old Maid, dude~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_054",
@@ -444,7 +498,8 @@
     54
    ],
    "jp": "{8002}{860F}{94A5}「やっぱり何かわすれてないダスか・・・？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}We really are forgettin' somethin', ain't we...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_055",
@@ -452,7 +507,8 @@
     55
    ],
    "jp": "{8002}{860F}{94A5}「はい！アンタのばんっす！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Here! Your turn, dude!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_056",
@@ -460,7 +516,8 @@
     56
    ],
    "jp": "{8002}{861F}{94A5}「ん？ ああ、ハイハイ・・・{8207}・・・またババダスか・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Hm? Oh, yeah, yeah... ...The Old Maid again, I tell ya...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_057",
@@ -468,7 +525,8 @@
     57
    ],
    "jp": "{8002}{860F}{94A5}「うひゃひゃ！{8207}かんがえごとなんかしてるからだぜ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Wahaha! That's what you get for thinkin' about other stuff!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev248CC0_058",
@@ -476,7 +534,8 @@
     58
    ],
    "jp": "{8002}{861F}{94A5}「・・・って、ババひいちゃったよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}...Aw, I drew the Old Maid...{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

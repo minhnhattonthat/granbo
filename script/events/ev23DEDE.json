@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{9201}センシュようのロッカーだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a locker for the competitors.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23DEDE_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev23DEDE_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{8607}{949D}「やぁ、まっていたよ・・・」{8300}{8607}{949D}「今日こそ、じゅんすいに{8207}勝負だけを楽しもう！！」{8300}{8607}{949D}「{8833}オールスター大会{8800}でまっているよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8607}{949D}Hey, I've been waiting for you...{8300}{8607}{949D}Today, let's enjoy nothing but the match itself!!{8300}{8607}{949D}I'll be waiting at the {8833}All-Star Tournament{8800}...{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

@@ -141,6 +141,9 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- Tournaments: XセイバーX大会 -> "X Saver Tournament", N回戦 -> Round N, 決勝戦 -> the Final, オールスター大会 -> All-Star
+  Tournament; Emcee's アミ～ゴ -> "amiigo" (stretched when the JP stretches). {940A}使い -> {940A} user; 子分の服 -> Grunt
+  outfit; ヘンソウ -> disguise; ニセ物 -> fake; 本タイ -> main force; つるぎ -> sword. DFアップ (no tier) -> DF Up.
 - ヴォルグ -> Volg; HP/AT/SP/ENチップ -> HP/AT/SP/EN Chip; レスキューカプセル -> Rescue Capsule; チリョウしつ ->
   treatment room; 博士 {9405} -> Dr. {9405} (Akari calls Grazie "Professor"); ATカノン中 -> AT Cannon 2; ALLダウン強 -> ALL
   Down 3; 回復マシン -> healing machine; サロン -> salon; Message Board sign-offs: 町内会より -> From the Neighborhood
