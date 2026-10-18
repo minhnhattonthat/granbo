@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}男の子「いらっしゃい！{8207}ボクはここの店長の子だよ！！」{8300}{94C8}男の子「ウチは店は小さいけどサービスは{8207}どこにも負けないよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Welcome! I'm the shopkeeper's kid!!{8300}{94C8}Boy「Our shop may be small, but nobody beats our service!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2275E8_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}男の子「長い間、町にもどれない場合は{8207}アイテムをたくさん持って行った方がいいよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「If you won't be able to come back to town for a long time, you'd better take lots of items with you!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2275E8_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}男の子「グランボバトルで優勝をめざすなら{8207}ウチのアイテムを使うのが{8207}いちばんの近道さ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「If you're aiming to win a Granbo battle tournament, using our items is the fastest way to get there!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2275E8_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2275E8_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2275E8_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2275E8_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev2275E8_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}男の子「キミの{8833}ウォンライ{8800}・・・{8207}ボクの{88BB}ガデム{8800}とコウカンしない？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Your {8833}Wonrai{8800}... Wanna trade it for my {88BB}Gadem{8800}?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev2275E8_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}男の子「ありがとうっ！{8207}それじゃコウカンだねっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Thank you! Then it's a trade!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2275E8_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}男の子「ええ～っ！{8207}{88BB}ガデム{8800}だよ、{88BB}ガデム{8800}？{8207}ホントウにコウカンしないの？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Whaaat! It's a {88BB}Gadem{8800}, a {88BB}Gadem{8800}! You really don't wanna trade?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2275E8_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}男の子「これさえあればどんな敵も{8207}こわくないさ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「With this, I won't be scared of any enemy!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2275E8_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}男の子「・・・{8833}ウォンライ{8800}は{8207}持ってないのかぁ・・・」{8300}{94C8}男の子「{8833}ウォンライ{8800}を手に入れたら{8207}また話しかけて！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「...You don't have a {8833}Wonrai{8800}, huh...{8300}{94C8}Boy「If you get a {8833}Wonrai{8800}, talk to me again!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2275E8_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{94C8}男の子「ありがとうっ！{8207}おれいにキミのグランボを{8207}回復しとくね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Thank you! To say thanks, I'll heal your Granbo for you!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2275E8_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{94C8}店長「いらっしゃいませ！{8207}どのようなごようけんですか？」{9200}\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Manager「Welcome! How may I help you?{9200} {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2275E8_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94C8}店長「ほかに何かございますか？」\n\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Manager「Is there anything else?  {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   }
  ]
 }

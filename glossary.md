@@ -141,6 +141,9 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- ベルドー -> Beldo; ドルッピー -> Doruppy; ラザルス -> Lazarus; スナイパー -> Sniper; ショットガン中 -> Shotgun 2;
+  ウイルスキバ強 -> Virus Fang 3; エラーボム中 -> Error Bomb 2; ALLカノン強 -> ALL Cannon 3; パーフェクトシールド -> Perfect
+  Shield; シールドブレイカー -> Shield Breaker; 犬猿の仲 joke (dog vs monkey) -> "dogs and monkeys really can't get along".
 - チロ -> Chiro (Haruna's dog Granbo, "Woof!"); ウサピー -> Usapi (rabbit pet, "bun!"); 物知りばあさん -> wise old woman;
   cry アゥ -> "Au"; いじょう完全回復 -> Full Status Heal; バルトさま in text -> Boss Baltic.
 - ニャオン -> Meowon (pairs with Woofon); 食べ物ドロボウ -> Food Thief; cry ウオ -> "Woh"; {940D} = Haruna.

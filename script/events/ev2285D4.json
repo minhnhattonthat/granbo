@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860B}{94A1}「よくきたね、{9400}君！{8207}キミのカツヤクはこのセイバー本部でも{8207}ヒョウバンだよ」{8300}{860B}{94A1}「まぁ、ゆっくりしていってくれ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860B}{94A1}Good to see you, {9400}! Your exploits are the talk of Saver HQ, too.{8300}{860B}{94A1}Well, make yourself at home.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{860B}{94A1}「くそっ{8207}すぐ近くの町がおそわれていることに{8207}気づかなかったとは・・・」{8300}{860B}{94A1}「セイバー本部長として{8207}なさけないとしか言いようがない・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860B}{94A1}Blast it... To think I didn't notice a town so close by was under attack...{8300}{860B}{94A1}As Chief of Saver HQ, I can only call it shameful...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{860B}{94A1}「私はキミ達の力を信じる・・・」{8300}{860B}{94A1}「かならず無事に帰ってきてくれ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860B}{94A1}I believe in your strength...{8300}{860B}{94A1}Please, come back safe, no matter what!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{860B}{94A1}「{9400}君{8207}キミならいつかはセイバー本部長に{8207}なれるかも知れないな」{8300}{860B}{94A1}「キタイしているよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860B}{94A1}{9400}, you might become Chief of Saver HQ someday.{8300}{860B}{94A1}I have high hopes for you.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{9201}大きなモニターだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a big monitor.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{9201}大きなモニターだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a big monitor.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{861B}{94A1}「バミューダめ・・・」{8300}{861B}{94A1}「なんとかしてヤツを止めなければ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861B}{94A1}Bermuda...{8300}{861B}{94A1}Somehow, we have to stop him...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{8601}{9497}「スカイシャークとキョウリョクか・・・」{8300}{8601}{9497}「なんだかフクザツだね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Teaming up with Sky Shark, huh...{8300}{8601}{9497}It feels kinda complicated.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{8602}{9498}「なんだか変な気分だけど・・・」{8300}{8602}{9498}「やっぱりスカイシャークの力をかりた{8207}方がいいのかな～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}It feels kinda weird, but...{8300}{8602}{9498}I guess we'd better borrow Sky Shark's strength after all, y'know~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{860B}{94A1}「君達ならやれるはずだ！{8207}私はそう信じているよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860B}{94A1}You kids can do it! I truly believe that!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{860C}{94A2}「{9400}君{8207}くれぐれもムリはしないようにね」{8300}{860C}{94A2}「あぶないと思った時はひきかえす事も{8207}時にはヒツヨウよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860C}{94A2}{9400}, please don't push yourself too hard.{8300}{860C}{94A2}When things look dangerous, sometimes turning back is necessary too.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8001}{9201}{9400}達はセイバー本部へ向かった{8400}{8100}",
-   "en": ""
+   "en": "{8001}{9201}{9400} and friends headed for Saver HQ.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{861B}{94A1}「{9400}君{8207}気持ちはわかるがおちつきたまえ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861B}{94A1}{9400}, I understand how you feel, but calm down...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{8602}{9498}「シンパイかけたんだな～{8207}でも、もうダイジョウブなんだな～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Sorry I made you worry~ But I'm all right now, y'know~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{8601}{9497}「さぁ、{9403}をさがしに行きましょう！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Come on, let's go look for {9403}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{8602}{9498}「でも・・・ドコをさがすんだな？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}But... where do we look, huh?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{860B}{94A1}「その事なんだが・・・」{8300}{860B}{94A1}「じつは{9403}君の{8207}いる場所がわかったんだ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860B}{94A1}About that...{8300}{860B}{94A1}The truth is, we've found out where {9403} is.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{860B}{94A1}「モニターの前にあつまってくれたまえ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860B}{94A1}Gather in front of the monitor, please.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{860B}{94A1}「グランボセイバーが持っている{8207}データパッドからは、ごく弱い物だが{8207}シンゴウがハッシンされているんだ」{8300}{860B}{94A1}「もちろん、シズク君の{8207}データパッドもね・・・」{8300}{860B}{94A1}「私達はそれをキャッチする事に成功した！{8207}それを元にわりだした場所が{8207}・・・ここだ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860B}{94A1}The Data Pads that Granbo Savers carry send out a signal, a very weak one.{8300}{860B}{94A1}Shizuku's Data Pad included, of course...{8300}{860B}{94A1}We managed to pick it up! And the location we worked out from it is... here!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{8610}{9497}「{8855}マッドアクア{8800}・・・！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}{8855}Mud Aqua{8800}...!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8002}{860B}{94A1}「その通り！{8207}入口がキョダイなたきにかくれていて{8207}今までわからなかったんだ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860B}{94A1}Exactly! The entrance was hidden behind a giant waterfall, so no one knew about it until now...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8002}{860B}{94A1}「これでは見つからないワケだ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860B}{94A1}No wonder nobody could find it...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8002}{8610}{9497}「どうしてもっと早く{8207}おしえてくれなかったのよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}Why didn't you tell us sooner?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8002}{860B}{94A1}「・・・キミたちのことだ{8207}もしきけばケガがなおらないうちに{8207}シュッパツしてしまっただろうからね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860B}{94A1}...Knowing you kids, if you'd heard, you'd have set off before your injuries had healed.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8002}{8602}{9498}「そうだったのか～{8207}でも、もうダイジョウブなんだな！{8207}{9403}ちゃんを助けにいくんだな！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}So that's why~ But I'm all right now, y'know! We're gonna go rescue {9403}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8002}{861B}{94A1}「・・・{8207}私達も助けに行きたいのだが・・・」{8300}{861B}{94A1}「ボロボロになったセイバーブタイも{8207}立てなおさなくてはならんのだ・・・{8207}本当にすまない・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861B}{94A1}... We'd like to go help too, but...{8300}{861B}{94A1}we have to rebuild the Saver forces, which are in tatters... I'm truly sorry...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_026",
@@ -220,7 +246,8 @@
     26
    ],
    "jp": "{8002}{8610}{9497}「気にしなくてもいいよ！{8207}スカイシャークは{9400}とアタシ達が{8207}たおしてみせるわ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}Don't worry about it! {9400} and the rest of us will take down Sky Shark, just watch!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_027",
@@ -228,7 +255,8 @@
     27
    ],
    "jp": "{8002}{8602}{9498}「そして{9403}ちゃんをすくい出すんだな！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}And then we'll rescue {9403}, y'know!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_028",
@@ -236,7 +264,8 @@
     28
    ],
    "jp": "{8002}{860B}{94A1}「・・・そうか！{8207}今となってはキミ達だけがたよりだ{8207}みんな・・・たのんだぞ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860B}{94A1}...I see! Now you kids are our only hope. Everyone... I'm counting on you!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_029",
@@ -244,7 +273,8 @@
     29
    ],
    "jp": "{8002}{8601}{9497}「そうと決まったらゼンは急げ！{8207}スカイポートに行きましょう！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Then there's no time like the present! Let's go to the Skyport!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_030",
@@ -252,7 +282,8 @@
     30
    ],
    "jp": "{8002}{9201}今はまだ作戦カイギ中だ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A strategy meeting is still underway.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_031",
@@ -260,7 +291,8 @@
     31
    ],
    "jp": "{8000}{9201}{9400}達は、セイバー本部にもどった{8400}{8100}",
-   "en": ""
+   "en": "{8000}{9201}{9400} and friends returned to Saver HQ.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_032",
@@ -268,7 +300,8 @@
     32
    ],
    "jp": "{8000}{861B}{94A1}「そうか・・・{8207}やっかいなことになったな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{861B}{94A1}I see... This has turned into a real mess...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_033",
@@ -276,7 +309,8 @@
     33
    ],
    "jp": "{8000}{8611}{9497}「バミューダ・・・アイツ、この世界を{8207}何もない最初のジョウタイにもどすって{8207}言ってたけど・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8611}{9497}Bermuda... that guy said he'd put this world back the way it was at the very start, with nothing in it, but...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_034",
@@ -284,7 +318,8 @@
     34
    ],
    "jp": "{8000}{8612}{9498}「それってつまり{8207}この世界をほろぼすってことだよね～」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8612}{9498}So that means he's gonna destroy this world, right~?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_035",
@@ -292,7 +327,8 @@
     35
    ],
    "jp": "{8000}{861B}{94A1}「おそらく{8207}そういうことだろうな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{861B}{94A1}Most likely... that's what it means...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_036",
@@ -300,7 +336,8 @@
     36
    ],
    "jp": "{8000}{861B}{94A1}「最近、強力なグランボが{8207}世界のあちこちであばれまわっていてな」{8300}{861B}{94A1}「この{8833}フレイマー{8800}いがいの大陸の人々は{8207}まだワールドチェンジタワーの事を{8207}知らないが・・・」{8300}{861B}{94A1}「もしこの事を知ればパニックに{8207}なるのはまちがいないだろう」{8300}{861B}{94A1}「いっこくも早くバミューダをたおすヒツヨウが{8207}あるのだが、セイバーはほとんどがグランボの{8207}タイサクにおわれている」{8300}{861B}{94A1}「おかげで今、ワールドチェンジタワーに{8207}向かわせる事のできるセイバーが{8207}いないアリサマだ・・・」{8300}{861B}{94A1}「おそらくはヤツ{8207}バミューダのしわざだろう」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{861B}{94A1}Lately, powerful Granbo have been running wild all over the world.{8300}{861B}{94A1}People on continents other than {8833}Flamer{8800} don't know about the World Change Tower yet...{8300}{861B}{94A1}but if they found out, there'd be a panic, no doubt about it.{8300}{861B}{94A1}We need to defeat Bermuda as soon as possible, but most of the Savers are busy dealing with the Granbo.{8300}{861B}{94A1}Because of that, right now we don't have a single Saver we can send to the World Change Tower...{8300}{861B}{94A1}Most likely, that's his doing... Bermuda's.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_037",
@@ -308,7 +345,8 @@
     37
    ],
    "jp": "{8000}{8611}{9497}「そ、そんなぁ！！」{8300}{8611}{9497}「じゃあ、アタシ達だけで{8207}アイツと戦えって言うの！？」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8611}{9497}Wh-what?!{8300}{8611}{9497}So you're saying we have to fight him all by ourselves?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_038",
@@ -316,7 +354,8 @@
     38
    ],
    "jp": "{8000}{8612}{9498}「そんなのムチャだよ～」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8612}{9498}That's way too reckless~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_039",
@@ -324,7 +363,8 @@
     39
    ],
    "jp": "{8000}{861B}{94A1}「ムチャはしょうちの上だ・・・」{8300}{861B}{94A1}「しかし今、私達としては{8207}キミ達にキタイするいがいにないのだ」{8300}{861B}{94A1}「たのむ{8207}ワールドチェンジタワーに向かってくれ」{8300}{861B}{94A1}「そして、バミューダを{8207}たおしてくれ！！」\n{8D00}{8100}",
-   "en": ""
+   "en": "{8000}{861B}{94A1}I know full well it's reckless...{8300}{861B}{94A1}But right now, all we can do is put our hopes in you.{8300}{861B}{94A1}Please. Head to the World Change Tower.{8300}{861B}{94A1}And defeat Bermuda!!{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_040",
@@ -332,7 +372,8 @@
     40
    ],
    "jp": "{8000}{8602}{9498}「やっぱりそうだよね～」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8602}{9498}I knew it~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_041",
@@ -340,7 +381,8 @@
     41
    ],
    "jp": "{8000}{8610}{9497}「アタシ達だけで行くなんて{8207}ムリに決まってるわ！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8610}{9497}Going by ourselves? No way, that's impossible!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_042",
@@ -348,7 +390,8 @@
     42
    ],
    "jp": "{8000}{860B}{94A1}「すまない・・・」{8300}{860B}{94A1}「いくらなんでも{8207}ムリなチュウモンだったな・・・」{8300}{860B}{94A1}「ただ、今この世界を{8207}すくえるのはキミ達だけだ」{8300}{860B}{94A1}「・・・その事は{8207}わすれないでほしい」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{860B}{94A1}I'm sorry...{8300}{860B}{94A1}That was simply too much to ask...{8300}{860B}{94A1}But right now, you kids are the only ones who can save this world.{8300}{860B}{94A1}...Please don't forget that.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_043",
@@ -356,7 +399,8 @@
     43
    ],
    "jp": "{8002}{860B}{94A1}「もう一度たのむ・・・」{8300}{861B}{94A1}「ワールドチェンジタワーにのりこみ{8207}バミューダをたおしてくれ！」\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{860B}{94A1}I'll ask once more...{8300}{861B}{94A1}Storm the World Change Tower and defeat Bermuda!{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_044",
@@ -364,7 +408,8 @@
     44
    ],
    "jp": "{8000}{860B}{94A1}「そうか！行ってくれるか！！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{860B}{94A1}I see! So you'll go!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev2285D4_045",

@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}元セイバー「今の本部長はなかなか{8207}よくがんばっておる！！」{8300}{94C8}元セイバー「これまでスカイシャークを{8207}この大陸に近づけんかったからな！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「The current Chief is doing a mighty fine job!!{8300}{94C8}Ex-Saver「He's kept Sky Shark from getting anywhere near this continent so far!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}大人セイバー「この町は大陸でイチバン新しい町なんだ！{8207}見た目も他の町とはちがうだろう？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「This town is the newest on the continent! It looks different from the other towns, doesn't it?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}大人セイバー「広場のすぐ上が{8207}グランボセイバー本部よ！」{8300}{94C8}大人セイバー「あそこによばれると{8207}キンチョウするのよね～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Granbo Saver HQ is just above the plaza!{8300}{94C8}Saver「Getting called up there makes me so nervous~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}少女セイバー「グランボセイバー本部のあるこの町が{8207}スカイシャークにおそわれたら{8207}シャレにならないからね・・・」{8300}{94C8}少女セイバー「アタシ達が気合いを入れて{8207}守らなきゃ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「If Sky Shark attacked this town, home of Granbo Saver HQ, it'd be no joke...{8300}{94C8}Gal Saver「We've gotta get fired up and protect it!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}元セイバー「北の町がスカイシャークに{8207}おそわれたじゃと？」{8300}{94C8}元セイバー「グランボセイバー本部のあるこの大陸で{8207}スカイシャークのカツドウをゆるすとは！」{8300}{94C8}元セイバー「まったくもってなさけない！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「Sky Shark attacked the town to the north, you say?{8300}{94C8}Ex-Saver「To let Sky Shark run around on the very continent that's home to Granbo Saver HQ!{8300}{94C8}Ex-Saver「How utterly shameful!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}大人セイバー「くそっ、スカイシャークめ！」{8300}{94C8}大人セイバー「しかし、最新のセツビをととのえた{8207}この町には手は出せないはずさ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Blast you, Sky Shark!{8300}{94C8}Saver「But they can't lay a finger on this town, not with all its state-of-the-art equipment!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}大人セイバー「広場のすぐ上が{8207}グランボセイバー本部よ！」{8300}{94C8}大人セイバー「セイバー本部では北の町のジケンを{8207}どうかんがえているのかしら？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Granbo Saver HQ is just above the plaza!{8300}{94C8}Saver「I wonder what Saver HQ makes of the incident in the northern town?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}少女セイバー「グランボセイバー本部のあるこの町まで{8207}スカイシャークにおそわれたら{8207}シャレにならないからね・・・」{8300}{94C8}少女セイバー「アタシ達が気合いを入れて{8207}守らなきゃ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「If Sky Shark attacked even this town, home of Granbo Saver HQ, it'd be no joke...{8300}{94C8}Gal Saver「We've gotta get fired up and protect it!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}元セイバー「キミ達にはすまんと思っている・・・」{8300}{94C8}元セイバー「だが、今のキミ達の力ならかならず{8207}スカイシャークのキャプテンも{8207}たおせるはずじゃ！！」{8300}{94C8}元セイバー「がんばってくれ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「I'm sorry to put this on you kids...{8300}{94C8}Ex-Saver「But with the strength you have now, you're sure to defeat Sky Shark's Captain too!!{8300}{94C8}Ex-Saver「Give it your all!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}大人セイバー「たのむぞ！キミ達は私達のキボウのホシだ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「We're counting on you! You kids are our star of hope!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}大人セイバー「私達のみらい・・・」{8300}{94C8}大人セイバー「あなた達にあずけるわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Our future...{8300}{94C8}Saver「We're leaving it in your hands!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}少女セイバー「私達もこれからスカイシャークに{8207}おそわれた町をまわるわ・・・」{8300}{94C8}少女セイバー「あなた達もがんばってね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「We're going to make the rounds of the towns Sky Shark attacked...{8300}{94C8}Gal Saver「You do your best too!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{94C8}元セイバー「次のセイバー本部長は{9400}君で{8207}決まりじゃろう！！」{8300}{94C8}元セイバー「本部長もきっとそう{8207}かんがえておるはずじゃ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「The next Chief of Saver HQ is sure to be {9400}!!{8300}{94C8}Ex-Saver「I bet the Chief thinks so too!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{94C8}大人セイバー「{8833}町の東{8800}に見なれないドウクツの入口が{8207}トツゼンあらわれてね・・・」{8300}{94C8}大人セイバー「しかも、まわりが{8833}水にかこまれた{8800}時しか{8207}出てこないのでみんなとまどっているよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「A strange cave entrance suddenly appeared {8833}east of town{8800}...{8300}{94C8}Saver「What's more, it only shows up when it's {8833}surrounded by water{8800}, so everyone's puzzled.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94C8}大人セイバー「私達のみらい・・・」{8300}{94C8}大人セイバー「守ってくれてありがとう！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Our future...{8300}{94C8}Saver「Thank you for protecting it!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{94C8}少女セイバー「最近出てきたドウクツ・・・{8207}ところどころにアナがあいていて・・・」{8300}{94C8}少女セイバー「そこから下をのぞくとたくさんの{8207}たからばこが見えるらしいわ」{8300}{94C8}少女セイバー「でもみんなおりるのがこわくて{8207}とりに行けないんだって！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「That cave that showed up recently... it has holes here and there...{8300}{94C8}Gal Saver「They say if you peek down through them, you can see lots of treasure chests.{8300}{94C8}Gal Saver「But everyone's too scared to climb down, so nobody can go get them!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{9201}グランボセイバーの作戦カイギ用ディスプレイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a display for Granbo Saver strategy meetings.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{9201}グランボを使った戦いのシミュレーターだ\n向かい合わせにすわって対戦するらしい{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a simulator for battles using Granbo. It looks like you sit facing each other to play.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev227A36_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{94C8}元セイバー「本部長も思いきったケツダンを{8207}したものじゃ・・・」{8300}{94C8}元セイバー「しかしワシは本部長のかんがえは{8207}まちがっておらんと信じておる！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「The Chief sure made a bold decision...{8300}{94C8}Ex-Saver「But I believe the Chief's thinking is right!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8002}{94C8}大人セイバー「たのむぞ！キミ達は私達のキボウのホシだ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「We're counting on you! You kids are our star of hope!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8002}{94C8}大人セイバー「私達のみらい・・・」{8300}{94C8}大人セイバー「あなた達にあずけるわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Our future...{8300}{94C8}Saver「We're leaving it in your hands!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev227A36_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8002}{94C8}少女セイバー「あなたが負けた時が{8207}この世界が終わる時・・・」{8300}{94C8}少女セイバー「その事をわすれないでね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「The moment you lose is the moment this world ends...{8300}{94C8}Gal Saver「Don't you forget that!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }
