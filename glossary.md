@@ -141,6 +141,12 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- Move families: ストップオンパ -> Stop Wave (オンパ -> Wave); ATノイズ.. -> AT/DF/SP/ALL Noise N; ATバブル.. -> AT/DF/SP/ALL
+  Bubble N; ALLアップ -> ALL Up N; 全ATアップ -> Team AT Up N. Description words: カイオンパ -> odd waves; 敵 -> foe,
+  敵全体 -> all foes; 味方1体 -> 1 ally; 味方全体 -> all allies; 大きく下げる -> lowers a lot; かなり大きく -> a whole lot;
+  かなり下げる -> sharply lowers; おおきくあげる -> greatly raises.
+- にくマン -> meat bun; アンマン -> steamed bun; ホウダイ -> cannon; 木ばこバリケード -> crate barricade; ムボウ -> folly;
+  はっけんしたしゅるい -> Types found; Data Pad menu descriptions sentence case ("Learn moves"), labels title case.
 - ボートン -> Boton; サラブ -> Sarab; はせい -> variant (noun) / branch-evolve (verb); 対戦相手 -> opponent ("foe" in tight
   fields); かける (wager a Data Ball) -> bet; はめる (Data Ball into a slot) -> set; ルールせってい -> Rules;
   アイテムの使用 -> Item Use; プレゼントアイテム -> Gift Item.

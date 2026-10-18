@@ -37,6 +37,7 @@ def padded(jp):
 
 
 BOX_PX = {"r290000": 216}  # credits / Data Pad help: whole width
+NAME_FIELD_PX = 84  # guess until the battle move list is measured on screen (docs/status.md)
 MSG_BOX = {"t1A1568", "t098F4C", "t1A952C"}  # battle message window: event-box geometry (fit.first_x / line_x)
 
 
@@ -64,6 +65,8 @@ def limits(jp, group=None):
     Screen QA catches the fields that are tighter."""
     if group in MSG_BOX:
         return box_limits(jp)
+    if group == "t290574" and len(lines(jp)) == 1 and len(fit.TOKEN.findall(jp)) <= 10 and " " not in jp:
+        return [NAME_FIELD_PX]  # item/move/Granbo names: list fields (skills menu ~110 px before the cost column)
     out = []
     for l in lines(jp):
         px = 8 * len(fit.TOKEN.findall(l))
