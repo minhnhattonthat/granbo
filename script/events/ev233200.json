@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「ええっと・・・あそこのドアは{8207}バミューダさまとオレ達いがい{8207}とおしちゃダメなんだったな・・・」{8300}{860F}{94A5}「よーするに、オレ達と{8207}ちがう服をきてるヤツはとおさなきゃ{8207}いいんだろ？」{8300}{860F}{94A5}「楽なシゴトだぜ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Umm... nobody but Boss Bermuda and us is allowed through that door over there...{8300}{860F}{94A5}So basically, I just don't let through anybody wearing different clothes from us, right?{8300}{860F}{94A5}What an easy job!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev233200_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{861F}{94A5}「どうでもいいけど・・・{8207}ロッカーの中のあの服・・・いいかげん{8207}だれかあらってくれねーかな？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Not that it matters, but... that outfit in the locker... I wish somebody would wash it already.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev233200_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{9201}子分用のロッカーだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a locker for Grunts.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev233200_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev233200_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev233200_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev233200_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev233200_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev233200_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

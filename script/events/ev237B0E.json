@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{861F}{94A5}「オ、オマエはオレのヘンソウを{8207}見やぶった子ども！{8207}な、なんで中に入れたんだ！？」{8300}{861F}{94A5}「何？カギがあいてた？{8207}・・・しまった・・・{8207}カギをかけわすれてたぁ～～～！！」{8300}{861F}{94A5}「今度はさっきみたいにはいかねぇぞ！{8207}まさか逃げるとは言わないよな！」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Y-you're the kid who saw through my disguise! H-how did you get in here?!{8300}{861F}{94A5}What? The door was unlocked? ...Oh no... I forgot to lock it~~~!!{8300}{861F}{94A5}It won't go like last time! You're not gonna tell me you're running away, are you?!{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev237B0E_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{861F}{94A5}「え？・・・ホントに逃げないの？」{8300}{861F}{94A5}「オレけっこうパワーアップしたと・・・思うよ？{8207}それでも逃げないの？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Huh?... You're really not running?{8300}{861F}{94A5}I think I powered up quite a bit... y'know? You're still not running?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev237B0E_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{861F}{94A5}「くそっ、しかたねぇ！{8207}やってやろうじゃねぇかっ！{8207}うらああああ～～～っ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Dang it, fine! I'll show you! Raaaaahhh~~~!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev237B0E_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{861F}{94A5}「なんで、もどってくるの・・・{8207}せっかく見逃してあげたのに・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Why'd you come back... I went to the trouble of letting you go...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev237B0E_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{861F}{94A5}「・・・もしかして、オレをからかってない？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}...Are you making fun of me?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev237B0E_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{861F}{94A5}「い、一度ならず二度までもぉ～っ！{8207}もうこんなセイカツいや～～～っ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}N-not once, but twice~! I can't take this life anymore~~~!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

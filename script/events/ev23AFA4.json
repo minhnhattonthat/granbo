@@ -13,7 +13,8 @@
     0
    ],
    "jp": "{8002}{94C8}かかりいん「バトルスタジアムへようこそ！」{8300}{94C8}かかりいん「ここでは{940A}バトルに{8207}サンカする事ができます！」{8300}{94C8}かかりいん「げんざいジュンビ中ですので{8207}またおこし下さい！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「Welcome to the Battle Stadium!{8300}{94C8}Staff「Here you can take part in {940A} battles!{8300}{94C8}Staff「We're still getting ready, so please come again!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_001",
@@ -21,7 +22,8 @@
     1
    ],
    "jp": "{8002}{9201}カウンターにはだれもいない{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There's nobody at the counter.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_002",
@@ -29,7 +31,8 @@
     2
    ],
    "jp": "{8002}{9201}{9300}向こうがわからカギがかかってるみたいだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}{9300}Looks like it's locked from the other side.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_003",
@@ -37,7 +40,8 @@
     3
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_004",
@@ -45,7 +49,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_005",
@@ -53,7 +58,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_006",
@@ -61,7 +67,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_007",
@@ -69,7 +76,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_008",
@@ -77,7 +85,8 @@
     8
    ],
    "jp": "{8002}{94C8}うけつけ「グランボバトル大会にサンカしますか？」\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Desk「Will you enter a Granbo battle tournament?{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_009",
@@ -85,7 +94,8 @@
     9
    ],
    "jp": "{8002}{94C8}うけつけ「それでは、{8207}出場のジュンビをしてください」{8300}{94C8}うけつけ「ジュンビができましたら{8207}入口前にたっております{8207}かかりいんにおつたえください」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Desk「Then please get ready to compete.{8300}{94C8}Desk「When you're ready, tell the staff member standing by the entrance.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_010",
@@ -93,7 +103,8 @@
     10
    ],
    "jp": "{8002}{94C8}うけつけ「がんばってくださいね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Desk「Good luck!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_011",
@@ -101,7 +112,8 @@
     11
    ],
    "jp": "{8002}{94C8}かかりいん「大会にサンカされるなら{8207}うけつけでとうろくをおねがいします」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「If you'd like to enter a tournament, please register at the front desk.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_012",
@@ -109,7 +121,8 @@
     12
    ],
    "jp": "{8002}{94C8}かかりいん「ジュンビはよろしいですか？」\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「Are you ready?{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_013",
@@ -117,7 +130,8 @@
     13
    ],
    "jp": "{8002}{94C8}かかりいん「それではがんばってください」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「Then good luck!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_014",
@@ -125,7 +139,8 @@
     14
    ],
    "jp": "{8002}{94C8}かかりいん「サンカせんしゅの入口は上のトビラです」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「The competitors' entrance is the door at the top.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_015",
@@ -133,7 +148,8 @@
     15
    ],
    "jp": "{8001}{94C8}しかいしゃ「ヘイ！ヘイ！ヘイ～～～ッ！！！{8207}ジュンビはいいかい？アミ～～～ゴッ！！！」{8300}{94C8}しかいしゃ「オ～イェッ！！！{8207}OK、ベイベ～～～ッ！！！」{8300}{94C8}しかいしゃ「それじゃぁHPとENを回復しておくぜっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Hey! Hey! Heeeey!! You ready? Amiiiigo!!{8300}{94C8}Emcee「Oh yeah!! OK, baaaby!!{8300}{94C8}Emcee「Now I'll restore your HP and EN!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_016",
@@ -141,7 +157,8 @@
     16
    ],
    "jp": "{8001}{94C8}しかいしゃ「用意はできたぜっ！アミ～～～ゴッ！」{8300}{94C8}しかいしゃ「それじゃあ2人とも、がんばってくれよ{8207}アミ～～～～～～ゴォォォッ！！！」{8300}{94C8}しかいしゃ「レディ～～～～ッ{8207}ゴォォォォォォォォォォォッッッ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「All set, amiiiigo!{8300}{94C8}Emcee「Now, both of you, give it your all! Amiiiiiigooooo!!{8300}{94C8}Emcee「Reaaaady... Goooooooooooo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_017",
@@ -149,7 +166,8 @@
     17
    ],
    "jp": "{8001}{94C8}しかいしゃ「ヘイヘイ、アミ～ゴッ！{8207}なかなかやるじゃないか？」{8300}{94C8}しかいしゃ「次のバトルもそのちょうしでたのむぜっ！{8207}アミ～ゴッ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Hey hey, amiigo! Not bad at all, huh?{8300}{94C8}Emcee「Keep it up like that in the next battle! Amiigo!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_018",
@@ -157,7 +175,8 @@
     18
    ],
    "jp": "{8001}{94C8}しかいしゃ「サンキュ～、アミ～ゴッ！{8207}手にアセをにぎっちまったぜ！！！」{8300}{94C8}しかいしゃ「次もがんばってくれよ！{8207}アミ～ゴッ！！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Thank you, amiigo! You had my palms sweating!!{8300}{94C8}Emcee「Give it your all next time too! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_019",
@@ -165,7 +184,8 @@
     19
    ],
    "jp": "{8001}{94C8}しかいしゃ「すばらしぃぜっ！アミ～ゴッ！！！{8207}ナイスなバトルだったぜ！！」{8300}{94C8}しかいしゃ「次もキタイしてるぜっ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Fantastic, amiigo!! What a nice battle!!{8300}{94C8}Emcee「Can't wait for the next one!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_020",
@@ -173,7 +193,8 @@
     20
    ],
    "jp": "{8001}{94C8}しかいしゃ「・・・・・・・・・」{8300}{94C8}しかいしゃ「おっとぉっ！！！{8207}あまりのはげしいバトルに{8207}ことばをわすれてたぜ、アミ～ゴッ！！！」{8300}{94C8}しかいしゃ「次もあついバトルをたのむぜっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「.........{8300}{94C8}Emcee「Whoa!! That battle was so fierce, I forgot how to talk, amiigo!!{8300}{94C8}Emcee「Bring me another hot battle next time!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_021",
@@ -181,7 +202,8 @@
     21
    ],
    "jp": "{8001}{94C8}しかいしゃ「わ～～～～～～おっ！！！{8207}アミ～ゴ、アミ～ゴ、アミ～～～ゴッ！」{8300}{94C8}しかいしゃ「次もやってくれよ{8207}アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Wooooooow!! Amiigo, amiigo, amiiiigo!{8300}{94C8}Emcee「Do it again next time, amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_022",
@@ -189,7 +211,8 @@
     22
    ],
    "jp": "{8001}{94C8}しかいしゃ「アミ～ゴッ！！！{8207}いっしゅんたりとも目がはなせない{8207}1戦だったぜ！！！」{8300}{94C8}しかいしゃ「次のバトルもそのちょうしでたのむぜっ！{8207}アミ～ゴッ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Amiigo!! That was a match I couldn't take my eyes off for even a second!!{8300}{94C8}Emcee「Keep it up like that in the next battle! Amiigo!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_023",
@@ -197,7 +220,8 @@
     23
    ],
    "jp": "{8001}{94C8}しかいしゃ「オ～マイ、ガッ！！！{8207}最後まで勝敗がわからなかったぜ{8207}アミ～ゴッ！！！」{8300}{94C8}しかいしゃ「次もホットなバトルを{8207}きたいしてるぜっ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Oh my gosh!! No telling who'd win right up to the end, amiigo!!{8300}{94C8}Emcee「I'm expecting another hot battle next time!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_024",
@@ -205,7 +229,8 @@
     24
    ],
    "jp": "{8001}{94C8}しかいしゃ「パワ～、アンド、パワ～～～～ッ！！！」{8300}{94C8}しかいしゃ「もう、たまんないぜ{8207}アミ～～～ゴォォォォッ！！！」{8300}{94C8}しかいしゃ「次もやってくれよ{8207}アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Power, and powerrrr!!{8300}{94C8}Emcee「I just can't take it, amiiiigoooo!!{8300}{94C8}Emcee「Do it again next time, amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_025",
@@ -213,7 +238,8 @@
     25
    ],
    "jp": "{8001}{94C8}しかいしゃ「ノ、ノ、ノ、ノ、ノ・・・{8207}がっかりだぜ、アミ～ゴ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「No, no, no, no, no... What a letdown, amiigo...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_026",
@@ -221,7 +247,8 @@
     26
    ],
    "jp": "{8001}{94C8}しかいしゃ「ヘイヘイヘイ！{8207}みんなおちこんじゃいけないぜ！！！」{8300}{94C8}しかいしゃ「次はがんばってくれよ！{8207}アミ～ゴッ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Hey hey hey! No moping, everybody!!{8300}{94C8}Emcee「Do your best next time! Amiigo!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_027",
@@ -229,7 +256,8 @@
     27
    ],
    "jp": "{8001}{94C8}しかいしゃ「オ～イェッ！！！」{8300}{94C8}しかいしゃ「もっとシュギョウしてから{8207}帰ってきてくれよ、アミ～ゴッ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Oh yeah!!{8300}{94C8}Emcee「Go train some more and come back, amiigo!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_028",
@@ -237,7 +265,8 @@
     28
    ],
    "jp": "{8001}{94C8}しかいしゃ「ヘイヘイヘイ！！！」{8300}{94C8}しかいしゃ「負けたアミ～ゴに{8207}用はないぜっ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Hey hey hey!!{8300}{94C8}Emcee「I've got no use for an amiigo who loses!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_029",
@@ -245,7 +274,8 @@
     29
    ],
    "jp": "{8001}{94C8}しかいしゃ「アミ～ゴ、アミ～ゴ、アミ～ゴッ！」{8300}{94C8}しかいしゃ「元気出してくれよ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Amiigo, amiigo, amiigo!{8300}{94C8}Emcee「Cheer up!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_030",
@@ -253,7 +283,8 @@
     30
    ],
    "jp": "{8001}{94C8}しかいしゃ「・・・・・・・・・」{8300}{94C8}しかいしゃ「さ、次のジュンビがいそがしいぜ{8207}アミ～ゴッ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「.........{8300}{94C8}Emcee「Well, I'm busy getting ready for the next one, amiigo!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_031",
@@ -261,7 +292,8 @@
     31
    ],
    "jp": "{8001}{94C8}しかいしゃ「お帰りは向こうだぜ{8207}アミ～ゴ？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「The way out's over there, amiigo?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_032",
@@ -269,7 +301,8 @@
     32
    ],
    "jp": "{8001}{94C8}しかいしゃ「ヘイヘイヘイ・・・{8207}フェイスでもウォッシュして{8207}出なおしてくれよ、アミ～ゴッ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Hey hey hey... Go wash your face and come back fresh, amiigo!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_033",
@@ -277,7 +310,8 @@
     33
    ],
    "jp": "{8001}{94C8}しかいしゃ「ヘイッ！アミ～ゴ達っ！！！」{8300}{94C8}しかいしゃ「ノノノノノ！！！」{8300}{94C8}しかいしゃ「あんまりさわぎすぎると{8207}ちっそくしちまうぜっ！！！」{8300}{94C8}しかいしゃ「それじゃぁ、はっぴょうするぜっ！{8207}アミ～～～ッゴ？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Hey! Amiigos!!{8300}{94C8}Emcee「No no no no no!!{8300}{94C8}Emcee「Make too much noise and you'll run out of air!!{8300}{94C8}Emcee「Now then, time for the big announcement! Amiiigo?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_034",
@@ -285,7 +319,8 @@
     34
    ],
    "jp": "{8001}{94C8}しかいしゃ「優勝は{8207}オレ達の心のアミ～ゴッ！！！{8207}{9400}だぜっ！！！」{8300}{94C8}しかいしゃ「それじゃぁ、優勝しょうひんの{8207}ぞうていしきだぜっ！{8207}アミ～～～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「The winner is the amiigo of our hearts!! {9400}!!{8300}{94C8}Emcee「Now it's time to present the prize! Amiiiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_035",
@@ -293,7 +328,8 @@
     35
    ],
    "jp": "{8001}{94C8}しかいしゃ「それじゃぁ、アミ～ゴ達っ！！！」{8300}{94C8}しかいしゃ「強敵をうちやぶり{8207}見事ショウリした{9400}と{8207}彼の{940A}達にブラボォ～～～ッ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Well then, amiigos!!{8300}{94C8}Emcee「He beat tough rivals and won in style! Bravooo to {9400} and his {940A}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_036",
@@ -301,7 +337,8 @@
     36
    ],
    "jp": "{8001}{94C8}しかいしゃ「ヒヨッコセイバー大会{8207}1回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Chick Saver Tournament, Round 1! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_037",
@@ -309,7 +346,8 @@
     37
    ],
    "jp": "{8001}{94C8}しかいしゃ「ヒヨッコセイバー大会{8207}決勝戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Chick Saver Tournament, the Final! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_038",
@@ -317,7 +355,8 @@
     38
    ],
    "jp": "{8001}{94C8}しかいしゃ「カケダシセイバー大会{8207}1回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Rookie Saver Tournament, Round 1! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_039",
@@ -325,7 +364,8 @@
     39
    ],
    "jp": "{8001}{94C8}しかいしゃ「カケダシセイバー大会{8207}決勝戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Rookie Saver Tournament, the Final! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_040",
@@ -333,7 +373,8 @@
     40
    ],
    "jp": "{8001}{94C8}しかいしゃ「シロウトセイバー大会{8207}1回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Amateur Saver Tournament, Round 1! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_041",
@@ -341,7 +382,8 @@
     41
    ],
    "jp": "{8001}{94C8}しかいしゃ「シロウトセイバー大会{8207}決勝戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Amateur Saver Tournament, the Final! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_042",
@@ -349,7 +391,8 @@
     42
    ],
    "jp": "{8001}{94C8}しかいしゃ「クロウトセイバー大会{8207}1回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Pro Saver Tournament, Round 1! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_043",
@@ -357,7 +400,8 @@
     43
    ],
    "jp": "{8001}{94C8}しかいしゃ「クロウトセイバー大会{8207}2回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Pro Saver Tournament, Round 2! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_044",
@@ -365,7 +409,8 @@
     44
    ],
    "jp": "{8001}{94C8}しかいしゃ「クロウトセイバー大会{8207}決勝戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Pro Saver Tournament, the Final! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_045",
@@ -373,7 +418,8 @@
     45
    ],
    "jp": "{8001}{94C8}しかいしゃ「ミツボシセイバー大会{8207}1回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Three-Star Saver Tournament, Round 1! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_046",
@@ -381,7 +427,8 @@
     46
    ],
    "jp": "{8001}{94C8}しかいしゃ「ミツボシセイバー大会{8207}2回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Three-Star Saver Tournament, Round 2! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_047",
@@ -389,7 +436,8 @@
     47
    ],
    "jp": "{8001}{94C8}しかいしゃ「ミツボシセイバー大会{8207}3回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Three-Star Saver Tournament, Round 3! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_048",
@@ -397,7 +445,8 @@
     48
    ],
    "jp": "{8001}{94C8}しかいしゃ「ミツボシセイバー大会{8207}決勝戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Three-Star Saver Tournament, the Final! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_049",
@@ -405,7 +454,8 @@
     49
    ],
    "jp": "{8001}{94C8}しかいしゃ「ベテランセイバー大会{8207}1回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Veteran Saver Tournament, Round 1! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_050",
@@ -413,7 +463,8 @@
     50
    ],
    "jp": "{8001}{94C8}しかいしゃ「ベテランセイバー大会{8207}2回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Veteran Saver Tournament, Round 2! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_051",
@@ -421,7 +472,8 @@
     51
    ],
    "jp": "{8001}{94C8}しかいしゃ「ベテランセイバー大会{8207}3回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Veteran Saver Tournament, Round 3! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_052",
@@ -429,7 +481,8 @@
     52
    ],
    "jp": "{8001}{94C8}しかいしゃ「ベテランセイバー大会{8207}決勝戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Veteran Saver Tournament, the Final! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_053",
@@ -437,7 +490,8 @@
     53
    ],
    "jp": "{8001}{94C8}しかいしゃ「マスターセイバー大会{8207}1回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Master Saver Tournament, Round 1! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_054",
@@ -445,7 +499,8 @@
     54
    ],
    "jp": "{8001}{94C8}しかいしゃ「マスターセイバー大会{8207}2回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Master Saver Tournament, Round 2! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_055",
@@ -453,7 +508,8 @@
     55
    ],
    "jp": "{8001}{94C8}しかいしゃ「マスターセイバー大会{8207}3回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Master Saver Tournament, Round 3! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_056",
@@ -461,7 +517,8 @@
     56
    ],
    "jp": "{8001}{94C8}しかいしゃ「マスターセイバー大会{8207}決勝戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Master Saver Tournament, the Final! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_057",
@@ -469,7 +526,8 @@
     57
    ],
    "jp": "{8001}{94C8}しかいしゃ「スーパーセイバー大会{8207}1回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Super Saver Tournament, Round 1! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_058",
@@ -477,7 +535,8 @@
     58
    ],
    "jp": "{8001}{94C8}しかいしゃ「スーパーセイバー大会{8207}2回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Super Saver Tournament, Round 2! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_059",
@@ -485,7 +544,8 @@
     59
    ],
    "jp": "{8001}{94C8}しかいしゃ「スーパーセイバー大会{8207}3回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Super Saver Tournament, Round 3! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_060",
@@ -493,7 +553,8 @@
     60
    ],
    "jp": "{8001}{94C8}しかいしゃ「スーパーセイバー大会{8207}4回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Super Saver Tournament, Round 4! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_061",
@@ -501,7 +562,8 @@
     61
    ],
    "jp": "{8001}{94C8}しかいしゃ「スーパーセイバー大会{8207}決勝戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Super Saver Tournament, the Final! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_062",
@@ -509,7 +571,8 @@
     62
    ],
    "jp": "{8001}{94C8}しかいしゃ「ウルトラセイバー大会{8207}1回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Ultra Saver Tournament, Round 1! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_063",
@@ -517,7 +580,8 @@
     63
    ],
    "jp": "{8001}{94C8}しかいしゃ「ウルトラセイバー大会{8207}2回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Ultra Saver Tournament, Round 2! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_064",
@@ -525,7 +589,8 @@
     64
    ],
    "jp": "{8001}{94C8}しかいしゃ「ウルトラセイバー大会{8207}3回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Ultra Saver Tournament, Round 3! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_065",
@@ -533,7 +598,8 @@
     65
    ],
    "jp": "{8001}{94C8}しかいしゃ「ウルトラセイバー大会{8207}4回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Ultra Saver Tournament, Round 4! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_066",
@@ -541,7 +607,8 @@
     66
    ],
    "jp": "{8001}{94C8}しかいしゃ「ウルトラセイバー大会{8207}決勝戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「Ultra Saver Tournament, the Final! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_067",
@@ -549,7 +616,8 @@
     67
    ],
    "jp": "{8001}{94C8}しかいしゃ「キングセイバー大会{8207}1回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「King Saver Tournament, Round 1! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_068",
@@ -557,7 +625,8 @@
     68
    ],
    "jp": "{8001}{94C8}しかいしゃ「キングセイバー大会{8207}2回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「King Saver Tournament, Round 2! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_069",
@@ -565,7 +634,8 @@
     69
    ],
    "jp": "{8001}{94C8}しかいしゃ「キングセイバー大会{8207}3回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「King Saver Tournament, Round 3! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_070",
@@ -573,7 +643,8 @@
     70
    ],
    "jp": "{8001}{94C8}しかいしゃ「キングセイバー大会{8207}4回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「King Saver Tournament, Round 4! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_071",
@@ -581,7 +652,8 @@
     71
    ],
    "jp": "{8001}{94C8}しかいしゃ「キングセイバー大会{8207}決勝戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「King Saver Tournament, the Final! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_072",
@@ -589,7 +661,8 @@
     72
    ],
    "jp": "{8001}{94C8}しかいしゃ「ゴッドセイバー大会{8207}1回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「God Saver Tournament, Round 1! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_073",
@@ -597,7 +670,8 @@
     73
    ],
    "jp": "{8001}{94C8}しかいしゃ「ゴッドセイバー大会{8207}2回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「God Saver Tournament, Round 2! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_074",
@@ -605,7 +679,8 @@
     74
    ],
    "jp": "{8001}{94C8}しかいしゃ「ゴッドセイバー大会{8207}3回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「God Saver Tournament, Round 3! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_075",
@@ -613,7 +688,8 @@
     75
    ],
    "jp": "{8001}{94C8}しかいしゃ「ゴッドセイバー大会{8207}4回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「God Saver Tournament, Round 4! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_076",
@@ -621,7 +697,8 @@
     76
    ],
    "jp": "{8001}{94C8}しかいしゃ「ゴッドセイバー大会{8207}5回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「God Saver Tournament, Round 5! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_077",
@@ -629,7 +706,8 @@
     77
    ],
    "jp": "{8001}{94C8}しかいしゃ「ゴッドセイバー大会{8207}決勝戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「God Saver Tournament, the Final! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_078",
@@ -637,7 +715,8 @@
     78
    ],
    "jp": "{8001}{94C8}しかいしゃ「オールスター大会{8207}1回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「All-Star Tournament, Round 1! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_079",
@@ -645,7 +724,8 @@
     79
    ],
    "jp": "{8001}{94C8}しかいしゃ「オールスター大会{8207}2回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「All-Star Tournament, Round 2! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_080",
@@ -653,7 +733,8 @@
     80
    ],
    "jp": "{8001}{94C8}しかいしゃ「オールスター大会{8207}3回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「All-Star Tournament, Round 3! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_081",
@@ -661,7 +742,8 @@
     81
    ],
    "jp": "{8001}{94C8}しかいしゃ「オールスター大会{8207}4回戦だぜ！アミ～ゴッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Emcee「All-Star Tournament, Round 4! Amiigo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev23AFA4_082",

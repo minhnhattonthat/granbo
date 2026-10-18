@@ -141,6 +141,11 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- ヴォルグ -> Volg; HP/AT/SP/ENチップ -> HP/AT/SP/EN Chip; レスキューカプセル -> Rescue Capsule; チリョウしつ ->
+  treatment room; 博士 {9405} -> Dr. {9405} (Akari calls Grazie "Professor"); ATカノン中 -> AT Cannon 2; ALLダウン強 -> ALL
+  Down 3; 回復マシン -> healing machine; サロン -> salon; Message Board sign-offs: 町内会より -> From the Neighborhood
+  Association, むすめより -> From your daughter. OPEN for review: who Grazie is (a scientist, Dr. {9405}, apparently a
+  father; ev225624_081 and ev232210_016 read serious, not "moi") - check every Grazie line in one pass.
 - ウォンライ -> Wonrai; 研究シセツ -> research facility; セイバーブタイ -> Saver forces; グランボセイバー本部 -> Granbo
   Saver HQ; セイバー本部長 -> Chief of Saver HQ. (Review: ev225624_081 is labelled Grazie but reads as a father.)
 - ベルドー -> Beldo; ドルッピー -> Doruppy; ラザルス -> Lazarus; スナイパー -> Sniper; ショットガン中 -> Shotgun 2;

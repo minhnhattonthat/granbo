@@ -12,7 +12,8 @@
     0
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{9201}にっくきスカイシャークの{9406}だ！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's that hateful Sky Shark {9406}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{860F}{94A5}「あっ！お前はスカイシャークの{8207}ブラックリストにのっている{9400}！」{8300}{860F}{94A5}「ここはゼッタイにとおさんぞ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Ah! You're {9400}, the one on Sky Shark's blacklist!{8300}{860F}{94A5}There's no way I'm letting you through here!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8002}{860F}{94A5}「おぅっ！！{8207}もうコウタイの時間か・・・」{8300}{860F}{94A5}「じゃあオレはもどらせてもらうぜ！」{8300}{861F}{94A5}「・・・そういや、つるぎをさす場所を{8207}まちがえないようにしねえと・・・」{8300}{860F}{94A5}「たしか、つるぎを{8833}さか立ちして見る{8800}と{8207}さす場所がわかるんだったな」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Oh!! Is it shift change already...?{8300}{860F}{94A5}Then I'll be heading back!{8300}{861F}{94A5}...Come to think of it, I'd better not put the sword in the wrong spot...{8300}{860F}{94A5}Right, if you {8833}look at the sword while standing on your head{8800}, you can tell where it goes.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8002}{9201}子分の服はもうヒツヨウないからぬごう{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}You don't need the Grunt outfit anymore, so you take it off.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev232FC2_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8002}{9201}カギがかかっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's locked.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }
