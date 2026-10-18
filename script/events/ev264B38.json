@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8001}{860A}{949F}「どうやって・・・{8207}あのバリアをとっぱした・・・！？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860A}{949F}How... did you break through that barrier...?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8001}{860A}{949F}「そうか！バルトだな・・・」{8300}{860A}{949F}「スカイシャークにいる時から{8207}フユカイなヤツだとは思っていたが・・・」{8300}{861A}{949F}「最後の最後まで我のジャマを{8207}するとは・・・！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860A}{949F}I see! It was Baltic...{8300}{860A}{949F}I always thought him an unpleasant fellow, even back in the Sky Shark...{8300}{861A}{949F}To get in my way to the very last...!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8000}{8610}{9497}「あなたのジャマをする人間は{8207}他にもいるわよっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8610}{9497}He's not the only one who'll get in your way!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8000}{8602}{9498}「オイラ達の事をわすれてもらっちゃ{8207}こまるんだな～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8602}{9498}Don't you go forgetting about us, y'know~!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8001}{8601}{9497}「おまたせ！{9400}！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8601}{9497}Sorry to keep you waiting, {9400}!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8001}{8602}{9498}「なんとか間にあったんだな～」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}We made it just in time, y'know~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8001}{8610}{9497}「いよいよおいつめたわよっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8610}{9497}We've finally got you cornered!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8001}{8602}{9498}「お前の悪事もここまでなんだな～」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}Your evil deeds end here, y'know~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8001}{860A}{949F}「ハーーーハッハッハッハ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860A}{949F}Haaaa ha ha ha ha!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8001}{8610}{9497}「何がおかしいのよっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8610}{9497}What's so funny?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8001}{860A}{949F}「悪事だと・・・何も知らない{8207}子どもはこれだからこまる・・・」{8300}{860A}{949F}「お前達はなぜこの世界にグランボが{8207}いるのか知っているか？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860A}{949F}Evil deeds, you say... This is the trouble with children who know nothing...{8300}{860A}{949F}Do you know why there are Granbo in this world?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8001}{8612}{9498}「し、知らないんだな～」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8612}{9498}I-I don't know, y'know~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8001}{860A}{949F}「ではなぜグランドチェンジタワーなどと{8207}いうものがあるのか知っているか？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860A}{949F}Then do you know why there is such a thing as a Grand Change Tower?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8001}{8610}{9497}「し、知らないわよっ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8610}{9497}I-I don't know!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8001}{860A}{949F}「何も知らないブンザイでは{8207}我のイダイな使命がりかいできないのも{8207}ムリはないな！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860A}{949F}It's no wonder the likes of you, who know nothing, cannot comprehend my great mission!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8001}{860A}{949F}「良かろう！」{8300}{860A}{949F}「この世界にかくされたヒミツ・・・{8207}今このバミューダがお前達に{8207}おしえてやる！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860A}{949F}Very well!{8300}{860A}{949F}The secret hidden in this world... I, Bermuda, shall now reveal it to you!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8001}{8610}{9497}「シズクは？{8207}やっぱりカンケイないじゃない！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8610}{9497}What about Shizuku? So she has nothing to do with this after all!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8001}{860A}{949F}「あいにく、ワールドチェンジタワーは{8207}この我とそこにいるシズクの2人が{8207}そろわないと動かせないのだよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860A}{949F}Unfortunately, the World Change Tower cannot be operated unless the two of us, myself and Shizuku over there, are both present!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8000}{8612}{9498}「ど、どういう事なんだな？」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8612}{9498}Wh-what do you mean by that?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8001}{860A}{949F}「博士はそうとうシンチョウなセイカク{8207}だったようでな・・・」{8300}{860A}{949F}「タワーの入口を開き、ソウチを使える{8207}ジョウタイにできるのは{8207}彼のしそんだけなのだ」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860A}{949F}It seems the Doctor was an extremely cautious man...{8300}{860A}{949F}Only his descendants can open the tower's entrance and make its device ready for use.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8000}{8611}{9497}「そ、それって・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8611}{9497}Th-that means...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8001}{860A}{949F}「そう・・・ワールドチェンジタワーを作った{8207}博士のただ一人のしそん・・・」{8300}{860A}{949F}「それが彼女、シズクなのだよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860A}{949F}Yes... the one and only descendant of the Doctor who built the World Change Tower...{8300}{860A}{949F}That is she... Shizuku!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8001}{8612}{9498}「そ、そんな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8612}{9498}N-no way...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8000}{8610}{9497}「でも、どうして今ワールドチェンジを{8207}しなければならないのよ！」{8300}{8610}{9497}「世界はあれはててはいないわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8610}{9497}But why does there have to be a World Change now?!{8300}{8610}{9497}The world isn't in ruins!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8001}{860A}{949F}「たしかに今はそうかも知れない・・・」{8300}{860A}{949F}「だが、我は気づいてしまったのだよ！{8207}今はあれていなくても、この世界が{8207}ショウライふたたびあれてしまう事に！」{8300}{860A}{949F}「・・・そのゲンインがこの世界に{8207}あるかぎりな！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860A}{949F}Perhaps that is true for now...{8300}{860A}{949F}But I have realized it! Even if it is not in ruins now, this world will fall to ruin again someday!{8300}{860A}{949F}...So long as the cause remains in this world!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8001}{8612}{9498}「それってまさか・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8612}{9498}You don't mean...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_026",
@@ -220,7 +246,8 @@
     26
    ],
    "jp": "{8001}{860A}{949F}「そう、人間がこの世界にいるかぎり{8207}いつか世界はあれてしまう！」{8300}{860A}{949F}「ならば我のやるべきことはただ一つ！」{8300}{860A}{949F}「この世界をリセットし、人間をこの世から{8207}けしさる事だ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860A}{949F}Yes. As long as humans remain in this world, it will fall to ruin someday!{8300}{860A}{949F}Then there is only one thing I must do!{8300}{860A}{949F}Reset this world and wipe humans from the face of it!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_027",
@@ -228,7 +255,8 @@
     27
    ],
    "jp": "{8001}{8610}{9497}「シズクのそせんは・・・{8207}博士はそんな事をさせるために{8207}あなたを作ったんじゃないわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8610}{9497}Shizuku's ancestor... The Doctor didn't create you so you could do something like that!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_028",
@@ -236,7 +264,8 @@
     28
    ],
    "jp": "{8001}{860A}{949F}「まぁ、しかし・・・それもムダなドリョク{8207}だったというワケだ・・・」{8300}{860A}{949F}「我がお前達の足元にあるキドウそうちの{8207}上にたてば、タワーはほんかく的に{8207}動き出すのだからな！！」{8300}{860A}{949F}「そうすればこの世界にある{8207}全ての物はきえさり・・・」{8300}{860A}{949F}「そして新しいレキシが始まる！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860A}{949F}Well, in any case... it seems that was all wasted effort...{8300}{860A}{949F}Once I stand on the activation device at your feet, the tower will begin operating in earnest!!{8300}{860A}{949F}Then everything in this world will vanish...{8300}{860A}{949F}And a new history will begin!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_029",
@@ -244,7 +273,8 @@
     29
    ],
    "jp": "{8001}{861A}{949F}「さぁ、そこをどけっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{861A}{949F}Now, out of my way!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_030",
@@ -252,7 +282,8 @@
     30
    ],
    "jp": "{8001}{8610}{9497}「ジョウダン言わないで！{8207}一歩も引かないわよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8610}{9497}Don't make me laugh! We won't back down a single step!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_031",
@@ -260,7 +291,8 @@
     31
    ],
    "jp": "{8001}{8602}{9498}「そうなんだな！{8207}ここは何がなんでも守ってみせるんだな！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}That's right! We'll protect this spot no matter what, y'know!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_032",
@@ -268,7 +300,8 @@
     32
    ],
    "jp": "{8001}{861A}{949F}「くくく、あくまでテイコウするつもりか？」{8300}{861A}{949F}「いいだろう！まずはお前達から{8207}けしさってやる！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{861A}{949F}Kukuku, so you intend to resist to the bitter end?{8300}{861A}{949F}Very well! I shall wipe you out first!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_033",
@@ -276,7 +309,8 @@
     33
    ],
    "jp": "{8001}{861A}{949F}「おろかな・・・この世界をすくえるのは{8207}我ただ一人だと言うのに・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{861A}{949F}Fools... when I alone can save this world...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_034",
@@ -284,7 +318,8 @@
     34
    ],
    "jp": "{8001}{8610}{9497}「なめないでよ！{8207}アンタなんかの力をかりなくても{8207}この世界は私達が守れるんだから！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8610}{9497}Don't underestimate us! We can protect this world without borrowing the power of someone like you!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_035",
@@ -292,7 +327,8 @@
     35
    ],
    "jp": "{8001}{8602}{9498}「そ、そうなんだな～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8602}{9498}Th-that's right, y'know~!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_036",
@@ -300,7 +336,8 @@
     36
    ],
    "jp": "{8001}{861A}{949F}「ふん・・・ザンネンだが、そうは行かん！{8207}コントロールを失ったこのタワーは{8207}まもなくホウカイするのだからな！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{861A}{949F}Hmph... Unfortunately, it won't be that simple! This tower has lost control, and it will soon collapse!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_037",

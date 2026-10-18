@@ -13,7 +13,8 @@
     3
    ],
    "jp": "{8001}{860F}{94A5}「ウワサはきいているぜ{8207}お前が{9400}だな・・・」{8300}{860F}{94A5}「ここだけは何がなんでも{8207}グランドチェンジさせるわけには{8207}いかん！！」{8300}{860F}{94A5}「子分の意地を見せてやるぜ！{8207}かかってきな！！」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}I've heard the rumors... So you're {9400}...{8300}{860F}{94A5}This is one place I won't let get Grand Changed, no matter what!!{8300}{860F}{94A5}I'll show you a Grunt's guts! Come and get me!!{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev25C240_001",
@@ -21,7 +22,8 @@
     1
    ],
    "jp": "{8001}{861F}{94A5}「ここまで来るだけの事はあるな・・・」{8300}{860F}{94A5}「だが、これだけはおぼえておけ！{8207}本きょ地の中はお前がかんがえている{8207}イジョウに大変な所だ！」{8300}{860F}{94A5}「帰るなら今のうちだぞ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{861F}{94A5}Guess you didn't make it this far for nothing...{8300}{860F}{94A5}But remember this! Inside headquarters is way tougher than you think!{8300}{860F}{94A5}If you're going home, now's your chance!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev25C240_002",
@@ -29,7 +31,8 @@
     2
    ],
    "jp": "{8001}{860F}{94A5}「なんだ、かかってこねえのか・・・{8207}オレにおそれをなしたようだな！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}What, you're not gonna fight me...? Guess you're scared of me!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

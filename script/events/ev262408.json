@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}システム「バリアシステム・オフ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}System「Barrier System: OFF{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev262408_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}システム「バリアシステム作動中」{8300}{94C8}システム「バリアシステムをオフにしますか？」\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}System「Barrier System active.{8300}{94C8}System「Turn off the Barrier System?{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev262408_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}システム「バリアシステム、パワーダウン開始・・・」{8300}{94C8}システム「パワー90パーセント・・・」{8300}{94C8}システム「・・・80パーセント・・・」{8300}{94C8}システム「・・・70パーセント・・・」{8300}{94C8}システム「パワー50パーセントで{8207}アンテイしています」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}System「Barrier System power-down initiated...{8300}{94C8}System「Power at 90 percent...{8300}{94C8}System「...80 percent...{8300}{94C8}System「...70 percent...{8300}{94C8}System「Power stable at 50 percent.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev262408_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}システム「バリアシステム作動中」{8300}{94C8}システム「バリアシステムをオフにしますか？」\n\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}System「Barrier System active.{8300}{94C8}System「Turn off the Barrier System?{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev262408_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}システム「バリアシステム、パワーダウン開始・・・」{8300}{94C8}システム「パワー40パーセント・・・」{8300}{94C8}システム「・・・30パーセント・・・」{8300}{94C8}システム「・・・28パーセント・・・」{8300}{94C8}システム「・・・27パーセント・・・」{8300}{94C8}システム「・・・26。5パーセント・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}System「Barrier System power-down initiated...{8300}{94C8}System「Power at 40 percent...{8300}{94C8}System「...30 percent...{8300}{94C8}System「...28 percent...{8300}{94C8}System「...27 percent...{8300}{94C8}System「...26.5 percent...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev262408_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}システム「ケイコク、{8207}バリアシステムのソウサがロックされました」{8300}{94C8}システム「これイジョウ、パワーを下げられません」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}System「WARNING: Barrier System controls have been locked.{8300}{94C8}System「Power cannot be lowered any further.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev262408_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}システム「これイジョウ、パワーを下げられません」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}System「Power cannot be lowered any further.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev262408_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}システム「バリアシステム・・・エラー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}System「Barrier System... ERROR{8400}{8100}",
+   "status": "translated"
   }
  ]
 }
