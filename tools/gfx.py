@@ -75,6 +75,9 @@ def patch(r):
             r.put(at, data, f"title tile {t:#x}")
     for off, text in LABELS:
         r.put(off, label(r.orig[off:off + 0x200], text), f"battle label {text}")
+    top, bottom = linking(r.orig)
+    r.put(LINKING_TOP, top, "linking label")
+    r.put(LINKING_BOTTOM, bottom, "linking label")
     # the game's 8x8 small font (0x08310C58, 512 glyphs, 256+ blank): punctuation the English font put at 0x1F0+
     import engine  # noqa: E402 (engine imports the assembler; gfx is otherwise standalone)
     for ch, code in EN_CODES_HIGH.items():
@@ -103,6 +106,17 @@ ELEMENTS = [
     ["...2222...", "..222.....", ".222......", ".22.......", ".22.......", ".22.......", ".222......",
      "..222.....", "...2222...", ".........."],
 ]
+
+
+LINKING_TOP, LINKING_BOTTOM = ELEM_TOP + 0x200 + 10 * 32, ELEM_TOP + 0x600 + 10 * 32  # 通信中: 3 tiles each
+
+
+def linking(rom):
+    """The link-cable 通信中 label (24x16, white 7 on 1) as "Linking": (top 3 tiles, bottom 3 tiles)."""
+    px = [[1] * 24 for _ in range(16)]
+    draw(px, "Linking", 0, 4, 7)
+    top, bottom = sprite_bytes(px[:8], 3, 1), sprite_bytes(px[8:], 3, 1)
+    return top, bottom
 
 
 def element_icon(rom, art):
