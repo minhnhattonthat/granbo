@@ -141,6 +141,11 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- ニャオン -> Meowon (pairs with Woofon); 食べ物ドロボウ -> Food Thief; cry ウオ -> "Woh"; {940D} = Haruna.
+- Player gender: the JP writes the player as a boy (マゴ "grandson", ボウヤ, 少年, 男なら). Follow the JP where a line says
+  so (ボウヤ -> "little boy"); otherwise neutral wording is fine.
+- ちずのかけら -> Map Fragment; ロウヤのカギ -> jail key; かいひレーダー -> Evade Radar; a label written inside the text
+  ("オーナーの娘「") -> "Owner's Daughter: ..."; leftover dev names (さゆり, りゅう) -> the character actually meant.
 - 北の研究所 -> Northern Lab; アジト -> hideout; 本きょ地 -> headquarters; カンシ室 -> Monitor Room; Kansai-dialect
   grunt -> casual "Whaddaya" voice; クラッシュボム -> Crash Bomb; レーザードリル -> Laser Drill; ボウガイデンパ -> jamming
   signals; ロウヤ -> jail; フウイン -> seal; {9408}さま -> Boss {9408}.

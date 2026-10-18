@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}元セイバー「おヌシのカツヤクはきいておるぞ！」{8300}{94C8}元セイバー「じゃが今の所スカイシャークに{8207}動きはないようじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「I've heard all about your exploits!{8300}{94C8}Ex-Saver「But for now, Sky Shark doesn't seem to be making any moves...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}大人セイバー「スカイシャーク？{8207}・・・いや、子分一人見かけてないが」{8300}{94C8}大人セイバー「それより今はあの花目当てに{8207}あつまるならず者の方が{8207}モンダイだよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Sky Shark? ...Nah, I haven't seen a single Grunt.{8300}{94C8}Saver「More of a problem right now are the thugs gathering here after that flower...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}大人セイバー「あっ！{9400}君！！{8207}{8833}ボルカニア{8800}では大カツヤクだったそうね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Oh! {9400}! I hear you did great things in {8833}Volcania{8800}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}少年セイバー「う～ん・・・オレ、{88BB}闇{8800}ゾクセイの{8207}グランボがニガテなんだよね・・・」{8300}{94C8}少年セイバー「あの色をしていると{8207}何だか強そうに見えるんだよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Hmm... I'm no good against {88BB}Dark{8800}-element Granbo...{8300}{94C8}Kid Saver「With that color, they just look kinda strong.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}少女セイバー「あの花を使って{8207}世界の平和をねがえば・・・」{8300}{94C8}少女セイバー「私達グランボセイバーがいなくても{8207}世界の平和は守られるのかもね」{8300}{94C8}少女セイバー「でもそれって何だか{8207}つまらなくない？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「If people used that flower to wish for world peace...{8300}{94C8}Gal Saver「maybe the world would stay at peace even without us Granbo Savers.{8300}{94C8}Gal Saver「But wouldn't that be kinda boring?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{8603}{9499}「スカイシャークは{8207}今の所動きを見せていないそうです・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}I hear Sky Shark isn't showing any signs of moving for now...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{8602}{9498}「この町には『{8833}食べ物ドロボウ{8800}』が{8207}いるらしいんだ！ゆるせないんだな！」{8300}{8602}{9498}「作ってくれた人の気持ちを{8207}ふみにじるコウドウなんだな！！」{8300}{8602}{9498}「{9400}くん！『{8833}食べ物ドロボウ{8800}』を{8207}つかまえようよ～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}They say there's a \"{8833}Food Thief{8800}\" in this town! That's unforgivable, y'know!{8300}{8602}{9498}It tramples on the feelings of the people who made the food, y'know!!{8300}{8602}{9498}{9400}! Let's catch the \"{8833}Food Thief{8800}\"~!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}元セイバー「おヌシのカツヤクはきいておるぞ！」{8300}{94C8}元セイバー「じゃが今の所スカイシャークに{8207}動きはないようじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「I've heard all about your exploits!{8300}{94C8}Ex-Saver「But for now, Sky Shark doesn't seem to be making any moves...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}大人セイバー「スカイシャーク？{8207}・・・いや、子分一人見かけてないが」{8300}{94C8}大人セイバー「それより今はあの花目当てに{8207}あつまるならず者の方が{8207}モンダイだよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Sky Shark? ...Nah, I haven't seen a single Grunt.{8300}{94C8}Saver「More of a problem right now are the thugs gathering here after that flower...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}大人セイバー「あっ！{9400}君！！{8207}{8833}ボルカニア{8800}では大カツヤクだったそうね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Oh! {9400}! I hear you did great things in {8833}Volcania{8800}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}少年セイバー「う～ん・・・オレ、{88BB}闇{8800}ゾクセイの{8207}グランボがニガテなんだよね・・・」{8300}{94C8}少年セイバー「あの色をしていると{8207}何だか強そうに見えるんだよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Hmm... I'm no good against {88BB}Dark{8800}-element Granbo...{8300}{94C8}Kid Saver「With that color, they just look kinda strong.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}少女セイバー「あの花を使って{8207}世界の平和をねがえば・・・」{8300}{94C8}少女セイバー「私達グランボセイバーがいなくても{8207}世界の平和は守られるのかもね」{8300}{94C8}少女セイバー「でもそれって何だか{8207}つまらなくない？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「If people used that flower to wish for world peace...{8300}{94C8}Gal Saver「maybe the world would stay at peace even without us Granbo Savers.{8300}{94C8}Gal Saver「But wouldn't that be kinda boring?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{8603}{9499}「『{8833}食べ物ドロボウ{8800}』・・・ですか？」{8300}{8603}{9499}「スカイシャークとカンケイがあるとは{8207}思えませんが、ネンのためにしらべてみた{8207}方がいいかも知れませんね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}A \"{8833}Food Thief{8800}\"...?{8300}{8603}{9499}I doubt it has anything to do with Sky Shark, but it might be best to look into it just in case...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{8602}{9498}「この町には『{8833}食べ物ドロボウ{8800}』が{8207}いるらしいんだ！ゆるせないんだな！」{8300}{8602}{9498}「作ってくれた人の気持ちを{8207}ふみにじるコウドウなんだな！！」{8300}{8602}{9498}「{9400}くん！『{8833}食べ物ドロボウ{8800}』を{8207}つかまえようよ～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}They say there's a \"{8833}Food Thief{8800}\" in this town! That's unforgivable, y'know!{8300}{8602}{9498}It tramples on the feelings of the people who made the food, y'know!!{8300}{8602}{9498}{9400}! Let's catch the \"{8833}Food Thief{8800}\"~!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94C8}元セイバー「おヌシのカツヤクはきいておるぞ！」{8300}{94C8}元セイバー「じゃが今の所スカイシャークに{8207}動きはないようじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「I've heard all about your exploits!{8300}{94C8}Ex-Saver「But for now, Sky Shark doesn't seem to be making any moves...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{94C8}大人セイバー「スカイシャーク？{8207}・・・いや、子分一人見かけてないが」{8300}{94C8}大人セイバー「それより今はあの花目当てに{8207}あつまるならず者の方が{8207}モンダイだよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Sky Shark? ...Nah, I haven't seen a single Grunt.{8300}{94C8}Saver「More of a problem right now are the thugs gathering here after that flower...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{94C8}大人セイバー「あっ！{9400}君！！{8207}{8833}ボルカニア{8800}では大カツヤクだったそうね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Oh! {9400}! I hear you did great things in {8833}Volcania{8800}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{94C8}少年セイバー「う～ん・・・オレ、{88BB}闇{8800}ゾクセイの{8207}グランボがニガテなんだよね・・・」{8300}{94C8}少年セイバー「あの色をしていると{8207}何だか強そうに見えるんだよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Hmm... I'm no good against {88BB}Dark{8800}-element Granbo...{8300}{94C8}Kid Saver「With that color, they just look kinda strong.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{94C8}少女セイバー「あの花を使って{8207}世界の平和をねがえば・・・」{8300}{94C8}少女セイバー「私達グランボセイバーがいなくても{8207}世界の平和は守られるのかもね」{8300}{94C8}少女セイバー「でもそれって何だか{8207}つまらなくない？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「If people used that flower to wish for world peace...{8300}{94C8}Gal Saver「maybe the world would stay at peace even without us Granbo Savers.{8300}{94C8}Gal Saver「But wouldn't that be kinda boring?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{94C8}元セイバー「グランドチェンジタワーを守っていたのは{8207}『{88BB}ガデム{8800}』というグランボだったのか・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「So the Granbo guarding the Grand Change Tower was one called \"{88BB}Gadem{8800}\"...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8002}{94C8}大人セイバー「バルトがドリームフラワーを！？」{8300}{94C8}大人セイバー「くそっ！ヤツらにドリームフラワーが{8207}わたるとヤッカイだぞ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Baltic took a Dream Flower?!{8300}{94C8}Saver「Dang! If that lot get their hands on a Dream Flower, it'll be big trouble!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8002}{94C8}大人セイバー「バルトは西に向かったのね？{8207}その先にはたしか山があったけど・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Baltic headed west? I'm pretty sure there was a mountain out that way...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8002}{94C8}少年セイバー「『{88BB}ガデム{8800}』か・・・{8207}話をきいただけでも強そうだね・・・」{8300}{94C8}少年セイバー「ああっ、やっぱり{88BB}闇{8800}グランボとは{8207}戦いたくないなぁ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「\"{88BB}Gadem{8800},\" huh... It sounds strong just hearing about it...{8300}{94C8}Kid Saver「Aah, I really don't want to fight {88BB}Dark{8800} Granbo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8002}{94C8}少女セイバー「バルトのスカイシップに{8207}とびのったって言う{8877}ワオン{8800}・・・」{8300}{94C8}少女セイバー「今ごろヒドイ目にあってなきゃ{8207}いいけど・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「That {8877}Woofon{8800} that jumped onto Baltic's Skyship...{8300}{94C8}Gal Saver「I hope it's not going through something awful right now...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8002}{94C8}元セイバー「さすが{9400}君じゃな！{8207}見事なカツヤクぶりじゃ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「That's {9400} for you! What a splendid job!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8002}{94C8}大人セイバー「町のすぐ近くにあんな子がいたなんて・・・」{8300}{94C8}大人セイバー「グランボセイバーとして、そんな事にすら{8207}気づけなかった自分がなさけないっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「To think there was a girl like that right near town...{8300}{94C8}Saver「As a Granbo Saver, I'm ashamed I didn't even notice!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_026",
@@ -220,7 +246,8 @@
     26
    ],
    "jp": "{8002}{94C8}大人セイバー「あのハルナって子の事なら{8207}シンパイしないで」{8300}{94C8}大人セイバー「彼女のケンコウの事もふくめて{8207}後は私達がセキニンを持って{8207}彼女を見守るわ」{8300}{94C8}大人セイバー「ただ、時々は彼女のヨウスを{8207}見にきてあげてね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Don't worry about that girl Haruna.{8300}{94C8}Saver「From here on, we'll take responsibility and watch over her, her health included.{8300}{94C8}Saver「But do come and check on her now and then!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_027",
@@ -228,7 +255,8 @@
     27
    ],
    "jp": "{8002}{94C8}少年セイバー「ハルナって子と{8207}彼女のグランボの話はきいたよ」{8300}{94C8}少年セイバー「ボクももう{88BB}闇{8800}グランボがこわい{8207}なんて言ってられないな！！」{8300}{94C8}少年セイバー「よし、がんばるぞ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「I heard the story of that girl Haruna and her Granbo.{8300}{94C8}Kid Saver「I can't go around saying I'm scared of {88BB}Dark{8800} Granbo anymore!!{8300}{94C8}Kid Saver「All right, I'm gonna do my best!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_028",
@@ -236,7 +264,8 @@
     28
    ],
    "jp": "{8002}{94C8}少女セイバー「けっきょくキセキをおこせる{8207}のは人の心だったってワケね・・・」{8300}{94C8}少女セイバー「おっと、人だけじゃない・・・{8207}グランボもだね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「So in the end, what can work miracles is the human heart...{8300}{94C8}Gal Saver「Oops, not just people... Granbo too!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_029",
@@ -244,7 +273,8 @@
     29
    ],
    "jp": "{8002}{94C8}元セイバー「さすが{9400}君じゃな！{8207}ワシも弟子入りさせてほしいくらいじゃ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Ex-Saver「That's {9400} for you! I'd almost like to become your apprentice!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_030",
@@ -252,7 +282,8 @@
     30
    ],
    "jp": "{8002}{94C8}大人セイバー「ハルナちゃん、時々昔の家に{8207}もどっているらしいよ」{8300}{94C8}大人セイバー「あんな所でも、彼女にとっては{8207}君達に出会った大事な場所なんだろうね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「I hear Haruna goes back to her old house now and then.{8300}{94C8}Saver「Even a place like that must be precious to her, since it's where she met you all.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_031",
@@ -260,7 +291,8 @@
     31
    ],
    "jp": "{8002}{94C8}大人セイバー「もうハルナちゃんの事はシンパイする{8207}ヒツヨウがなさそうよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Saver「Looks like there's no need to worry about Haruna anymore!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_032",
@@ -268,7 +300,8 @@
     32
    ],
    "jp": "{8002}{94C8}少年セイバー「昔は{88BB}闇{8800}グランボがこわくて{8207}しかたなかったんだけど・・・」{8300}{94C8}少年セイバー「今ではすっかり平気になったよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「I used to be so scared of {88BB}Dark{8800} Granbo...{8300}{94C8}Kid Saver「But now I'm totally fine with them!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_033",
@@ -276,7 +309,8 @@
     33
    ],
    "jp": "{8002}{94C8}少女セイバー「チロっていうボディーガードが{8207}いるから、ハルナちゃんも安心ね」{8300}{94C8}少女セイバー「私もあんなたよれるボディーガードが{8207}ほしいなぁ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「With a bodyguard like Chiro around, Haruna can feel safe.{8300}{94C8}Gal Saver「I wish I had a bodyguard that reliable too...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_034",
@@ -284,7 +318,8 @@
     34
    ],
    "jp": "{8002}{9201}グランボセイバーの作戦カイギ用ディスプレイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A display for Granbo Saver strategy meetings.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_035",
@@ -292,7 +327,8 @@
     35
    ],
    "jp": "{8002}{9201}グランボを使った戦いのシミュレーターだ\n向かい合わせにすわって対戦するらしい{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A battle simulator using Granbo. Looks like you sit facing each other to battle.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A920_036",
@@ -300,7 +336,8 @@
     36
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev21A920_037",
@@ -308,7 +345,8 @@
     37
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev21A920_038",
@@ -316,7 +354,8 @@
     38
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev21A920_039",
@@ -324,7 +363,8 @@
     39
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev21A920_040",
@@ -332,7 +372,8 @@
     40
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おじいさん「この山はワシとばあさんの{8207}思い出の場所なんじゃ・・・」{8300}{94C8}おじいさん「山の中に{8833}きれいな花{8800}がさいておってな・・・{8207}2人でその花をながめているだけで{8207}ワシらはしあわせじゃった・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「This mountain is a place full of memories for me and my wife...{8300}{94C8}Old Man「{8833}Beautiful flowers{8800} used to bloom in these mountains... Just the two of us gazing at those flowers was enough to make us happy...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev222890_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}おじいさん「さっき元気な女の子と太目の男の子が{8207}ここをとおっていきおったぞ」{8300}{94C8}おじいさん「ずいぶんあわてておったようじゃが・・・{8207}一体どうしたんじゃろうな？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「A lively girl and a chubby boy came through here a little while ago.{8300}{94C8}Old Man「They seemed to be in quite a hurry... I wonder what was going on?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev222890_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{8601}{9497}「あっ、{9400}！{8207}さっきバルトがこの先を歩いているのを{8207}見かけたわ！！」{8300}{8601}{9497}「アイツ、ジョウタイイジョウをおこす{8207}アイテムをいくつも持ってたの！」{8300}{8601}{9497}「ネンのためにアタシの持ってる{8207}{8833}いじょう完全回復{8800}のアイテムを持ってって！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Ah, {9400}! I just saw Baltic walking on up ahead!!{8300}{8601}{9497}He had a bunch of items that cause status effects!{8300}{8601}{9497}Just in case, take my {8833}Full Status Heal{8800} item with you!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev222890_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{8601}{9497}「それじゃあ、わたすわ！{8207}使うタイミングはしんちょうに{8207}決めてね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Okay, here you go! Choose carefully when to use it!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev222890_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{8610}{9497}「ええっ、どうして？{8207}持っててソンはしないわよ？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}Huh? Why not? It can't hurt to have it, you know?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev222890_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{8601}{9497}「それじゃ、気をつけてね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Well then, be careful!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev222890_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{8602}{9498}「あっ、{9400}くん～！{8207}オイラ、アカリちゃんといっしょに{8207}ここに来たんだけど・・・」{8300}{8612}{9498}「このハシがこわくてわたれないんだ～！{8207}アカリちゃんはオイラをおいて{8207}先に行っちゃった・・・」{8300}{8612}{9498}「さっきは{88BB}闇{8800}ゾクセイの体の長い{8207}グランボも見かけたし・・・{8207}もう足がすくんで先にすすめないよ～」{8300}{8602}{9498}「『{8855}ラック{8800}』のデータボールをわたすから{8207}アカリちゃんをおいかけてくれない～？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Ah, {9400}~! I came here with Akari, but...{8300}{8612}{9498}I'm too scared to cross this bridge~! Akari left me behind and went on ahead...{8300}{8612}{9498}Earlier I saw a long-bodied {88BB}Dark{8800}-element Granbo, too... My legs are frozen, I can't go any farther~{8300}{8602}{9498}I'll give you the \"{8855}Rack{8800}\" Data Ball, so could you go after Akari~?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev222890_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{8602}{9498}「それじゃあ、わたすよ～！{8207}大事に使ってね～！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Okay, here you go~! Take good care of it~!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev222890_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{8612}{9498}「ええ～っ、なんで～？{8207}かわいいのにな～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8612}{9498}Whaaat, why not~? It's so cute, though~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev222890_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{8602}{9498}「それじゃあ、アカリちゃんの事{8207}たのんだよ～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Well then, I'm counting on you to look after Akari~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev222890_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "0",
-   "en": ""
+   "en": "0",
+   "status": "translated"
   },
   {
    "id": "ev222890_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "1",
-   "en": ""
+   "en": "1",
+   "status": "translated"
   },
   {
    "id": "ev222890_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "2",
-   "en": ""
+   "en": "2",
+   "status": "translated"
   },
   {
    "id": "ev222890_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "3",
-   "en": ""
+   "en": "3",
+   "status": "translated"
   },
   {
    "id": "ev222890_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "4",
-   "en": ""
+   "en": "4",
+   "status": "translated"
   },
   {
    "id": "ev222890_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "5",
-   "en": ""
+   "en": "5",
+   "status": "translated"
   },
   {
    "id": "ev222890_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "6",
-   "en": ""
+   "en": "6",
+   "status": "translated"
   }
  ]
 }

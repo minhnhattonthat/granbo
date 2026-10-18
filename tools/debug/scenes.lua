@@ -104,6 +104,7 @@ end }
 S.prologue = { desc = "event program 17: prologue narration 'この大地はあれはて...' over a storm (graphics text)",
   run = function(W)
   W.new_game(); W.warp(1, 0, 400, 300, 0); W.program(17)
+  W.palette_settled()  -- the storm fades in ~200 frames after the program's first palette load
 end }
 
 -- Any event program: --var "SCENE='program'" --var PROG=24

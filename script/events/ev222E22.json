@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{861F}{94A5}「まったく、バルトさまのスカイシップに{8207}のりこむとはなんてヤツだ！」{8300}{861F}{94A5}「さすがのバルトさまも{8207}今回ばかりはおどろいていたな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Honestly, what kind of guy boards Boss Baltic's Skyship?!{8300}{861F}{94A5}Even Boss Baltic was surprised this time...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev222E22_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{861F}{94A5}「こいつのせいで子分が何人ケガ{8207}した事か・・・」{8300}{861F}{94A5}「バルトさまがいなければ{8207}どうなっていたんだろう・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}How many grunts got hurt because of this thing...{8300}{861F}{94A5}If Boss Baltic hadn't been here, who knows what would've happened...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev222E22_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}チロ「ワンワワンッ！！」{8207}（ここから出すんだワン！！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Chiro「Woof woof woof!! (Let me out of here, woof!!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev222E22_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{9201}バリアかいじょスイッチのようだが\nカイジョのホウホウがわからない{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It looks like a barrier release switch, but you don't know how to release it.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev222E22_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{9201}バリアかいじょスイッチのようだ\nバリアはもうカイジョされている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It looks like a barrier release switch. The barrier has already been released.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev222E22_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev222E22_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev222E22_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev222E22_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev222E22_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

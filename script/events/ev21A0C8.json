@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}「しゃべりかけられません」{8400}{8100}",
-   "en": ""
+   "en": "{8002}Can't talk to them.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94A0}「ウオッウオッ」{8207}（すごい気はくをかんじるウオ・・・）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Woh woh! (I can feel some amazing fighting spirit, woh...){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}男の子「あのおじいさん・・・{8207}なんかこわいよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「That old man... he's kinda scary...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}老人「ワシもグランボを使ってあの花を{8207}手に入れるんじゃあああ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Elder「I'm gonna use Granbo to get my hands on that flower toooo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}「しゃべりかけられません」{8400}{8100}",
-   "en": ""
+   "en": "{8002}Can't talk to them.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94A0}「ウオッウオッ」{8207}（すごい気はくをかんじるウオ・・・）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Woh woh! (I can feel some amazing fighting spirit, woh...){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}男の子「あのおじいさん・・・{8207}なんかこわいよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「That old man... he's kinda scary...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}老人「ワシもグランボを使ってあの花を{8207}手に入れるんじゃあああ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Elder「I'm gonna use Granbo to get my hands on that flower toooo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}「しゃべりかけられません」{8400}{8100}",
-   "en": ""
+   "en": "{8002}Can't talk to them.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94A0}「ウオッウオッ」{8207}（すごい気はくをかんじるウオ・・・）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Woh woh! (I can feel some amazing fighting spirit, woh...){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}男の子「あのおじいさん・・・{8207}なんかこわいよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「That old man... he's kinda scary...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}老人「ワシもグランボを使ってあの花を{8207}手に入れるんじゃあああ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Elder「I'm gonna use Granbo to get my hands on that flower toooo!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}「しゃべりかけられません」{8400}{8100}",
-   "en": ""
+   "en": "{8002}Can't talk to them.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{94A0}「ウオウオッ？」{8207}（あのおじいさん、いつまでいるウオ？）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Woh woh? (How long is that old man gonna stay, woh?){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94C8}男の子「あのおじいさん・・・{8207}なかなか出ていかないよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「That old man... he just won't leave...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{94C8}おじいさん「何をつれていけばいいんじゃ？{8207}{8833}ワオン{8800}か？{8877}パタフラン{8800}か？」{8300}{94C8}おじいさん「う～ん、なやむわい・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「What should I take along? {8833}Woofon{8800}? {8877}Patafran{8800}?{8300}{94C8}Old Man「Hmm, what a tough choice...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}「しゃべりかけられません」{8400}{8100}",
-   "en": ""
+   "en": "{8002}Can't talk to them.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{94A0}「ウオ・・・」{8207}（あのおじいさん、まだいるウオ？）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Woh... (Is that old man still here, woh?){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{94C8}男の子「あのおじいさん・・・{8207}ケッキョクなんだったの・・・？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「That old man... what was his deal in the end...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{94C8}おじいさん「{8833}ワオン{8800}か{8877}パタフラン{8800}か・・・{8207}{8877}ニャオン{8800}もすてがたいな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「{8833}Woofon{8800} or {8877}Patafran{8800}... {8877}Meowon{8800} is hard to pass up too...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8002}「しゃべりかけられません」{8400}{8100}",
-   "en": ""
+   "en": "{8002}Can't talk to them.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8002}{94A0}「ウオウオ・・・」{8207}（そろそろ外に出たいウオ・・・）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Woh woh... (I wanna go outside soon, woh...){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8002}{94C8}男の子「あのおじいさん・・・{8207}何もしないままインタイしちゃった！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「That old man... he retired without ever doing anything!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8002}{94C8}おじいさん「世界も平和になったし・・・{8207}ワシもそろそろインタイするかの・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「The world's at peace now... Maybe it's about time I retired too...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8002}{94C8}男の子「マスターが帰ってくるまで{8207}ボクがこの店を{8207}じょうれんだいひょうとして守るよ」{8300}{94C8}こども「いらっしゃいませ！{8207}どのようなごようけんですか？」{9200}\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Until the Master comes back, I'll guard this shop on behalf of the regulars!{8300}{94C8}Kid「Welcome! How may I help you?{9200} {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8002}{94C8}男の子「ほかに何かございますか？」\n\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Is there anything else?  {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_026",
@@ -220,7 +246,8 @@
     26
    ],
    "jp": "{8002}{94C8}店長「いらっしゃいませ！{8207}どのようなごようけんですか？」{9200}\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Manager「Welcome! How may I help you?{9200} {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21A0C8_027",
@@ -228,7 +255,8 @@
     27
    ],
    "jp": "{8002}{94C8}店長「ほかに何かございますか？」\n\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Manager「Is there anything else?  {8E03}                {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   }
  ]
 }

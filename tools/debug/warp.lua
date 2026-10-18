@@ -2,12 +2,13 @@
 -- tools/debug/scenes.lua), shoots it and stops. RAM addresses and how they were found: docs/re/debug.md.
 --   python -X utf8 $SKILL/scripts/emu.py ROM --out work/qa/warp_town --script tools/debug/warp.lua \
 --          --var "SCENE='town'" --frames 900 --sheet [--state-out work/states/town.mss]
--- Globals (--var): SCENE (required), GOD=true (party HP kept full), NOENC=true (no random battles),
---   HOLD=N frames to stay on the scene before the final shot (default 45), SCENES='path' (default
---   tools/debug/scenes.lua, relative to the repo root emu.py runs from).
--- The run ends HOLD frames after the scene is reached (final.png, f<frame>.png, --state-out). --frames is only a
--- timeout here: it is raised to WARP_TIMEOUT (default 8000) because a cold boot alone needs ~900 frames. Exit 2
--- with "scene not reached" when the scene's wait condition never comes true.
+-- Globals (--var): SCENE (required), GOD=true (first Granbo's HP kept full), NOENC=true (no random battles),
+--   HOLD=N frames on the scene before the final shot (default 45), AFTER='30 right;6 a;60 -' (route steps
+--   played once the scene is reached, before HOLD), WARP_TIMEOUT=N (default 8000), SCENES='H:/path/scenes.lua'
+--   (default: tools/debug/scenes.lua found by walking up from --out).
+-- The run ends HOLD frames after the scene is reached (final.png, f<frame>.png every 60 frames unless
+-- --shot-every, --state-out). --frames is only a floor for the timeout: it is raised to WARP_TIMEOUT. Exit 2
+-- with "scene X not reached ... waiting for <what>" when a wait condition never comes true.
 local M = emu.memType.gbaMemory
 local SCENE_NAME = assert(SCENE, "set --var \"SCENE='name'\"")
 -- Mesen runs scripts from its own directory: find scenes.lua by walking up from --out (work/... in the repo).
@@ -41,7 +42,7 @@ function W.w32(a, v) emu.write32(a, v, M) end
 -- RAM map (docs/re/debug.md)
 local A = {
   top = 0x0300265C,      -- u32 top-level program: 0 boot/logos/title, 1 game
-  boot = 0x03000420,     -- 4 x u8 boot/title stage (01 01 04 xx = title menu waiting for Start)
+  boot = 0x03000420,     -- 4 x u8 boot/title stage (01 01 03 04 = NEW GAME menu shown), see stage() below
   mode = 0x03002320,     -- u32 game mode (1 load request, 2 map load, 3 field, 6 map change pending, 9 demo...)
   sub = 0x03002324,      -- u32 sub-state of mode
   map = 0x03002368,      -- s16 current map id (index into map table 0x081AC4F4)
@@ -60,7 +61,6 @@ local A = {
 }
 W.A = A
 
-function W.mode() return W.r32(A.mode) end
 -- boot stage bytes b0 b1 b2 b3: 01 00 xx Capcom logo, 01 01 02 opening anime (~900 frames), 01 01 03 00..02
 -- title logo in, 03 02 title idle ("press start"), 03 03..04 NEW GAME menu opening / shown, 01 01 04 xx menu
 -- confirmed, 02 start game (top -> 1). Idle 03 02 times out to the attract demo (01 01 05, 01 02 xx).
@@ -131,7 +131,7 @@ function W.new_game()
   W.mash_until(function() return W.r32(A.mode) ~= 11 end, "start", "name accepted", 30)
   W.wait(W.in_field, "first field frame")
 end
--- Load map/variant with the player at pixel (x, y) facing dir (0 down? see debug.md), skipping the fade: the same
+-- Load map/variant with the player at pixel (x, y) facing dir (values: guess), skipping the fade: the same
 -- fields the game's map-change request (0x080492C4) fills, then straight to mode 1 (load) as mode 6 does.
 -- Map table 0x081AC4F4: 28-byte records {type, ?, variants, ?, spawns, ?, debug name}; spawns = 32 bytes per
 -- variant, x/y at +4/+6 (map 1/1 gives 328,432: where the game itself puts the player).
@@ -170,6 +170,12 @@ function W.menu_pick(top, sub)
     W.wait(function() return W.r32(A.sub) == 6 end, "menu screen")
   end
 end
+-- On a "whose ...?" Granbo picker (game +8 == 2), A opens the page for the first Granbo (+8 == 3).
+function W.menu_enter()
+  W.wait(function() return W.r8(A.menu_page) == 2 end, "Granbo picker")
+  W.mash_until(function() return W.r8(A.menu_page) == 3 end, "a", "menu page", 40)
+end
+
 -- Event programs (mode 9, id at game +0x35; the event-script command at 0x080655C4 sets it with +0x34 = 1):
 -- 2/11 intro cutscenes, 5 shop list, 13 area map, 15 tournament loss, 17 prologue narration, 24 COMPLETE...
 -- (survey of ids 0-39: docs/re/debug.md). Some need state a cold boot lacks and show garbage.
@@ -197,11 +203,6 @@ function W.palette_settled(n)
     last = sum
     return same >= (n or 30)
   end, "palette settled")
-end
--- On a "whose ...?" Granbo picker (game +8 == 2), A opens the page for the first Granbo (+8 == 3).
-function W.menu_enter()
-  W.wait(function() return W.r8(A.menu_page) == 2 end, "Granbo picker")
-  W.mash_until(function() return W.r8(A.menu_page) == 3 end, "a", "menu page", 40)
 end
 
 -- Battle: a step with the encounter meter (player actor +0x100) above 0xFF starts a random battle on maps that

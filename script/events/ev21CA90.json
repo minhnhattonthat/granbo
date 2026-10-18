@@ -13,7 +13,8 @@
     27
    ],
    "jp": "{8002}{94C8}おばあさん「まったく、どいつもこいつも{8207}花！花！花！花！花！」{8300}{94C8}おばあさん「この町の者はなさけないヤツ{8207}ばっかりじゃ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Honestly, every last one of 'em! Flowers! Flowers! Flowers! Flowers! Flowers!{8300}{94C8}Old Lady「The folks in this town are nothing but a sorry lot!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_001",
@@ -21,7 +22,8 @@
     1
    ],
    "jp": "{8002}{94A0}「アゥ？？？？？？？？？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Au?????????{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_002",
@@ -29,7 +31,8 @@
     2
    ],
    "jp": "{8002}{94C8}おばあさん「まったく、どいつもこいつも{8207}花！花！花！花！花！」{8300}{94C8}おばあさん「この町の者はなさけないヤツ{8207}ばっかりじゃ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Honestly, every last one of 'em! Flowers! Flowers! Flowers! Flowers! Flowers!{8300}{94C8}Old Lady「The folks in this town are nothing but a sorry lot!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_003",
@@ -37,7 +40,8 @@
     3
    ],
    "jp": "{8002}{94A0}「アゥ？？？？？？？？？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Au?????????{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_004",
@@ -45,7 +49,8 @@
     4
    ],
    "jp": "{8002}{94C8}おばあさん「この大陸には{8207}どんなねがいもかなえてくれるという{8207}デンセツの花があるんじゃ・・・」{8300}{94C8}おばあさん「その名も{8207}『{8833}ドリームフラワー{8800}』！！」{8300}{94C8}おばあさん「ドリームフラワーはねがい事だけじゃなく{8207}病気もなおしてくれるらしいんじゃ」{8300}{94C8}おばあさん「かつては{8207}東の山にたくさんさいておったんじゃが{8207}今では全てかれてしまっておる」{8300}{94C8}おばあさん「ザンネンじゃったな」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「On this continent there's a legendary flower that's said to grant any wish...{8300}{94C8}Old Lady「Its name is... \"{8833}Dream Flower{8800}\"!!{8300}{94C8}Old Lady「They say the Dream Flower doesn't just grant wishes, it cures sickness too.{8300}{94C8}Old Lady「Once, plenty of them bloomed on the eastern mountain, but now every last one has withered.{8300}{94C8}Old Lady「A crying shame, it is.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_005",
@@ -53,7 +58,8 @@
     5
    ],
    "jp": "{8002}{94A0}「アゥ？？？？？？？？？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Au?????????{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_006",
@@ -61,7 +67,8 @@
     6
    ],
    "jp": "{8002}{94C8}おばあさん「タワーはこの{8833}町の西{8800}じゃ・・・{8207}ただし、とちゅうドウクツを通るヒツヨウが{8207}あるから気をつけるんじゃぞ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「The tower is {8833}west of this town{8800}... But you'll have to go through a cave on the way, so be careful!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_007",
@@ -69,7 +76,8 @@
     7
    ],
    "jp": "{8002}{94A0}「アゥ？？？？？？？？？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Au?????????{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_008",
@@ -77,7 +85,8 @@
     8
    ],
    "jp": "{8002}{94C8}おばあさん「なんと！{8207}スカイシャークのカンブが・・・？」{8300}{94C8}おばあさん「ヤツらにだけは{8207}先をこされてはイカン！！」{8300}{94C8}おばあさん「ドリームフラワーはおそらく{8207}{8833}大陸の北西{8800}にある『{8833}ドリームマウンテン{8800}』に{8207}さいているはずじゃ！」{8300}{94C8}おばあさん「急いでくれ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「What! A Sky Shark boss...?{8300}{94C8}Old Lady「We mustn't let those rascals beat us to it!!{8300}{94C8}Old Lady「The Dream Flower should be blooming in the {8833}northwest of the continent{8800}, on \"{8833}Dream Mountain{8800}\"!{8300}{94C8}Old Lady「Please hurry!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_009",
@@ -85,7 +94,8 @@
     9
    ],
    "jp": "{8002}{94A0}「アゥ？？？？？？？？？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Au?????????{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_010",
@@ -93,7 +103,8 @@
     10
    ],
    "jp": "{8002}{94C8}おばあさん「ドリームフラワーがさいた事で{8207}またあらそいがおきるかと思うたが・・・」{8300}{94C8}おばあさん「ハルナさんじゃったか・・・{8207}あの娘と彼女のグランボの話をきいて{8207}みなカイシンしたようじゃな！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「I feared the Dream Flower blooming would start the fighting all over again, but...{8300}{94C8}Old Lady「Haruna, was it... Hearing about that girl and her Granbo seems to have changed everyone's hearts!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_011",
@@ -101,7 +112,8 @@
     11
    ],
    "jp": "{8002}{94A0}「アゥ？？？？？？？？？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Au?????????{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_012",
@@ -109,7 +121,8 @@
     12
    ],
    "jp": "{8002}{94C8}おばあさん「わかいもんが、{8833}ドリームマウンテンの南{8800}に{8207}時々見た事もない山がシュツゲンすると{8207}言っておった・・・」{8300}{94C8}おばあさん「まわりがあつくなった時にだけスガタを{8207}あらわすそうじゃが、中はクウドウに{8207}なっておるらしい・・・」{8300}{94C8}おばあさん「みじゅくなセイバーがうっかり中に入って{8207}もどれんようにならんかシンパイじゃよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「The young folk say a mountain no one's ever seen sometimes appears {8833}south of Dream Mountain{8800}...{8300}{94C8}Old Lady「They say it only shows itself when things get hot around it, and it's hollow inside...{8300}{94C8}Old Lady「I worry some green Saver'll wander in by mistake and never make it back out.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_013",
@@ -117,7 +130,8 @@
     13
    ],
    "jp": "{8002}{94A0}「アゥ？？？？？？？？？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Au?????????{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_014",
@@ -125,7 +139,8 @@
     14
    ],
    "jp": "{8002}{9201}物知りばあさんのツクエだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The wise old woman's desk.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_015",
@@ -133,7 +148,8 @@
     15
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_016",
@@ -141,7 +157,8 @@
     16
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_017",
@@ -149,7 +166,8 @@
     17
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_018",
@@ -157,7 +175,8 @@
     18
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_019",
@@ -165,7 +184,8 @@
     19
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_020",
@@ -173,7 +193,8 @@
     20
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_021",
@@ -181,7 +202,8 @@
     21
    ],
    "jp": "{8000}{94C8}おばあさん「何？ドリームフラワーを{8207}さかせたいじゃと？」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Old Lady「What? You want to make the Dream Flower bloom?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_022",
@@ -189,7 +211,8 @@
     22
    ],
    "jp": "{8000}{94C8}おばあさん「バカを言うでない！{8207}花をめぐって、この大陸でカコに{8207}何がおきたか知らんのか・・・！」{8300}{94C8}おばあさん「どんな病気もなおせるヤクソウ{8207}ドリームフラワー・・・」{8300}{94C8}おばあさん「それがいつの間にか{8207}どんなねがいもかなえてくれる花と{8207}よばれるようになり・・・」{8300}{94C8}おばあさん「そのケッカ、それを何が何でも{8207}手に入れようとする者達が{8207}みにくいあらそいをおこし・・・」{8300}{94C8}おばあさん「たくさんのギセイを{8207}出してしもうた・・・」{8300}{94C8}おばあさん「けっきょく当時のダイヒョウ者が{8207}{8833}ある男のキョウリョク{8800}によって{8207}この世界を{88BB}闇{8800}につつみ・・・」{8300}{94C8}おばあさん「ドリームフラワーを全てかれさせる事で{8207}あらそいを終わらせたのじゃ・・・」{8300}{94C8}おばあさん「ここでまたドリームフラワーをさかせては{8207}また花をめぐってのあらそいが{8207}始まってしまうではないか！！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Old Lady「Don't talk nonsense! Don't you know what happened on this continent long ago over that flower...!{8300}{94C8}Old Lady「The Dream Flower, a medicinal herb that could cure any sickness...{8300}{94C8}Old Lady「Somehow, over time, folks began calling it the flower that grants any wish...{8300}{94C8}Old Lady「And so those who wanted it at any cost started ugly fights...{8300}{94C8}Old Lady「and many lives were lost...{8300}{94C8}Old Lady「In the end, the leader back then, {8833}with a certain man's help{8800}, wrapped this world in {88BB}darkness{8800}...{8300}{94C8}Old Lady「and ended the fighting by making every last Dream Flower wither...{8300}{94C8}Old Lady「If the Dream Flower blooms here again, the fighting over it will just start all over!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_023",
@@ -197,7 +220,8 @@
     23
    ],
    "jp": "{8001}{9201}{9400}はおばあさんにハルナの事を話した{8400}{8100}",
-   "en": ""
+   "en": "{8001}{9201}{9400} told the old lady about Haruna.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_024",
@@ -205,7 +229,8 @@
     24
    ],
    "jp": "{8000}{94C8}おばあさん「・・・・・・・・・」{8300}{94C8}おばあさん「・・・・・・・・・」{8300}{94C8}おばあさん「むむう・・・・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Old Lady「.........{8300}{94C8}Old Lady「.........{8300}{94C8}Old Lady「Hmmm......{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_025",
@@ -213,7 +238,8 @@
     25
    ],
    "jp": "{8000}{94C8}おばあさん「たしかに・・・人の命にはかえられんのう」{8300}{94C8}おばあさん「それにおヌシなら・・・{8207}同じようなひげきはくりかえすまい・・・」{8300}{94C8}おばあさん「おヌシの目を見ているとな・・・{8207}なぜかそんな気がするんじゃよ・・・」{8300}{94C8}おばあさん「・・・では、おしえてやろう」{8300}{94C8}おばあさん「・・・じつはドリームフラワーは{8207}大陸が『{8877}木{8800}』のジョウタイの時にしか{8207}さかないのじゃよ」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Old Lady「True... Nothing's worth more than a person's life.{8300}{94C8}Old Lady「And you... you wouldn't let the same tragedy happen again...{8300}{94C8}Old Lady「Looking into your eyes... somehow I just feel that way...{8300}{94C8}Old Lady「...Very well, I'll tell you.{8300}{94C8}Old Lady「...The truth is, the Dream Flower only blooms when the continent is in the \"{8877}Wood{8800}\" state.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21CA90_026",
@@ -221,7 +247,8 @@
     26
    ],
    "jp": "{8000}{94C8}おばあさん「何？ではどうしてあのならず者達は{8207}これまで『{88BB}闇{8800}』のグランドチェンジを{8207}カイジョしなかったのか、じゃと？」{8300}{94C8}おばあさん「かんがえてもみい・・・{8207}この大陸を{88BB}闇{8800}につつんだソウチを{8207}そのままにしておくと思うか？」{8300}{94C8}おばあさん「まぁ、おヌシ自身の目で{8207}たしかめてみれば良かろう・・・」{8300}{94C8}おばあさん「ただし、くれぐれも{8207}ムリはするでないぞ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Old Lady「What? Then why haven't those scoundrels undone the \"{88BB}Dark{8800}\" Grand Change all this time, you ask?{8300}{94C8}Old Lady「Think about it... You reckon they'd just leave the device that wrapped this continent in {88BB}darkness{8800} lying around?{8300}{94C8}Old Lady「Well, best you see it with your own eyes...{8300}{94C8}Old Lady「But whatever you do, don't push yourself too hard...{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

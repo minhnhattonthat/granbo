@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}女の子「この町の外って・・・{8207}どうしていつもくらいのかな？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Outside this town... why is it always so dark?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}おばさん「私が生まれた時には{8207}この大陸はもうこうなっていたの・・・」{8300}{94C8}おばさん「ずっと前におきたあるジケンが{8207}きっかけだって・・・」{8300}{94C8}おばさん「となりにすんでいるおばあさんが{8207}言っていたわ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「By the time I was born, this continent was already like this...{8300}{94C8}Lady「They say some incident a long time ago started it...{8300}{94C8}Lady「That's what the old lady next door told me.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おばあさん「むかしはこの大陸も{8877}ウッディーナ{8800}に負けない{8207}うつくしさの大陸だったのじゃが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Long ago, this continent was every bit as beautiful as {8877}Woodina{8800}...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}女の子「この町の外って・・・{8207}どうしていつもくらいのかな？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Outside this town... why is it always so dark?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}おばさん「私が生まれた時には{8207}この大陸はもうこうなっていたの・・・」{8300}{94C8}おばさん「ずっと前におきたあるジケンが{8207}きっかけだって・・・」{8300}{94C8}おばさん「となりにすんでいるおばあさんが{8207}言っていたわ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「By the time I was born, this continent was already like this...{8300}{94C8}Lady「They say some incident a long time ago started it...{8300}{94C8}Lady「That's what the old lady next door told me.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}おばあさん「むかしはこの大陸も{8877}ウッディーナ{8800}に負けない{8207}うつくしさの大陸だったのじゃが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Long ago, this continent was every bit as beautiful as {8877}Woodina{8800}...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}女の子「この町の外って・・・{8207}どうしていつもくらいのかな？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Outside this town... why is it always so dark?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}おばさん「私が生まれた時には{8207}この大陸はもうこうなっていたの・・・」{8300}{94C8}おばさん「ずっと前におきたあるジケンが{8207}きっかけだって・・・」{8300}{94C8}おばさん「となりにすんでいるおばあさんが{8207}言っていたわ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「By the time I was born, this continent was already like this...{8300}{94C8}Lady「They say some incident a long time ago started it...{8300}{94C8}Lady「That's what the old lady next door told me.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}おばあさん「むかしはこの大陸も{8877}ウッディーナ{8800}に負けない{8207}うつくしさの大陸だったのじゃが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Long ago, this continent was every bit as beautiful as {8877}Woodina{8800}...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}女の子「お母さん！町の外が明るく・・・{8207}明るくなっちゃったよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Mom! Outside town got bright... It's all bright now!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}おばさん「すごいわ・・・私が生きているうちに{8207}大陸の元のスガタが見られるなんて！！」{8300}{94C8}おばさん「これ・・・あなたのおかげなの？」{8300}{94C8}おばさん「ありがとう・・・本当にありがとう！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Amazing... To think I'd see the continent as it truly was in my lifetime!!{8300}{94C8}Lady「Is this... thanks to you?{8300}{94C8}Lady「Thank you... Thank you so much!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}おばあさん「うつくしい・・・ワシのキオクどおり{8207}ここはうつくしい大陸じゃった・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Beautiful... Just as I remember it, this was a beautiful continent...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{94C8}女の子「ありがとう、お兄ちゃん！！{8207}またこのきれいな大陸にあそびに来てね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Thank you so much!! Come play on this pretty continent again!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{94C8}おばさん「本当にありがとうね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Thank you so much, really!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94C8}おばあさん「あんたは・・・ハルナという子だけでなく{8207}うちの娘とマゴも元気にしてくれたんじゃ」{8300}{94C8}おばあさん「ありがとうよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「You... brought cheer not just to that Haruna girl, but to my daughter and grandchild too.{8300}{94C8}Old Lady「Thank you kindly...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{94C8}女の子「あっ、{9400}さんだ！！」{8300}{94C8}女の子「いらっしゃーい！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Oh, it's {9400}!!{8300}{94C8}Girl「Welcome!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{94C8}おばさん「よく来たね・・・{8207}まぁ、ゆっくりしていきな！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Good to see you... Well, make yourself at home!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{94C8}おばあさん「うちのマゴ・・・しょうらいは{8207}この大陸のかんこうガイドになりたいってさ」{8300}{94C8}おばあさん「少し前まではかんがえられなかった{8207}セリフだねぇ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「My grandchild says... she wants to be a tour guide for this continent someday.{8300}{94C8}Old Lady「Not long ago, words like that would've been unthinkable...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{9201}メッセージボードに\nメールは入っていない{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There's no mail on the Message Board.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev21C1FE_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

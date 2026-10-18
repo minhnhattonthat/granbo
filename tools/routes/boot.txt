@@ -1,0 +1,4 @@
+# Cold boot to the title screen (smoke test). Start at ~460 skips the opening anime; the title is idle by ~480.
+460 -
+6 start
+150 -
