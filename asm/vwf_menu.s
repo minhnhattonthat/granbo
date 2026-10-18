@@ -12,8 +12,12 @@
 @ Columns: menus pad with spaces to line things up (a name, spaces, then a cost or count; choices). Under the VWF a
 @ space is 3 px, so a glyph that follows 2+ spaces snaps to the column it had in the original monospace layout
 @ (8 px x its index in the run), when that is right of the pen. Text before the gap must fit its old cells.
-@ Uses sl (VRAM base) and r8 (tilemap attribute) of the caller read-only. Thumb-1 only. Symbols: STATE (40 bytes
-@ RAM: slot, map, buf0, buf1, pen, ret slot, ret map, run start slot, glyph index, space run), WIDTHS.
+@ Frames: the typewriter window (0x0804B524) prints one glyph per frame, and the staging buffers die at each vblank.
+@ When a run continues on a later frame (frame counter 0x03002654), the cell buffers are dropped; a cell that
+@ already exists is reallocated by copying its 0x40 bytes back from VRAM instead of filling it with the background.
+@ Uses sl (VRAM base) and r8 (tilemap attribute) of the caller read-only. Thumb-1 only. Symbols: STATE (48 bytes
+@ RAM: slot, map, buf0, buf1, pen, ret slot, ret map, run start slot, glyph index, space run, frame, flags
+@ (bit 0: current cell is in VRAM, bit 1: next cell is)), WIDTHS.
     .thumb
 vwf_menu:
     push {r4-r7, lr}
@@ -23,7 +27,7 @@ vwf_menu:
     bne newrun
     ldr r3, [r7, #24]
     cmp r2, r3
-    beq blit
+    beq cont
 newrun:
     str r0, [r7, #0]
     str r2, [r7, #4]
@@ -34,6 +38,35 @@ newrun:
     str r0, [r7, #28]
     str r3, [r7, #32]
     str r3, [r7, #36]
+    str r3, [r7, #44]
+    b stamp
+cont:
+    ldr r3, lit_frame
+    ldr r3, [r3]
+    ldr r4, [r7, #40]
+    cmp r3, r4
+    beq blit
+    movs r4, #0
+    ldr r5, [r7, #8]
+    cmp r5, #0
+    beq no_cur
+    movs r4, #1
+no_cur:
+    ldr r5, [r7, #12]
+    cmp r5, #0
+    beq no_next
+    adds r4, #2
+no_next:
+    ldr r5, [r7, #44]
+    orrs r4, r5
+    str r4, [r7, #44]
+    movs r5, #0
+    str r5, [r7, #8]
+    str r5, [r7, #12]
+stamp:
+    ldr r3, lit_frame
+    ldr r3, [r3]
+    str r3, [r7, #40]
 blit:
     cmp r1, #0
     bne notspace
@@ -157,6 +190,9 @@ mp_loop:
     str r1, [r7, #8]
     movs r1, #0
     str r1, [r7, #12]
+    ldr r1, [r7, #44]
+    lsrs r1, r1, #1
+    str r1, [r7, #44]
     pop {r0}
     subs r0, #8
     b mp_loop
@@ -179,6 +215,13 @@ ensure:
     bne ens_ret
     ldr r1, [r7, #0]
     ldr r2, [r7, #4]
+    ldr r3, [r7, #44]
+    movs r4, #1
+    ands r3, r4
+    ldr r5, [r7, #44]
+    movs r6, #1
+    bics r5, r6
+    str r5, [r7, #44]
     bl alloc
     str r0, [r7, #8]
     b ens_ret
@@ -190,20 +233,43 @@ ens_next:
     adds r1, #2
     ldr r2, [r7, #4]
     adds r2, #2
+    ldr r3, [r7, #44]
+    lsrs r3, r3, #1
+    movs r4, #1
+    ands r3, r4
+    ldr r5, [r7, #44]
+    movs r6, #2
+    bics r5, r6
+    str r5, [r7, #44]
     bl alloc
     str r0, [r7, #12]
 ens_ret:
     pop {r1-r6, pc}
 
-@ alloc(r1 slot, r2 map) -> r0 buffer: staging buffer filled with the background, queued to sl + slot*32,
-@ tilemap entries attr|slot at map and attr|slot+1 at map+0x40. Keeps r1-r7.
+@ alloc(r1 slot, r2 map, r3 = 1: reload the cell from VRAM, 0: fill with the background) -> r0 buffer: staging
+@ buffer queued to sl + slot*32, tilemap entries attr|slot at map and attr|slot+1 at map+0x40. Keeps r1-r7.
 alloc:
     push {r1-r6, lr}
+    adds r6, r3, #0
     ldr r3, lit_stage
     ldr r0, [r3]
     adds r4, r0, #0
     adds r4, #0x40
     str r4, [r3]
+    cmp r6, #0
+    beq bgfill
+    lsls r5, r1, #5
+    mov r4, sl
+    adds r5, r5, r4
+    movs r3, #0
+copy_loop:
+    ldr r4, [r5, r3]
+    str r4, [r0, r3]
+    adds r3, #4
+    cmp r3, #0x40
+    blt copy_loop
+    b filled
+bgfill:
     ldr r3, lit_c4
     ldrb r3, [r3]
     movs r4, #0
@@ -217,6 +283,7 @@ fill_loop:
     adds r3, #4
     cmp r3, #0x40
     blt fill_loop
+filled:
     mov r3, r8
     orrs r3, r1
     strh r3, [r2]
@@ -248,3 +315,4 @@ lit_c4:      .word 0x020260C4
 lit_stage:   .word 0x02023C40
 lit_bg:      .word 0x33333333
 lit_queue:   .word 0x0804D285
+lit_frame:   .word 0x03002654
