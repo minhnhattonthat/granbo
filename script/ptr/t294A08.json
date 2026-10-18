@@ -184,7 +184,8 @@
     "0x295108"
    ],
    "jp": "{8899}～しんかについて～{8800}\n・しんかをするとパラメータが\n それぞれ10パーセントずつ上がる\n\n・しんかをしないと手に入らないグランボもいる\n\n・？には何を入れてもいいが、とくていのデータボールを\n 入れるととくしゅなしんかをする\n\n{8899}～しょきかについて～{8800}\n・しょきかをすると、LVは1になるが\n ハントしたグランボをそのままそだてた時よりも\n 強力なグランボを作れる\n\n （ただし、しんかしたグランボをしょきかすると\n  10パーセントのボーナスの分がなくなり\n  ソンをする場合が多いのでチュウイがヒツヨウ）",
-   "en": ""
+   "en": "{8899}~ Evolution ~{8800}\n- Evolution raises\n each stat by 10 percent\n\n- Some Granbo only come from evolving\n\n- Any Data Ball fits the ?, but certain\n ones cause a special evolution\n\n{8899}~ Resetting ~{8800}\n- A reset drops it to LV 1, but\n it can grow stronger than if you just\n raised the hunted one\n\n  (But resetting an evolved Granbo loses\n   its 10 percent bonus, which is often\n   a net loss, so be careful)",
+   "status": "translated"
   },
   {
    "id": "s28D8AA",
@@ -197,7 +198,8 @@
     "0x294cc0"
    ],
    "jp": "ハントのしかた（きほん）",
-   "en": ""
+   "en": "Hunting (Basics)",
+   "status": "translated"
   },
   {
    "id": "s28D8C4",
@@ -210,7 +212,8 @@
     "0x294cc4"
    ],
    "jp": "ハントのしかた（きほん）をひょうじします",
-   "en": ""
+   "en": "Shows the basics of hunting",
+   "status": "translated"
   },
   {
    "id": "s28D8EE",
@@ -223,7 +226,8 @@
     "0x294cc8"
    ],
    "jp": "・ハントとは、ハントわざを使って\n 敵グランボのデータボールをうばう事である\n\n・ハントワザはハントゲージが\n たくさんたまっている時ほど成功しやすい\n\n・ハントゲージは敵グランボにダメージをあたえると\n たまっていく\n\n・あたえたダメージが同じでも\n {8833}攻撃したグランボと敵グランボのアイショウ{8800}によって\n ハントゲージのたまり方はことなる",
-   "en": ""
+   "en": "- Hunting: using a Hunt Move\n to take a foe Granbo's Data Ball\n\n- Hunt Moves work best\n when the Hunt Gauge is fuller\n\n- The Hunt Gauge fills as you damage\n foe Granbo\n\n- Even with equal damage,\n {8833}the matchup of attacker and foe{8800}\n changes how the gauge fills",
+   "status": "translated"
   },
   {
    "id": "s28DA46",
@@ -249,7 +253,8 @@
     "0x2950f4"
    ],
    "jp": "ハントのしかた（おさらい）",
-   "en": ""
+   "en": "Hunting (Review)",
+   "status": "translated"
   },
   {
    "id": "s28DA62",
@@ -275,7 +280,8 @@
     "0x2950f8"
    ],
    "jp": "ハントのしかたをもう一度せつめいします",
-   "en": ""
+   "en": "Explains hunting once more",
+   "status": "translated"
   },
   {
    "id": "s28DA8A",
@@ -301,7 +307,8 @@
     "0x2950fc"
    ],
    "jp": "・ハントワザはハントゲージが\n たくさんたまっている時ほど成功しやすい\n\n・あたえたダメージが同じでも\n {8833}攻撃したグランボと敵グランボのアイショウ{8800}によって\n ハントゲージのたまり方はことなる\n\n・ハントゲージをためやすくするには・・・\n 1。敵を{8833}ジョウタイイジョウ{8800}にするか\n   敵の{8833}パラメータを下げる{8800}\n   （敵のシュルイによってきき目はことなるが\n    SPの高い敵にSPを下げるワザを\n    使うというように、相手のブキをふうじる\n    作戦がゆうこうのようだ）\n\n 2。{8833}ハントフード{8800}を使う\n   （相手がすきな物を使わないとコウカはない）\n\n 3。上の1と2をくみあわせる事でハントゲージは\n   よりたまりやすくなる",
-   "en": ""
+   "en": "- Hunt Moves work best\n when the Hunt Gauge is fuller\n\n- Even with equal damage,\n {8833}the matchup of attacker and foe{8800}\n changes how the gauge fills\n\n- To fill the Hunt Gauge faster...\n  1. Give foes a {8833}status effect{8800}, or\n    {8833}lower their stats{8800}\n    (It varies by foe type, but plans\n     like using SP-lowering moves on\n     high-SP foes, sealing their weapon,\n     seem to work well)\n\n  2. Use {8833}Hunt Food{8800}\n    (It only works if the foe likes it)\n\n  3. Combining 1 and 2 above makes the\n    gauge fill faster",
+   "status": "translated"
   },
   {
    "id": "s28DD14",
@@ -325,7 +332,8 @@
     "0x29505c"
    ],
    "jp": "セイバーへのアドバイス",
-   "en": ""
+   "en": "Saver Advice",
+   "status": "translated"
   },
   {
    "id": "s28DD2C",
@@ -349,7 +357,8 @@
     "0x295060"
    ],
    "jp": "セイバーへのアドバイスをひょうじします",
-   "en": ""
+   "en": "Shows advice for Savers",
+   "status": "translated"
   },
   {
    "id": "s28DD54",
@@ -373,7 +382,8 @@
     "0x295064"
    ],
    "jp": "{8899}～じゅうようアイテムの使いかた～{8800}\n じゅうようアイテムはデータパッドがめんをひらいた後\n アイテム使用から「じゅうようアイテム」を\n えらぶ事で使う事ができる\n\n{8899}～セイバーランクをうまく上げるには～{8800}\n セイバーランクを上げるためにヒツヨウな\n ランクポイントは「ユウキある戦い」をした者に\n あたえられる\n 強い敵をおそれてはいけない！\n\n{8899}～セイバーランクが上がると～{8800}\n セイバーランクが高い者ほどバトルスタジアムで\n 行われる「グランボバトル」でよりレベルの高い\n 大会にサンカできる\n もちろん、レベルの高い大会ほどショウヒンは\n ゴウカな物になる\n\n{8899}～初心者へのサービス～{8800}\n セイバー初心者のために、ショップのアイテムは\n ランクが低い者ほど安く買えるようになっている",
-   "en": ""
+   "en": "{8899}~ Using Key Items ~{8800}\n Use key items by opening the Data Pad\n screen and picking \"Key Items\" under\n Item Use\n\n{8899}~ Raising your Saver Rank ~{8800}\n Rank Points, needed to raise your\n Saver Rank, go to those who fight\n \"bravely\"\n Don't fear strong foes!\n\n{8899}~ When your rank rises ~{8800}\n At the Battle Stadium's Granbo battles,\n higher Saver Ranks can enter higher\n tournaments\n Of course, higher tournaments give\n fancier prizes\n\n{8899}~ Beginner perks ~{8800}\n To help new Savers, shop items cost\n less the lower your rank is",
+   "status": "translated"
   },
   {
    "id": "s28E008",
@@ -382,7 +392,8 @@
     "0x294a08"
    ],
    "jp": "グランボしゅつげんジョウホウ",
-   "en": ""
+   "en": "Granbo Sightings",
+   "status": "translated"
   },
   {
    "id": "s28E026",
@@ -391,7 +402,8 @@
     "0x294a0c"
    ],
    "jp": "グランボしゅつげんジョウホウをひょうじします",
-   "en": ""
+   "en": "Shows Granbo sighting info",
+   "status": "translated"
   },
   {
    "id": "s28E054",
@@ -400,7 +412,8 @@
     "0x294a10"
    ],
    "jp": "町の東の森に{8855}水{8800}ゾクセイのグランボが出るという\nジョウホウあり！\n\n{8833}火{8800}ゾクセイのグランボしか\n持っていないセイバーはチュウイせよ！！",
-   "en": ""
+   "en": "Reports say the woods east of town have\n{8855}Water{8800} Granbo!\n\nSavers who only have {8833}Fire{8800}\nGranbo, take care!!",
+   "status": "translated"
   },
   {
    "id": "s28E0E0",
@@ -409,7 +422,8 @@
     "0x294a54"
    ],
    "jp": "グランボしゅつげんジョウホウ",
-   "en": ""
+   "en": "Granbo Sightings",
+   "status": "translated"
   },
   {
    "id": "s28E0FE",
@@ -418,7 +432,8 @@
     "0x294a58"
    ],
    "jp": "グランボしゅつげんジョウホウをひょうじします",
-   "en": ""
+   "en": "Shows Granbo sighting info",
+   "status": "translated"
   },
   {
    "id": "s28E12C",
@@ -427,7 +442,8 @@
     "0x294a5c"
    ],
    "jp": "町の東の森に{8855}水{8800}ゾクセイのグランボが出るという\nジョウホウあり！\n\n{8833}火{8800}ゾクセイのグランボしか\n持っていないセイバーはチュウイせよ！！",
-   "en": ""
+   "en": "Reports say the woods east of town have\n{8855}Water{8800} Granbo!\n\nSavers who only have {8833}Fire{8800}\nGranbo, take care!!",
+   "status": "translated"
   },
   {
    "id": "s28E1B8",
@@ -436,7 +452,8 @@
     "0x294a60"
    ],
    "jp": "ハントにかんするジョウホウ",
-   "en": ""
+   "en": "Hunting Info",
+   "status": "translated"
   },
   {
    "id": "s28E1D4",
@@ -445,7 +462,8 @@
     "0x294a64"
    ],
    "jp": "ハントにかんするジョウホウをひょうじします",
-   "en": ""
+   "en": "Shows info about hunting",
+   "status": "translated"
   },
   {
    "id": "s28E200",
@@ -454,7 +472,8 @@
     "0x294a68"
    ],
    "jp": "初心者セイバーはまず{8833}火{8800}・{8855}水{8800}・{8877}木{8800}の3つの\nゾクセイのグランボをそろえる事を\nこころがけるように！！",
-   "en": ""
+   "en": "New Savers: aim first to collect {8833}Fire{8800},\n{8855}Water{8800} and {8877}Wood{8800} Granbo,\nall 3 elements!!",
+   "status": "translated"
   },
   {
    "id": "s28E26E",
@@ -463,7 +482,8 @@
     "0x294aa0"
    ],
    "jp": "グランボしゅつげんジョウホウ",
-   "en": ""
+   "en": "Granbo Sightings",
+   "status": "translated"
   },
   {
    "id": "s28E28C",
@@ -472,7 +492,8 @@
     "0x294aa4"
    ],
    "jp": "グランボしゅつげんジョウホウをひょうじします",
-   "en": ""
+   "en": "Shows Granbo sighting info",
+   "status": "translated"
   },
   {
    "id": "s28E2BA",
@@ -481,7 +502,8 @@
     "0x294aa8"
    ],
    "jp": "ホウコク1\n北の森で大きな『{8877}ウキウッキ{8800}』を見た！\n\nホウコク2\n北西の森に出る『{8877}オーム{8800}』は\n{8833}ATを下げてくる{8800}のでチュウイ！",
-   "en": ""
+   "en": "Report 1\nSaw a big \"{8877}Ookook{8800}\" in the north woods!\n\nReport 2\n\"{8877}Polly{8800}\" in northwest woods\n{8833}lowers your AT{8800}, so beware!",
+   "status": "translated"
   },
   {
    "id": "s28E342",
@@ -490,7 +512,8 @@
     "0x294aac"
    ],
    "jp": "ハントにかんするジョウホウ",
-   "en": ""
+   "en": "Hunting Info",
+   "status": "translated"
   },
   {
    "id": "s28E35E",
@@ -499,7 +522,8 @@
     "0x294ab0"
    ],
    "jp": "ハントにかんするジョウホウをひょうじします",
-   "en": ""
+   "en": "Shows info about hunting",
+   "status": "translated"
   },
   {
    "id": "s28E38A",
@@ -508,7 +532,8 @@
     "0x294ab4"
    ],
    "jp": "初心者セイバーはまず{8833}火{8800}・{8855}水{8800}・{8877}木{8800}の3つの\nゾクセイのグランボをそろえる事を\nこころがけるように！！",
-   "en": ""
+   "en": "New Savers: aim first to collect {8833}Fire{8800},\n{8855}Water{8800} and {8877}Wood{8800} Granbo,\nall 3 elements!!",
+   "status": "translated"
   },
   {
    "id": "s28E3F8",
@@ -517,7 +542,8 @@
     "0x294aec"
    ],
    "jp": "グランボしゅつげんジョウホウ",
-   "en": ""
+   "en": "Granbo Sightings",
+   "status": "translated"
   },
   {
    "id": "s28E416",
@@ -526,7 +552,8 @@
     "0x294af0"
    ],
    "jp": "グランボしゅつげんジョウホウをひょうじします",
-   "en": ""
+   "en": "Shows Granbo sighting info",
+   "status": "translated"
   },
   {
    "id": "s28E444",
@@ -535,7 +562,8 @@
     "0x294af4"
    ],
    "jp": "でたらめにボムをはっしゃするグランボの\nジョウホウが入った！\n\n敵に当たればラッキーだが、ミカタに\n当たるとヒジョウにいたいので\nやはり早目にたおすヒツヨウがあるだろう",
-   "en": ""
+   "en": " Info is in on a Granbo that fires\nbombs at random!\n\nLucky if it hits foes, but\nit really hurts allies, so\nyou'd better beat it early",
+   "status": "translated"
   },
   {
    "id": "s28E4EE",
@@ -544,7 +572,8 @@
     "0x294b04"
    ],
    "jp": "ハントのしかた（おうよう）",
-   "en": ""
+   "en": "Hunting (Advanced)",
+   "status": "translated"
   },
   {
    "id": "s28E50A",
@@ -553,7 +582,8 @@
     "0x294b08"
    ],
    "jp": "ハントのしかた（おうよう）をひょうじします",
-   "en": ""
+   "en": "Shows advanced hunting tips",
+   "status": "translated"
   },
   {
    "id": "s28E536",
@@ -562,7 +592,8 @@
     "0x294b0c"
    ],
    "jp": "ハントゲージをためやすくするには・・・\n1。敵を{8833}ジョウタイイジョウ{8800}にする\n2。敵の{8833}パラメータを下げる{8800}\n3。{8833}ハントフード{8800}を使う\n\nただし、{8833}敵のシュルイによってきき目に\nちがいがある{8800}から、いろいろためしてみる\nヒツヨウがある",
-   "en": ""
+   "en": "To fill the Hunt Gauge faster...\n1. Give foes a {8833}status effect{8800}\n2. {8833}Lower foes' stats{8800}\n3. Use {8833}Hunt Food{8800}\n\nBut {8833}how well each works varies\nby foe type{8800}, so you need to\nexperiment",
+   "status": "translated"
   },
   {
    "id": "s28E624",
@@ -571,7 +602,8 @@
     "0x294b38"
    ],
    "jp": "スカイシャークジョウホウ",
-   "en": ""
+   "en": "Sky Shark Info",
+   "status": "translated"
   },
   {
    "id": "s28E63E",
@@ -580,7 +612,8 @@
     "0x294b3c"
    ],
    "jp": "スカイシャークのジョウホウをひょうじします",
-   "en": ""
+   "en": "Shows info on Sky Shark",
+   "status": "translated"
   },
   {
    "id": "s28E66A",
@@ -589,7 +622,8 @@
     "0x294b40"
    ],
    "jp": "スカイシャークのカンブ、バルトを見かけたという\nジョウホウが入った\n彼のグランボを使うテクニックは世界でも\nトップクラスなのでチュウイせよ！！",
-   "en": ""
+   "en": "Reports say Sky Shark boss Baltic\nwas spotted\nHis Granbo skills rank among the\nworld's best, so beware!!",
+   "status": "translated"
   },
   {
    "id": "s28E6FA",
@@ -598,7 +632,8 @@
     "0x294b44"
    ],
    "jp": "グランボにかんするジョウホウ",
-   "en": ""
+   "en": "Granbo Info",
+   "status": "translated"
   },
   {
    "id": "s28E718",
@@ -607,7 +642,8 @@
     "0x294b48"
    ],
    "jp": "グランボにかんするジョウホウをひょうじします",
-   "en": ""
+   "en": "Shows info about Granbo",
+   "status": "translated"
   },
   {
    "id": "s28E746",
@@ -616,7 +652,8 @@
     "0x294b4c"
    ],
    "jp": "{8855}カサゴン{8800}にケイカイせよ！\nうかつに手を出すといたい目に会うぞ！",
-   "en": ""
+   "en": "Watch out for {8855}Kasagon{8800}!\nGet careless and it'll hurt you!",
+   "status": "translated"
   },
   {
    "id": "s28E78A",
@@ -625,7 +662,8 @@
     "0x294b5c"
    ],
    "jp": "ハントのしかた（おうよう）",
-   "en": ""
+   "en": "Hunting (Advanced)",
+   "status": "translated"
   },
   {
    "id": "s28E7A6",
@@ -634,7 +672,8 @@
     "0x294b60"
    ],
    "jp": "ハントのしかた（おうよう）をひょうじします",
-   "en": ""
+   "en": "Shows advanced hunting tips",
+   "status": "translated"
   },
   {
    "id": "s28E7D2",
@@ -643,7 +682,8 @@
     "0x294b64"
    ],
    "jp": "ハントゲージをためやすくするには\n相手のブキをふうじる作戦がユウコウだ\n\nたとえばSPの高い敵にSPを下げるワザを\n使うといったかんじである",
-   "en": ""
+   "en": "To fill the Hunt Gauge,\nsealing foes' weapons works\n\nSay, using SP-lowering moves on a\nfoe with high SP",
+   "status": "translated"
   },
   {
    "id": "s28E860",
@@ -652,7 +692,8 @@
     "0x294b84"
    ],
    "jp": "ゾクセイにかんするジョウホウ",
-   "en": ""
+   "en": "Element Info",
+   "status": "translated"
   },
   {
    "id": "s28E87E",
@@ -661,7 +702,8 @@
     "0x294b88"
    ],
    "jp": "ゾクセイにかんするジョウホウをひょうじします",
-   "en": ""
+   "en": "Shows info about elements",
+   "status": "translated"
   },
   {
    "id": "s28E8AC",
@@ -670,7 +712,8 @@
     "0x294b8c"
    ],
    "jp": "{88BB}闇{8800}ゾクセイグランボのシュツゲン\nジョウホウが入った！\nやつらは{8877}木{8800}に強いという\nジョウホウは入っているが\n何に弱いかはわかっていない・・・",
-   "en": ""
+   "en": "Reports of {88BB}Dark{8800} Granbo\nare coming in!\nWe hear they beat {8877}Wood{8800},\nbut nobody knows\nwhat they're weak to...",
+   "status": "translated"
   },
   {
    "id": "s28E93E",
@@ -679,7 +722,8 @@
     "0x294b90"
    ],
    "jp": "グランボしゅつげんジョウホウ",
-   "en": ""
+   "en": "Granbo Sightings",
+   "status": "translated"
   },
   {
    "id": "s28E95C",
@@ -688,7 +732,8 @@
     "0x294b94"
    ],
    "jp": "グランボしゅつげんジョウホウをひょうじします",
-   "en": ""
+   "en": "Shows Granbo sighting info",
+   "status": "translated"
   },
   {
    "id": "s28E98A",
@@ -697,7 +742,8 @@
     "0x294b98"
    ],
    "jp": "ホウコク1\n{8833}アルマル{8800}の体当たりはキョウレツ！\n戦闘時はATを下げるなどのテクニックが\nヒツヨウと思われる\n\nホウコク2\n{8833}ラミーゴ{8800}はがんじょうな上\nHPを回復するのでヒジョウにやっかいという\nホウコクが入っている！\nシュウチュウ攻撃がこうかてきと思われる",
-   "en": ""
+   "en": "Report 1\n{8833}Armaru{8800}'s body slam is fierce!\nBattle tricks like lowering its AT\nseem a must\n\nReport 2\n{8833}Ramigo{8800} is tough and\nheals HP, so it's a real pain, say\nthe reports!\nFocused attacks should work well",
+   "status": "translated"
   },
   {
    "id": "s28EA90",
@@ -706,7 +752,8 @@
     "0x294bd0"
    ],
    "jp": "ゾクセイにかんするジョウホウ",
-   "en": ""
+   "en": "Element Info",
+   "status": "translated"
   },
   {
    "id": "s28EAAE",
@@ -715,7 +762,8 @@
     "0x294bd4"
    ],
    "jp": "ゾクセイにかんするジョウホウをひょうじします",
-   "en": ""
+   "en": "Shows info about elements",
+   "status": "translated"
   },
   {
    "id": "s28EADC",
@@ -724,7 +772,8 @@
     "0x294bd8"
    ],
    "jp": "最近世間をさわがせている{88BB}闇{8800}ゾクセイの\nグランボだが、その後のチョウサで{8833}火{8800}が\n弱てんだという事がハンメイした！！",
-   "en": ""
+   "en": "The {88BB}Dark{8800} Granbo in the news lately\nwere studied, and {8833}Fire{8800} was found\nto be their weak point!!",
+   "status": "translated"
   },
   {
    "id": "s28EB54",
@@ -733,7 +782,8 @@
     "0x294bdc"
    ],
    "jp": "ハントにかんするジョウホウ",
-   "en": ""
+   "en": "Hunting Info",
+   "status": "translated"
   },
   {
    "id": "s28EB70",
@@ -742,7 +792,8 @@
     "0x294be0"
    ],
    "jp": "ハントにかんするジョウホウをひょうじします",
-   "en": ""
+   "en": "Shows info about hunting",
+   "status": "translated"
   },
   {
    "id": "s28EB9C",

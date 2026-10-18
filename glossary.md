@@ -141,6 +141,12 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- More Granbo: モンガモンガ Mongamonga, ペッカン Peckan, マキリーガ Makiriga, マーグ Marg, クーフロウ Koofrow, ワオンター
+  Woofonter, ウドワン Udowan, ピヨリカ2 Piyorika 2, スワーナ Swana, ガジャコ Gajako, ワニャオン Wanyaon, アントン Anton, ガダム
+  Gadam (not Gadem), リゾーサ Rizosa, ラーブコ Rabuko, ラ・グォンド La Guondo, チックン Chikkun, ミミーナ Mimina, ケッコー Kekko.
+  Items: そうさくレーダー Search Radar; せんべつレーダー Filter Radar; ワープゲート Warp Gate; だっしゅつゲート Escape Gate;
+  ゲージアップ Gauge Up N; ナゾのカギ Mystery Key; オイルみつ Oil Honey; X/全Xフード -> X Food / Team X Food; クリスタル赤
+  -> Red Crystal. "Looks like this one{8207}evolves normally."; "Looks like this one's complete."
 - More Granbo: グースン Goosun, バメッツ Bamets, バズメス Buzzmes, ピチュトル Pichutol, ガリチョン Garichon, ワルピヨ
   Warupiyo, ブログ Brog, パタウオ Patauo, ペラペレイ Perapelay. Database comments in 「」 with no speaker -> "..." quotes;
   バージョンアップ -> upgrade; もうコンプリート -> "Looks like this one's complete."; ステミワザ -> all-out moves.

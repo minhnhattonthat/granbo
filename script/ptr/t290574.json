@@ -22440,7 +22440,8 @@
     "0x292fd4"
    ],
    "jp": "動きがすばやく、頭が良い\nワザもほうふだがうたれ弱いのでチュウイ",
-   "en": ""
+   "en": "Quick-moving and smart\nMany moves, but frail, so be careful",
+   "status": "translated"
   },
   {
    "id": "s28A6E6",
@@ -22458,7 +22459,8 @@
     "0x292fdc"
    ],
    "jp": "「こいつの兄弟みたいな{940A}を使えば{8207}この{940A}はシンカではなくて{8207}バージョンアップするみたいよ！！」",
-   "en": ""
+   "en": "Use a {940A} like its sibling{8207}and this {940A}{8207}gets upgraded, not evolved!!",
+   "status": "translated"
   },
   {
    "id": "s28A748",
@@ -22467,7 +22469,8 @@
     "0x292ff0"
    ],
    "jp": "アルマル",
-   "en": ""
+   "en": "Armaru",
+   "status": "translated"
   },
   {
    "id": "s28A752",
@@ -22476,7 +22479,8 @@
     "0x292ff4"
    ],
    "jp": "かたいこうらをいかしたぼうぎょワザがトクイ",
-   "en": ""
+   "en": "Good at defense moves with its hard shell",
+   "status": "translated"
   },
   {
    "id": "s28A77E",
@@ -22485,7 +22489,8 @@
     "0x292ff8"
    ],
    "jp": "かたいこうらをいかしたぼうぎょワザがトクイな上\n攻撃ワザも強力",
-   "en": ""
+   "en": "Good at hard-shell defense moves, and also\nhits hard",
+   "status": "translated"
   },
   {
    "id": "s28A7BE",
@@ -22503,7 +22508,8 @@
     "0x293000"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28A7E6",
@@ -22512,7 +22518,8 @@
     "0x293014"
    ],
    "jp": "ワルボン",
-   "en": ""
+   "en": "Warubon",
+   "status": "translated"
   },
   {
    "id": "s28A7F0",
@@ -22521,7 +22528,8 @@
     "0x293018"
    ],
    "jp": "めずらしい闇ゾクセイのハリボン",
-   "en": ""
+   "en": "A rare Dark-element Haribon",
+   "status": "translated"
   },
   {
    "id": "s28A810",
@@ -22530,7 +22538,8 @@
     "0x29301c"
    ],
    "jp": "攻撃力やぼうぎょ力などのパラメータは上がっているが\nENが少なくワザの連続使用はムリ",
-   "en": ""
+   "en": "Its attack, defense and other stats are up,\nbut low EN: it can't chain moves",
+   "status": "translated"
   },
   {
    "id": "s28A866",
@@ -22548,7 +22557,8 @@
     "0x293024"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28A88E",
@@ -22557,7 +22567,8 @@
     "0x293038"
    ],
    "jp": "メザバーン",
-   "en": ""
+   "en": "Mezabarn",
+   "status": "translated"
   },
   {
    "id": "s28A89A",
@@ -22566,7 +22577,8 @@
     "0x29303c"
    ],
    "jp": "HPをキュウシュウするワザを使ってくるので\n一気にダメージをあたえなければならない",
-   "en": ""
+   "en": "Uses moves that drain HP, so you must\ndeal heavy damage all at once",
+   "status": "translated"
   },
   {
    "id": "s28A8EE",
@@ -22575,7 +22587,8 @@
     "0x293040"
    ],
    "jp": "ダメージをうけても敵からHPをキュウシュウ\nできるのでチョウキセンに強い",
-   "en": ""
+   "en": "Even when hurt, it drains HP from foes,\nso it's strong in long battles",
+   "status": "translated"
   },
   {
    "id": "s28A938",
@@ -22593,7 +22606,8 @@
     "0x293048"
    ],
    "jp": "「変わった空飛ぶ{940A}を使えば{8207}変わったツバサの{940A}に{8207}シンカできそうね」",
-   "en": ""
+   "en": "Use an odd flying {940A}{8207}to evolve it into an{8207}odd-wing {940A}",
+   "status": "translated"
   },
   {
    "id": "s28A980",
@@ -22602,7 +22616,8 @@
     "0x29305c"
    ],
    "jp": "ベルタイガー",
-   "en": ""
+   "en": "Beltiger",
+   "status": "translated"
   },
   {
    "id": "s28A98E",
@@ -22611,7 +22626,8 @@
     "0x293060"
    ],
    "jp": "マグマの中でねむっていたグランボ\nひじょうに強力なのでチュウイ",
-   "en": ""
+   "en": "A Granbo that slept in magma\nVery powerful, so beware",
+   "status": "translated"
   },
   {
    "id": "s28A9CE",
@@ -22620,7 +22636,8 @@
     "0x293064"
    ],
    "jp": "キョダイなキバを使ってのキバワザが強力",
-   "en": ""
+   "en": "Strong fang moves using giant fangs",
+   "status": "translated"
   },
   {
    "id": "s28A9F6",
@@ -22638,7 +22655,8 @@
     "0x29306c"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28AA1E",
@@ -22647,7 +22665,8 @@
     "0x293080"
    ],
    "jp": "ムーガイオ",
-   "en": ""
+   "en": "Mugaio",
+   "status": "translated"
   },
   {
    "id": "s28AA2A",
@@ -22656,7 +22675,8 @@
     "0x293084"
    ],
    "jp": "コダイのグランボで攻撃ワザをわすれている",
-   "en": ""
+   "en": "Ancient Granbo that forgot its attacks",
+   "status": "translated"
   },
   {
    "id": "s28AA54",
@@ -22665,7 +22685,8 @@
     "0x293088"
    ],
    "jp": "ぼうぎょワザやスチールワザはわすれなかったので\n後は攻撃ワザを思い出すだけだ",
-   "en": ""
+   "en": "It didn't forget its defense or Steal moves,\nso now it must recall attacks",
+   "status": "translated"
   },
   {
    "id": "s28AAA2",
@@ -22683,7 +22704,8 @@
     "0x293090"
    ],
    "jp": "「何かとんでもない海の{940A}を使うと{8207}こいつもとんでもない{940A}に{8207}シンカできそうね」",
-   "en": ""
+   "en": "Use some wild sea {940A}{8207}and this may evolve into{8207}a wild {940A} too",
+   "status": "translated"
   },
   {
    "id": "s28AAF4",
@@ -22692,7 +22714,8 @@
     "0x2930a4"
    ],
    "jp": "ラザルス",
-   "en": ""
+   "en": "Lazarus",
+   "status": "translated"
   },
   {
    "id": "s28AAFE",
@@ -22701,7 +22724,8 @@
     "0x2930a8"
    ],
    "jp": "キョダイなボディのグランボ\nキバ攻撃はヒジョウに強力！",
-   "en": ""
+   "en": "A huge-bodied Granbo\nIts fangs hit very hard!",
+   "status": "translated"
   },
   {
    "id": "s28AB36",
@@ -22710,7 +22734,8 @@
     "0x2930ac"
    ],
    "jp": "パワーがあるのでガンガン攻撃でき\nどんな相手でもキバワザでたおせる",
-   "en": ""
+   "en": "Strong enough to attack hard,\nand fang moves beat any foe",
+   "status": "translated"
   },
   {
    "id": "s28AB7A",
@@ -22728,7 +22753,8 @@
     "0x2930b4"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28ABA2",
@@ -22737,7 +22763,8 @@
     "0x2930c8"
    ],
    "jp": "ガデム",
-   "en": ""
+   "en": "Gadem",
+   "status": "translated"
   },
   {
    "id": "s28ABAA",
@@ -22746,7 +22773,8 @@
     "0x2930cc"
    ],
    "jp": "ジョウタイイジョウがトクイだが\nダメージはない",
-   "en": ""
+   "en": "Good at status effects, but\nno damage",
+   "status": "translated"
   },
   {
    "id": "s28ABDA",
@@ -22755,7 +22783,8 @@
     "0x2930d0"
    ],
    "jp": "ジョウタイイジョウにはできるがダメージは\nあたえられないので、ハントでうまく使おう",
-   "en": ""
+   "en": "It can cause status effects but not\ndamage, so use it well when hunting",
+   "status": "translated"
   },
   {
    "id": "s28AC2E",
@@ -22773,7 +22802,8 @@
     "0x2930d8"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28AC56",
@@ -22782,7 +22812,8 @@
     "0x2930ec"
    ],
    "jp": "マナズー",
-   "en": ""
+   "en": "Manazoo",
+   "status": "translated"
   },
   {
    "id": "s28AC60",
@@ -22791,7 +22822,8 @@
     "0x2930f0"
    ],
    "jp": "ジシンをおこして攻撃してくる\nジシンは敵も味方も両方まきこむ",
-   "en": ""
+   "en": "Attacks with earthquakes\nQuakes hit foes and allies",
+   "status": "translated"
   },
   {
    "id": "s28AC9E",
@@ -22800,7 +22832,8 @@
     "0x2930f4"
    ],
    "jp": "ジシンは味方のHPもへらすので\nHPをカクニンしてから使おう",
-   "en": ""
+   "en": "Quakes lower allies' HP too,\nso check HP before use",
+   "status": "translated"
   },
   {
    "id": "s28ACDC",
@@ -22818,7 +22851,8 @@
     "0x2930fc"
    ],
    "jp": "「こいつには色々な{940A}を使ってみたら？{8207}2つのシンカ先がありそうよ」",
-   "en": ""
+   "en": "Why not try lots of {940A} on it?{8207}It may have two evolutions",
+   "status": "translated"
   },
   {
    "id": "s28AD22",
@@ -22827,7 +22861,8 @@
     "0x293110"
    ],
    "jp": "ムーター",
-   "en": ""
+   "en": "Mutor",
+   "status": "translated"
   },
   {
    "id": "s28AD2C",
@@ -22836,7 +22871,8 @@
     "0x293114"
    ],
    "jp": "めずらしい水ゾクセイのムームー",
-   "en": ""
+   "en": "A rare Water-element Mumu",
+   "status": "translated"
   },
   {
    "id": "s28AD4C",
@@ -22845,7 +22881,8 @@
     "0x293118"
    ],
    "jp": "ジョウタイイジョウや全体攻撃などができるが\n中でも、むしヘンゲがベンリ",
-   "en": ""
+   "en": "Can cause status effects and hit all foes,\nbut Bug Morph is best",
+   "status": "translated"
   },
   {
    "id": "s28AD94",
@@ -22863,7 +22900,8 @@
     "0x293120"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28ADBC",
@@ -22872,7 +22910,8 @@
     "0x293134"
    ],
    "jp": "ラック",
-   "en": ""
+   "en": "Rack",
+   "status": "translated"
   },
   {
    "id": "s28ADC4",
@@ -22881,7 +22920,8 @@
     "0x293138"
    ],
    "jp": "ガンワザと回復ワザを使いこなす上\nたおした敵までサイキドウさせるのでやっかい",
-   "en": ""
+   "en": "Masters Gun and healing moves\nand even reboots foes you beat. A pest!",
+   "status": "translated"
   },
   {
    "id": "s28AE12",
@@ -22890,7 +22930,8 @@
     "0x29313c"
    ],
    "jp": "敵の時はやっかいな相手だったが\n味方になるとたのもしい",
-   "en": ""
+   "en": "A real pest as a foe,\nbut reliable as an ally",
+   "status": "translated"
   },
   {
    "id": "s28AE4A",
@@ -22908,7 +22949,8 @@
     "0x293144"
    ],
    "jp": "「ソウコウのぶあつい{940A}を使えば{8207}大むかしの生物を元にした{940A}に{8207}シンカできそうよ！」",
-   "en": ""
+   "en": "Use a thick-armored {940A}{8207}and it may become a {940A}{8207}like a fossil beast!",
+   "status": "translated"
   },
   {
    "id": "s28AEA0",
@@ -22917,7 +22959,8 @@
     "0x293158"
    ],
    "jp": "カサゴン",
-   "en": ""
+   "en": "Kasagon",
+   "status": "translated"
   },
   {
    "id": "s28AEAA",
@@ -22926,7 +22969,8 @@
     "0x29315c"
    ],
    "jp": "ウイルス攻撃が多いのでのこりのHPにチュウイ",
-   "en": ""
+   "en": "Uses many Virus attacks, so watch your HP",
+   "status": "translated"
   },
   {
    "id": "s28AED8",
@@ -22935,7 +22979,8 @@
     "0x293160"
    ],
    "jp": "相手をウイルスにできるバリアを\nゆうこうに使えば戦闘が楽になる",
-   "en": ""
+   "en": "Use its Virus Barrier well,\nand battles get much easier",
+   "status": "translated"
   },
   {
    "id": "s28AF18",
@@ -22953,7 +22998,8 @@
     "0x293168"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": ""
+   "en": "Looks like this one{8207}evolves normally.",
+   "status": "translated"
   },
   {
    "id": "s28AF4C",
@@ -22962,7 +23008,8 @@
     "0x29317c"
    ],
    "jp": "タットコ",
-   "en": ""
+   "en": "Tattoko",
+   "status": "translated"
   },
   {
    "id": "s28AF56",
@@ -22971,7 +23018,8 @@
     "0x293180"
    ],
    "jp": "口がジュウコウになっていて\nそこから強力なタマをうつ",
-   "en": ""
+   "en": "Its mouth is a gun barrel\nthat fires strong shots",
+   "status": "translated"
   },
   {
    "id": "s28AF8C",
@@ -22980,7 +23028,8 @@
     "0x293184"
    ],
    "jp": "相手がよけられないワザが多い",
-   "en": ""
+   "en": "Many undodgeable moves",
+   "status": "translated"
   },
   {
    "id": "s28AFAA",
@@ -22998,7 +23047,8 @@
     "0x29318c"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28AFD2",
@@ -23007,7 +23057,8 @@
     "0x2931a0"
    ],
    "jp": "クラゲルン",
-   "en": ""
+   "en": "Kurageln",
+   "status": "translated"
   },
   {
    "id": "s28AFDE",
@@ -23016,7 +23067,8 @@
     "0x2931a4"
    ],
    "jp": "ストップの使い手\nストップバリアを使うのでうかつに手が出せない",
-   "en": ""
+   "en": "A Stop master\nIts Stop Barrier makes it risky to attack",
+   "status": "translated"
   },
   {
    "id": "s28B01E",
@@ -23025,7 +23077,8 @@
     "0x2931a8"
    ],
    "jp": "攻撃されそうな時にストップバリアで\n守っておけば、敵全体をストップにできるかも",
-   "en": ""
+   "en": "Use Stop Barrier if attacks are\ncoming, and you may Stop all foes",
+   "status": "translated"
   },
   {
    "id": "s28B06E",
@@ -23043,7 +23096,8 @@
     "0x2931b0"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": ""
+   "en": "Looks like this one{8207}evolves normally.",
+   "status": "translated"
   },
   {
    "id": "s28B0A2",
@@ -23052,7 +23106,8 @@
     "0x2931c4"
    ],
    "jp": "マーウォン",
-   "en": ""
+   "en": "Mawon",
+   "status": "translated"
   },
   {
    "id": "s28B0AE",
@@ -23061,7 +23116,8 @@
     "0x2931c8"
    ],
    "jp": "でんせつのグランボの1しゅるい",
-   "en": ""
+   "en": " One of the legendary Granbo",
+   "status": "translated"
   },
   {
    "id": "s28B0CE",
@@ -23070,7 +23126,8 @@
     "0x2931cc"
    ],
    "jp": "強力なキバ・するどいツメ・きょだいなシッポ\nすべてをいかしたワザを持つ",
-   "en": ""
+   "en": "Strong fangs, sharp claws, a huge tail:\nits moves use them all",
+   "status": "translated"
   },
   {
    "id": "s28B116",
@@ -23088,7 +23145,8 @@
     "0x2931d4"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28B13E",
@@ -23097,7 +23155,8 @@
     "0x2931e8"
    ],
    "jp": "ガザリ",
-   "en": ""
+   "en": "Gazari",
+   "status": "translated"
   },
   {
    "id": "s28B146",
@@ -23106,7 +23165,8 @@
     "0x2931ec"
    ],
    "jp": "ウイルスボムであいてを弱らせておき\nハサミワザでとどめをさす攻撃がとくい",
-   "en": ""
+   "en": "Weakens foes with Virus Bomb,\nthen finishes with Pincer moves",
+   "status": "translated"
   },
   {
    "id": "s28B190",
@@ -23115,7 +23175,8 @@
     "0x2931f0"
    ],
    "jp": "成長するとハサミワザとボムワザをおぼえていく\n様にハサミワザはイリョクが高い",
-   "en": ""
+   "en": "Learns Pincer and Bomb moves as it grows\nEX Pincer moves are mighty",
+   "status": "translated"
   },
   {
    "id": "s28B1DE",
@@ -23133,7 +23194,8 @@
     "0x2931f8"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28B206",
@@ -23142,7 +23204,8 @@
     "0x29320c"
    ],
    "jp": "シランガー",
-   "en": ""
+   "en": "Shiranger",
+   "status": "translated"
   },
   {
    "id": "s28B212",
@@ -23151,7 +23214,8 @@
     "0x293210"
    ],
    "jp": "かつては攻撃ワザと回復ワザをおぼえていたが\n今ではすっかりわすれてしまっている",
-   "en": ""
+   "en": "It once knew attack and healing moves,\nbut now it has forgotten them all",
+   "status": "translated"
   },
   {
    "id": "s28B262",
@@ -23160,7 +23224,8 @@
     "0x293214"
    ],
    "jp": "回復ワザはわすれてはいるがなんとか\nバブルワザとトリプルガンワザはおぼえている",
-   "en": ""
+   "en": "It forgot healing moves, but still\nknows Bubble and Triple Gun moves",
+   "status": "translated"
   },
   {
    "id": "s28B2B2",
@@ -23178,7 +23243,8 @@
     "0x29321c"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28B2DA",
@@ -23187,7 +23253,8 @@
     "0x293230"
    ],
    "jp": "ル・ベルケス",
-   "en": ""
+   "en": "Le Berkes",
+   "status": "translated"
   },
   {
    "id": "s28B2E8",
@@ -23196,7 +23263,8 @@
     "0x293234"
    ],
    "jp": "でんせつのグランボの1しゅるい",
-   "en": ""
+   "en": " One of the legendary Granbo",
+   "status": "translated"
   },
   {
    "id": "s28B308",
@@ -23205,7 +23273,8 @@
     "0x293238"
    ],
    "jp": "キバワザが強力で、それいがいにも\n3つの頭で同時に敵を攻撃するワザを持つ",
-   "en": ""
+   "en": "Strong fang moves, and it also\nattacks foes with 3 heads at once",
+   "status": "translated"
   },
   {
    "id": "s28B352",
@@ -23223,7 +23292,8 @@
     "0x293240"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28B37A",
@@ -23232,7 +23302,8 @@
     "0x293254"
    ],
    "jp": "レシオス",
-   "en": ""
+   "en": "Resios",
+   "status": "translated"
   },
   {
    "id": "s28B384",
@@ -23241,7 +23312,8 @@
     "0x293258"
    ],
    "jp": "バブルでパラメータをさげてから\n強力な全体攻撃をしかけてくる",
-   "en": ""
+   "en": "Lowers stats with Bubble,\nthen hits all foes hard",
+   "status": "translated"
   },
   {
    "id": "s28B3C2",
@@ -23250,7 +23322,8 @@
     "0x29325c"
    ],
    "jp": "キョタイをいかした全体ヒットワザが強い",
-   "en": ""
+   "en": "Strong all-foe Hit moves using its bulk",
+   "status": "translated"
   },
   {
    "id": "s28B3EA",
@@ -23268,7 +23341,8 @@
     "0x293264"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28B412",
@@ -23277,7 +23351,8 @@
     "0x293278"
    ],
    "jp": "アビラ",
-   "en": ""
+   "en": "Abila",
+   "status": "translated"
   },
   {
    "id": "s28B41A",
@@ -23286,7 +23361,8 @@
     "0x29327c"
    ],
    "jp": "ヒジョウにするどいキバを持っていて\n一度ねらったエモノはしぬまでかみつづける",
-   "en": ""
+   "en": "Has very sharp fangs; once it\ntargets prey it keeps biting to the end",
+   "status": "translated"
   },
   {
    "id": "s28B468",
@@ -23295,7 +23371,8 @@
     "0x293280"
    ],
    "jp": "味方との同時攻撃などもできるが\nほうふなキバワザがやはりゆうこう",
-   "en": ""
+   "en": "Can attack along with allies,\nbut fang moves are its best bet",
+   "status": "translated"
   },
   {
    "id": "s28B4AA",
@@ -23313,7 +23390,8 @@
     "0x293288"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28B4D2",
@@ -23322,7 +23400,8 @@
     "0x29329c"
    ],
    "jp": "ギロザウラン",
-   "en": ""
+   "en": "Girozauran",
+   "status": "translated"
   },
   {
    "id": "s28B4E0",
@@ -23331,7 +23410,8 @@
     "0x2932a0"
    ],
    "jp": "とてつもなくかたいカラをもったグランボ\n高いぼうぎょ力とぼうぎょワザで何でもはねかえす",
-   "en": ""
+   "en": " A Granbo with an incredibly hard shell\nHigh DF and defense moves repel anything",
+   "status": "translated"
   },
   {
    "id": "s28B538",
@@ -23340,7 +23420,8 @@
     "0x2932a4"
    ],
    "jp": "HPが高く、アイウチワザを使ってもピンチに\nならないのでガンガン使える",
-   "en": ""
+   "en": "Its HP is high, so Clash moves won't put it\nin danger: use them a lot",
+   "status": "translated"
   },
   {
    "id": "s28B580",
@@ -23358,7 +23439,8 @@
     "0x2932ac"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28B5A8",
@@ -23367,7 +23449,8 @@
     "0x2932c0"
    ],
    "jp": "ムームー",
-   "en": ""
+   "en": "Mumu",
+   "status": "translated"
   },
   {
    "id": "s28B5B2",
@@ -23376,7 +23459,8 @@
     "0x2932c4"
    ],
    "jp": "むしヘンゲというかわったワザを使う",
-   "en": ""
+   "en": "Uses an odd move, Bug Morph",
+   "status": "translated"
   },
   {
    "id": "s28B5D6",
@@ -23385,7 +23469,8 @@
     "0x2932c8"
    ],
    "jp": "むしヘンゲでむしがたグランボの\nどれかになる、今より弱くはならないはず？",
-   "en": ""
+   "en": "Bug Morph turns it into some\nbug-type Granbo. No weaker... right?",
+   "status": "translated"
   },
   {
    "id": "s28B620",
@@ -23403,7 +23488,8 @@
     "0x2932d0"
    ],
    "jp": "「こいつはウイルスがとくいな{940A}を{8207}使うと、アッとおどろくシンカをしそうね」",
-   "en": ""
+   "en": "Use a Virus-savvy {940A},{8207}and it may make a startling evolution",
+   "status": "translated"
   },
   {
    "id": "s28B66E",
@@ -23412,7 +23498,8 @@
     "0x2932e4"
    ],
    "jp": "バンビーナ",
-   "en": ""
+   "en": "Bambina",
+   "status": "translated"
   },
   {
    "id": "s28B67A",
@@ -23421,7 +23508,8 @@
     "0x2932e8"
    ],
    "jp": "オクビョウで、いつもボウギョばかりする",
-   "en": ""
+   "en": "Timid; it's always defending",
+   "status": "translated"
   },
   {
    "id": "s28B6A2",
@@ -23430,7 +23518,8 @@
     "0x2932ec"
    ],
    "jp": "味方のピンチを回復ワザでサポートできる",
-   "en": ""
+   "en": "Supports allies in a pinch with healing",
+   "status": "translated"
   },
   {
    "id": "s28B6CA",
@@ -23448,7 +23537,8 @@
     "0x2932f4"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": ""
+   "en": "Looks like this one{8207}evolves normally.",
+   "status": "translated"
   },
   {
    "id": "s28B6FE",
@@ -23457,7 +23547,8 @@
     "0x293308"
    ],
    "jp": "マットビビ",
-   "en": ""
+   "en": "Mattobibi",
+   "status": "translated"
   },
   {
    "id": "s28B70A",
@@ -23466,7 +23557,8 @@
     "0x29330c"
    ],
    "jp": "いろいろなワザの使い手だったが\n年のせいで、昔のワザをわすれてしまっている",
-   "en": ""
+   "en": "It knew all kinds of moves,\nbut with age it's forgotten its old ones",
+   "status": "translated"
   },
   {
    "id": "s28B756",
@@ -23475,7 +23567,8 @@
     "0x293310"
    ],
    "jp": "良いワザを思い出せるとヒジョウに強力",
-   "en": ""
+   "en": "Very strong if it recalls good moves",
+   "status": "translated"
   },
   {
    "id": "s28B77C",
@@ -23493,7 +23586,8 @@
     "0x293318"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": ""
+   "en": "Looks like this one{8207}evolves normally.",
+   "status": "translated"
   },
   {
    "id": "s28B7B0",
@@ -23502,7 +23596,8 @@
     "0x29332c"
    ],
    "jp": "アクリィ",
-   "en": ""
+   "en": "Akury",
+   "status": "translated"
   },
   {
    "id": "s28B7BA",
@@ -23511,7 +23606,8 @@
     "0x293330"
    ],
    "jp": "むしがたグランボをみつけると攻撃してくる",
-   "en": ""
+   "en": "Attacks any bug-type Granbo it finds",
+   "status": "translated"
   },
   {
    "id": "s28B7E4",
@@ -23520,7 +23616,8 @@
     "0x293334"
    ],
    "jp": "どんなに強力なグランボが相手でも\nむしがたならばおそれる事はない",
-   "en": ""
+   "en": "However strong the foe,\nit fears no bug-type Granbo",
+   "status": "translated"
   },
   {
    "id": "s28B826",
@@ -23538,7 +23635,8 @@
     "0x29333c"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28B84E",
@@ -23547,7 +23645,8 @@
     "0x293350"
    ],
    "jp": "メガ",
-   "en": ""
+   "en": "Mega",
+   "status": "translated"
   },
   {
    "id": "s28B854",
@@ -23556,7 +23655,8 @@
     "0x293354"
    ],
    "jp": "コナワザを使う数少ないグランボ",
-   "en": ""
+   "en": "One of few Granbo using Dust",
+   "status": "translated"
   },
   {
    "id": "s28B874",
@@ -23565,7 +23665,8 @@
     "0x293358"
    ],
    "jp": "攻撃ワザは少ないがもともとATが高いので\nあまり気にするヒツヨウはない",
-   "en": ""
+   "en": "Few attack moves, but its AT is high,\nso no need to worry much",
+   "status": "translated"
   },
   {
    "id": "s28B8BC",
@@ -23583,7 +23684,8 @@
     "0x293360"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28B8E4",
@@ -23592,7 +23694,8 @@
     "0x293374"
    ],
    "jp": "コロコラン",
-   "en": ""
+   "en": "Korokoran",
+   "status": "translated"
   },
   {
    "id": "s28B8F0",
@@ -23601,7 +23704,8 @@
     "0x293378"
    ],
    "jp": "だれに当たるかわからない攻撃ワザを持っている",
-   "en": ""
+   "en": "Has an attack move that hits at random",
+   "status": "translated"
   },
   {
    "id": "s28B91E",
@@ -23610,7 +23714,8 @@
     "0x29337c"
    ],
    "jp": "だれに当たるかわからない攻撃ワザを持っている\n味方の数が少ない時には使えるかも",
-   "en": ""
+   "en": "Has an attack move that hits at random\nCould help when allies are few",
+   "status": "translated"
   },
   {
    "id": "s28B96E",
@@ -23628,7 +23733,8 @@
     "0x293384"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28B996",
@@ -23637,7 +23743,8 @@
     "0x293398"
    ],
    "jp": "ガニガブ",
-   "en": ""
+   "en": "Ganigab",
+   "status": "translated"
   },
   {
    "id": "s28B9A0",
@@ -23646,7 +23753,8 @@
     "0x29339c"
    ],
    "jp": "もともとは回復ワザの使い手だったが\n今はわすれてしまっている",
-   "en": ""
+   "en": " Once a master of healing moves,\nbut it forgot them",
+   "status": "translated"
   },
   {
    "id": "s28B9DE",
@@ -23655,7 +23763,8 @@
     "0x2933a0"
    ],
    "jp": "強力な回復ワザを思い出すかどうかで\n戦いが大きく変わってくる",
-   "en": ""
+   "en": "Recalling its strong healing moves\nchanges battles a lot",
+   "status": "translated"
   },
   {
    "id": "s28BA1C",
@@ -23673,7 +23782,8 @@
     "0x2933a8"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28BA44",
@@ -23682,7 +23792,8 @@
     "0x2933bc"
    ],
    "jp": "ククージャ",
-   "en": ""
+   "en": "Kukuja",
+   "status": "translated"
   },
   {
    "id": "s28BA50",
@@ -23691,7 +23802,8 @@
     "0x2933c0"
    ],
    "jp": "ひろげたはねからビームワザや\nオンパワザをはなつ",
-   "en": ""
+   "en": "Fires Beam and Wave moves\nfrom its wings",
+   "status": "translated"
   },
   {
    "id": "s28BA82",
@@ -23700,7 +23812,8 @@
     "0x2933c4"
    ],
    "jp": "オンパで弱らせてビームでしとめる戦い方が\nゆうこうだが、のこりのENにチュウイ",
-   "en": ""
+   "en": "Weaken with Wave, finish with Beam:\ngood, but watch your remaining EN",
+   "status": "translated"
   },
   {
    "id": "s28BAD2",
@@ -23718,7 +23831,8 @@
     "0x2933cc"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28BAFA",
@@ -23727,7 +23841,8 @@
     "0x2933e0"
    ],
    "jp": "ラトプ",
-   "en": ""
+   "en": "Ratop",
+   "status": "translated"
   },
   {
    "id": "s28BB02",
@@ -23736,7 +23851,8 @@
     "0x2933e4"
    ],
    "jp": "少しでもダメージをうけると全力で攻撃してくる\nおとなしいうちにジョウタイイジョウにしてしまおう",
-   "en": ""
+   "en": "Even a little damage makes it attack all-out\nGive it a status effect while it's calm",
+   "status": "translated"
   },
   {
    "id": "s28BB62",
@@ -23745,7 +23861,8 @@
     "0x2933e8"
    ],
    "jp": "ホーンワザをおぼえると相手のパラメータを\n下げられるので戦いがラクになる",
-   "en": ""
+   "en": "Learning Horn moves lets it lower foes'\nstats, making battles easier",
+   "status": "translated"
   },
   {
    "id": "s28BBAC",
@@ -23763,7 +23880,8 @@
     "0x2933f0"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28BBD4",
@@ -23772,7 +23890,8 @@
     "0x293404"
    ],
    "jp": "トカトビーゲ",
-   "en": ""
+   "en": "Tokatobige",
+   "status": "translated"
   },
   {
    "id": "s28BBE2",
@@ -23781,7 +23900,8 @@
     "0x293408"
    ],
    "jp": "空を飛ぶ攻撃がトクイ",
-   "en": ""
+   "en": "Good at air attacks",
+   "status": "translated"
   },
   {
    "id": "s28BBF8",
@@ -23790,7 +23910,8 @@
     "0x29340c"
    ],
    "jp": "成長すると味方をサポートするワザを多くおぼえる",
-   "en": ""
+   "en": "Learns many ally-support moves as it grows",
+   "status": "translated"
   },
   {
    "id": "s28BC28",
@@ -23808,7 +23929,8 @@
     "0x293414"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": ""
+   "en": "Looks like this one{8207}evolves normally.",
+   "status": "translated"
   },
   {
    "id": "s28BC5C",
@@ -23817,7 +23939,8 @@
     "0x293428"
    ],
    "jp": "グランダム",
-   "en": ""
+   "en": "Grandam",
+   "status": "translated"
   },
   {
    "id": "s28BC68",
@@ -23826,7 +23949,8 @@
     "0x29342c"
    ],
    "jp": "バージョンアップしたガダム",
-   "en": ""
+   "en": "An upgraded Gadam",
+   "status": "translated"
   },
   {
    "id": "s28BC84",
@@ -23835,7 +23959,8 @@
     "0x293430"
    ],
    "jp": "バージョンアップしてツノの形がヘンカ\nおぼえるカットワザのイリョクが上がっている",
-   "en": ""
+   "en": "Upgrading changed its horn's shape\nThe Cut moves it learns are stronger now",
+   "status": "translated"
   },
   {
    "id": "s28BCD6",
@@ -23853,7 +23978,8 @@
     "0x293438"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": ""
+   "en": "Looks like this one's complete.",
+   "status": "translated"
   },
   {
    "id": "s28BCFE",
@@ -23862,7 +23988,8 @@
     "0x29344c"
    ],
    "jp": "チッピー",
-   "en": ""
+   "en": "Chippy",
+   "status": "translated"
   },
   {
    "id": "s28BD08",
@@ -23871,7 +23998,8 @@
     "0x293450"
    ],
    "jp": "ATダウンと回復を使うためなかなかたおすことができない",
-   "en": ""
+   "en": "Uses AT Down and healing; hard to beat",
+   "status": "translated"
   },
   {
    "id": "s28BD40",
@@ -23880,7 +24008,8 @@
     "0x293454"
    ],
    "jp": "回復ワザを多くおぼえるため成長すると\nサポートのエキスパートになれる",
-   "en": ""
+   "en": "Learns many healing moves; in time\nit becomes a support expert",
+   "status": "translated"
   },
   {
    "id": "s28BD86",
@@ -23898,7 +24027,8 @@
     "0x29345c"
    ],
    "jp": "「こいつは地中で生きる{940A}を使えば{8207}こいつも地中がすきな{940A}に{8207}シンカするようね」",
-   "en": ""
+   "en": "Use an underground {940A}{8207}and it may evolve into a{8207}digger {940A}",
+   "status": "translated"
   },
   {
    "id": "s28BDD8",
@@ -23907,7 +24037,8 @@
     "0x293470"
    ],
    "jp": "イグーリー",
-   "en": ""
+   "en": "Iguly",
+   "status": "translated"
   },
   {
    "id": "s28BDE4",
@@ -23916,7 +24047,8 @@
     "0x293474"
    ],
    "jp": "高いイリョクをほこる飛行ワザがトクイ",
-   "en": ""
+   "en": "Good at high-power flying moves",
+   "status": "translated"
   },
   {
    "id": "s28BE0A",
