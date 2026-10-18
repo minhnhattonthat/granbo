@@ -58,6 +58,14 @@ S.battle = { desc = "random battle in cave map 2/1 (2 ホッパー): battle scre
   W.encounter("up")
 end }
 
+S.battle_moves = { desc = "random battle, A on the command window: move list with EN costs", run = function(W)
+  W.new_game()
+  W.warp(2, 1)
+  W.encounter("up")
+  W.press("a")
+  W.frames(60)
+end }
+
 S.battle_won = { desc = "battle result screen '戦闘に勝った!!!' (mode 8), after attacking with A (GOD on)",
   run = function(W)
   GOD = true

@@ -18,6 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 FONT = 0x308BF8
 CODE_BASE = 0x7F3000  # 0xFF padding after the original data (ends 0x7F207B); inside the original 8 MiB
 VWF_STATE = 0x0203F000  # 16 bytes; only boot-time clears touch 0x0203E000-0x0203F5CF (docs/re/text.md)
+NAMEBUF = VWF_STATE + 0x70  # u32: last output buffer of name6 (asm/name6.s), after the two vwf_menu states
+NAME6 = 0x04B71C  # name6(src bytes, dst units): a Granbo name's 6 RAM bytes -> 6 units + 8500
 DRAW_GLYPH = 0x056058
 MENU_GLYPH = 0x04B4C8  # 8x16 per-glyph block inside draw_menu_string (0x0804B3AC)
 TYPE_GLYPH = 0x04B6C0  # 8x16 per-glyph block inside the typewriter window printer (0x0804B524)
@@ -29,7 +31,8 @@ EN_CODES.update({chr(65 + i): 0x0AC + i for i in range(26)})
 EN_CODES.update({chr(97 + i): 0x0C6 + i for i in range(26)})
 EN_CODES.update({"!": 0x0E8, "?": 0x0E9, ".": 0x0EC, ",": 0x0E2, "-": 0x0EE, "(": 0x0F5, ")": 0x0F6, "/": 0x0F1,
                  "+": 0x0ED, "=": 0x0F2, "~": 0x0E1, "<": 0x0E4, ">": 0x0E5, '"': 0x0E6,
-                 "「": 0x0F7, "'": 0x1F0, ":": 0x1F1, ";": 0x1F2, "%": 0x1F3, "&": 0x1F4, "*": 0x1F5, "#": 0x1F6})
+                 "「": 0x0F7, "'": 0x1F0, ":": 0x1F1, ";": 0x1F2, "%": 0x1F3, "&": 0x1F4, "*": 0x1F5, "#": 0x1F6,
+                 " ": 0x1F7})
 assert len(set(EN_CODES.values())) == len(EN_CODES)
 assert set(EN_CODES) <= set(font_en.ART), set(EN_CODES) - set(font_en.ART)
 
@@ -71,7 +74,7 @@ def patch(r, lig=None):
     # menu strings: draw_menu_string's 8x16 glyph block (0x0804B4C8-0x0804B4E5) -> asm/vwf_menu.s
     menu = CODE_BASE + 0x1000
     code = asm.assemble(ROOT / "asm/vwf_menu.s", 0x08000000 + menu,
-                        {"STATE": VWF_STATE + 0x10, "WIDTHS": 0x08000000 + wt})
+                        {"STATE": VWF_STATE + 0x10, "WIDTHS": 0x08000000 + wt, "FILL": 1, "NAMEBUF": NAMEBUF})
     assert len(code) <= 0x800 and r.orig[menu:menu + 0x800] == b"\xff" * 0x800
     r.put(menu, code, "vwf_menu code")
     assert r.orig[MENU_GLYPH:MENU_GLYPH + 30] == bytes.fromhex(
@@ -89,7 +92,7 @@ def patch(r, lig=None):
     # its calls, and a shared state would restart its run at every one of them
     tw = CODE_BASE + 0x1800
     code = asm.assemble(ROOT / "asm/vwf_menu.s", 0x08000000 + tw,
-                        {"STATE": VWF_STATE + 0x40, "WIDTHS": 0x08000000 + wt})
+                        {"STATE": VWF_STATE + 0x40, "WIDTHS": 0x08000000 + wt, "FILL": 0, "NAMEBUF": NAMEBUF})
     assert len(code) <= 0x800 and r.orig[tw:tw + 0x800] == b"\xff" * 0x800
     r.put(tw, code, "vwf_menu (typewriter) code")
     wrap = CODE_BASE + 0x2000
@@ -108,3 +111,24 @@ def patch(r, lig=None):
     for site, n in ((0x05661A, 10), (0x056648, 8)):
         assert r.orig[site:site + 2] == bytes.fromhex("052c")
         r.put(site, bytes([n - 1, 0x2C]), f"speaker name {n} units")
+    # skills list (0x0806BD6C): rows are 2 columns 112 px apart with "E n" drawn at name+64 px, too narrow for the
+    # English names. Skip the per-row cost (`beq` on empty slot -> `b`); the description box shows "EN Cost n".
+    assert r.orig[0x06BDC2:0x06BDC4] == bytes.fromhex("40d0")
+    r.put(0x06BDC2, bytes.fromhex("40e0"), "skills list: no per-row cost")
+    # its description box composes name + 12 spaces, cut at unit 14, + "EN Cost n": pad with asm/pad_col.s instead
+    pad = CODE_BASE + 0x2040
+    code = asm.assemble(ROOT / "asm/pad_col.s", 0x08000000 + pad, {"GAP": EN_CODES[" "]})
+    assert len(code) <= 0x40 and r.orig[pad:pad + 0x40] == b"\xff" * 0x40
+    r.put(pad, code, "pad_col code")
+    assert r.orig[0x06B2F2:0x06B30E] == bytes.fromhex("00241b481c49e0f79efa601c0004040c0b2cf6d9174d85200002a883")
+    stub = bytes.fromhex("1c4d281c0e21024b00f001f806e01847c046") + struct.pack("<I", 0x08000000 + pad + 1) \
+        + bytes.fromhex("c046c046c046")
+    # ldr r5,=0x020036F0 (pool 0x0806B364); adds r0,r5,#0; movs r1,#14; ldr r3,[pc,#8]; bl +2 (-> bx r3);
+    # b 0x0806B30E; bx r3; nop; .word pad_col|1; nops
+    assert len(stub) == 28
+    r.put(0x06B2F2, stub, "skill description: pad_col 14")
+    assert r.orig[NAME6:NAME6 + 32] == bytes.fromhex(
+        "021c00231078088001320231581c0006030e052bf6d985221202101c08807047")
+    code = asm.assemble(ROOT / "asm/name6.s", 0x08000000 + NAME6, {"NAMEBUF": NAMEBUF})
+    assert len(code) == 32, len(code)
+    r.put(NAME6, code, "name6: record the name buffer")

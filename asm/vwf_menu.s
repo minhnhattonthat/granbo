@@ -17,7 +17,7 @@
 @ already exists is reallocated by copying its 0x40 bytes back from VRAM instead of filling it with the background.
 @ Uses sl (VRAM base) and r8 (tilemap attribute) of the caller read-only. Thumb-1 only. Symbols: STATE (48 bytes
 @ RAM: slot, map, buf0, buf1, pen, ret slot, ret map, run start slot, glyph index, space run, frame, flags
-@ (bit 0: current cell is in VRAM, bit 1: next cell is)), WIDTHS.
+@ (bit 0: current cell is in VRAM, bit 1: next cell is)), WIDTHS, FILL, NAMEBUF (see name_fill).
     .thumb
 vwf_menu:
     push {r4-r7, lr}
@@ -125,6 +125,7 @@ advance_pen:
     ldr r0, [r7, #16]
     adds r0, r0, r3
     bl move_pen
+    bl name_fill
 retvals:
     ldr r0, [r7, #0]
     adds r0, #2
@@ -135,6 +136,36 @@ retvals:
     pop {r4-r7}
     pop {r3}
     bx r3
+
+@ name_fill: Granbo names are 6 units from 0x0804B71C, which stores its output buffer at [NAMEBUF] (engine.py).
+@ An English name is narrower than the 6 cells the original drew, so the field's last cells kept whatever VRAM
+@ held (a black cell after the name). When this glyph is that buffer's 6th unit (r6 = draw_menu_string's string
+@ pointer), move the pen to the run's original 6-cell end, drawing the cells it passes. FILL = 0 disables it (the
+@ typewriter copy, whose r6 is no string pointer). Keeps r1-r7.
+name_fill:
+    push {r1-r3, lr}
+    ldr r0, lit_fill
+    cmp r0, #0
+    beq nf_ret
+    ldr r0, lit_namebuf
+    ldr r0, [r0]
+    adds r0, #10
+    cmp r0, r6
+    bne nf_ret
+    ldr r0, [r7, #32]
+    lsls r0, r0, #3
+    ldr r2, [r7, #0]
+    ldr r3, [r7, #28]
+    subs r2, r2, r3
+    lsls r2, r2, #2
+    ldr r3, [r7, #16]
+    adds r2, r2, r3
+    subs r0, r0, r2
+    ble nf_ret
+    adds r0, r0, r3
+    bl move_pen
+nf_ret:
+    pop {r1-r3, pc}
 
 @ blit_glyph(r1 = code): the glyph's ink at the pen of the current cell (cells allocated as pixels land).
 @ Keeps r7.
@@ -340,3 +371,5 @@ lit_stage:   .word 0x02023C40
 lit_bg:      .word 0x33333333
 lit_queue:   .word 0x0804D285
 lit_frame:   .word 0x03002654
+lit_fill:    .word FILL
+lit_namebuf: .word NAMEBUF

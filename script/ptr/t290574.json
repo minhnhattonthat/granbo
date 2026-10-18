@@ -6289,7 +6289,7 @@
     "0x290f74"
    ],
    "jp": "やりかえし",
-   "en": " Payback",
+   "en": "Payback",
    "status": "translated"
   },
   {
@@ -6319,7 +6319,7 @@
     "0x290f80"
    ],
    "jp": "やりかえし",
-   "en": " Payback",
+   "en": "Payback",
    "status": "translated"
   },
   {
@@ -6347,7 +6347,7 @@
     "0x290f8c"
    ],
    "jp": "やりかえし",
-   "en": " Payback",
+   "en": "Payback",
    "status": "translated"
   },
   {
@@ -6615,7 +6615,7 @@
     "0x290ff8"
    ],
    "jp": "はんしゃバリア弱",
-   "en": " Reflect Barrier 1",
+   "en": "Reflect Barrier 1",
    "status": "translated"
   },
   {
@@ -6645,7 +6645,7 @@
     "0x291004"
    ],
    "jp": "はんしゃバリア弱",
-   "en": " Reflect Barrier 1",
+   "en": "Reflect Barrier 1",
    "status": "translated"
   },
   {
@@ -6673,7 +6673,7 @@
     "0x291010"
    ],
    "jp": "はんしゃバリア中",
-   "en": " Reflect Barrier 2",
+   "en": "Reflect Barrier 2",
    "status": "translated"
   },
   {
@@ -6703,7 +6703,7 @@
     "0x29101c"
    ],
    "jp": "はんしゃバリア中",
-   "en": " Reflect Barrier 2",
+   "en": "Reflect Barrier 2",
    "status": "translated"
   },
   {
@@ -6731,7 +6731,7 @@
     "0x291028"
    ],
    "jp": "はんしゃバリア強",
-   "en": " Reflect Barrier 3",
+   "en": "Reflect Barrier 3",
    "status": "translated"
   },
   {
@@ -6761,7 +6761,7 @@
     "0x291034"
    ],
    "jp": "はんしゃバリア強",
-   "en": " Reflect Barrier 3",
+   "en": "Reflect Barrier 3",
    "status": "translated"
   },
   {
@@ -6789,7 +6789,7 @@
     "0x291040"
    ],
    "jp": "はんげきバリア弱",
-   "en": " Counter Barrier 1",
+   "en": "Counter Barrier 1",
    "status": "translated"
   },
   {
@@ -6819,7 +6819,7 @@
     "0x29104c"
    ],
    "jp": "はんげきバリア弱",
-   "en": " Counter Barrier 1",
+   "en": "Counter Barrier 1",
    "status": "translated"
   },
   {
@@ -6847,7 +6847,7 @@
     "0x291058"
    ],
    "jp": "はんげきバリア中",
-   "en": " Counter Barrier 2",
+   "en": "Counter Barrier 2",
    "status": "translated"
   },
   {
@@ -6877,7 +6877,7 @@
     "0x291064"
    ],
    "jp": "はんげきバリア中",
-   "en": " Counter Barrier 2",
+   "en": "Counter Barrier 2",
    "status": "translated"
   },
   {
@@ -6905,7 +6905,7 @@
     "0x291070"
    ],
    "jp": "はんげきバリア強",
-   "en": " Counter Barrier 3",
+   "en": "Counter Barrier 3",
    "status": "translated"
   },
   {
@@ -6935,7 +6935,7 @@
     "0x29107c"
    ],
    "jp": "はんげきバリア強",
-   "en": " Counter Barrier 3",
+   "en": "Counter Barrier 3",
    "status": "translated"
   },
   {
@@ -7881,7 +7881,7 @@
     "0x2911fc"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -7909,7 +7909,7 @@
     "0x291208"
    ],
    "jp": "とどめ",
-   "en": " Finish",
+   "en": "Finish",
    "status": "translated"
   },
   {
@@ -8077,7 +8077,7 @@
     "0x291250"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -8105,7 +8105,7 @@
     "0x29125c"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -8133,7 +8133,7 @@
     "0x291268"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -8281,7 +8281,7 @@
     "0x2912a4"
    ],
    "jp": "のろのろヒット弱",
-   "en": " Slow Hit 1",
+   "en": "Slow Hit 1",
    "status": "translated"
   },
   {
@@ -8311,7 +8311,7 @@
     "0x2912b0"
    ],
    "jp": "のろのろヒット中",
-   "en": " Slow Hit 2",
+   "en": "Slow Hit 2",
    "status": "translated"
   },
   {
@@ -8341,7 +8341,7 @@
     "0x2912bc"
    ],
    "jp": "のろのろヒット強",
-   "en": " Slow Hit 3",
+   "en": "Slow Hit 3",
    "status": "translated"
   },
   {
@@ -8741,7 +8741,7 @@
     "0x29135c"
    ],
    "jp": "とくしゅなニンジンを\n全体になげつけて攻撃",
-   "en": " Throw a special\ncarrot at all foes",
+   "en": "Throw a special\ncarrot at all foes",
    "status": "translated"
   },
   {
@@ -8751,7 +8751,7 @@
     "0x291360"
    ],
    "jp": "とくしゅなニンジンをなげてゼンタイにコウゲキ",
-   "en": " Throw a special carrot to hit all foes",
+   "en": "Throw a special carrot to hit all foes",
    "status": "translated"
   },
   {
@@ -8771,7 +8771,7 @@
     "0x291368"
    ],
    "jp": "とくしゅなタマゴを\n全体になげつけて攻撃",
-   "en": " Throw a special\negg at all foes",
+   "en": "Throw a special\negg at all foes",
    "status": "translated"
   },
   {
@@ -8781,7 +8781,7 @@
     "0x29136c"
    ],
    "jp": "とくしゅなタマゴをなげて ゼンタイにコウゲキ",
-   "en": " Throw a special egg to hit all foes",
+   "en": "Throw a special egg to hit all foes",
    "status": "translated"
   },
   {
@@ -8801,7 +8801,7 @@
     "0x291374"
    ],
    "jp": "とくしゅなバナナを\n全体になげつけて攻撃",
-   "en": " Throw a special\nbanana at all foes",
+   "en": "Throw a special\nbanana at all foes",
    "status": "translated"
   },
   {
@@ -8811,7 +8811,7 @@
     "0x291378"
    ],
    "jp": "とくしゅなバナナをなげて ゼンタイにコウゲキ",
-   "en": " Throw a special banana to hit all foes",
+   "en": "Throw a special banana to hit all foes",
    "status": "translated"
   },
   {
@@ -8831,7 +8831,7 @@
     "0x291380"
    ],
    "jp": "とくしゅなボールを\n全体になげつけて攻撃",
-   "en": " A special ball\nis hurled at all foes",
+   "en": "A special ball\nis hurled at all foes",
    "status": "translated"
   },
   {
@@ -8841,7 +8841,7 @@
     "0x291384"
    ],
    "jp": "とくしゅなボールをなげて ゼンタイにコウゲキ",
-   "en": " Throws a special ball at all foes",
+   "en": "Throws a special ball at all foes",
    "status": "translated"
   },
   {
@@ -9479,7 +9479,7 @@
     "0x291484"
    ],
    "jp": "とうみん",
-   "en": " Hibernate",
+   "en": "Hibernate",
    "status": "translated"
   },
   {
@@ -10769,7 +10769,7 @@
     "0x291694"
    ],
    "jp": "のろのろヒット弱",
-   "en": " Slow Hit 1",
+   "en": "Slow Hit 1",
    "status": "translated"
   },
   {
@@ -11503,7 +11503,7 @@
     "0x2917c0"
    ],
    "jp": "ものまね",
-   "en": " Mimic",
+   "en": "Mimic",
    "status": "translated"
   },
   {
@@ -11533,7 +11533,7 @@
     "0x2917cc"
    ],
    "jp": "ものまね",
-   "en": " Mimic",
+   "en": "Mimic",
    "status": "translated"
   },
   {
@@ -11561,7 +11561,7 @@
     "0x2917d8"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -11679,7 +11679,7 @@
     "0x291808"
    ],
    "jp": "とびまわり",
-   "en": " Flit About",
+   "en": "Flit About",
    "status": "translated"
   },
   {
@@ -12865,7 +12865,7 @@
     "0x2919e8"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -12893,7 +12893,7 @@
     "0x2919f4"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -13303,7 +13303,7 @@
     "0x291a9c"
    ],
    "jp": "はさみなげ",
-   "en": " Pincer Throw",
+   "en": "Pincer Throw",
    "status": "translated"
   },
   {
@@ -13313,7 +13313,7 @@
     "0x291aa0"
    ],
    "jp": "はさんでなげとばす攻撃\nストップにする事がある",
-   "en": " Pincer-throw attack\nMay cause Stop",
+   "en": "Pincer-throw attack\nMay cause Stop",
    "status": "translated"
   },
   {
@@ -13323,7 +13323,7 @@
     "0x291aa4"
    ],
    "jp": "はさんでなげとばすコウゲキストップにすることがある",
-   "en": " Pincer-throw attack; may cause Stop",
+   "en": "Pincer-throw attack; may cause Stop",
    "status": "translated"
   },
   {
@@ -13717,7 +13717,7 @@
     "0x291b44"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -13745,7 +13745,7 @@
     "0x291b50"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -13773,7 +13773,7 @@
     "0x291b5c"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -14041,7 +14041,7 @@
     "0x291bc8"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -14247,7 +14247,7 @@
     "0x291c1c"
    ],
    "jp": "にらみあい",
-   "en": " Stare-Down",
+   "en": "Stare-Down",
    "status": "translated"
   },
   {
@@ -14277,7 +14277,7 @@
     "0x291c28"
    ],
    "jp": "にらみあい",
-   "en": " Stare-Down",
+   "en": "Stare-Down",
    "status": "translated"
   },
   {
@@ -14305,7 +14305,7 @@
     "0x291c34"
    ],
    "jp": "にらみあい",
-   "en": " Stare-Down",
+   "en": "Stare-Down",
    "status": "translated"
   },
   {
@@ -14333,7 +14333,7 @@
     "0x291c40"
    ],
    "jp": "にらみあい",
-   "en": " Stare-Down",
+   "en": "Stare-Down",
    "status": "translated"
   },
   {
@@ -14879,7 +14879,7 @@
     "0x291d24"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -14907,7 +14907,7 @@
     "0x291d30"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -14935,7 +14935,7 @@
     "0x291d3c"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -14963,7 +14963,7 @@
     "0x291d48"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -14991,7 +14991,7 @@
     "0x291d54"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -15019,7 +15019,7 @@
     "0x291d60"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -15047,7 +15047,7 @@
     "0x291d6c"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -15075,7 +15075,7 @@
     "0x291d78"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -15103,7 +15103,7 @@
     "0x291d84"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -15131,7 +15131,7 @@
     "0x291d90"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -15159,7 +15159,7 @@
     "0x291d9c"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -15187,7 +15187,7 @@
     "0x291da8"
    ],
    "jp": "とまどい！！！",
-   "en": " Confused!!",
+   "en": "Confused!!",
    "status": "translated"
   },
   {
@@ -16456,7 +16456,7 @@
     "0x291fb4"
    ],
    "jp": "でんじバリアをかいじょするカギ",
-   "en": " Turns off the electric barrier",
+   "en": "Turns off the electric barrier",
    "status": "translated"
   },
   {
@@ -18314,7 +18314,7 @@
     "0x292400"
    ],
    "jp": "でんせつのグランボの1しゅるい",
-   "en": " One of the legendary Granbo",
+   "en": "One of the legendary Granbo",
    "status": "translated"
   },
   {
@@ -18363,7 +18363,7 @@
     "0x292424"
    ],
    "jp": "でんせつのふしちょうのすがたをしたグランボ\n一度たおしてもふっかつするヤッカイな相手",
-   "en": " A Granbo like a legendary phoenix\nA pesky foe that revives when beaten",
+   "en": "A Granbo like a legendary phoenix\nA pesky foe that revives when beaten",
    "status": "translated"
   },
   {
@@ -18471,7 +18471,7 @@
     "0x292470"
    ],
    "jp": "のこりのENをかんがえて、うまくワザを使えば\nたのもしい戦力になる",
-   "en": " Mind its EN and use its moves wisely,\nand it's a big help",
+   "en": "Mind its EN and use its moves wisely,\nand it's a big help",
    "status": "translated"
   },
   {
@@ -18510,7 +18510,7 @@
     "0x292490"
    ],
    "jp": "がんじょうなカラをいかし\nバリアを時々使ってくるのでやっかい",
-   "en": " Uses its tough shell,\nand sometimes a barrier. Pesky!",
+   "en": "Uses its tough shell,\nand sometimes a barrier. Pesky!",
    "status": "translated"
   },
   {
@@ -19294,7 +19294,7 @@
     "0x2926d0"
    ],
    "jp": "とくしゅなバナナをなげて\n全体に攻撃してくるヤッカイな敵",
-   "en": " Throws special bananas\nto hit the whole team. Pesky!",
+   "en": "Throws special bananas\nto hit the whole team. Pesky!",
    "status": "translated"
   },
   {
@@ -20078,7 +20078,7 @@
     "0x292910"
    ],
    "jp": "でんせつのグランボの1しゅるい\n強力なワザが多くヒジョウに強い",
-   "en": " One of the legendary Granbo\nVery strong; many big moves",
+   "en": "One of the legendary Granbo\nVery strong; many big moves",
    "status": "translated"
   },
   {
@@ -20568,7 +20568,7 @@
     "0x292a78"
    ],
    "jp": "でんせつのグランボの1しゅるい\n敵全体をストップにする攻撃ワザを使う",
-   "en": " One of the legendary Granbo\nHas attack moves that Stop all foes",
+   "en": "One of the legendary Granbo\nHas attack moves that Stop all foes",
    "status": "translated"
   },
   {
@@ -20911,7 +20911,7 @@
     "0x292b74"
    ],
    "jp": "でんせつのグランボの1しゅるい\nとうぜん強力なのでヨウチュウイ",
-   "en": " One of the legendary Granbo\nNaturally strong, so beware",
+   "en": "One of the legendary Granbo\nNaturally strong, so beware",
    "status": "translated"
   },
   {
@@ -21009,7 +21009,7 @@
     "0x292bbc"
    ],
    "jp": "でんせつのグランボの1しゅるい\n戦うときはチュウイがヒツヨウ",
-   "en": " One of the legendary Granbo\nBe careful fighting it",
+   "en": "One of the legendary Granbo\nBe careful fighting it",
    "status": "translated"
   },
   {
@@ -21842,7 +21842,7 @@
     "0x292e20"
    ],
    "jp": "でんせつのグランボの1しゅるい\n見た目はかわいいが・・・",
-   "en": " One of the legendary Granbo\nIt looks cute, but...",
+   "en": "One of the legendary Granbo\nIt looks cute, but...",
    "status": "translated"
   },
   {
@@ -21891,7 +21891,7 @@
     "0x292e44"
    ],
    "jp": "でんせつのグランボの1しゅるい\n見た目とはうらはらにとても強いグランボ",
-   "en": " One of the legendary Granbo\nDespite its looks, it's very strong",
+   "en": "One of the legendary Granbo\nDespite its looks, it's very strong",
    "status": "translated"
   },
   {
@@ -22332,7 +22332,7 @@
     "0x292f88"
    ],
    "jp": "でんせつのグランボの1しゅるい",
-   "en": " One of the legendary Granbo",
+   "en": "One of the legendary Granbo",
    "status": "translated"
   },
   {
@@ -22381,7 +22381,7 @@
     "0x292fac"
    ],
    "jp": "でんせつのグランボの1しゅるい",
-   "en": " One of the legendary Granbo",
+   "en": "One of the legendary Granbo",
    "status": "translated"
   },
   {
@@ -23116,7 +23116,7 @@
     "0x2931c8"
    ],
    "jp": "でんせつのグランボの1しゅるい",
-   "en": " One of the legendary Granbo",
+   "en": "One of the legendary Granbo",
    "status": "translated"
   },
   {
@@ -23263,7 +23263,7 @@
     "0x293234"
    ],
    "jp": "でんせつのグランボの1しゅるい",
-   "en": " One of the legendary Granbo",
+   "en": "One of the legendary Granbo",
    "status": "translated"
   },
   {
@@ -23410,7 +23410,7 @@
     "0x2932a0"
    ],
    "jp": "とてつもなくかたいカラをもったグランボ\n高いぼうぎょ力とぼうぎょワザで何でもはねかえす",
-   "en": " A Granbo with an incredibly hard shell\nHigh DF and defense moves repel anything",
+   "en": "A Granbo with an incredibly hard shell\nHigh DF and defense moves repel anything",
    "status": "translated"
   },
   {
@@ -23753,7 +23753,7 @@
     "0x29339c"
    ],
    "jp": "もともとは回復ワザの使い手だったが\n今はわすれてしまっている",
-   "en": " Once a master of healing moves,\nbut it forgot them",
+   "en": "Once a master of healing moves,\nbut it forgot them",
    "status": "translated"
   },
   {
@@ -24635,7 +24635,7 @@
     "0x293624"
    ],
    "jp": "でんせつのグランボの1しゅるい",
-   "en": " One of the legendary Granbo",
+   "en": "One of the legendary Granbo",
    "status": "translated"
   },
   {

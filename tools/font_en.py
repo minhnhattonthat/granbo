@@ -93,8 +93,9 @@ ART = {
     ">": ["", "", "#...", ".#..", "..#.", "...#", "..#.", ".#..", "#..."],
     "#": ["", ".#.#.", "#####", ".#.#.", ".#.#.", "#####", ".#.#."],
     "「": [""],  # inline speaker names end at this code (0x0F7, docs/re/text.md): drawn blank, no advance
+    " ": [""],  # GAP: blank separator asm/pad_col.s puts between a long name and the text after it
 }
-ADVANCE = {" ": 3, "「": 0}
+ADVANCE = {" ": 3, "「": 0, " ": 8}
 
 
 def width(ch):
