@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{9201}ピンクのデスクだ・・・\n物知りじいさんのシュミだろうか・・・？{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A pink desk... Is this the wise old man's taste...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D79F0_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{9201}メッセージボードに\nデンゴンははいってない{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There are no messages on the Message Board.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D79F0_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}じいさん「おぉ！！！{8207}お前さんはっ・・・・・・」{8300}{94C8}じいさん「でんせつの{940A}セイバー{8207}ゲンゾウさんのおまごさんかっ！！！」{8300}{94C8}じいさん「ゲンゾウさんのおまごさんなら{8207}今回のスカイシャークのけんも{8207}一安心じゃっ！！！」{8300}{94C8}じいさん「そうそう、そこのベッドに{8207}ワシには使えなくなった{8207}メカエッグとデータボールがおいてある」{8300}{94C8}じいさん「スカイシャークをたおすために{8207}使ってくれ！！！」{8300}{94C8}じいさん「そうそうそれから{8207}何かこまった事があったら{8207}いつでもソウダンにくるがえぇ！！！」{8300}{94C8}じいさん「ワシは{8207}大陸一の物知りじいさんと{8207}言われておるからのぅ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gramps「Ooh!!! You're...{8300}{94C8}Gramps「The grandchild of the legendary {940A} Saver, Mr. Genzo!!!{8300}{94C8}Gramps「If you're Mr. Genzo's grandchild, then this Sky Shark business is as good as settled!!!{8300}{94C8}Gramps「Oh yes, on that bed there are a Mecha Egg and Data Balls that I can't use anymore.{8300}{94C8}Gramps「Use them to defeat Sky Shark!!!{8300}{94C8}Gramps「Oh yes, and also, if you ever run into trouble, come to me for advice anytime!!!{8300}{94C8}Gramps「After all, they call me the wisest old man on the continent!!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D79F0_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}じいさん「ワシはこの大陸一の{8207}物知りじいさんと言われておる・・・」{8300}{94C8}じいさん「ワシのちしきがスカイシャークを{8207}おい出すのにやくだつと言うなら{8207}いくらでもキョウリョクしよう！」{8300}{94C8}じいさん「何かこまった事があったら{8207}いつでもソウダンにくるがえぇ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gramps「Folks say I'm the most knowledgeable old man on this whole continent...{8300}{94C8}Gramps「If my knowledge can help drive Sky Shark out, I'll help you as much as you like!{8300}{94C8}Gramps「If you're ever in a pinch, come talk it over with me anytime!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D79F0_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}じいさん「ん・・・こまり事かいの？」{8300}{94C8}じいさん「なに？{8207}グランドチェンジのやり方がわからん？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gramps「Hm... Got some trouble, have you?{8300}{94C8}Gramps「What? You don't know how to do a Grand Change?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D79F0_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}じいさん「そう言われてもグランドチェンジなど{8207}ワシはきいた事がな・・・」{8300}{94C8}じいさん「いや、まてよ・・・たしかアイツが{8207}タワーの力で地形がどうのこうのと{8207}言っておったな」{8300}{94C8}じいさん「タワーの研究をしとる変わりモンが{8207}{8833}ここから北に行った所{8800}におるんじゃ」{8300}{94C8}じいさん「そこへ行って話をきいてみたらどうじゃ？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gramps「Even if you ask me, I've never heard of any Grand Cha...{8300}{94C8}Gramps「No, wait a minute... I'm sure that fellow was going on about the towers' power doing this and that to the land.{8300}{94C8}Gramps「There's an oddball who studies the towers {8833}north of here{8800}.{8300}{94C8}Gramps「Why not go and hear what he has to say?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D79F0_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}じいさん「ほうか・・・{8207}ならエエんじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gramps「Is that so... Then that's fine...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D79F0_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}じいさん「ん・・・こまり事かいの？」{8300}{94C8}じいさん「なに？{8207}グランドチェンジのやり方がわからん？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gramps「Hm... Got some trouble, have you?{8300}{94C8}Gramps「What? You don't know how to do a Grand Change?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D79F0_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}じいさん「そう言われてもグランドチェンジなど{8207}ワシはきいた事がな・・・」{8300}{94C8}じいさん「いや、まてよ・・・たしかアイツが{8207}タワーの力で地形がどうのこうのと{8207}言っておったな」{8300}{94C8}じいさん「タワーの研究をしとる変わりモンが{8207}{8833}ここから北に行った所{8800}におるんじゃ」{8300}{94C8}じいさん「そこへ行って話をきいてみたらどうじゃ？」{8300}{94C8}じいさん「そうそう、そこのベッドに{8207}ワシには使えなくなった{8207}メカエッグとデータボールがおいてある」{8300}{94C8}じいさん「スカイシャークをたおすために{8207}使ってくれ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gramps「Even if you ask me, I've never heard of any Grand Cha...{8300}{94C8}Gramps「No, wait a minute... I'm sure that fellow was going on about the towers' power doing this and that to the land.{8300}{94C8}Gramps「There's an oddball who studies the towers {8833}north of here{8800}.{8300}{94C8}Gramps「Why not go and hear what he has to say?{8300}{94C8}Gramps「Oh, that's right! On that bed over there, I've left a Mecha Egg and a Data Ball I can't use anymore.{8300}{94C8}Gramps「Use them to beat Sky Shark!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D79F0_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}じいさん「ほうか・・・{8207}ならエエんじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gramps「Is that so... Then that's fine...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D79F0_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}じいさん「グランドチェンジはうまくいった{8207}ようじゃな・・・」{8300}{94C8}じいさん「さっきトツゼンあつくなったからの{8207}・・・言われなくともわかるわい」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gramps「Looks like the Grand Change went well...{8300}{94C8}Gramps「It got hot all of a sudden a moment ago... I can tell without being told.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D79F0_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}じいさん「スカイシャークを{8207}やっつけてくれたらしいな？」{8300}{94C8}じいさん「なにっ！？」{8300}{94C8}じいさん「スカイシャークを{8207}おいかけるじゃと？」{8300}{94C8}じいさん「ほうか・・・・・・」{8300}{94C8}じいさん「ワシもオウエンしとるで{8207}くじけずにガンバってくれよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gramps「I hear you beat Sky Shark?{8300}{94C8}Gramps「What?!{8300}{94C8}Gramps「You're going after Sky Shark?{8300}{94C8}Gramps「Is that so...{8300}{94C8}Gramps「I'm rooting for you, so don't lose heart. Give it your all...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D79F0_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{94C8}じいさん「よもやあの時出会った{8207}おヌシが世界をすくうとは・・・」{8300}{94C8}じいさん「物知りのワシでもソウゾウも{8207}できんかったわい・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gramps「To think the kid I met back then would save the world...{8300}{94C8}Gramps「Even with all my knowledge, I never could have imagined it...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D79F0_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}    {9300}{9201}{8833}新しいメカエッグ{8800}を手にいれた\n{8900}    {9300}{9201}{8855}水オタマジャクシ{8800}のデータボール\n    がセットされているぞ！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9300}{9201}You got a {8833}new Mecha Egg{8800}! {8900} {9300}{9201}It has the {8855}Water Tadpole{8800} Data Ball set in it!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

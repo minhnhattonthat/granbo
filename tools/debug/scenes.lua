@@ -34,10 +34,21 @@ S.town_talk = { desc = "town plaza, talking to the Granbo NPC (dialogue box)", r
   W.msg_page("NPC dialogue")
 end }
 
-S.lab = { desc = "map 1/5 (debug name SHOP A): professor's lab event, first dialogue page", run = function(W)
+S.shop_event = { desc = "map 1/5 SHOP A: shop manager's event (first Granbo), first dialogue page",
+  run = function(W)
   W.new_game()
   W.warp(1, 5)
-  W.msg_page("lab dialogue")
+  W.msg_page("shop manager dialogue")
+end }
+
+S.shop = { desc = "map 3/1 SHOP B: cashier's buy list (mode 9) with prices", run = function(W)
+  W.new_game()
+  W.warp(3, 1)
+  W.press("up", 60, 2)  -- spawn is 24 px below the counter; walking stops at it
+  W.press("a")
+  -- A through the greeting until the screen change starts (mode 12 fade, then 9); no A may reach the list
+  W.mash_until(function() local m = W.r32(W.A.mode) return m == 12 or m == 9 end, "a", "shop greeting", 40)
+  W.wait(function() return W.r32(W.A.mode) == 9 and W.fade_done() end, "shop list")
 end }
 
 S.battle = { desc = "random battle in cave map 2/1 (2 ホッパー): battle screen with the command window",
@@ -52,12 +63,10 @@ S.menu = { desc = "field menu, top list (B in the field)", run = function(W)
   W.new_game(); W.warp(1, 0, 400, 300, 0); W.menu_open()
 end }
 S.menu_skills = { desc = "menu > Granbo > ワザ > ピヨリカ: skill list with description", run = function(W)
-  W.new_game(); W.warp(1, 0, 400, 300, 0); W.menu_pick(0, 0)
-  W.mash_until(function() return W.r8(0x020260CA) == 1 end, "a", "skill list", 40)
+  W.new_game(); W.warp(1, 0, 400, 300, 0); W.menu_pick(0, 0); W.menu_enter()
 end }
 S.menu_status = { desc = "menu > Granbo > 強さ > ピヨリカ: Granbo status page", run = function(W)
-  W.new_game(); W.warp(1, 0, 400, 300, 0); W.menu_pick(0, 2)
-  W.mash_until(function() return W.r8(0x02026044) == 1 end, "a", "status page", 40)
+  W.new_game(); W.warp(1, 0, 400, 300, 0); W.menu_pick(0, 2); W.menu_enter()
 end }
 S.menu_card = { desc = "menu > ジョウホウ > player card (name, ID, rank, record, play time)", run = function(W)
   W.new_game(); W.warp(1, 0, 400, 300, 0); W.menu_pick(2, 2)

@@ -12,7 +12,8 @@
     0
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}女の子「ママとおばあちゃんと3人で{8207}この大陸、{8877}ウッディーナ{8800}に{8207}あそびに来てたの・・・」{8300}{94C8}女の子「でも・・・ママがいなくなったから{8207}帰れないの・・・！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I came to visit {8877}Woodina{8800}, this continent, with Mama and Grandma, just the three of us...{8300}{94C8}Girl「But... Mama's gone, so we can't go home...!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おばあさん「ここからスカイシップで{8207}スカイシャークから{8207}逃げようと思ったんじゃが・・・」{8300}{94C8}おばあさん「大人がだれもおらんで{8207}スカイシップもこんのじゃ・・・」{8300}{94C8}おばあさん「どうしたらええんじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「We meant to flee from the Sky Shark on a Skyship from here...{8300}{94C8}Old Lady「but there's not a grown-up around, and the Skyship won't come...{8300}{94C8}Old Lady「Whatever shall we do...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}かいさついん「もうしわけございません{8207}スカイシップのとうちゃくには{8207}もうしばらくかかりそうです・・・」{8300}{94C8}かいさついん「もうしばらくおまちください」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「We're terribly sorry. It seems the Skyship will take a while longer to arrive...{8300}{94C8}Gatekeep「Please wait a little longer.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}女の子「もうすぐ帰れるよー！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「We get to go home soon!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}おばあさん「おかげさんで{8207}娘も帰ってきて・・・」{8300}{94C8}おばあさん「これで3人で帰れますじゃ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Thanks to you, my daughter has come back too...{8300}{94C8}Old Lady「Now the three of us can go home!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}女の子「お父ちゃんが帰ってきたから{8207}お家に帰れるわ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Daddy came back, so we can go home!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}おじさん「ありがとうございます」{8300}{94C8}おじさん「ごおんは一生わすれません！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Thank you so much.{8300}{94C8}Man「We'll never forget your kindness as long as we live!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}おばさん「『スカイシャーク』なんか{8207}はやくやっつけてね！！！」{8300}{94C8}おばさん「オウエンしてるわよっ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Hurry up and beat that \"Sky Shark\"!!{8300}{94C8}Lady「We're rooting for you!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{9201}{8855}水の大陸{941F}{8800}のセンデンえいぞうがながれている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}{8855}Water Continent {941F}{8800}: a promo video is playing.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{94C8}女の子「世界が平和になったからまた{8207}この大陸にあそびに来たよ～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「The world's at peace now, so we came to visit this continent again!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{94C8}おばあさん「やっぱりここは{8207}いいところですじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「This really is a lovely place...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{94C8}おばさん「この娘ったら・・・ブロッサムタウンに{8207}行ったらあの{9400}さんに会えるかも{8207}・・・なんてユメみたいなこと言ってるの」{8300}{94C8}おばさん「そんなカンタンに会えるんなら{8207}クロウしないわよ・・・{8207}あなたもそう思うでしょ？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「This girl of mine... she's saying silly dreamy things like maybe she'll meet the famous {9400} if she goes to Blossom Town...{8300}{94C8}Lady「If it were that easy to meet them, no one would have to try so hard... Don't you think so too?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8000}{8603}{9499}「・・・{9400}さん{8207}シュッパツする前にもう一度だけ{8207}ききます・・・」{8300}{8603}{9499}「スカイシャークをおいかけるのは{8207}たぶんあなたが思っているいじょうに{8207}大変な事です」{8300}{8603}{9499}「それでも私といっしょに{8207}来てくださるのですか？」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8603}{9499}...{9400}, let me ask you one more time before we set out...{8300}{8603}{9499}Chasing the Sky Shark will probably be harder than you think.{8300}{8603}{9499}Will you still come with me?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8000}{8602}{9498}「行くに決まってるんだな～」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8602}{9498}Of course I'm going, y'know!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8000}{8602}{9498}「話はぜんぶ{8207}ゲンゾウさんにきいたよ～」{8300}{8602}{9498}「オイラも{940A}を悪い事に使う{8207}スカイシャークがゆるせないんだな～」{8300}{8602}{9498}「だから{8207}{9403}ちゃんにキョウリョクするのは{8207}トウゼンなんだな～」{8300}{8602}{9498}「ね？{9400}くん～？」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8602}{9498}I heard the whole story from Mr. Genzo!{8300}{8602}{9498}I can't forgive the Sky Shark for using {940A} for bad things, y'know!{8300}{8602}{9498}So of course I'm gonna help {9403}, y'know!{8300}{8602}{9498}Right, {9400}?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8000}{8613}{9499}「お2人とも・・・」{8300}{8613}{9499}「・・・ありがとうございます」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8613}{9499}You two...{8300}{8613}{9499}...Thank you so much.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8000}{8603}{9499}「・・・それでは{8207}{8855}水の大陸{941F}{8800}へ行きましょう！」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8603}{9499}...Well then, let's go to {8855}{941F}, the Water Continent{8800}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8000}{8603}{9499}「{9400}さん、{8207}シュッパツのジュンビはよろしいですか？」\n{8D00}{8100}",
-   "en": ""
+   "en": "{8000}{8603}{9499}{9400}, are you ready to set off?{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_026",
@@ -220,7 +246,8 @@
     26
    ],
    "jp": "{8000}{8603}{9499}「では、ジュンビができるまで{8207}私達はここでまっていますね」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8603}{9499}Then we'll wait here until you're ready.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_027",
@@ -228,7 +255,8 @@
     27
    ],
    "jp": "{8000}{94C8}かいさついん「ごりようありがとうございます」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Gatekeep「Thank you for flying with us.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_028",
@@ -236,7 +264,8 @@
     28
    ],
    "jp": "{8002}{8603}{9499}「{9400}さん、{8207}シュッパツのジュンビはよろしいですか？」\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}{9400}, are you ready to set off?{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_029",
@@ -244,7 +273,8 @@
     29
    ],
    "jp": "{8002}{8603}{9499}「では、ジュンビができるまで{8207}私達はここでまっていますね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}Then we'll wait here until you're ready.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_030",
@@ -252,7 +282,8 @@
     30
    ],
    "jp": "{8002}{8602}{9498}「もうすぐスカイシップが{8207}出るみたいだよ～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Looks like the Skyship's leaving soon~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_031",
@@ -260,7 +291,8 @@
     31
    ],
    "jp": "{8002}{94C8}かいさついん「次のスカイシップは{8207}まもなくシュッパツですよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「The next Skyship departs shortly.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_032",
@@ -268,7 +300,8 @@
     32
    ],
    "jp": "{8002}{94C8}かいさついん「スカイシップにのりますか？」{8207}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Will you board the Skyship?{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_033",
@@ -276,7 +309,8 @@
     33
    ],
    "jp": "{8002}{94C8}かいさついん「それではごとうじょうください」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Then please come aboard.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_034",
@@ -284,7 +318,8 @@
     34
    ],
    "jp": "{8002}{94C8}かいさついん「ごりようありがとうございます」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Thank you for flying with us.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DCD74_035",
@@ -292,7 +327,8 @@
     35
    ],
    "jp": "{8000}{94C8}かいさついん「ごりようありがとうございました」{8300}{94C8}かいさついん「これからも{8207}よろしくおねがいいたします」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Gatekeep「Thank you for flying with us.{8300}{94C8}Gatekeep「We look forward to serving you again.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

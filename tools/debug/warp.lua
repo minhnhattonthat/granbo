@@ -52,7 +52,9 @@ local A = {
   msg = 0x0201ACA0,      -- message window: u8 +0 3 = open, +1 1 typing / 2 closed, +2 1 = page done (waits for A),
                          -- +4 script ptr, +8 text cursor
   menu_top = 0x020262D0, menu_sub = 0x020262D2,  -- u8 field-menu cursors
+  menu_page = 0x03002328,  -- u8 game +8, field-menu page: 2 Granbo picker, 3 skill list / status page, 7 prompt
   enc = 0x0201B270,      -- s16 encounter meter (player actor +0x100): battle when > 0xFF after a step
+  fade = 0x0201B050,     -- u32 palette fade running (object set up by fn 0x08047130); 0 = idle
   hp = 0x02005118,       -- u16 first party Granbo HP, +2 max HP, +4 EN, +6 max EN
   namekb = 0x02026398,   -- name-entry keyboard task (+4 u8 state: 1 input, 2 accepted, 4 done; +0x1C 0x0826E5B8)
 }
@@ -68,6 +70,7 @@ local function stage(b1, b2, b3)
 end
 function W.title_ready() return stage(1, 3, 4) end
 function W.in_field() return W.r32(A.top) == 1 and W.r32(A.mode) == 3 end
+function W.fade_done() return W.r32(A.fade) == 0 end
 -- Game flag sets (fn 0x08056A38 set / 0x08056A74 test): set n's bit array base is the u32 at ROM 0x081AD668 + 8n.
 -- Set 3 (0x0201AD20) holds the story flags; flag 3/0x90 enables the field menu.
 function W.flag_addr(set, i) return W.r32(0x081AD668 + 8 * set) + (i >> 5) * 4, 1 << (i & 31) end
@@ -166,6 +169,11 @@ function W.menu_pick(top, sub)
     W.press("a")
     W.wait(function() return W.r32(A.sub) == 6 end, "menu screen")
   end
+end
+-- On a "whose ...?" Granbo picker (game +8 == 2), A opens the page for the first Granbo (+8 == 3).
+function W.menu_enter()
+  W.wait(function() return W.r8(A.menu_page) == 2 end, "Granbo picker")
+  W.mash_until(function() return W.r8(A.menu_page) == 3 end, "a", "menu page", 40)
 end
 
 -- Battle: a step with the encounter meter (player actor +0x100) above 0xFF starts a random battle on maps that

@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おじさん「え？ここの人間にとって{8207}いちばん大事なもの？」{8300}{94C8}おじさん「そりゃあキミ、{940A}バトルに{8207}決まっているじゃないか！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Huh? The most important thing to folks around here?{8300}{94C8}Man「Why, {940A} battles, of course!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}男の子「グランボセイバーが自分の力を{8207}きそいあう{8833}グランボバトル{8800}・・・」{8300}{94C8}男の子「カズキさんはそこで{8207}27連勝を達成したんだ！！{8207}すごいよね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Where Granbo Savers test their strength against each other... {8833}Granbo battles{8800}!{8300}{94C8}Boy「Kazuki won 27 in a row there!! Amazing, right?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おばさん「ああ・・・{940A}バトルの{8207}ケッカが気になってしょうがないわ！！」{8300}{94C8}おばさん「もうガマンできない！{8207}バトルスタジアムに{8207}行っちゃおうかしら！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Oh... I just can't stop wondering how the {940A} battles turned out!!{8300}{94C8}Lady「I can't stand it anymore! Maybe I'll just head over to the Battle Stadium!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}おばあさん「{9401}ちゃんはいつも元気じゃのう」{8300}{94C8}おばあさん「あの子は見ている私にも{8207}元気をくれるんじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「{9401} is always so full of energy.{8300}{94C8}Old Lady「Just watching that girl gives even an old lady like me energy...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{8610}{9497}「何？今いそがしいんだけど？{8207}アタシと勝負したいの？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}What? I'm busy right now, you know? You wanna battle me?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{8601}{9497}「いいドキョウね！{8207}でも時間のムダになるだけだし・・・{8207}やめとくわ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}You've got guts! But it'd just be a waste of my time... I'll pass...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{8601}{9497}「ふ・・・ケンメイな{8207}ハンダンね！！」{8300}{8601}{9497}「このアタシに勝負をいどむなんて{8207}10000年早いわよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Heh... A wise decision!!{8300}{8601}{9497}Challenging me to a battle? You're 10,000 years too early!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94A0}「ウサウサウサーーッ！！」{8207}（相手にならないウサ！！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Bun-bun-bunnnn!! (You're no match for us, bun!!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}とりまき女「{9401}ちゃんに{8207}{940A}で勝負しようなんて{8207}あつかましいわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Groupie「How shameless, wanting to challenge {9401} to a {940A} battle!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}とりまき男「{9401}のアネゴは{8207}この町では敵なしなんだぞ！」{8300}{94C8}とりまき男「どうだ！おそれいったか！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Groupie「Big Sis {9401} has no rivals in this town!{8300}{94C8}Groupie「How about that! Impressed now?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}おばあさん「みんなはセイバーステーションに{8207}あつまっとるよ」{8300}{94C8}老人「なんでもハシをこわしたヤツらから{8207}通信が入ったとか・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Everyone's gathered at the Saver Station.{8300}{94C8}Elder「They say a message came in from the ones who broke the bridge...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}おじさん「ちきしょう！スカイシャークのヤツら！！」{8300}{94C8}おじさん「オレの友人もスタジアムで{8207}はたらいているんだ・・・」{8300}{94C8}おじさん「アフロヘアーの明るいヤツなんだが・・・{8207}ひどい目にあわされてないかシンパイだよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Darn it! Those Sky Shark creeps!!{8300}{94C8}Man「A friend of mine works at the stadium too...{8300}{94C8}Man「He's a cheerful guy with an afro... I'm worried they've done something awful to him.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{94C8}男の子「最近、{8833}大陸の東{8800}であやしいヤツが{8207}うろついてるってウワサは{8207}きいていたけど・・・」{8300}{94C8}男の子「まさかこんな事になるなんて・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「I'd heard rumors lately about a shady guy prowling around {8833}the east of the continent{8800}...{8300}{94C8}Boy「but I never thought it'd come to this...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{94C8}おばさん「私のダンナがスタジアムで{8207}はたらいているの・・・{8207}シンパイだわ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「My husband works at the stadium... I'm so worried...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94C8}おばあさん「{9401}ちゃんは{8800}大陸の東{8800}の方に{8207}向かったそうじゃ・・・」{8300}{94C8}おばあさん「少々ムテッポウな所があるから{8207}シンパイじゃよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「I hear {9401} headed off to the {8800}east of the continent{8800}...{8300}{94C8}Old Lady「She can be a bit reckless, so I worry about her...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{94C8}おじさん「ありがとう！！」{8300}{94C8}おじさん「オレの友人からも無事だって{8207}レンラクが入ったよ！！」{8300}{94C8}おじさん「もしかしたらキミもバトルスタジアムで{8207}会うかも知れないな・・・」{8300}{94C8}おじさん「ものすごく目だつヘアスタイルだから{8207}一目見たらわかると思うよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Thank you!!{8300}{94C8}Man「My friend got in touch too, saying he's safe!!{8300}{94C8}Man「You might run into him at the Battle Stadium...{8300}{94C8}Man「He's got a really eye-catching hairstyle, so you'll know him the moment you see him!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{94C8}男の子「キミってすごいんだな・・・{8207}もしかしたらカズキさんよりも{8207}強かったりして！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「You're really something... Maybe you're even stronger than Kazuki!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{94C8}おばさん「私のダンナを助けてくれて{8207}ありがとねっ！！」{8300}{94C8}おばさん「ゆっくりしていって！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Thanks for saving my hubby!!{8300}{94C8}Lady「Make yourself at home!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{94C8}おばあさん「{9401}ちゃんは・・・？」{8300}{94C8}おばあさん「そうか・・・自分の力を知る事も{8207}強くなるにはヒツヨウな事じゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「And {9401}...?{8300}{94C8}Old Lady「I see... Knowing your own strength is something you need to grow stronger, too...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{94C8}おじさん「ありがとう！！」{8300}{94C8}おじさん「キミのオカゲでヨメの元に{8207}帰る事ができたよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Thank you!!{8300}{94C8}Man「Thanks to you, I made it back home to my wife!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_026",
@@ -220,7 +246,8 @@
     26
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_027",
@@ -228,7 +255,8 @@
     27
    ],
    "jp": "{8002}{94C8}少年セイバー「オレと勝負しな！{8207}お前が勝ったら{8855}マナズー{8800}をやるぜ！」{8300}{94C8}少年セイバー「なんのためだって・・・？」{8300}{94C8}少年セイバー「いつかグランボバトルにサンカするための{8207}ウデだめしさ！さぁ、どうする？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Battle me! If you win, I'll give you {8855}Manazoo{8800}!{8300}{94C8}Kid Saver「What for...?{8300}{94C8}Kid Saver「To test my skills so I can enter a Granbo battle someday! So, what'll it be?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_028",
@@ -236,7 +264,8 @@
     28
    ],
    "jp": "{8002}{94C8}少年セイバー「くっ・・・まだまだ{8207}シュギョウがたりなかったか・・・」{8300}{94C8}少年セイバー「お前の勝ちだ！ヤクソクどおり{8207}{8855}マナズー{8800}のデータボールをやるよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Ugh... Guess I still need more training...{8300}{94C8}Kid Saver「You win! Like I promised, here's the {8855}Manazoo{8800} Data Ball!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_029",
@@ -244,7 +273,8 @@
     29
    ],
    "jp": "{8002}{94C8}少年セイバー「よしっ、自信がついてきたぞ！{8207}相手してくれてありがとよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「All right, I'm getting my confidence up! Thanks for taking me on!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_030",
@@ -252,7 +282,8 @@
     30
    ],
    "jp": "{8002}{94C8}少年セイバー「何？オレと戦えないってのか？{8207}つまんねぇの・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「What? You won't fight me? Lame...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_031",
@@ -260,7 +291,8 @@
     31
    ],
    "jp": "{8002}{94C8}少年セイバー「またいつかやろうぜ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Let's go again sometime!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_032",
@@ -268,7 +300,8 @@
     32
    ],
    "jp": "{8002}{94C8}少女セイバー「そこのアナタ！アタシと勝負なさい！{8207}アナタが勝ったら{8833}メカエッグ{8800}を{8207}あげてもいいわよ！」{8300}{94C8}少女セイバー「え・・・何のためですって？」{8300}{94C8}少女セイバー「グランボバトルで初戦負けしたのは{8207}何かのマチガイだって事を{8207}ショウメイするためよ！！」{8300}{94C8}少女セイバー「エンリョはいらないわ・・・{8207}さぁ、かかってきなさい！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「You there! Battle me! If you win, I might just give you a {8833}Mecha Egg{8800}!{8300}{94C8}Gal Saver「Huh... What for, you ask?{8300}{94C8}Gal Saver「To prove that losing my first match in the Granbo battle was some kind of mistake!!{8300}{94C8}Gal Saver「No need to hold back... Now, come at me!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_033",
@@ -276,7 +309,8 @@
     33
    ],
    "jp": "{8002}{94C8}少女セイバー「どうやらアタシもまだまだ{8207}ミジュクだったって事みたいね・・・」{8300}{94C8}少女セイバー「相手してくれてありがとう・・・{8207}{8833}メカエッグ{8800}よ、持って行って！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Looks like I'm still pretty green after all...{8300}{94C8}Gal Saver「Thanks for battling me... Here's the {8833}Mecha Egg{8800}, take it!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_034",
@@ -284,7 +318,8 @@
     34
    ],
    "jp": "{8002}{94C8}少女セイバー「ふふふ・・・{8207}やっぱりカズキに負けたのは{8207}何かのマチガイだったのね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Fufufu... I knew losing to Kazuki was some kind of mistake!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_035",
@@ -292,7 +327,8 @@
     35
    ],
    "jp": "{8002}{94C8}少女セイバー「何よそれぇ！{8207}がっかりだわ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「What's that supposed to mean?! How disappointing...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_036",
@@ -300,7 +336,8 @@
     36
    ],
    "jp": "{8002}{94C8}少女セイバー「またいつかバトルしましょうね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Let's battle again sometime!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_037",
@@ -308,7 +345,8 @@
     37
    ],
    "jp": "{8002}{94C8}おばあさん「そこのわかいの、ワシの{8833}フリーズガン{8800}のワザを{8207}{88BB}ガニガブ{8800}とコウカンしてくれんかの？」{8300}{94C8}おばあさん「町のモンがみ～んなバトルスタジアムに{8207}行ってしもうてな・・・」{8300}{94C8}おばあさん「・・・・・・・・・」{8300}{94C8}おばあさん「・・・・・・・・・」{8300}{94C8}おばあさん「ワシもグランボバトルを{8207}始めたいんじゃ！たのむ！！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Say, young'un, would you trade me a {88BB}Ganigab{8800} for my {8833}Freeze Gun{8800} move?{8300}{94C8}Old Lady「Everybody in town's gone off to the Battle Stadium...{8300}{94C8}Old Lady「.........{8300}{94C8}Old Lady「.........{8300}{94C8}Old Lady「I want to start Granbo battling too! Please!!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_038",
@@ -316,7 +354,8 @@
     38
    ],
    "jp": "{8002}{94C8}おばあさん「ありがたやっ！{8207}それではコウカンじゃっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Bless you! Let's trade, then!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_039",
@@ -324,7 +363,8 @@
     39
    ],
    "jp": "{8002}{94C8}おばあさん「そうかい・・・{8207}どうせワシはこどくなばあさんさ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「I see... I'm just a lonely old woman anyhow...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_040",
@@ -332,7 +372,8 @@
     40
    ],
    "jp": "{8002}{94C8}おばあさん「ありがたや！これでワシも{8207}グランボバトルにさんかできますわい！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Bless you! Now I can join in Granbo battles too!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_041",
@@ -340,7 +381,8 @@
     41
    ],
    "jp": "{8002}{94C8}おばあさん「{88BB}ガニガブ{8800}は・・・{8207}持っておらんようじゃな・・・」{8300}{94C8}おばあさん「{88BB}ガニガブ{8800}を手に入れたら{8207}また話しかけてくれ・・・」{8300}{94C8}おばあさん「ワシの{8833}フリーズガン{8800}のワザと{8207}コウカンしてやるからな」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Seems you don't have a {88BB}Ganigab{8800}...{8300}{94C8}Old Lady「Once you get a {88BB}Ganigab{8800}, come talk to me again...{8300}{94C8}Old Lady「I'll trade you my {8833}Freeze Gun{8800} move for it.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_042",
@@ -348,7 +390,8 @@
     42
    ],
    "jp": "{8002}{94C8}おばあさん「ありがたや・・・{8207}おれいにグランボも回復してやるぞ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Bless you... As thanks, I'll heal your Granbo too.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_043",
@@ -356,7 +399,8 @@
     43
    ],
    "jp": "{8002}{94C8}男の子「ボクと勝負してくれない？{8207}キミが勝ったら{8833}ALLソング中{8800}のワザを{8207}あげてもいいよ！」{8300}{94C8}男の子「アカリちゃんのカツヤクを見て{8207}ボクもグランボで戦いたくなったんだ！！」{8300}{94C8}男の子「ボクの新しい人生の始まりさ！！{8207}さぁ、かかってきてよ！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Will you battle me? If you win, I might give you the {8833}ALL Song 2{8800} move!{8300}{94C8}Boy「Seeing Akari in action made me want to fight with Granbo too!!{8300}{94C8}Boy「This is the start of my new life!! Now, come at me!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_044",
@@ -364,7 +408,8 @@
     44
    ],
    "jp": "{8002}{94C8}男の子「う～ん、アカリちゃんがついていく{8207}気になっただけの事はあるね・・・」{8300}{94C8}男の子「戦ってくれてありがとう！{8207}{8833}ALLソング中{8800}のワザ、持って行って！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Hmm, no wonder Akari wanted to go along with you...{8300}{94C8}Boy「Thanks for battling me! Take the {8833}ALL Song 2{8800} move!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_045",
@@ -372,7 +417,8 @@
     45
    ],
    "jp": "{8002}{94C8}男の子「なんだよ・・・{8207}ボクが初心者だからって{8207}手をぬかなくてもいいじゃないか・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Come on... You don't have to go easy on me just because I'm a beginner...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_046",
@@ -380,7 +426,8 @@
     46
    ],
    "jp": "{8002}{94C8}男の子「ザンネン・・・じゃあダイゴロウくんに{8207}相手してもらおうかな～？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Too bad... Guess I'll ask Daigoro to battle me, then~?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_047",
@@ -388,7 +435,8 @@
     47
    ],
    "jp": "{8002}{94C8}男の子「いつかはアカリちゃんとも{8207}勝負したいな～！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Someday I want to battle Akari too~!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_048",
@@ -396,7 +444,8 @@
     48
    ],
    "jp": "{9716}{8002}{94C8}おじさん「ヨメがオレをおいて{8207}バトルスタジアムに行っちまった！！」{8300}{94C8}おじさん「こうなったらヤケだ！外が{8833}暗くなった時{8800}に{8207}{8833}大陸の北東{8800}に出てくるっていうダンジョンに{8207}のりこんでやるか！」{8300}{94C8}おじさん「でもなんかヤバイ所だって話もきくしな・・・{8207}もっとくわしい話をききたくてもこの町には{8207}ほとんど人がいないし・・・」{8300}{94C8}おじさん「とりあえず他の町に行って{8207}話をきいてみるかな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{9716}{8002}{94C8}Man「My wife left me behind and went off to the Battle Stadium!!{8300}{94C8}Man「Well, to heck with it! I'll storm that dungeon they say appears {8833}when it gets dark{8800} in the {8833}continent's northeast{8800}!{8300}{94C8}Man「But I also hear it's a pretty dangerous place... I'd like to hear more about it, but there's hardly anyone left in this town...{8300}{94C8}Man「For now, maybe I'll go to another town and ask around...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_049",
@@ -404,7 +453,8 @@
     49
    ],
    "jp": "{8002}{94C8}少女セイバー「そこのアナタ！アタシと勝負なさい！{8207}アナタが勝ったら{8833}メカエッグ{8800}を{8207}あげてもいいわよ！」{8300}{94C8}少女セイバー「え・・・何のためですって？」{8300}{94C8}少女セイバー「グランボバトルでエーゲに負けたのは{8207}何かのマチガイだって事を{8207}ショウメイするためよ！！」{8300}{94C8}少女セイバー「エンリョはいらないわ・・・{8207}さぁ、かかってきなさい！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「You there! Battle me! If you win, I might just give you a {8833}Mecha Egg{8800}!{8300}{94C8}Gal Saver「Huh... What for, you ask?{8300}{94C8}Gal Saver「To prove that losing to Aegean in the Granbo battle was some kind of mistake!!{8300}{94C8}Gal Saver「No need to hold back... Now, come at me!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_050",
@@ -412,7 +462,8 @@
     50
    ],
    "jp": "{8002}{94C8}少女セイバー「どうやらアタシもまだまだ{8207}ミジュクだったって事みたいね・・・」{8300}{94C8}少女セイバー「相手してくれてありがとう・・・{8207}{8833}メカエッグ{8800}よ、持って行って！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Looks like I'm still pretty green after all...{8300}{94C8}Gal Saver「Thanks for battling me... Here's the {8833}Mecha Egg{8800}, take it!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_051",
@@ -420,7 +471,8 @@
     51
    ],
    "jp": "{8002}{94C8}少女セイバー「ふふふ・・・{8207}やっぱりエーゲに負けたのは{8207}何かのマチガイだったのね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Fufufu... I knew losing to Aegean was some kind of mistake!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_052",
@@ -428,7 +480,8 @@
     52
    ],
    "jp": "{8002}{94C8}少女セイバー「何よそれぇ！{8207}がっかりだわ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「What's that supposed to mean?! How disappointing...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E1F60_053",
@@ -436,7 +489,8 @@
     53
    ],
    "jp": "{8002}{94C8}少女セイバー「またいつかバトルしましょうね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Let's battle again sometime!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

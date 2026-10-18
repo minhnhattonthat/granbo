@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「今、このアナをうめているところだ・・・{8207}話しかけないでくれっ！」{8300}{860F}{94A5}「少しでも早く、この大陸のキョテンとして{8207}ふさわしい見た目にしないと{8207}いけないからな！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}I'm filling in this hole right now... Don't talk to me!{8300}{860F}{94A5}I've gotta make this place look fit to be our base on this continent, and fast!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DE2FE_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{8602}{9498}「あっ、{9400}くん～！{8207}池の水がひあがるのを見て、さっそく{8207}このビルの中をしらべてみたんだ～！」{8300}{8602}{9498}「外では見かけない、{8833}4つのタイヤを{8207}つけたグランボ{8800}がすごく強そうだったよ～！{8207}気をつけてね～！！」{8300}{8602}{9498}「そうだ！オイラの持っている{8207}{8833}DFアップ弱{8800}のワザも持っていくといいよ～」\n{8D00}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Oh, {9400}~! When I saw the pond's water dry up, I came right in to check out this building~!{8300}{8602}{9498}That {8833}Granbo with four tires{8800}, the kind you don't see outside, looked super strong~! Be careful~!!{8300}{8602}{9498}Oh, I know! You should take my {8833}DF Up 1{8800} move with you too~{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1DE2FE_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{8602}{9498}「それじゃあ、あげるよ～！{8207}どのグランボにおぼえさせるか{8207}よくかんがえてね～！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Okay then, here you go~! Think hard about which Granbo to teach it to~!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DE2FE_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{8612}{9498}「ええ～っ、なんでなんで～？{8207}きっとどこかでやくにたつよ～？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8612}{9498}Whaaat, how come, how come~? I bet it'll come in handy somewhere~?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DE2FE_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{8602}{9498}「それじゃ、気をつけてね～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Well then, be careful~!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

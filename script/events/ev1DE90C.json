@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「うるせぇなぁ・・・{8207}今シュウリしてんだよ！」{8300}{860F}{94A5}「バミューダさまのヘヤの入口だからな・・・{8207}手をぬいたらぶっとばされちまう！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Shaddup... I'm doing repairs here!{8300}{860F}{94A5}This is the entrance to Boss Bermuda's room... If I slack off, I'll get clobbered!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DE90C_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{860F}{94A5}「きさま！こんな所で何をしているっ！！{8207}子どもでも見逃すわけにはいかんな！！」{8300}{860F}{94A5}「いや・・・まてよ・・・{8207}たしかこいつ、エーゲさまに{8207}勝ったヤツじゃ・・・」{8300}{861F}{94A5}「・・・うおっ、ハラがいたいっ！！{8207}こ、これでは戦えないぜ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}You! What are you doing in a place like this?! Kid or not, I can't let you slide!!{8300}{860F}{94A5}No... wait a sec... Isn't this the one who beat Boss Aegean...?{8300}{861F}{94A5}...Oof, my stomach hurts!! I-I can't fight like this...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DE90C_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{9201}ペンキがおいてある\nこのビルをシュウリするのに使っているようだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}Some paint is sitting here. It seems to be for repairing this building.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DE90C_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{9201}にっくきスカイシャークの{9406}だ！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's that hateful Sky Shark {9406}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DE90C_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1DE90C_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1DE90C_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1DE90C_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1DE90C_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

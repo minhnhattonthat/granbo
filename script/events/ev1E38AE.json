@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}少女セイバー「バタッチをなおしてもらいにきたの」{8300}{94C8}少女セイバー「私、こう見えても{940A}バトルの{8207}ジョウレンだから、グランボの{8207}コショウがたえないのよね～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「I came to get Batatch fixed up.{8300}{94C8}Gal Saver「I may not look it, but I'm a regular at {940A} battles, so my Granbo are always breaking down~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E38AE_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94A0}「バ・バタ・・・・・・」{8207}（レンシュウしてからサンカしろバタ！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Hop... hop...... (Practice first, then enter, hop!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E38AE_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}少女セイバー「{9401}ちゃんってスゴイよね・・・」{8300}{94C8}少女セイバー「私もカズキさまは大スキだけど{8207}さすがに助けには行けないもの・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「{9401}'s amazing, isn't she...{8300}{94C8}Gal Saver「I'm crazy about Kazuki too, but there's no way I could go rescue him...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E38AE_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94A0}「バタッ！バタバタ～ッ！！」{8207}（アカリのグランボがうらやましいバタ！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Hop! Hop-hop~!! (I'm jealous of Akari's Granbo, hop!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E38AE_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}少女セイバー「{9401}ちゃんは無事なの？」{8300}{94C8}少女セイバー「そう・・・良かった・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Is {9401} safe?{8300}{94C8}Gal Saver「I see... Thank goodness...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E38AE_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94A0}「バタバタバタッ！！！」{8207}（アカリのグランボも無事で安心バタ！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Hop hop hop!! (I'm relieved Akari's Granbo is safe too, hop!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E38AE_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}しらべるワーク00のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 00 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E38AE_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}しらべるワーク01のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E38AE_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}しらべるワーク02のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E38AE_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}しらべるワーク03のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E38AE_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}しらべるワーク04のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E38AE_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}しらべるワーク05のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E38AE_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}しらべるワーク06のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E38AE_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{94C8}てんいん「いらっしゃいませ！{8207}どのようなごようけんですか？」{9200}\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Clerk「Welcome! How may I help you?{9200} {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E38AE_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94C8}てんいん「ほかに何かございますか？」\n\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Clerk「Is there anything else I can do for you? {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   }
  ]
 }

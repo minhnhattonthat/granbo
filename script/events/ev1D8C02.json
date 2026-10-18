@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{8614}{949B}「もう1回グランドチェンジのセツメイを{8207}ききたいのかしら？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{8614}{949B}Would you like to hear my explanation of Grand Change once more?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{8614}{949B}「{8833}グランドチェンジには{8207}データボールを使う{8800}のよ」{8300}{8614}{949B}「戦う時のためにメカエッグに{8207}はめるぶんのデータボールは{8207}のこしておかないといけないから・・・」{8300}{8614}{949B}「{8833}ヨビのデータボールが最低1つは{8207}ないとグランドチェンジはできない{8800}わよ」{8300}{8614}{949B}「ただ、グランドチェンジに使えるのは{8207}その{8833}大陸のゾクセイにたいして{8207}ユウリなゾクセイのデータボールだけ{8800}なの」{8300}{8614}{949B}「たとえばここ、{941E}の場合は{8207}{8877}木{8800}の大陸だから、{8833}火{8800}のデータボールで{8207}グランドチェンジができるワケ」{8300}{8614}{949B}「グランドチェンジをすると、これまで{8207}とおれなかった所がとおれるように{8207}なったりするわよ」{8300}{8614}{949B}「それに、{8833}あらわれる{940A}の{8207}シュルイもヘンカ{8800}するらしいわ」{8300}{8614}{949B}「{940A}をたくさんあつめたいのなら{8207}グランドチェンジをうまく使う事ね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8614}{949B}{8833}A Grand Change uses Data Balls{8800}, you see.{8300}{8614}{949B}You have to keep one Data Ball back to fit in your Mecha Egg for battles...{8300}{8614}{949B}So {8833}without at least 1 spare Data Ball, you can't do a Grand Change{8800}!{8300}{8614}{949B}But the only Data Balls you can use for a Grand Change are {8833}ones whose element has the advantage over the continent's element{8800}.{8300}{8614}{949B}For example, here in {941E}, it's a {8877}Wood{8800} continent, so you can do a Grand Change with a {8833}Fire{8800} Data Ball.{8300}{8614}{949B}A Grand Change can open up places you couldn't get through before.{8300}{8614}{949B}And it seems {8833}the kinds of {940A} that appear change{8800}, too.{8300}{8614}{949B}If you want to collect lots of {940A}, make good use of Grand Change!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{8614}{949B}「そう・・・{8207}それじゃ、がんばってね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8614}{949B}I see... Well then, good luck!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{8614}{949B}「もう1回グランドチェンジのセツメイを{8207}ききたいのかしら？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{8614}{949B}Would you like to hear my explanation of Grand Change once more?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{8614}{949B}「{8833}グランドチェンジには{8207}データボールを使う{8800}のよ」{8300}{8614}{949B}「戦う時のためにメカエッグに{8207}はめるぶんのデータボールは{8207}のこしておかないといけないから・・・」{8300}{8614}{949B}「{8833}ヨビのデータボールが最低1つは{8207}ないとグランドチェンジはできない{8800}わよ」{8300}{8614}{949B}「ただ、グランドチェンジに使えるのは{8207}その{8833}大陸のゾクセイにたいしてユウリなゾクセイの{8207}データボールだけ{8800}なの」{8300}{8614}{949B}「たとえばここ、{941E}の場合は{8207}{8877}木{8800}の大陸だから、{8833}火{8800}のデータボールで{8207}グランドチェンジができるワケ」{8300}{8614}{949B}「グランドチェンジをすると、これまで{8207}とおれなかった所がとおれるように{8207}なったりするわよ」{8300}{8614}{949B}「それに、{8833}あらわれる{940A}の{8207}シュルイもヘンカ{8800}するらしいわ」{8300}{8614}{949B}「{940A}をたくさんあつめたいのなら{8207}グランドチェンジをうまく使う事ね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8614}{949B}{8833}A Grand Change uses Data Balls{8800}, you see.{8300}{8614}{949B}You have to keep one Data Ball back to fit in your Mecha Egg for battles...{8300}{8614}{949B}So {8833}without at least 1 spare Data Ball, you can't do a Grand Change{8800}!{8300}{8614}{949B}But the only Data Balls you can use for a Grand Change are {8833}ones whose element has the advantage over the continent's element{8800}.{8300}{8614}{949B}For example, here in {941E}, it's a {8877}Wood{8800} continent, so you can do a Grand Change with a {8833}Fire{8800} Data Ball.{8300}{8614}{949B}A Grand Change can open up places you couldn't get through before.{8300}{8614}{949B}And it seems {8833}the kinds of {940A} that appear change{8800}, too.{8300}{8614}{949B}If you want to collect lots of {940A}, make good use of Grand Change!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{8614}{949B}「そう・・・{8207}それじゃ、がんばってね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8614}{949B}I see... Well then, good luck!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{9201}とてもフクザツなソウチだ・・・\nこのソウチにくわしい人がどこかにいないだろうか？{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a very complicated device... Isn't there someone, somewhere, who knows all about it?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8001}{8614}{949B}「すばらしい！！{8207}ミーの研究どおりだわ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}Magnifico!! Just as moi's research predicted!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8001}{8614}{949B}「いい？{8207}それじゃあ、グランドチェンジのしくみを{8207}セツメイするわよ」{8300}{8614}{949B}「まず、ここ{8877}{941E}{8800}は{8207}グランドチェンジなしで{8207}『{8877}木{8800}』ゾクセイになっているわ！」{8300}{8614}{949B}「では、ここでシツモン！{8207}{8877}木{8800}ゾクセイに勝つのはどのゾクセイかしら？」{9200}\n{8E03}                   {8F01}{8833}火 {8F00}{8855}水 {8F00}{8877}木{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}Ready? Then let me explain how Grand Change works.{8300}{8614}{949B}First of all, {8877}{941E}{8800} here is of the \"{8877}Wood{8800}\" element without any Grand Change!{8300}{8614}{949B}Now, a question for you! Which element beats the {8877}Wood{8800} element?{9200} {8E03} {8F01}{8833}Fire {8F00}{8855}Water {8F00}{8877}Wood{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8001}{8614}{949B}「ふ～ん・・・{8207}キホンはわかっているのね！{8207}カンシンしたわ」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}Hmm... So you know the basics! I'm impressed.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8001}{8614}{949B}「バカッ！！」{8300}{8614}{949B}「そんな事じゃスカイシャークから{8207}世界を守る事なんてできないわよ！！」{8300}{8614}{949B}「{8877}木{8800}ゾクセイに勝つのは{8833}火{8800}ゾクセイだけ！」{8300}{8614}{949B}「いい？{8207}グランドチェンジにはゾクセイが{8207}大きくカンケイしているの！」{8300}{8614}{949B}「{8833}火{8800}は{8877}木{8800}に勝つ、{8855}水{8800}は{8833}火{8800}に勝つ、{8877}木{8800}は{8855}水{8800}に勝つ{8207}というキホンは{8207}ゼッタイにおぼえておくのよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}Silly!!{8300}{8614}{949B}With that, you'll never protect the world from Sky Shark!!{8300}{8614}{949B}Only the {8833}Fire{8800} element beats the {8877}Wood{8800} element!{8300}{8614}{949B}Listen! Elements play a big part in Grand Change!{8300}{8614}{949B}{8833}Fire{8800} beats {8877}Wood{8800}, {8855}Water{8800} beats {8833}Fire{8800}, {8877}Wood{8800} beats {8855}Water{8800}. Never, ever forget those basics!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8001}{8614}{949B}「ところで、{9400}くん{8207}ユーは今{8207}何のデータボールを持っているの？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}By the way, {9400}, which Data Balls do you have right now?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8001}{8614}{949B}「ええっ！{8207}ヨビのデータボールを持っていないの！？」{8300}{8614}{949B}「それに{8833}火{8800}ゾクセイのデータボールも{8207}ないじゃない！」{8300}{8614}{949B}「それじゃ{8207}グランドチェンジはできないわよ！」{8300}{8614}{949B}「早く{8207}{8833}火{8800}ゾクセイのデータボールとヨビの{8207}データボールを1つ持ってきなさい！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}What?! You don't have a spare Data Ball?!{8300}{8614}{949B}And you don't have a {8833}Fire{8800} Data Ball either!{8300}{8614}{949B}Then you can't do a Grand Change!{8300}{8614}{949B}Hurry and bring me a {8833}Fire{8800} Data Ball and 1 spare Data Ball!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8001}{8614}{949B}「おしいわね・・・{8207}{8833}火{8800}ゾクセイのデータボールはあるけど{8207}ヨビのデータボールがない・・・」{8300}{8614}{949B}「これじゃグランドチェンジをした後{8207}敵と戦えないわ・・・」{8300}{8614}{949B}「ここでまっているから、ヨビの{8207}データボールを手に入れてきなさい！！」{8300}{8614}{949B}「あと、{8833}火{8800}ゾクセイのデータボールは{8207}かならず持っておくのよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}So close... You have a {8833}Fire{8800} Data Ball, but no spare Data Ball...{8300}{8614}{949B}Like this, you couldn't fight enemies after a Grand Change...{8300}{8614}{949B}I'll wait here, so go get a spare Data Ball!!{8300}{8614}{949B}And be sure to keep that {8833}Fire{8800} Data Ball with you!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8001}{8614}{949B}「おしいわね・・・{8207}データボールは2コいじょうあるけど{8207}{8833}火{8800}ゾクセイのデータボールがないわ・・・」{8300}{8614}{949B}「これでは{941E}の{8877}木{8800}ゾクセイを{8207}{8833}火{8800}ゾクセイにグランドチェンジすることが{8207}できないのよ・・・」{8300}{8614}{949B}「ここでまっているから、{8833}火{8800}ゾクセイの{8207}データボールを手に入れてきなさい！！」{8300}{8614}{949B}「あと、ヨビのデータボールを{8207}必ず1コいじょう持っておくのを{8207}わすれてはだめよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}So close... You have 2 or more Data Balls, but no {8833}Fire{8800} Data Ball...{8300}{8614}{949B}Like this, you can't Grand Change {941E}'s {8877}Wood{8800} element into the {8833}Fire{8800} element...{8300}{8614}{949B}I'll wait here, so go get a {8833}Fire{8800} Data Ball!!{8300}{8614}{949B}And don't forget to keep at least 1 spare Data Ball with you, too!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8001}{8614}{949B}「データボールは2コいじょう・・・{8207}{8833}火{8800}ゾクセイのデータボールもあるわね！！」{8300}{8614}{949B}「完ペキだわ！{8207}さぁ、こっちに来て！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}2 or more Data Balls... and a {8833}Fire{8800} Data Ball, too!!{8300}{8614}{949B}Perfect! Now, come over here!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8001}{8614}{949B}「これが{9400}くんが持っている{8207}データボールよ」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}These are the Data Balls you have, {9400}.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8001}{8614}{949B}「赤いワクの中が{8207}メカエッグにはまっているデータボール」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}The one inside the red frame is the Data Ball fitted in your Mecha Egg.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8000}{8614}{949B}「青いワクの中がヨビのデータボール」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{8614}{949B}The ones inside the blue frame are your spare Data Balls.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8001}{8614}{949B}「ここ{8877}{941E}{8800}は今、{8877}木{8800}ゾクセイだから{8207}{8833}火{8800}ゾクセイのデータボールで{8207}グランドチェンジするのよ」{8300}{8614}{949B}「ただし、グランドチェンジをしている間{8207}そのデータボールは{8207}手元から無くなるの」{8300}{8614}{949B}「だから、ヨビのデータボールを{8207}持っていないと敵と戦えなくなるワケ！！」{8300}{8614}{949B}「{8833}グランドチェンジをする時は{8207}ヨビのデータボールがいる{8800}と言う事を{8207}おぼえておくのよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8614}{949B}{8877}{941E}{8800} here is the {8877}Wood{8800} element right now, so you Grand Change it with a {8833}Fire{8800} Data Ball.{8300}{8614}{949B}But while the Grand Change is in effect, that Data Ball is gone from your hands.{8300}{8614}{949B}That's why, without a spare Data Ball, you can't fight enemies!!{8300}{8614}{949B}Remember: {8833}to do a Grand Change, you need a spare Data Ball{8800}!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8002}{8614}{949B}「それじゃ、自分でグランドチェンジを{8207}やってみなさい！」{8300}{8614}{949B}「ミーはずっとここにいるから・・・」{8300}{8614}{949B}「わからなくなったら{8207}いつでもおしえてあげるわ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8614}{949B}Now, try doing a Grand Change yourself!{8300}{8614}{949B}Moi will be right here the whole time...{8300}{8614}{949B}If you get stuck, I'll explain it to you anytime!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8002}{8614}{949B}「あら！」{8300}{8614}{949B}「ちゃんと持ってきたようね！{8207}{8833}火{8800}ゾクセイのデータボールと{8207}ヨビのデータボールを・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8614}{949B}Oh my!{8300}{8614}{949B}Looks like you brought them, just as I said! A {8833}Fire{8800} Data Ball and a spare Data Ball...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8002}{8614}{949B}「なんど言ったらわかるの！！」{8300}{8614}{949B}「{8833}火{8800}ゾクセイのデータボールに{8207}ヨビのデータボールを1コと{8207}なんども言ってるじゃない！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8614}{949B}How many times do I have to tell you?!{8300}{8614}{949B}One {8833}Fire{8800}-element Data Ball and one spare Data Ball! I've told you over and over!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8001}{860F}{94A5}「何だ！お前は！？」{8300}{860F}{94A5}「この前{9409}さまにやられた{8207}子どもじゃねえかっ！」{8300}{860F}{94A5}「このオレとやる気かっ！？」{9200}{8207}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}What?! Who are you?!{8300}{860F}{94A5}Hey, you're that kid Boss {9409} beat the other day!{8300}{860F}{94A5}You wanna fight me?!{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_026",
@@ -220,7 +246,8 @@
     26
    ],
    "jp": "{8001}{860F}{94A5}「いいドキョウだっ！！！{8207}かかってきなっ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}You've got guts!! Bring it on!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_027",
@@ -228,7 +255,8 @@
     27
    ],
    "jp": "{8001}{860F}{94A5}「だったらおとなしく{8207}お家に帰るんだなっ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860F}{94A5}Then be a good kid and go on home!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_028",
@@ -236,7 +264,8 @@
     28
    ],
    "jp": "{8001}{861F}{94A5}「ひいいいいいい～～～っ！！！」{8300}{861F}{94A5}「こんなに強くなってるなんて～っ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{861F}{94A5}Eeeeeeek!!{8300}{861F}{94A5}How'd you get so strong?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_029",
@@ -244,7 +273,8 @@
     29
    ],
    "jp": "{8002}{8614}{949B}「グランドチェンジをすると{8207}まず、ユーのグランボが回復するの」{8300}{8614}{949B}「さらに、出てくる敵もグランドチェンジした{8207}ゾクセイにあわせたものが多くなるわ！{8207}・・・今だと{8833}火{8800}の{940A}ね」{8300}{8614}{949B}「だからフツウはチェンジしたゾクセイに{8207}たいしてユウリなゾクセイの{940A}を{8207}使えば良いんだけど・・・」{8300}{8614}{949B}「あえてチェンジしたゾクセイと同じ{8207}ゾクセイの{940A}を使った方が{8207}良い場合もあるのよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8614}{949B}When you Grand Change, first of all, your Granbo get healed.{8300}{8614}{949B}What's more, most of the enemies that appear will match the Grand Changed element! ...Right now, that means {8833}Fire{8800} {940A}.{8300}{8614}{949B}So normally you'd use a {940A} whose element is strong against the changed element...{8300}{8614}{949B}but sometimes it's better to use a {940A} of the same element as the changed one.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D8C02_030",
@@ -252,7 +282,8 @@
     30
    ],
    "jp": "{8002}    {9300}{9201}{8833}新しいバトルメカエッグ{8800}を手にいれた\n{8900}{9200}    {9300}{9201}{8855}バズメッカ{8800}のデータボールがはまっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9300}{9201}You got a {8833}new Battle Mecha Egg{8800}! {8900}{9200} {9300}{9201}It holds a {8855}Buzzmecha{8800} Data Ball.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

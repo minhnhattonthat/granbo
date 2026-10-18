@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おじさん「{940A}バトルは最高だぜ！{8207}キミも一回は見ておいた方がいいぞ！！」{8300}{94C8}おじさん「{940A}バトルをやっている場所を{8207}おしえてやろうか？」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「{940A} battles are the best! You oughta see one at least once!!{8300}{94C8}Man「Want me to tell you where they hold {940A} battles?{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}おじさん「{8833}南のハシ{8800}をわたった先にある{8207}{8833}バトルスタジアム{8800}でやってるよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「They're held at the {8833}Battle Stadium{8800}, across the {8833}south bridge{8800}!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おじさん「そうか？{8207}まぁ、知りたくなったら{8207}いつでもききにきてくれ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「No? Well, if you ever want to know, come ask me anytime!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}町長「私はこの町の町長です」{8300}{94C8}町長「この町では{940A}バトルがすべて！」{8300}{94C8}町長「子どもから老人まで、男も女もみんなが{8207}{940A}バトルにはまっております！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Mayor「I am the mayor of this town.{8300}{94C8}Mayor「In this town, {940A} battles are everything!{8300}{94C8}Mayor「Young and old, men and women alike, everyone is hooked on {940A} battles!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}男の子「{8877}ウッディーナ{8800}でスカイシャークとか{8207}いう連中があばれていたらしいね！」{8300}{94C8}男の子「でもこの大陸はダイジョウブさ！」{8300}{94C8}男の子「世界最強のグランボセイバー・・・{8207}カズキさんがいるからね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「I heard some bunch called Sky Shark was running wild in {8877}Woodina{8800}!{8300}{94C8}Boy「But this continent's gonna be fine!{8300}{94C8}Boy「We've got the world's strongest Granbo Saver... Kazuki!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{8613}{9499}「あっ・・・{9400}さん・・・」{8300}{8603}{9499}「何人かの人に話を{8207}きいてみたのですが・・・」{8300}{8603}{9499}「みなさん、すきな物は{8207}同じみたいですね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8613}{9499}Ah... {9400}...{8300}{8603}{9499}I've asked a few people around...{8300}{8603}{9499}It seems everyone here loves the same thing.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}おじさん「オレ達の命、{940A}バトルを{8207}使っておどしをかけてくるとは・・・」{8300}{94C8}おじさん「スカイシャークめ！{8207}なんてヒキョウなんだ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Using {940A} battles, our very lifeblood, to threaten us...{8300}{94C8}Man「Curse you, Sky Shark! How dirty can you get!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}町長「スカイシャークのいう事をきかなければ{8207}スタジアムをバクハするとは・・・」{8300}{94C8}町長「あそこにはたくさんのセイバーや{8207}ジュウギョウインがのこっている・・・」{8300}{94C8}町長「くやしいが、ヤツらの言う事を{8207}きくしかないか・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Mayor「Sky Shark says if we don't do as they say, they'll blow up the stadium...{8300}{94C8}Mayor「Lots of Savers and staff are still in there...{8300}{94C8}Mayor「It's galling, but we may have no choice but to do what they say...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}男の子「{9401}ちゃん、カズキさんの{8207}大ファンだから気持ちはわかるけど・・・」{8300}{94C8}男の子「いくらなんでもムチャじゃないかな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「{9401}'s a huge Kazuki fan, so I get how she feels, but...{8300}{94C8}Boy「Isn't that way too reckless?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{8603}{9499}「スタジアムをバクハするなんて・・・！」{8300}{8603}{9499}「これでスカイシャークのねらいが{8207}はっきりしましたね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}Blowing up the stadium...!{8300}{8603}{9499}Now Sky Shark's aim is perfectly clear...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}おじさん「ありがとう！！{8207}{940A}バトルにアンタがサンカしたら{8207}とうぜんオウエンさせてもらうよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Thank you!! If you ever enter a {940A} battle, I'll be cheering for you, of course!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}町長「本当にありがとうございました・・・」{8300}{94C8}町長「{940A}バトルへのサンカ{8207}おまちしていますよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Mayor「Thank you so very much...{8300}{94C8}Mayor「We'll be looking forward to you entering the {940A} battles!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{94C8}男の子「ケッキョク、カズキさんは{8207}キミが助けたんだってね・・・」{8300}{94C8}男の子「ええっ・・・キミってグランボバトルで{8207}526勝をあげた、あのゲンゾウさまの{8207}おマゴさんだったの！？」{8300}{94C8}男の子「すごい・・・すごいや！{8207}キミに会えた事・・・{8207}後で母ちゃんにジマンしよっと！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「So in the end, it was you who rescued Kazuki, huh...{8300}{94C8}Boy「Whoa... You're the grandkid of THE Genzo, who won 526 Granbo battles?!{8300}{94C8}Boy「Amazing... That's amazing! I'm gonna brag to my mom later that I met you!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{94C8}とりまき女「{9401}ちゃんが{8207}いなくなっちゃったの！！」{8300}{94C8}とりまき女「やっぱりショックだったのかな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Groupie「{9401}'s gone missing!!{8300}{94C8}Groupie「I guess it was a shock for her after all...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94C8}とりまき男「{9401}のアネゴ・・・{8207}アネゴがいないとボクは・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Groupie「Big Sis {9401}... Without you, Big Sis, I'm...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{9201}グランボセイバーの作戦カイギ用ディスプレイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a display for Granbo Savers' strategy meetings.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{9201}グランボを使った戦いのシミュレーターだ\n向かい合わせにすわって対戦するらしい{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a battle simulator for Granbo. It seems you sit facing each other to compete.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{9201}「{8833}西の町に向かうトチュウの森{8800}で{8201}変わった『{8877}ガゲット{8800}』を見たと言うホウコクあり！{8201}森の中をとおるセイバーはチュウイせよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}{8833}In the forest on the way to the western town{8800}, a strange \"{8877}Gaget{8800}\" has been reported! Savers passing through the forest, be careful!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{94C8}少女セイバー「{8833}弱い者イジメ{8800}って{8207}いけないよね・・・」{8300}{94C8}少女セイバー「私のセイバーランクがなかなか上がらない{8207}リユウがやっとわかったわ・・・」{8300}{94C8}少女セイバー「これからはできるかぎり強いヤツと{8207}戦うようにしなきゃ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「{8833}Picking on the weak{8800} is wrong, isn't it...{8300}{94C8}Gal Saver「Now I finally get why my Saver Rank just wouldn't go up...{8300}{94C8}Gal Saver「From now on I've got to battle the strongest ones I can!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{94C8}少女セイバー「{8833}弱い者イジメ{8800}って{8207}いけないよね・・・」{8300}{94C8}少女セイバー「私のセイバーランクがなかなか上がらない{8207}リユウがやっとわかったわ・・・」{8300}{94C8}少女セイバー「これからはできるかぎり強いヤツと{8207}戦うようにしなきゃ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「{8833}Picking on the weak{8800} is wrong, isn't it...{8300}{94C8}Gal Saver「Now I finally get why my Saver Rank just wouldn't go up...{8300}{94C8}Gal Saver「From now on I've got to battle the strongest ones I can!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8002}{94C8}少女セイバー「{8833}弱い者イジメ{8800}って{8207}いけないよね・・・」{8300}{94C8}少女セイバー「私のセイバーランクがなかなか上がらない{8207}リユウがやっとわかったわ・・・」{8300}{94C8}少女セイバー「これからはできるかぎり強いヤツと{8207}戦うようにしなきゃ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「{8833}Picking on the weak{8800} is wrong, isn't it...{8300}{94C8}Gal Saver「Now I finally get why my Saver Rank just wouldn't go up...{8300}{94C8}Gal Saver「From now on I've got to battle the strongest ones I can!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8001}{8607}{949D}「ハシをバクハされて{8207}これがたんなるオドシではない事が{8207}わかっただろう！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8607}{949D}Now that we've blown up the bridge, you see this is no empty threat!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8001}{8607}{949D}「ボク達にしたがわないと言うのなら{8207}次は{8833}バトルスタジアムをバクハ{8800}する！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8607}{949D}If you won't obey us, next we'll {8833}blow up the Battle Stadium{8800}!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8001}{8607}{949D}「よくかんがえるんだね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8607}{949D}Think it over carefully!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8001}{94C8}町長「まっ・・・まってくれ！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Mayor「W-wait...! Wait!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8001}{94C8}町長「おのれスカイシャーク！{8207}言う事をきかなければハシだけでなく・・・」{8300}{94C8}町長「われわれの命と言ってもいい{8207}スタジアムまでバクハするとは・・・！」{8300}{94C8}町長「ヤツらにたち向かえる者は{8207}この中にはおらんのか！？」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Mayor「Curse you, Sky Shark! If we don't do as they say, not just the bridge...{8300}{94C8}Mayor「they'll blow up the Stadium, our very lifeblood...!{8300}{94C8}Mayor「Is there no one here who can stand up to them?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_026",
@@ -220,7 +246,8 @@
     26
    ],
    "jp": "{8001}{8610}{9497}「アタシが行くわっ！！」{8300}{8610}{9497}「カズキさまや{8207}つかまっているみんなは{8207}このアタシが助けてみせるっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8610}{9497}I'll go!!{8300}{8610}{9497}I'll save Kazuki and everyone they've captured, just you watch!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_027",
@@ -228,7 +255,8 @@
     27
    ],
    "jp": "{8001}{94C8}とりまき女「さすがはアカリちゃん！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Groupie「That's our Akari!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_028",
@@ -236,7 +264,8 @@
     28
    ],
    "jp": "{8001}{94C8}とりまき男「ボク達もおともします！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Groupie「We're coming with you!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_029",
@@ -244,7 +273,8 @@
     29
    ],
    "jp": "{8002}{94C8}町長「話はききました！{8207}本当にどうもありがとうございます！」{8300}{94C8}町長「おかげさまでハシのシュウリも{8207}無事に終わりました」{8300}{94C8}町長「セイバーやジュウギョウインも無事だし{8207}{940A}バトルもすぐに{8207}サイカイできるでしょう！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Mayor「I've heard the whole story! Thank you, truly, thank you so much!{8300}{94C8}Mayor「Thanks to you, the bridge repairs went off without a hitch.{8300}{94C8}Mayor「The Savers and the staff are all safe, so {940A} battles should start up again soon!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_030",
@@ -252,7 +282,8 @@
     30
    ],
    "jp": "{8002}{94C8}町長「それで・・・えっと・・・」{8300}{94C8}町長「何か言う事があったのですが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Mayor「And so... um...{8300}{94C8}Mayor「There was something I meant to say...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_031",
@@ -260,7 +291,8 @@
     31
    ],
    "jp": "{8002}{94C8}町長「そうそう！あなたにも{8207}ぜひ{940A}バトルにサンカして{8207}ほしいんですよ！！」{8300}{94C8}町長「グランボバトルはグランボセイバーが{8207}ウデをきそいあう場・・・サンカして{8207}ゼッタイにソンはないはずです！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Mayor「Oh yes! We'd love for you to enter the {940A} battles too!!{8300}{94C8}Mayor「Granbo battles are where Granbo Savers test their skill... You've got nothing to lose by entering!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_032",
@@ -268,7 +300,8 @@
     32
    ],
    "jp": "{8002}{8602}{9498}「{9400}くんならきっと優勝も{8207}ねらえるはずだよ～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}{9400}, I bet you could even aim for the championship~!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_033",
@@ -276,7 +309,8 @@
     33
    ],
    "jp": "{8002}{8613}{9499}「{9400}さん、私もサンカした方が{8207}いいと思いますよ」{8300}{8613}{9499}「サンカする事で色々と{8207}えられる物があると思いますから・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8613}{9499}{9400}, I think you should enter too.{8300}{8613}{9499}I think there's a lot you could gain by entering...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_034",
@@ -284,7 +318,8 @@
     34
    ],
    "jp": "{8001}{94C8}セイバー「{8855}ウォーティア{8800}のセイバーに{8207}キンキュウホウコク！！」{8300}{94C8}セイバー「{8833}火の大陸ボルカニア{8800}で{8207}スカイシャークの子分を{8207}見かけたというジョウホウが入った！」{8300}{94C8}セイバー「手のあいているセイバーは{8207}{8833}ボルカニア{8800}に向かってほしい！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}Saver「Emergency report for the Savers of {8855}Wateria{8800}!!{8300}{94C8}Saver「We've had word that Sky Shark grunts were spotted on {8833}Volcania, the continent of fire{8800}!{8300}{94C8}Saver「Any Savers who are free, please head to {8833}Volcania{8800}!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_035",
@@ -292,7 +327,8 @@
     35
    ],
    "jp": "{8002}{8603}{9499}「・・・・・・・・・」{8300}{8603}{9499}「スカイシャーク・・・今度は{8207}何をたくらんでいるんでしょう？」{8300}{8603}{9499}「{9400}さん、私は先にスカイポートに{8207}行っていますね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}.........{8300}{8603}{9499}Sky Shark... What are they plotting this time?{8300}{8603}{9499}{9400}, I'll go on ahead to the Skyport.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E3D68_036",
@@ -300,7 +336,8 @@
     36
    ],
    "jp": "{8002}{8602}{9498}「オイラも{9403}ちゃんといっしょに{8207}先に行っているよ～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}I'll go on ahead with {9403} too~{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

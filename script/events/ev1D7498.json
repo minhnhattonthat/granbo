@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}男の子「父ちゃん・・・母ちゃん・・・{8207}ボクは一体どうしたらいいの・・・？」{8300}{94C8}男の子「そうだ！となりに住んでいる{8207}おじいさんにソウダンしてみようかな？」{8300}{94C8}男の子「あのおじいさん、なんでも知っているから{8207}きっとボクがどうすればいいかも{8207}おしえてくれるはずさ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Dad... Mom... What am I supposed to do...?{8300}{94C8}Boy「I know! Maybe I'll ask the old man who lives next door for advice!{8300}{94C8}Boy「That old man knows everything, so I'm sure he can tell me what I should do!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D7498_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}男の子「わーい！！！{8207}父ちゃんと母ちゃんだ！！！」{8300}{94C8}男の子「となりのおじいさんの{8207}言うとおりだったよ！！！」{8300}{94C8}男の子「おじいさん、キミがかならず{8207}父ちゃんと母ちゃんを助けてくれるから{8207}信じてまつんだって言ったんだ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Yaaay!! It's Dad and Mom!!{8300}{94C8}Boy「It was just like the old man next door said!!{8300}{94C8}Boy「He told me you'd save Dad and Mom for sure, so I should believe and wait!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D7498_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おじさん「こうしてムスコのエガオが{8207}見られるのもキミのおかげだ・・・{8207}本当にありがとう！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「It's thanks to you that I can see my son smile like this... Thank you so much!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D7498_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}おばさん「うぅっ・・・・・・」{8300}{94C8}おばさん「こうしてまた・・・{8207}ムスコのカオを見られるなんて・・・」{8300}{94C8}おばさん「あなたにはカンシャしてます・・・{8207}ううぅぅっ・・・・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Uuugh......{8300}{94C8}Lady「To see my son's face again like this...{8300}{94C8}Lady「I'm so grateful to you... Uuuuugh......{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D7498_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}家はせまいのにテーブルがこんなに大きくて\nこまらないのだろうか？{8400}{8100}",
-   "en": ""
+   "en": "{8002}The house is so small, but the table is this big. Isn't that a problem for them?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D7498_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}ワーク01のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D7498_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D7498_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D7498_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}ワーク04のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D7498_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}ワーク05のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D7498_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}ワーク06のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1D7498_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}おばさん「うちのダンナはムスコと2人で{8207}バトルスタジアムにグランボバトルを{8207}見にいったわ」{8300}{94C8}おばさん「ムスコはあんたの戦いを{8207}ぜひ見たいって言ってたよ」{8300}{94C8}おばさん「良かったらバトルスタジアムで戦いを{8207}見せてやってくれないかい？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「My husband went with our son to watch Granbo battles at the Battle Stadium.{8300}{94C8}Lady「Our son said he'd really love to see you battle.{8300}{94C8}Lady「If you like, could you show him a battle at the Battle Stadium?{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

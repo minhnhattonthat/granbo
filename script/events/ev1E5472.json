@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おばあさん「この大陸の大人はほとんどが{8207}バトルスタジアムではたらいておる！」{8300}{94C8}おばあさん「うちのせがれもマゴもヒマゴも{8207}み～んなバトルスタジアムで{8207}はたらいておるわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Most grown-ups on this continent work at the Battle Stadium!{8300}{94C8}Old Lady「My son, my grandkids, my great-grandkids... every last one of 'em works at the Battle Stadium!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E5472_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}おばあさん「セイバーステーションでの話し合いは{8207}あまりイミがなかったようじゃのう・・・」{8300}{94C8}おばあさん「女の子一人に{8207}たよっておるようでは・・・{8207}まったく、だらしがない！！」{8400}{8100}{9716}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Looks like that talk at the Saver Station didn't amount to much...{8300}{94C8}Old Lady「Leaning on one little girl like that... Honestly, what a sorry bunch!!{8400}{8100}{9716}",
+   "status": "translated"
   },
   {
    "id": "ev1E5472_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おばあさん「ようやってくれた！！」{8300}{94C8}おばあさん「バトルスタジアムではたらいとった{8207}うちのせがれ、マゴ、ヒマゴからも無事だと{8207}言うレンラクがさっき入ったわい」{8300}{94C8}おばあさん「お前さんのように、こういう時に{8207}戦える者こそが本当の{940A}セイバー{8207}だと、このババは思うぞい！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Well done, you!!{8300}{94C8}Old Lady「Word just came from my son, grandkids and great-grandkids at the Battle Stadium that they're all safe.{8300}{94C8}Old Lady「Folks like you, who can fight at a time like this, are the real {940A} Savers. That's what this old granny thinks!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E5472_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{9201}メッセージボードに\nメールは入っていない{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There's no mail on the Message Board.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E5472_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}しらべるワーク01のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Examine work 01 message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E5472_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}しらべるワーク02のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Examine work 02 message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E5472_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}しらべるワーク03のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Examine work 03 message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E5472_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}しらべるワーク04のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Examine work 04 message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E5472_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}しらべるワーク05のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Examine work 05 message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E5472_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}しらべるワーク06のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Examine work 06 message{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

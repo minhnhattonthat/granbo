@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}男の子「ボクの姉ちゃんはスタジアムで{8207}うけつけじょうをやっているんだ！！」{8300}{94C8}男の子「なんだか、姉ちゃんのファンって人も{8207}けっこういるらしいよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「My big sister works the front desk at the Stadium!!{8300}{94C8}Boy「Seems like she's got quite a few fans, too!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E50CE_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}男の子「スタジアムにいる姉ちゃん{8207}ダイジョウブかな～～～？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「I hope my sister at the Stadium is okaaay...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E50CE_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}男の子「姉ちゃんを助けてくれてありがとう！」{8300}{94C8}男の子「君が{940A}バトルにサンカしたら{8207}ボク、ゼッタイ君をオウエンするよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Thanks for saving my sister!{8300}{94C8}Boy「If you enter the {940A} battles, I'll totally cheer for you!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E50CE_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}お姉さん「私はスタジアムで『うけつけ』を{8207}たんとうしているの！」{8300}{94C8}お姉さん「あなたが{940A}バトルにサンカしたら{8207}きっとスタジアムのみんなもよろこぶわ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Miss「I'm in charge of the \"front desk\" at the Stadium!{8300}{94C8}Miss「If you enter the {940A} battles, I'm sure everyone at the Stadium will be thrilled!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E50CE_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{9201}{9300}メッセージボードに\nメールが入っている{8300}{9201}『メグミさんに会いたくてグランボバトルに{8201}サンカしました！オウエンよろしく！！』{8212}いちセイバーより{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}{9300}There's mail on the Message Board.{8300}{9201}\"I entered the Granbo battles because I wanted to meet Megumi! Please cheer me on!!\" From a Saver{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E50CE_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}しらべるワーク01のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Examine work 01 message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E50CE_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}しらべるワーク02のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Examine work 02 message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E50CE_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}しらべるワーク03のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Examine work 03 message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E50CE_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}しらべるワーク04のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Examine work 04 message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E50CE_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}しらべるワーク05のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Examine work 05 message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1E50CE_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}しらべるワーク06のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Examine work 06 message{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

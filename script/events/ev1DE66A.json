@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8001}{8608}{949E}「オーホッホッホッホッ・・・{8207}勝手にグランドチェンジされたから{8207}わざわざヨウスを見に来たら・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8608}{949E}Oh-ho-ho-ho-ho... Someone did a Grand Change without permission, so I came all this way to see what was going on, and...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DE66A_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8001}{8608}{949E}「まさか、この前のおチビちゃんとはね！」{8300}{8608}{949E}「この前の戦いでわからなかったの？{8207}ワタシには勝てないという事が・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8608}{949E}Who'd have thought it'd be that little shrimp from before!{8300}{8608}{949E}Didn't our last battle teach you? That you can never beat me...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DE66A_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8001}{8608}{949E}「上で{9406}が{8207}くつろいでいらっしゃるの」{8300}{8608}{949E}「悪いけど・・・あなたを{8207}上に行かせるわけにはいかないわ！」{8300}{8608}{949E}「ここで帰ってもらうわよっ！！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8608}{949E}The {9406} is taking his ease upstairs.{8300}{8608}{949E}Sorry, but... I can't let you go up there!{8300}{8608}{949E}You're turning back right here!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DE66A_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8001}{8608}{949E}「え？ワタシが負けた・・・」{8300}{8608}{949E}「そんなバカな・・・{8207}このうつくしいワタシが・・・{8207}こんなうつくしくないガキに・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8608}{949E}What? I lost...?{8300}{8608}{949E}That's impossible... Me, so beautiful... to such an unbeautiful brat...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1DE66A_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8001}{8618}{949E}「キィ～～～ッ！！！{8207}あんたなんか{9406}には{8207}しんでも勝てないわよっ！」{8300}{8618}{949E}「このバーカ、バ～～～カッ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8618}{949E}Eeeeeek!! You'll never beat the {9406}, not even if you die trying!{8300}{8618}{949E}You dummy! Dummmmy!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

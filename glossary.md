@@ -121,7 +121,8 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
 ## Decisions from earlier batches
 - Move tiers 弱/中/強 -> 1/2/3 after the name: ウイルスボム中 -> Virus Bomb 2, ATアップ中 -> AT Up 2, ほえる強 -> Roar 3
   (b001/b003 used M/Mid; fixed before merge).
-- Granbo names: バタキチ/バタきち -> Hopper (its cry ばた -> "hop!"), バブルス -> Bubbles (monkey, ウキ -> "ook!"),
+- Granbo names: バタキチ/バタきち -> Batakichi (a pet's name; its species is Hopper; its cry ばた -> "Hop!", tic
+  ", hop!"), バブルス -> Bubbles (monkey, ウキ -> "ook!"),
   ブトム -> Butom, ピヨリカ -> Piyorika, ヤブッサ -> Yabussa, フォックル -> Foxle, バズメッカ -> Buzzmecha,
   ワオン -> Woofon.
 - Terms: ゾクセイ -> element; ハント -> hunt; しんか -> evolve/evolution; ランクポイント -> Rank Points;
@@ -140,6 +141,16 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- DFアップ弱 -> DF Up 1; 本きょ地 -> headquarters; イモムシがたのデータボール -> caterpillar-type Data Ball; the
+  Captain's コゾウ / ボウズ -> squirt / kid; rabbit Granbo cry ウサ -> "bun!".
+- バタッチ -> Batatch (pet nickname, cry "hop!"); フリーズガン -> Freeze Gun; ALLソング中 -> ALL Song 2 (ALL moves keep
+  "ALL" in caps); アネゴ -> Big Sis; 南のハシ -> south bridge.
+- バトルメカエッグ -> Battle Mecha Egg; ヒクウテイ -> airship (not Skyship); ウイルスカプセル -> Virus Capsule;
+  グランドチェンジ研究家 -> Grand Change researcher; タワーの元カンリ人 -> former caretaker of the tower.
+- そこぢから -> Reserve Power; スモーク -> Smoke; ガゲット -> Gaget; 水オタマジャクシ -> Water Tadpole;
+  ヨビのデータボール -> spare Data Ball; うけつけ -> front desk; {9407}さま -> Boss {9407}.
+- プレイヤーデータ -> Player Data; ジョウタイイジョウ -> status effect; パラメータ -> stats; 物知りじいさん -> wise old man;
+  君のような少年 -> "a youngster like you" (keep the player's gender neutral unless the JP line hinges on it).
 - Numbers: digits for game values (HP, prices, counts of items); small counts in plain speech may be spelled out
   ("the two machines").
 - Grazie (グラッチェ) says ミー/ユー: flamboyant faux-foreign speech -> "moi" for ミー, "you" stays; light flourish
