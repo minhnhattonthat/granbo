@@ -141,6 +141,9 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- Player default name カケル -> Kakeru. はせい -> branch-evolve; 50音 -> A-Z (sort); しょうきょ -> delete (Data Balls) /
+  forget (moves); しょきか -> reset; かんてい -> appraise; せいさんしゃのなまえ -> Creator's name; もじのひょうじ -> Text
+  Display; 足もと -> Floor. Tails after a name/number (を.../が...) get a leading space automatically at merge.
 - Menus/data: しょうひEN -> EN Cost; 通算成績 -> Record; しゅるい -> Type; 所持数 -> Owned; ターン数の制限 -> Turn Limit;
   つよさ -> Stats; つぎのLVまで あと -> To next LV; ゼンメツしました -> Team wiped out; 通信に失敗しました -> Link failed!;
   グランドヘルプ -> Grand Help; 3ぞくせいコンボ -> 3-element combo. Moves: ワザ止めキック -> Move-Stop Kick, プレス -> Press,

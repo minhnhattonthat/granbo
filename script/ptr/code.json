@@ -12,7 +12,8 @@
     "0x08441c"
    ],
    "jp": "                 {8F01}はい   {8F02}いいえ",
-   "en": ""
+   "en": "                 {8F01}Yes   {8F02}No",
+   "status": "translated"
   },
   {
    "id": "s26E31A",
@@ -21,7 +22,8 @@
     "0x0695b4"
    ],
    "jp": "G",
-   "en": ""
+   "en": "G",
+   "status": "translated"
   },
   {
    "id": "s26E31E",
@@ -31,7 +33,8 @@
     "0x04b930"
    ],
    "jp": "『",
-   "en": ""
+   "en": "\"",
+   "status": "translated"
   },
   {
    "id": "s26E326",
@@ -53,7 +56,8 @@
     "0x0851cc"
    ],
    "jp": "所持金",
-   "en": ""
+   "en": "Money",
+   "status": "translated"
   },
   {
    "id": "s26E348",
@@ -63,7 +67,8 @@
     "0x08b0fc"
    ],
    "jp": "しゅぞく",
-   "en": ""
+   "en": "Species",
+   "status": "translated"
   },
   {
    "id": "s26E382",
@@ -72,7 +77,8 @@
     "0x06df40"
    ],
    "jp": "が ",
-   "en": ""
+   "en": ":",
+   "status": "translated"
   },
   {
    "id": "s26E396",
@@ -81,7 +87,8 @@
     "0x06de60"
    ],
    "jp": "こうげき（AT）",
-   "en": ""
+   "en": "Attack (AT)",
+   "status": "translated"
   },
   {
    "id": "s26E3A8",
@@ -90,7 +97,8 @@
     "0x06de9c"
    ],
    "jp": "ぼうぎょ（DF）",
-   "en": ""
+   "en": "Defense (DF)",
+   "status": "translated"
   },
   {
    "id": "s26E3BA",
@@ -99,7 +107,8 @@
     "0x06df38"
    ],
    "jp": "すばやさ（SP）",
-   "en": ""
+   "en": "Speed (SP)",
+   "status": "translated"
   },
   {
    "id": "s26E3CC",
@@ -109,7 +118,8 @@
     "0x290574"
    ],
    "jp": "足もと",
-   "en": ""
+   "en": "Floor",
+   "status": "translated"
   },
   {
    "id": "s26E428",
@@ -118,7 +128,8 @@
     "0x068d28"
    ],
    "jp": "をしらべた{8300}",
-   "en": ""
+   "en": " searched.{8300}",
+   "status": "translated"
   },
   {
    "id": "s26E436",
@@ -127,7 +138,8 @@
     "0x064854"
    ],
    "jp": "をとりました{8400}",
-   "en": ""
+   "en": " picked up.{8400}",
+   "status": "translated"
   },
   {
    "id": "s26E446",
@@ -136,7 +148,8 @@
     "0x068d30"
    ],
    "jp": "しかし何もなかった",
-   "en": ""
+   "en": "Nothing found.",
+   "status": "translated"
   },
   {
    "id": "s26E494",
@@ -145,7 +158,8 @@
     "0x05385c"
    ],
    "jp": "のこうかはなくなりました",
-   "en": ""
+   "en": "'s effect wore off",
+   "status": "translated"
   },
   {
    "id": "s26E4AE",
@@ -154,7 +168,8 @@
     "0x053884"
    ],
    "jp": "はストップがなおりました",
-   "en": ""
+   "en": "'s Stop was cured",
+   "status": "translated"
   },
   {
    "id": "s26E4E0",
@@ -163,7 +178,8 @@
     "0x0538a8"
    ],
    "jp": "はウイルスがなおりました",
-   "en": ""
+   "en": "'s Virus was cured",
+   "status": "translated"
   },
   {
    "id": "s26E5B8",
@@ -182,7 +198,8 @@
     "0x1a9a8c"
    ],
    "jp": "カケル",
-   "en": ""
+   "en": "Kakeru",
+   "status": "translated"
   },
   {
    "id": "s26E6C6",
@@ -191,7 +208,8 @@
     "0x07238c"
    ],
    "jp": "ワールドマップ",
-   "en": ""
+   "en": "World Map",
+   "status": "translated"
   },
   {
    "id": "s26F21E",
@@ -200,7 +218,8 @@
     "0x082e60"
    ],
    "jp": "回戦で負けました",
-   "en": ""
+   "en": "round: lost",
+   "status": "translated"
   },
   {
    "id": "s26F230",
@@ -209,7 +228,8 @@
     "0x082dd0"
    ],
    "jp": "回戦を勝ちぬきました",
-   "en": ""
+   "en": "rounds won",
+   "status": "translated"
   },
   {
    "id": "s26F25E",
@@ -218,7 +238,8 @@
     "0x082d3c"
    ],
    "jp": "優勝しました",
-   "en": ""
+   "en": "Champion!",
+   "status": "translated"
   },
   {
    "id": "s26F26C",
@@ -228,7 +249,8 @@
     "0x081340"
    ],
    "jp": "行き先をえらんでください",
-   "en": ""
+   "en": "Choose a destination",
+   "status": "translated"
   },
   {
    "id": "s26F286",
@@ -239,7 +261,8 @@
     "0x085f9c"
    ],
    "jp": "アイテムロッカー",
-   "en": ""
+   "en": "Item Locker",
+   "status": "translated"
   },
   {
    "id": "s26F2F6",
@@ -248,7 +271,8 @@
     "0x084d90"
    ],
    "jp": "いくらおあずかりしましょうか？",
-   "en": ""
+   "en": "How much will you deposit?",
+   "status": "translated"
   },
   {
    "id": "s26F316",
@@ -257,7 +281,8 @@
     "0x08532c"
    ],
    "jp": "いくらおひきだししましょうか？",
-   "en": ""
+   "en": "How much will you withdraw?",
+   "status": "translated"
   },
   {
    "id": "s26F336",
@@ -267,7 +292,8 @@
     "0x0857ec"
    ],
    "jp": "これいじょうおあずかりできません",
-   "en": ""
+   "en": "We can't hold any more.",
+   "status": "translated"
   },
   {
    "id": "s26F358",
@@ -277,7 +303,8 @@
     "0x0858cc"
    ],
    "jp": "それいじょうはおひきだしできません",
-   "en": ""
+   "en": "You can't withdraw that much",
+   "status": "translated"
   },
   {
    "id": "s26F37C",
@@ -286,7 +313,8 @@
     "0x08585c"
    ],
    "jp": "おあずかりするお金がありません",
-   "en": ""
+   "en": "You have no money to deposit",
+   "status": "translated"
   },
   {
    "id": "s26F39C",
@@ -295,7 +323,8 @@
     "0x08593c"
    ],
    "jp": "おあずかりしているお金がありません",
-   "en": ""
+   "en": "You have no money deposited",
+   "status": "translated"
   },
   {
    "id": "s26F3C0",
@@ -306,7 +335,8 @@
     "0x085770"
    ],
    "jp": "おあずかりしているお金",
-   "en": ""
+   "en": "Money deposited",
+   "status": "translated"
   },
   {
    "id": "s26F3D8",
@@ -317,7 +347,8 @@
     "0x08394c"
    ],
    "jp": "おあずかりしている数",
-   "en": ""
+   "en": "Number deposited",
+   "status": "translated"
   },
   {
    "id": "s26F42E",
@@ -326,7 +357,8 @@
     "0x0847d8"
    ],
    "jp": "おあずかりするアイテムがありません",
-   "en": ""
+   "en": "You have no items to deposit",
+   "status": "translated"
   },
   {
    "id": "s26F452",
@@ -335,7 +367,8 @@
     "0x084848"
    ],
    "jp": "おあずかりしているアイテムがありません",
-   "en": ""
+   "en": "You have no items deposited",
+   "status": "translated"
   },
   {
    "id": "s26F47A",
@@ -344,7 +377,8 @@
     "0x083be0"
    ],
    "jp": "まだおあずけになりますか？",
-   "en": ""
+   "en": "Deposit anything else?",
+   "status": "translated"
   },
   {
    "id": "s26F496",
@@ -353,7 +387,8 @@
     "0x0846e0"
    ],
    "jp": "まだおひきとりになりますか？",
-   "en": ""
+   "en": "Withdraw anything else?",
+   "status": "translated"
   },
   {
    "id": "s26F4DC",
@@ -362,7 +397,8 @@
     "0x07a4e8"
    ],
    "jp": "グランドチェンジに使うデータボールをえらんでください",
-   "en": ""
+   "en": "Choose a Data Ball for the Grand Change",
+   "status": "translated"
   },
   {
    "id": "s26F512",
@@ -371,7 +407,8 @@
     "0x07a93c"
    ],
    "jp": "これでグランドチェンジしますか？    はい  いいえ",
-   "en": ""
+   "en": "Grand Change with this?    Yes  No",
+   "status": "translated"
   },
   {
    "id": "s26F54A",
@@ -380,7 +417,8 @@
     "0x07ac9c"
    ],
    "jp": "グランドチェンジをやめますか？     はい  いいえ",
-   "en": ""
+   "en": "Cancel the Grand Change?     Yes  No",
+   "status": "translated"
   },
   {
    "id": "s26F582",
@@ -389,7 +427,8 @@
     "0x07a65c"
    ],
    "jp": "グランドチェンジするヨビのデータボールがありません",
-   "en": ""
+   "en": "No spare Data Ball for a Grand Change",
+   "status": "translated"
   },
   {
    "id": "s26F5B6",
@@ -398,7 +437,8 @@
     "0x07ae14"
    ],
    "jp": "これいじょうヨビのデータボールは持てません",
-   "en": ""
+   "en": "You can't hold any more spare Data Balls",
+   "status": "translated"
   },
   {
    "id": "s26F5E2",
@@ -407,7 +447,8 @@
     "0x07a6b0"
    ],
    "jp": "これでグランドチェンジはできません",
-   "en": ""
+   "en": "You can't Grand Change with this",
+   "status": "translated"
   },
   {
    "id": "s26F606",
@@ -416,7 +457,8 @@
     "0x07a704"
    ],
    "jp": "HP0のデータボールでは\nグランドチェンジできません",
-   "en": ""
+   "en": "Data Balls with 0 HP\ncan't Grand Change",
+   "status": "translated"
   },
   {
    "id": "s26F63C",
@@ -425,7 +467,8 @@
     "0x0784e0"
    ],
    "jp": "データボールシステム",
-   "en": ""
+   "en": "Data Ball System",
+   "status": "translated"
   },
   {
    "id": "s26F6B0",
@@ -434,7 +477,8 @@
     "0x079cd8"
    ],
    "jp": "あずけるヨビのデータボールがありません",
-   "en": ""
+   "en": "No spare Data Ball to deposit",
+   "status": "translated"
   },
   {
    "id": "s26F6D8",
@@ -443,7 +487,8 @@
     "0x079d54"
    ],
    "jp": "あずけているヨビのデータボールがありません",
-   "en": ""
+   "en": "No spare Data Ball on deposit",
+   "status": "translated"
   },
   {
    "id": "s26F704",
@@ -452,7 +497,8 @@
     "0x079e30"
    ],
    "jp": "これいじょうヨビのデータボールはもてません",
-   "en": ""
+   "en": "You can't hold any more spare Data Balls",
+   "status": "translated"
   },
   {
    "id": "s26F730",
@@ -461,7 +507,8 @@
     "0x079994"
    ],
    "jp": "こうかんするデータボールをえらんでください",
-   "en": ""
+   "en": "Choose a Data Ball to exchange",
+   "status": "translated"
   },
   {
    "id": "s26F784",
@@ -470,7 +517,8 @@
     "0x078f84"
    ],
    "jp": "ひきとるデータボールをえらんでください",
-   "en": ""
+   "en": "Choose a Data Ball to withdraw",
+   "status": "translated"
   },
   {
    "id": "s26F7AC",
@@ -479,7 +527,8 @@
     "0x095b60"
    ],
    "jp": "しょうきょするデータボールをえらんでください",
-   "en": ""
+   "en": "Choose a Data Ball to delete",
+   "status": "translated"
   },
   {
    "id": "s26F7DA",
@@ -488,7 +537,8 @@
     "0x079014"
    ],
    "jp": "しょきかするデータボールをえらんでください",
-   "en": ""
+   "en": "Choose a Data Ball to reset",
+   "status": "translated"
   },
   {
    "id": "s26F806",
@@ -497,7 +547,8 @@
     "0x0789ec"
    ],
    "jp": "名前へんこうするデータボールをえらんでください",
-   "en": ""
+   "en": "Choose a Data Ball to rename",
+   "status": "translated"
   },
   {
    "id": "s26F836",
@@ -506,7 +557,8 @@
     "0x0788ec"
    ],
    "jp": "しんかさせたいデータボールをえらんでください",
-   "en": ""
+   "en": "Choose a Data Ball to evolve",
+   "status": "translated"
   },
   {
    "id": "s26F864",
@@ -515,7 +567,8 @@
     "0x075380"
    ],
    "jp": "しんかにはめこむデータボールをえらんでください",
-   "en": ""
+   "en": "Choose a Data Ball to insert for evolving",
+   "status": "translated"
   },
   {
    "id": "s26F894",
@@ -524,7 +577,8 @@
     "0x078f74"
    ],
    "jp": "しんかにしようするデータボールをえらんでください",
-   "en": ""
+   "en": "Choose a Data Ball to use for evolving",
+   "status": "translated"
   },
   {
    "id": "s26F8C6",
@@ -533,7 +587,8 @@
     "0x0796d8"
    ],
    "jp": "このデータボールをはめますか？     はい  いいえ",
-   "en": ""
+   "en": "Insert this Data Ball?     Yes  No",
+   "status": "translated"
   },
   {
    "id": "s26F8FE",
@@ -542,7 +597,8 @@
     "0x075cf8"
    ],
    "jp": "このグランボにしんかさせますか？    はい  いいえ",
-   "en": ""
+   "en": "Evolve into this Granbo?    Yes  No",
+   "status": "translated"
   },
   {
    "id": "s26F936",
@@ -551,7 +607,8 @@
     "0x075a7c"
    ],
    "jp": "このグランボにはせいさせますか？    はい  いいえ",
-   "en": ""
+   "en": "Branch-evolve into this Granbo?    Yes  No",
+   "status": "translated"
   },
   {
    "id": "s26F96E",
@@ -560,7 +617,8 @@
     "0x075234"
    ],
    "jp": "これいじょう、しんかできません",
-   "en": ""
+   "en": "It can't evolve any further",
+   "status": "translated"
   },
   {
    "id": "s26F98E",
@@ -569,7 +627,8 @@
     "0x0779d4"
    ],
    "jp": "どのようにならびかえますか？",
-   "en": ""
+   "en": "How do you want to sort?",
+   "status": "translated"
   },
   {
    "id": "s26F9AC",
@@ -578,7 +637,8 @@
     "0x077a44"
    ],
    "jp": "50音",
-   "en": ""
+   "en": "A-Z",
+   "status": "translated"
   },
   {
    "id": "s26F9B4",
@@ -589,7 +649,8 @@
     "0x077aec"
    ],
    "jp": "ID",
-   "en": ""
+   "en": "ID",
+   "status": "translated"
   },
   {
    "id": "s26F9BA",
@@ -598,7 +659,8 @@
     "0x077af4"
    ],
    "jp": "でならびかえました",
-   "en": ""
+   "en": " order set",
+   "status": "translated"
   },
   {
    "id": "s26F9CE",
@@ -607,7 +669,8 @@
     "0x077624"
    ],
    "jp": "をしょきかしました",
-   "en": ""
+   "en": " was reset",
+   "status": "translated"
   },
   {
    "id": "s26F9E2",
@@ -616,7 +679,8 @@
     "0x0772fc"
    ],
    "jp": "をしょうきょしました",
-   "en": ""
+   "en": " was deleted",
+   "status": "translated"
   },
   {
    "id": "s26F9F8",
@@ -625,7 +689,8 @@
     "0x079f60"
    ],
    "jp": "をあずけました",
-   "en": ""
+   "en": " deposited",
+   "status": "translated"
   },
   {
    "id": "s26FA08",
@@ -634,7 +699,8 @@
     "0x07a008"
    ],
    "jp": "をひきとりました",
-   "en": ""
+   "en": " was withdrawn",
+   "status": "translated"
   },
   {
    "id": "s26FA84",
@@ -649,7 +715,8 @@
     "0x08eea4"
    ],
    "jp": "これでいいですか？           はい  いいえ",
-   "en": ""
+   "en": "Is this OK?           Yes  No",
+   "status": "translated"
   },
   {
    "id": "s26FABC",
@@ -658,7 +725,8 @@
     "0x080eb4"
    ],
    "jp": "かんていしてほしいグランボをえらんでください",
-   "en": ""
+   "en": "Choose a Granbo to appraise",
+   "status": "translated"
   },
   {
    "id": "s26FAEA",
@@ -667,7 +735,8 @@
     "0x0781b8"
    ],
    "jp": "データボールを回復します",
-   "en": ""
+   "en": "Heals your Data Balls",
+   "status": "translated"
   },
   {
    "id": "s26FB04",
@@ -677,7 +746,8 @@
     "0x091a60"
    ],
    "jp": "名前をいれてください",
-   "en": ""
+   "en": "Enter a name",
+   "status": "translated"
   },
   {
    "id": "s26FB1A",
@@ -686,7 +756,8 @@
     "0x0920f4"
    ],
    "jp": "『      』",
-   "en": ""
+   "en": "\"      \"",
+   "status": "translated"
   },
   {
    "id": "s26FB40",
@@ -695,7 +766,8 @@
     "0x091968"
    ],
    "jp": "おわり",
-   "en": ""
+   "en": "End",
+   "status": "translated"
   },
   {
    "id": "s26FB48",
@@ -704,7 +776,8 @@
     "0x091908"
    ],
    "jp": "もどる",
-   "en": ""
+   "en": " Back",
+   "status": "translated"
   },
   {
    "id": "s26FB50",
@@ -713,7 +786,8 @@
     "0x091920"
    ],
    "jp": "か な",
-   "en": ""
+   "en": "Hira",
+   "status": "translated"
   },
   {
    "id": "s26FB58",
@@ -722,7 +796,8 @@
     "0x091938"
    ],
    "jp": "カ ナ",
-   "en": ""
+   "en": "Kata",
+   "status": "translated"
   },
   {
    "id": "s26FB60",
@@ -731,7 +806,8 @@
     "0x091950"
    ],
    "jp": "ABC",
-   "en": ""
+   "en": "ABC",
+   "status": "translated"
   },
   {
    "id": "s26FB68",
@@ -740,7 +816,8 @@
     "0x0918f0"
    ],
    "jp": "空 白",
-   "en": ""
+   "en": "Space",
+   "status": "translated"
   },
   {
    "id": "s26FBEC",
@@ -750,7 +827,8 @@
     "0x082a64"
    ],
    "jp": "お金がたりません",
-   "en": ""
+   "en": "Not enough G",
+   "status": "translated"
   },
   {
    "id": "s26FBFE",
@@ -759,7 +837,8 @@
     "0x07da8c"
    ],
    "jp": "アイテムがいっぱいでもてません",
-   "en": ""
+   "en": "You can't carry more items",
+   "status": "translated"
   },
   {
    "id": "s26FC1E",
@@ -768,7 +847,8 @@
     "0x07eb74"
    ],
    "jp": "売るアイテムがありません",
-   "en": ""
+   "en": "No items to sell",
+   "status": "translated"
   },
   {
    "id": "s26FC50",
@@ -780,7 +860,8 @@
     "0x084624"
    ],
    "jp": "X",
-   "en": ""
+   "en": "X",
+   "status": "translated"
   },
   {
    "id": "s26FC58",
@@ -789,7 +870,8 @@
     "0x089730"
    ],
    "jp": "戦闘に勝った！！！",
-   "en": ""
+   "en": "Battle won!!",
+   "status": "translated"
   },
   {
    "id": "s26FC6C",
@@ -798,7 +880,8 @@
     "0x0897c8"
    ],
    "jp": "G手に入れた！",
-   "en": ""
+   "en": "G obtained!",
+   "status": "translated"
   },
   {
    "id": "s26FC7C",
@@ -807,7 +890,8 @@
     "0x08baa8"
    ],
    "jp": "を手に入れた！",
-   "en": ""
+   "en": " obtained!",
+   "status": "translated"
   },
   {
    "id": "s26FC8C",
@@ -816,7 +900,8 @@
     "0x08bb78"
    ],
    "jp": "のワザアイテムを手に入れた！",
-   "en": ""
+   "en": " Move Item obtained!",
+   "status": "translated"
   },
   {
    "id": "s26FCAA",
@@ -825,7 +910,8 @@
     "0x08a148"
    ],
    "jp": "新しいワザをおぼえた！",
-   "en": ""
+   "en": "Learned a new move!",
+   "status": "translated"
   },
   {
    "id": "s26FCC2",
@@ -836,7 +922,8 @@
     "0x08cbd4"
    ],
    "jp": "のランクポイントをカクトクした！",
-   "en": ""
+   "en": " Rank Points earned!",
+   "status": "translated"
   },
   {
    "id": "s26FCE4",
@@ -847,7 +934,8 @@
     "0x08cc80"
    ],
    "jp": "は ランクが",
-   "en": ""
+   "en": "'s rank:",
+   "status": "translated"
   },
   {
    "id": "s26FCF2",
@@ -856,7 +944,8 @@
     "0x089a60"
    ],
    "jp": "ポイントのEXP。をカクトクした！",
-   "en": ""
+   "en": "EXP earned!",
+   "status": "translated"
   },
   {
    "id": "s26FD16",
@@ -865,7 +954,8 @@
     "0x089cdc"
    ],
    "jp": "は レベル",
-   "en": ""
+   "en": " is now Lv.",
+   "status": "translated"
   },
   {
    "id": "s26FD2E",
@@ -874,7 +964,8 @@
     "0x08a570"
    ],
    "jp": "しょうきょしたいワザをえらんでください",
-   "en": ""
+   "en": "Choose a move to forget",
+   "status": "translated"
   },
   {
    "id": "s26FD56",
@@ -883,7 +974,8 @@
     "0x08a804"
    ],
    "jp": "をしょうきょします",
-   "en": ""
+   "en": " will be forgotten",
+   "status": "translated"
   },
   {
    "id": "s26FD6A",
@@ -892,7 +984,8 @@
     "0x08a8ec"
    ],
    "jp": "をおぼえるのをあきらめます",
-   "en": ""
+   "en": " will not be learned",
+   "status": "translated"
   },
   {
    "id": "s26FD86",
@@ -901,7 +994,8 @@
     "0x08a67c"
    ],
    "jp": "をおぼえない",
-   "en": ""
+   "en": "(skip)",
+   "status": "translated"
   },
   {
    "id": "s26FD94",
@@ -910,7 +1004,8 @@
     "0x08aa18"
    ],
    "jp": "新しいデータボールを手に入れた",
-   "en": ""
+   "en": "Obtained a new Data Ball",
+   "status": "translated"
   },
   {
    "id": "s26FDB4",
@@ -923,7 +1018,8 @@
     "0x0964f8"
    ],
    "jp": "これでいいですか？           はい  いいえ",
-   "en": ""
+   "en": "Is this OK?           Yes  No",
+   "status": "translated"
   },
   {
    "id": "s26FDEC",
@@ -932,7 +1028,8 @@
     "0x08ad9c"
    ],
    "jp": "てんそうするデータボールをえらんでください",
-   "en": ""
+   "en": "Choose a Data Ball to transfer",
+   "status": "translated"
   },
   {
    "id": "s26FE2C",
@@ -941,7 +1038,8 @@
     "0x08ad8c"
    ],
    "jp": "ハントしたデータボール",
-   "en": ""
+   "en": "Hunted Data Balls",
+   "status": "translated"
   },
   {
    "id": "s26FE44",
@@ -952,7 +1050,8 @@
     "0x08a044"
    ],
    "jp": "MAX",
-   "en": ""
+   "en": "MAX",
+   "status": "translated"
   },
   {
    "id": "s26FE4C",
@@ -962,7 +1061,8 @@
     "0x04a8ac"
    ],
    "jp": "を手にいれた",
-   "en": ""
+   "en": " obtained",
+   "status": "translated"
   },
   {
    "id": "s26FE5A",
@@ -971,7 +1071,8 @@
     "0x094960"
    ],
    "jp": "わたすグランボをえらんでください",
-   "en": ""
+   "en": "Choose a Granbo to hand over",
+   "status": "translated"
   },
   {
    "id": "s26FEAC",
@@ -981,7 +1082,8 @@
     "0x093c08"
    ],
    "jp": "アイテムがいっぱいでもてません",
-   "en": ""
+   "en": "You can't carry more items",
+   "status": "translated"
   },
   {
    "id": "s26FEF0",
@@ -991,7 +1093,8 @@
     "0x094300"
    ],
    "jp": "をあきらめる",
-   "en": ""
+   "en": "(give up)",
+   "status": "translated"
   },
   {
    "id": "s26FEFE",
@@ -1001,7 +1104,8 @@
     "0x09411c"
    ],
    "jp": "をすてます",
-   "en": ""
+   "en": " discarded",
+   "status": "translated"
   },
   {
    "id": "s26FF0A",
@@ -1010,7 +1114,8 @@
     "0x095354"
    ],
    "jp": "システムにおくるデータボールをえらんでください",
-   "en": ""
+   "en": "Choose a Data Ball to send to the System",
+   "status": "translated"
   },
   {
    "id": "s26FF3A",
@@ -1019,7 +1124,8 @@
     "0x09533c"
    ],
    "jp": "もらったデータボール",
-   "en": ""
+   "en": " Received Data Balls",
+   "status": "translated"
   },
   {
    "id": "s26FF64",
@@ -1028,7 +1134,8 @@
     "0x095918"
    ],
    "jp": "システムにデータボールをおくれません\nデータボールをしょうきょしてください",
-   "en": ""
+   "en": "Can't send Data Balls to the System\nPlease delete a Data Ball",
+   "status": "translated"
   },
   {
    "id": "s270008",
@@ -1038,7 +1145,8 @@
     "0x06d894"
    ],
    "jp": "をだれに使いますか？",
-   "en": ""
+   "en": ": use on whom?",
+   "status": "translated"
   },
   {
    "id": "s27001E",
@@ -1049,7 +1157,8 @@
     "0x06f6a0"
    ],
    "jp": "を使いますか？",
-   "en": ""
+   "en": ": use it?",
+   "status": "translated"
   },
   {
    "id": "s27002E",
@@ -1060,7 +1169,8 @@
     "0x070434"
    ],
    "jp": "アイテムがありません",
-   "en": ""
+   "en": "You have no items",
+   "status": "translated"
   },
   {
    "id": "s270044",
@@ -1072,7 +1182,8 @@
     "0x06f4ec"
    ],
    "jp": "このアイテムは今は使えません",
-   "en": ""
+   "en": "This item can't be used now",
+   "status": "translated"
   },
   {
    "id": "s270062",
@@ -1081,7 +1192,8 @@
     "0x06f46c"
    ],
    "jp": "ここで使っても意味がない",
-   "en": ""
+   "en": "It's no use here",
+   "status": "translated"
   },
   {
    "id": "s27007C",
@@ -1090,7 +1202,8 @@
     "0x0703b4"
    ],
    "jp": "このワザはおぼえられません",
-   "en": ""
+   "en": "Can't learn this move",
+   "status": "translated"
   },
   {
    "id": "s270098",
@@ -1100,7 +1213,8 @@
     "0x0714b8"
    ],
    "jp": "をすてますか？",
-   "en": ""
+   "en": ": discard it?",
+   "status": "translated"
   },
   {
    "id": "s2700A8",
@@ -1110,7 +1224,8 @@
     "0x071604"
    ],
    "jp": "をすてました",
-   "en": ""
+   "en": " discarded",
+   "status": "translated"
   },
   {
    "id": "s2701A4",
@@ -1120,7 +1235,8 @@
     "0x0702a8"
    ],
    "jp": "どうしますか？",
-   "en": ""
+   "en": "What now?",
+   "status": "translated"
   },
   {
    "id": "s270268",
@@ -1129,7 +1245,8 @@
     "0x06b1cc"
    ],
    "jp": "だれのワザを使いますか？",
-   "en": ""
+   "en": "Use whose move?",
+   "status": "translated"
   },
   {
    "id": "s270282",
@@ -1138,7 +1255,8 @@
     "0x06bcd0"
    ],
    "jp": "今は使えません",
-   "en": ""
+   "en": "Can't use now",
+   "status": "translated"
   },
   {
    "id": "s270292",
@@ -1147,7 +1265,8 @@
     "0x06bd4c"
    ],
    "jp": "ワザを持っていません",
-   "en": ""
+   "en": "Knows no moves",
+   "status": "translated"
   },
   {
    "id": "s2702A8",
@@ -1156,7 +1275,8 @@
     "0x06bc54"
    ],
    "jp": "ENがたりません",
-   "en": ""
+   "en": "Not enough EN",
+   "status": "translated"
   },
   {
    "id": "s2702BA",
@@ -1165,7 +1285,8 @@
     "0x06c0fc"
    ],
    "jp": "どのメカエッグをヘンシンさせますか？",
-   "en": ""
+   "en": "Which Mecha Egg will transform?",
+   "status": "translated"
   },
   {
    "id": "s2702E0",
@@ -1174,7 +1295,8 @@
     "0x06c204"
    ],
    "jp": "何にヘンシンしますか？",
-   "en": ""
+   "en": "Transform into what?",
+   "status": "translated"
   },
   {
    "id": "s2702F8",
@@ -1183,7 +1305,8 @@
     "0x06c5cc"
    ],
    "jp": "ヨビのデータボールがないのでヘンシンできません",
-   "en": ""
+   "en": "No spare Data Ball, so you can't transform",
+   "status": "translated"
   },
   {
    "id": "s270328",
@@ -1192,7 +1315,8 @@
     "0x06c44c"
    ],
    "jp": "これでいいですか？           はい  いいえ",
-   "en": ""
+   "en": "Is this OK?           Yes  No",
+   "status": "translated"
   },
   {
    "id": "s270360",
@@ -1201,7 +1325,8 @@
     "0x06c7ac"
    ],
    "jp": "だれの強さをみますか？",
-   "en": ""
+   "en": "Check whose stats?",
+   "status": "translated"
   },
   {
    "id": "s2703A0",
@@ -1210,7 +1335,8 @@
     "0x06cf24"
    ],
    "jp": "せいさんしゃのなまえ",
-   "en": ""
+   "en": "Creator's name",
+   "status": "translated"
   },
   {
    "id": "s2703DA",
@@ -1221,7 +1347,8 @@
     "0x08f110"
    ],
    "jp": "しんかリスト",
-   "en": ""
+   "en": "Evolutions",
+   "status": "translated"
   },
   {
    "id": "s270408",
@@ -1230,7 +1357,8 @@
     "0x06e1c4"
    ],
    "jp": "しばらくの間 敵に出会いやすくなります",
-   "en": ""
+   "en": "Meet enemies more often for a while",
+   "status": "translated"
   },
   {
    "id": "s270430",
@@ -1239,7 +1367,8 @@
     "0x06e1a8"
    ],
    "jp": "しばらくの間 敵に出会いにくくなります",
-   "en": ""
+   "en": "Meet enemies less often for a while",
+   "status": "translated"
   },
   {
    "id": "s270458",
@@ -1248,7 +1377,8 @@
     "0x06e228"
    ],
    "jp": "しばらくの間 弱い敵に出会いません",
-   "en": ""
+   "en": "No weak enemies for a while",
+   "status": "translated"
   },
   {
    "id": "s27047C",
@@ -1258,7 +1388,8 @@
     "0x06fb60"
    ],
    "jp": "を使った",
-   "en": ""
+   "en": " used",
+   "status": "translated"
   },
   {
    "id": "s270486",
@@ -1267,7 +1398,8 @@
     "0x07089c"
    ],
    "jp": "を新しくおぼえますか？",
-   "en": ""
+   "en": ": learn new move?",
+   "status": "translated"
   },
   {
    "id": "s27049E",
@@ -1276,7 +1408,8 @@
     "0x070b50"
    ],
    "jp": "しょうきょしたいワザをえらんでください",
-   "en": ""
+   "en": "Choose a move to forget",
+   "status": "translated"
   },
   {
    "id": "s2704C6",
@@ -1285,7 +1418,8 @@
     "0x070d7c"
    ],
    "jp": "をしょうきょします\nこれでいいですか？           はい  いいえ",
-   "en": ""
+   "en": " will be forgotten\nIs this OK?           Yes  No",
+   "status": "translated"
   },
   {
    "id": "s270512",
@@ -1294,7 +1428,8 @@
     "0x0705ec"
    ],
    "jp": "をだれにおぼえさせますか？",
-   "en": ""
+   "en": ": teach it to whom?",
+   "status": "translated"
   },
   {
    "id": "s27052E",
@@ -1303,7 +1438,8 @@
     "0x070a30"
    ],
    "jp": "をおぼえました",
-   "en": ""
+   "en": " was learned",
+   "status": "translated"
   },
   {
    "id": "s27053E",
@@ -1312,7 +1448,8 @@
     "0x070e9c"
    ],
    "jp": "はおぼえています",
-   "en": ""
+   "en": " already known",
+   "status": "translated"
   },
   {
    "id": "s270562",
@@ -1321,7 +1458,8 @@
     "0x073558"
    ],
    "jp": "セーブしますか？",
-   "en": ""
+   "en": "Save the game?",
+   "status": "translated"
   },
   {
    "id": "s270574",
@@ -1331,7 +1469,8 @@
     "0x08c4b4"
    ],
    "jp": "セーブしています",
-   "en": ""
+   "en": "Saving...",
+   "status": "translated"
   },
   {
    "id": "s270586",
@@ -1340,7 +1479,8 @@
     "0x0736f4"
    ],
    "jp": "セーブがおわりました",
-   "en": ""
+   "en": "Save complete",
+   "status": "translated"
   },
   {
    "id": "s27059C",
@@ -1350,7 +1490,8 @@
     "0x08c570"
    ],
    "jp": "セーブにしっぱいしました",
-   "en": ""
+   "en": "The save failed",
+   "status": "translated"
   },
   {
    "id": "s2705EA",
@@ -1359,7 +1500,8 @@
     "0x073544"
    ],
    "jp": "プレイ時間",
-   "en": ""
+   "en": "Play Time",
+   "status": "translated"
   },
   {
    "id": "s270600",
@@ -1368,7 +1510,8 @@
     "0x0739c8"
    ],
    "jp": "こうかおん",
-   "en": ""
+   "en": "Sound FX",
+   "status": "translated"
   },
   {
    "id": "s27060C",
@@ -1377,7 +1520,8 @@
     "0x073a1c"
    ],
    "jp": "おんがく",
-   "en": ""
+   "en": "Music",
+   "status": "translated"
   },
   {
    "id": "s270630",
@@ -1386,7 +1530,8 @@
     "0x073a64"
    ],
    "jp": "もじのひょうじ",
-   "en": ""
+   "en": " Text Display",
+   "status": "translated"
   },
   {
    "id": "s270658",
@@ -1395,7 +1540,8 @@
     "0x07387c"
    ],
    "jp": "         {8833}ちゅうい{8800}\n・2だいのゲームボーイアドバンスに\n 通信ケーブルがきちんと接続されているか\n かくにんしてください\n\n・対戦中はでんげんをきったり\n 通信ケーブルをぬいたりしないでください",
-   "en": ""
+   "en": "{8833}         Caution{8800}\n- Make sure the link cable\n is properly connected to both\n Game Boy Advances.\n\n- During battle, do not turn\n off the power or unplug the cable.",
+   "status": "translated"
   },
   {
    "id": "s270728",
@@ -1414,7 +1560,8 @@
     "0x090d90"
    ],
    "jp": "名前  ",
-   "en": ""
+   "en": "Name",
+   "status": "translated"
   },
   {
    "id": "s2707D0",
@@ -1423,7 +1570,8 @@
     "0x08bf70"
    ],
    "jp": "通信対戦を始めますか？",
-   "en": ""
+   "en": "Start a link battle?",
+   "status": "translated"
   },
   {
    "id": "s2707E8",
@@ -1436,7 +1584,8 @@
     "0x0903ac"
    ],
    "jp": "通信をしています",
-   "en": ""
+   "en": "Linking...",
+   "status": "translated"
   },
   {
    "id": "s2707FA",
@@ -1445,7 +1594,8 @@
     "0x090320"
    ],
    "jp": "このルールで通信対戦を始めますか？",
-   "en": ""
+   "en": "Link battle with these rules?",
+   "status": "translated"
   },
   {
    "id": "s270854",

@@ -37,6 +37,7 @@ def padded(jp):
 
 
 BOX_PX = {"t1A1568": 200, "t098F4C": 200, "t1A952C": 200, "r290000": 216}  # message boxes / credits: whole width
+ID_PX = {"s26E5B8": 46}  # default player name (カケル -> Kakeru): a name-entry field, 7 glyphs like the RAM slots
 
 
 def limits(jp, group=None):
@@ -107,7 +108,8 @@ def issues(e, en, group=None):
     if len(jl) != len(el):
         out.append(f"{len(el)} lines, JP has {len(jl)} (' / ' and {{82xx}} are line breaks)")
     elif not padded(jp):
-        for i, (lim, line) in enumerate(zip(limits(jp, group), el), 1):
+        lims = [ID_PX[e["id"]]] * len(el) if e["id"] in ID_PX else limits(jp, group)
+        for i, (lim, line) in enumerate(zip(lims, el), 1):
             w = fit.width(line)
             if w > lim:
                 out.append(f"line {i}: {w} px > {lim} px")
@@ -129,6 +131,10 @@ def check(pid):
             continue
         e, group = by_id[i]
         errs += [f"{i}: {m}" for m in issues(e, en, group)]
+        # a JP tail that follows a name or number ("をおあずかりしました") starts with a particle: give the English a
+        # space (after the width check: the limit is the tail's own text)
+        if re.match(r"[をがはのにでともへや]", e["jp"]) and en[:1].isalnum():
+            en = " " + en
         merged[i] = en
     return errs, merged
 
