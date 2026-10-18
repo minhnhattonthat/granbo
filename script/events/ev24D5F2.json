@@ -174,7 +174,8 @@
     18
    ],
    "jp": "{8001}{9201}「ならばすみやかにここから{8201}立ちさるがいい」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{9201}Then leave this place at once!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_019",
@@ -182,7 +183,8 @@
     19
    ],
    "jp": "{8001}{9201}「ほほう、自信があるようだな」{8300}「では行くぞ！ まずはエーゲさまに{8201}かんするモンダイだ！」{8300}「だい1モン！」{8300}「エーゲさまのへやにあるキャプテンの人形を{8201}しらべると『エーゲ、すきだ！』と言う」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8001}{9201}Hoho, you seem confident.{8300}Then here we go! First, questions about Boss Aegean!{8300}Question 1!{8300}If you examine the Captain doll in Boss Aegean's room, it says \"Aegean, I love you!\"{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_020",
@@ -190,7 +192,8 @@
     20
    ],
    "jp": "{8001}{9201}「つづいてだい2モン！」{8300}「エーゲさまのベッドの上においてある{8201}クッションの形はハートである」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8001}{9201}Next, Question 2!{8300}The cushion on Boss Aegean's bed is shaped like a heart.{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_021",
@@ -198,7 +201,8 @@
     21
    ],
    "jp": "{8001}{9201}「だい3モン！」{8300}「エーゲさまのへやのカガミにはってある{8201}メモには明日のこんだてが書いてある」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8001}{9201}Question 3!{8300}The memo stuck on the mirror in Boss Aegean's room has tomorrow's menu written on it.{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_022",
@@ -206,7 +210,8 @@
     22
    ],
    "jp": "{8001}{9201}「よし、ここからはバルトさまにかんする{8201}モンダイを行くぞ！」{8300}「だい4モン！」{8300}「バルトさまのスキなオンガクは{8201}意外にも『えんか』である！」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8001}{9201}All right, now for questions about Boss Baltic!{8300}Question 4!{8300}Surprisingly, Boss Baltic's favorite music is old-style enka ballads!{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_023",
@@ -214,7 +219,8 @@
     23
    ],
    "jp": "{8001}{9201}「だい5モン！」{8300}「バルトさまのへやにはグランボの{8201}プラモデルがおいてある！」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8001}{9201}Question 5!{8300}There's a plastic model of a Granbo in Boss Baltic's room!{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_024",
@@ -222,7 +228,8 @@
     24
    ],
    "jp": "{8001}{9201}「だい6モン！」{8300}「バルトさまのスキなゲームは{8201}かくとうゲームである！」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8001}{9201}Question 6!{8300}Boss Baltic's favorite kind of game is fighting games!{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_025",
@@ -230,7 +237,8 @@
     25
    ],
    "jp": "{8001}{9201}「さぁ、最後はバミューダさまにかんする{8201}シツモンだ！」{8300}「だい7モン！」{8300}「バミューダさまのアイドク書は{8201}『{8833}グランボが世界をすくう{8800}』である」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8001}{9201}Now, the last questions are about Boss Bermuda!{8300}Question 7!{8300}Boss Bermuda's favorite book is \"{8833}Granbo Save the World{8800}.\"{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_026",
@@ -238,7 +246,8 @@
     26
    ],
    "jp": "{8001}{9201}「だい8モン！」{8300}「バミューダさまのベッドにある{8201}シーツの色は青である」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8001}{9201}Question 8!{8300}The sheets on Boss Bermuda's bed are blue.{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_027",
@@ -246,7 +255,8 @@
     27
    ],
    "jp": "{8001}{9201}「だい9モン！」{8300}「バミューダさまのへやのタナの中には{8201}メカにくが入っている」{9200}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8001}{9201}Question 9!{8300}The shelf in Boss Bermuda's room has Mecha Meat in it.{9200}{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_028",
@@ -254,7 +264,8 @@
     28
    ],
    "jp": "{8001}{9201}「パーフェクト！この先にすすむ事を{8201}みとめよう！さぁ、行くがいい！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{9201}Perfect! I grant you permission to proceed! Now, go!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_029",
@@ -262,7 +273,8 @@
     29
    ],
    "jp": "{8001}{9201}「ゴウカク！この先にすすむ事をみとめよう！{8201}さぁ、先にすすむがいい！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{9201}You pass! I grant you permission to proceed! Now, go on ahead!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_030",
@@ -270,7 +282,8 @@
     30
    ],
    "jp": "{8001}{9201}「ザンネンだが、カンブの事をそのテイドしか{8201}しらないお前をここから先にとおすわけには{8201}いかん！でなおして来い！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{9201}Too bad, but I can't let someone who knows that little about the bosses go any further! Come back and try again!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24D5F2_031",
@@ -278,7 +291,8 @@
     31
    ],
    "jp": "{8001}{9201}「・・・けいかいけいほうはつれい・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{9201}...Security alert activated...{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

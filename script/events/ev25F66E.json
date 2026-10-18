@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{8607}{949D}「ちょっとやっかいなシカケがあるな・・・」{8300}{8607}{949D}「レイセイに、色のカンケイをかんがえながら{8207}イドウするといいかもな」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8607}{949D}There's a rather tricky contraption here...{8300}{8607}{949D}Stay calm, and it might be best to move while thinking about how the colors relate.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev25F66E_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev25F66E_002",

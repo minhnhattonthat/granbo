@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{8601}{9497}「このフロア・・・{8207}まん中のツウロにいっぱいケイビマシンが{8207}いるから気をつけてね！！」{8300}{8601}{9497}「そうそう、さっき見つけた{8207}{8833}全HPカプセル様{8800}をわたしておくわ！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{8601}{9497}This floor... There are lots of security machines in the middle passage, so be careful!!{8300}{8601}{9497}Oh yeah, let me give you the {8833}Team HP Capsule EX{8800} I found earlier!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev25F314_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{8601}{9497}「それじゃあ、わたすわ！{8207}ここぞという所で使ってね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Okay, here you go! Use it when it really counts!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev25F314_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{8610}{9497}「ええっ、どうして？{8207}これって最高きゅうひんよ？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}Whaaat, why not? This is a top-grade item, you know?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev25F314_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{8601}{9497}「それじゃ、おたがい気をつけようね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Well then, let's both be careful!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev25F314_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev25F314_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev25F314_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev25F314_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev25F314_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev25F314_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev25F314_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev25F314_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

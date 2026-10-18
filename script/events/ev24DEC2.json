@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{860F}{94A5}「イベント用ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Event dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24DEC2_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{8601}{9497}「これがエーゲのヘヤかぁ・・・！{8207}一目見てすぐにわかったよ！！」{8300}{8610}{9497}「それにしてもスゴイヘヤだね・・・」{8300}{8611}{9497}「長い時間いると気分が悪くなりそう！」{8300}{8601}{9497}「とにかく、ここまで来たらユダン禁物！」{8300}{8601}{9497}「この{8833}HP回復中{8800}のワザを{8207}持っていった方がいいわ！」\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}So this is Aegean's room...! I knew it the second I saw it!!{8300}{8610}{9497}What a crazy room, though...{8300}{8611}{9497}I'd feel sick if I stayed in here too long!{8300}{8601}{9497}Anyway, now that we've come this far, we can't let our guard down!{8300}{8601}{9497}You'd better take this {8833}HP Heal 2{8800} move with you!{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24DEC2_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{8601}{9497}「それじゃあ、わたすわ！{8207}うまく使ってね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Okay, here you go! Use it well!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24DEC2_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{8610}{9497}「ええっ、どうして？{8207}なくてもダイジョウブなの？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8610}{9497}What, why? Are you sure you'll be okay without it?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24DEC2_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{8601}{9497}「それじゃ、気をつけてね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}Well then, be careful!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24DEC2_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{861F}{94A5}「今日はエーゲさまのヘヤのソウジか・・・」{8300}{861F}{94A5}「エーゲさまはヘヤにおいてある物が{8207}1センチでもずれていたら{8207}おこりだすから、気をつけねぇとな！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Today I'm cleaning Boss Aegean's room, huh...{8300}{861F}{94A5}If anything in Boss Aegean's room is even 1 centimeter out of place, she blows her top, so I'd better be careful!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24DEC2_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{860F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24DEC2_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{860F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24DEC2_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{860F}{94A5}「ダミー」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Dummy{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24DEC2_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{9201}大きなキャプテン人形がおいてある\nさわると「{8833}エーゲ、すきだ！{8800}」としゃべった！！{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There's a big Captain doll here. When you touched it, it said \"{8833}Aegean, I love you!{8800}\"!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24DEC2_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{9201}カガミにはられたメモにはカリブへの\n{8833}アイのメッセージ{8800}がかきこまれている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The memo stuck on the mirror has a {8833}love message{8800} to Caribbean written on it.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24DEC2_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{9201}ベッドの上に{8833}ハート形クッション{8800}がのっている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There's a {8833}heart-shaped cushion{8800} on the bed.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev24DEC2_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24DEC2_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24DEC2_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev24DEC2_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

@@ -12,7 +12,8 @@
     0
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev25CC1C_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}かかりいん「めずらしいですね・・・{8207}こんな何もない大陸にお客さんとは・・・」{8300}{94C8}かかりいん「え・・・！？ここに{8207}スカイシャークの本きょ地がある？」{8300}{94C8}かかりいん「たしかに・・・{8207}{8833}タキのいきおいが時々弱まる{8800}ので{8207}何か変だとは思っていたのですが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「How unusual... A visitor, on a continent with nothing here at all...{8300}{94C8}Staff「Wh-what...?! Sky Shark's headquarters is here?{8300}{94C8}Staff「Come to think of it... {8833}the waterfall's force weakens now and then{8800}, so I did think something was strange...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev25CC1C_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev25CC1C_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}かかりいん「スカイシャークをたおしましたか！{8207}これで世界も平和に・・・{8207}え？まだ終わっていない？」{8300}{94C8}かかりいん「そんな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「You defeated Sky Shark! Now the world will be at peace... Huh? It's not over yet?{8300}{94C8}Staff「Oh no...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev25CC1C_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev25CC1C_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}かかりいん「最近、外が暗くなった時に{8207}見た事のないドウクツへの入口が{8207}すがたをあらわすらしいんです」{8300}{94C8}かかりいん「しかも、中をしらべに行った{8207}スカイシャークの子分達がみんな大ケガを{8207}してもどって来るとか・・・」{8300}{94C8}かかりいん「やつら、こんな事を言っていましたよ{8207}『{8833}見た目にだまされるな{8800}』って・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Staff「Lately, they say that when it gets dark outside, the entrance to a cave nobody's ever seen appears.{8300}{94C8}Staff「What's more, the Sky Shark grunts who went in to investigate all came back badly hurt...{8300}{94C8}Staff「And they kept saying this: \"{8833}Don't be fooled by appearances{8800}\"...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev25CC1C_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{9201}この大陸のあんないエイゾウだ・・・\nタキいがい何もないようだが・・・{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a guide video of this continent... Looks like there's nothing here but the waterfall...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev25CC1C_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}かいさついん「スカイシップにのりますか？」{8207}\n{8D00}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Will you board the Skyship?{8D00}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev25CC1C_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}かいさついん「それではごとうじょうください」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Then please come aboard.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev25CC1C_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}かいさついん「ごりようありがとうございます」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Thank you for riding with us.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev25CC1C_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}かいさついん「ごりようありがとうございました{8207}これからもよろしくおねがいします」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gatekeep「Thank you for riding with us. We hope to see you again.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev25CC1C_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{8601}{9497}「ビックリした！」{8300}{8601}{9497}「・・・たしかに、こんな所に{8207}スカイシャークの本きょ地があるとは{8207}だれも思わないよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8601}{9497}What a surprise!{8300}{8601}{9497}...Sure enough, nobody would ever think Sky Shark's headquarters was in a place like this!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev25CC1C_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{8602}{9498}「ど、どうやって中に入るんだろ～？」{8300}{8602}{9498}「とにかく外に出てみるんだな～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}H-how do we get inside~?{8300}{8602}{9498}Anyway, let's try heading outside, y'know~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev25CC1C_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8000}{94C8}かいさついん「ごりようありがとうございました」{8300}{94C8}かいさついん「これからも{8207}よろしくおねがいいたします」{8400}{8100}",
-   "en": ""
+   "en": "{8000}{94C8}Gatekeep「Thank you for riding with us.{8300}{94C8}Gatekeep「We hope to see you again.{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

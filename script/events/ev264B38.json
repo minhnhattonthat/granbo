@@ -308,7 +308,8 @@
     37
    ],
    "jp": "{8001}{8610}{9497}「な、なんですって！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8610}{9497}Wh-what did you say?!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_038",
@@ -316,7 +317,8 @@
     38
    ],
    "jp": "{8001}{860A}{949F}「ふふふ・・・はははははは・・・・・・！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{860A}{949F}Heh heh heh... Ha ha ha ha ha ha......!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_039",
@@ -324,7 +326,8 @@
     39
    ],
    "jp": "{8001}{8612}{9498}「た、大変だ～！！{8207}このタワー・・・くずれちゃうよ～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8612}{9498}Th-this is bad!! This tower... it's gonna fall apart!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_040",
@@ -332,7 +335,8 @@
     40
    ],
    "jp": "{8001}{8610}{9497}「早くシズクを助けないと！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8610}{9497}We have to hurry and save Shizuku!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_041",
@@ -340,7 +344,8 @@
     41
    ],
    "jp": "{8001}{8610}{9497}「あんた達、どうしてここに来たのよ？{8207}早く逃げないと！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8610}{9497}What are you guys doing here? You have to get out, fast!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_042",
@@ -348,7 +353,8 @@
     42
    ],
    "jp": "{8001}{8618}{949E}「それができるんならとっくにやってるわよ！{8207}ここから下はツウロがみんなくずれて{8207}とおれなくなったの！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8618}{949E}If we could, we'd have done it long ago! All the passages from here down have collapsed, so there's no way through!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_043",
@@ -356,7 +362,8 @@
     43
    ],
    "jp": "{8001}{8611}{9497}「そ、そんな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8611}{9497}N-no way...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_044",
@@ -364,7 +371,8 @@
     44
    ],
    "jp": "{8001}{8616}{949D}「ちっ・・・ここまでか・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8616}{949D}Tch... So this is the end...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_045",
@@ -372,7 +380,8 @@
     45
    ],
    "jp": "{8001}{8618}{949E}「世界一うつくしいこの私が{8207}こんなうすぎたない所で{8207}きえさったら・・・」{8300}{8619}{949E}「世界中の人々がかなしみの{8207}どんぞこにつきおとされるのは{8207}目に見えているわ・・・」{8300}{8618}{949E}「だめよっ！{8207}ゆるされる事じゃないわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8618}{949E}If I, the most beautiful woman in the world, were to vanish in a filthy place like this...{8300}{8619}{949E}It's plain to see the people of the whole world would be plunged into the depths of sorrow...{8300}{8618}{949E}No! That can't be allowed!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_046",
@@ -380,7 +389,8 @@
     46
    ],
    "jp": "{8001}{8612}{9498}「オイラ、まだ食べていない物が{8207}たくさんあるんだな～」{8300}{8612}{9498}「世界中のおいしい物を{8207}ぜんぶ食べつくしてからじゃないと{8207}しにたくないよ～！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{8612}{9498}There's still lots of stuff I haven't eaten yet, y'know...{8300}{8612}{9498}I don't wanna die until I've eaten every tasty thing in the whole world!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev264B38_047",
@@ -388,7 +398,8 @@
     47
    ],
    "jp": "{8001}{94C8}？？？？？？「ガーハッハッハッハ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8001}{94C8}???「Gahahahahaha!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }
