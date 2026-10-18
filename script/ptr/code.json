@@ -860,7 +860,7 @@
     "0x091920"
    ],
    "jp": "か な",
-   "en": "Hira",
+   "en": "ABC",
    "status": "translated"
   },
   {
@@ -870,7 +870,7 @@
     "0x091938"
    ],
    "jp": "カ ナ",
-   "en": "Kata",
+   "en": "123",
    "status": "translated"
   },
   {
@@ -880,7 +880,7 @@
     "0x091950"
    ],
    "jp": "ABC",
-   "en": "ABC",
+   "en": "A-Z",
    "status": "translated"
   },
   {

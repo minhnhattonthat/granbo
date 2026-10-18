@@ -39,6 +39,22 @@ assert len(set(EN_CODES.values())) == len(EN_CODES)
 assert set(EN_CODES) <= set(font_en.ART), set(EN_CODES) - set(font_en.ART)
 
 
+KB_LETTERS = ["ABCDEabcde ", "FGHIJfghij.", "KLMNOklmno-", "PQRSTpqrst!", "UVWXYuvwxy?", "Z    z    ~"]
+KB_SYMBOLS = ["1234567890 ", "!?.,-~()/+=", '<>"        ', "           ", "           ", "           "]
+
+
+def keyboard(rows):
+    """A name-entry page in the かな page's layout: per row 5 keys | 5 keys | 1 key, each key + FF00, an FF00 between
+    groups, then the row's command key FF0n and 8200 (8500 after the last row). ' ' is an empty key (code 0)."""
+    us = []
+    for n, row in enumerate(rows, 1):
+        for i, ch in enumerate(row):
+            us += [EN_CODES[ch], 0xFF00] + ([0xFF00] if i in (4, 9, 10) else [])
+        us += [0xFF00 + n, 0x8200 if n < len(rows) else 0x8500]
+    assert all(u < 0x100 or u >= 0xFF00 or u in (0x8200, 0x8500) for u in us)
+    return struct.pack(f"<{len(us)}H", *us)
+
+
 def widths(pairs=None):
     w = bytearray([8] * 512)
     for ch, code in EN_CODES.items():
@@ -149,6 +165,14 @@ def patch(r, lig=None):
                            (0x0730B6, 0x88, 0x78), (0x0733D0, 0x78, 0x70), (0x0733E8, 0xA0, 0x98)):
         assert r.orig[site:site + 2] == bytes([old, 0x20])  # movs r0, #old
         r.put(site, bytes([new, 0x20]), "card column x")
+    # name-entry keyboard: the かな and カナ pages (layout strings 0x08295C44 / 0x08295D88, read by 0x08091820) become
+    # an upper|lower-case page and a digits/symbols page; the ABC page (0x08295ECC) already is Latin. Codes < 256 only:
+    # a Granbo's name is 6 bytes.
+    for at, rows in ((0x295C44, KB_LETTERS), (0x295D88, KB_SYMBOLS)):
+        old, new = r.orig[at:at + 0x144], keyboard(rows)
+        ctrl = lambda b: [u if u >= 0x8000 else 0 for u in struct.unpack(f"<{len(b) // 2}H", b)]  # noqa: E731
+        assert len(new) == len(old) and ctrl(new) == ctrl(old)  # same keys, separators and commands
+        r.put(at, new, "name-entry keyboard page")
     # battle HUD names (0x08014790): proportional compact font instead of one small-font tile per byte
     pt = bytearray(512)
     for c in range(256):
