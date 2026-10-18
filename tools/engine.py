@@ -50,3 +50,8 @@ def patch(r):
     assert r.orig[DRAW_GLYPH:DRAW_GLYPH + 8] == bytes.fromhex("10b5031c09041204"), r.orig[DRAW_GLYPH:DRAW_GLYPH + 8].hex()
     hook = bytes.fromhex("004b1847") + struct.pack("<I", 0x08000000 + CODE_BASE + 1)  # ldr r3,[pc]; bx r3; .word
     r.put(DRAW_GLYPH, hook, "vwf hook draw_glyph")
+    # speaker-name copy loops (`cmp r4,#5`: 6 units): inline names from the message -> 9 units, RAM name slots
+    # (16-byte slots, terminator included) -> 7. The name field is cells 1-6 either way: fit.NAME_PX gates width.
+    for site, n in ((0x05661A, 9), (0x056648, 7)):
+        assert r.orig[site:site + 2] == bytes.fromhex("052c")
+        r.put(site, bytes([n - 1, 0x2C]), f"speaker name {n} units")

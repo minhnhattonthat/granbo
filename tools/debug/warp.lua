@@ -51,6 +51,7 @@ local A = {
   px = 0x0201B182, py = 0x0201B186,  -- s16 player pixel position (actor 0x0201B170, +0x12/+0x16)
   msg = 0x0201ACA0,      -- message window: u8 +0 3 = open, +1 1 typing / 2 closed, +2 1 = page done (waits for A),
                          -- +4 script ptr, +8 text cursor
+  namekb = 0x02026398,   -- name-entry keyboard task (+4 u8 state: 1 input, 2 accepted, 4 done; +0x1C 0x0826E5B8)
   fade_mask = 0x0201B054,            -- u32 palette mask of the palette-fade object 0x0201B050 (fn 0x08047130)
 }
 W.A = A
@@ -65,6 +66,17 @@ local function stage(b1, b2, b3)
 end
 function W.title_ready() return stage(1, 3, 4) end
 function W.in_field() return W.r32(A.top) == 1 and W.r32(A.mode) == 3 end
+-- Game flag sets (fn 0x08056A38 set / 0x08056A74 test): set n's bit array base is the u32 at ROM 0x081AD668 + 8n.
+-- Set 3 (0x0201AD20) holds the story flags; flag 3/0x90 enables the field menu.
+function W.flag_addr(set, i) return W.r32(0x081AD668 + 8 * set) + (i >> 5) * 4, 1 << (i & 31) end
+function W.flag(set, i)
+  local a, bit = W.flag_addr(set, i)
+  return W.r32(a) & bit ~= 0
+end
+function W.set_flag(set, i, on)
+  local a, bit = W.flag_addr(set, i)
+  W.w32(a, on == false and (W.r32(a) & ~bit) or (W.r32(a) | bit))
+end
 function W.msg_open() return W.r8(A.msg) == 3 end
 -- +2 is also 1 for a few frames while a window opens, so wait for a glyph being typed (+0x10, the current text
 -- code, below 0x8000) before waiting for +2 == 1. Call it before the page is typed (right after the action).
@@ -94,8 +106,8 @@ function W.mash_until(cond, btn, what, every)
 end
 
 -- New game from a cold boot, up to the first field frame (the dark naming room, map 1 variant 1).
--- Start skips the opening anime, opens the NEW GAME menu, confirms it. New-game setup (mode 11 sub 1) then
--- waits for one more press (o4 of the sound object 0x02026398 goes 1 -> 2 on it), so keep pressing until mode 1.
+-- Start skips the opening anime, opens the NEW GAME menu and confirms it. Mode 11 is the name-entry keyboard
+-- (its task at 0x02026398: +4 state, 1 = taking input); Start there accepts the default name カケル.
 function W.boot_title()
   W.wait(function() return stage(1, 2) end, "opening anime")
   W.mash_until(function() return stage(1, 3) end, "start", "title", 20)
@@ -103,15 +115,27 @@ function W.boot_title()
   W.press("start")
   W.wait(W.title_ready, "NEW GAME menu")
 end
-function W.new_game()
+function W.name_entry_ready() return W.r32(A.mode) == 11 and W.r32(A.sub) == 1 and W.r8(A.namekb + 4) == 1 end
+function W.start_game()
   W.boot_title()
-  W.mash_until(function() return W.r32(A.top) == 1 and W.r32(A.mode) ~= 11 and W.r32(A.mode) ~= 0 end,
-    "start", "new-game setup", 30)
+  W.mash_until(function() return W.r32(A.top) == 1 and W.r32(A.mode) == 11 end, "start", "game start", 30)
+  W.wait(W.name_entry_ready, "name entry keyboard")
+end
+function W.new_game()
+  W.start_game()
+  W.mash_until(function() return W.r32(A.mode) ~= 11 end, "start", "name accepted", 30)
   W.wait(W.in_field, "first field frame")
 end
 -- Load map/variant with the player at pixel (x, y) facing dir (0 down? see debug.md), skipping the fade: the same
 -- fields the game's map-change request (0x080492C4) fills, then straight to mode 1 (load) as mode 6 does.
+-- Map table 0x081AC4F4: 28-byte records {type, ?, variants, ?, spawns, ?, debug name}; spawns = 32 bytes per
+-- variant, x/y at +4/+6 (map 1/1 gives 328,432: where the game itself puts the player).
+function W.spawn(map, var)
+  local rec = W.r32(0x081AC4F4 + 28 * map + 16) + 32 * var
+  return W.r16(rec + 4), W.r16(rec + 6)
+end
 function W.warp(map, var, x, y, dir)
+  if not x then x, y = W.spawn(map, var) end
   W.wait(W.in_field, "field before warp")
   W.w16(A.dmap, map); W.w16(A.dvar, var); W.w16(A.dx, x or 0); W.w16(A.dy, y or 0); W.w16(A.ddir, dir or 0)
   W.w16(A.map, map); W.w16(A.var, var)

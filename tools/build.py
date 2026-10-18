@@ -18,6 +18,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import check_rom  # noqa: E402
 import engine  # noqa: E402
+import fit  # noqa: E402
 import text  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -102,7 +103,7 @@ def build(orig, files, lang="en", marker=None, engine_patch=True):
         blob = bytearray(orig[b:copy_end])
         offs = {}
         for e, s in new:
-            enc = text.encode_en(s) if s else text.encode(e["jp"])
+            enc = text.encode_en(fit.fit(s, e["jp"]) if not marker else s) if s else text.encode(e["jp"])
             offs[e["id"]] = len(blob) // 2
             blob += enc
         if len(blob) > 0x20000:
