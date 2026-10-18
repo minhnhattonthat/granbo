@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おじさん「まったく、えらい事になったよ」{8300}{94C8}おじさん「外はコオリづけ・・・中は不気味・・・{8207}これじゃ客が来るはずがない！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「What a mess this has turned into.{8300}{94C8}Man「Frozen solid outside... creepy inside... No wonder no guests are coming!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}男の子「あのホテルは{8207}オレのショウライの家なのに・・・{8207}なんてこった・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「That hotel's gonna be my home someday... What a disaster...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}女の子「そこのショップの右横って{8207}とおりぬけられるんだね・・・」{8300}{94C8}女の子「私のグランボが子分を見つけて{8207}おいかけたら、そこをぬけていったの！」{8300}{94C8}女の子「でも、なかなかもどってこなくて・・・{8207}シンパイだわ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「So you can get through on the right side of that shop...{8300}{94C8}Girl「My Granbo spotted a Grunt and chased after him, and they went through there!{8300}{94C8}Girl「But it still hasn't come back... I'm worried...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}おじいさん「さっきからそのサボテンの向こうで{8207}{8833}ワオン{8800}がほえつづけておる・・・」{8300}{94C8}おじいさん「{8833}サボテンの向こう{8800}に何かあるのか・・・？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「{8833}Woofon{8800} has been barking on the other side of that cactus for a while now...{8300}{94C8}Old Man「Is there something {8833}beyond the cactus{8800}...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}おばあさん「ううう・・・{8207}コシがひどくなるイッポウじゃ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Ooh... My back just keeps getting worse!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}おばあさん「町の下のドウクツは、たしか{8207}{8833}町の外につうじておった{8800}な・・・」{8300}{94C8}おばあさん「入口は・・・{8833}ホテルと町のさかい目{8800}で{8207}・・・たしかハシラがあったかのう・・・」{8300}{94C8}おばあさん「ダメじゃ・・・{8207}ここまでしか思いだせん・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「The cave under the town... I believe it {8833}led outside the town{8800}...{8300}{94C8}Old Lady「The entrance was... at {8833}the border between the hotel and the town{8800}... I think there was a pillar there...{8300}{94C8}Old Lady「No good... That's all I can remember...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94A0}「ウササーー！！」{8207}（さむいウサ！！こごえるウサ！！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Bunnn!! (It's cold, bun!! I'm freezing, bun!!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94A0}「ワウッ！ワウッ！」{8207}（子分はここできえたワン！！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Woof! Woof! (The Grunt vanished right here, woof!!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{860F}{94A5}「くくくっ・・・・・・{8207}{88BB}闇{8800}グランドチェンジのイリョクはすごいな！」{8300}{860F}{94A5}「外がコオリづけになって、オンセンが{8207}さめきってしまうとは・・・」{8300}{860F}{94A5}「オンセンが使えないとなれば{8207}この町の人間もエーゲさまに{8207}したがうしかあるまい！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{860F}{94A5}Heh heh heh...... The power of {88BB}Dark{8800} Grand Change is amazing!{8300}{860F}{94A5}It froze the outside solid and chilled the hot springs right down...{8300}{860F}{94A5}If they can't use the hot springs, the people of this town will have no choice but to obey Boss Aegean!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{861F}{94A5}「くそっ・・・なんでだよ！」{8300}{861F}{94A5}「{8833}ハシラのヒビ{8800}をなおそうとして{8207}なんでおこられるんだ・・・？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{861F}{94A5}Darn it... Why?!{8300}{861F}{94A5}I was just trying to fix {8833}the crack in the pillar{8800}... so why am I getting yelled at...?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}おじさん「外は元にもどりましたか・・・」{8300}{94C8}おじさん「でも中がこのままじゃ・・・{8207}やってきた客がすぐに逃げちゃうよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「So the outside's back to normal...{8300}{94C8}Man「But if the inside stays like this... any guests who come will run right off!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}男の子「あのホテルは{8207}オレのショウライの家なのに・・・{8207}なんてこった・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「That hotel's gonna be my home someday... What a disaster...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{94C8}女の子「アタシのグランボがぬけアナを{8207}見つけたってきいたわ！」{8300}{94C8}女の子「こんなにゆうしゅうなグランボと{8207}いっしょなら、アタシも{8207}いいグランボセイバーになれるかもね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I heard my Granbo found a secret passage!{8300}{94C8}Girl「With such a clever Granbo by my side, maybe I can become a good Granbo Saver too!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{94C8}おじいさん「サボテンの向こうにかくしカイダンが{8207}あったじゃと？」{8300}{94C8}おじいさん「おお、そう言えばワシも町の下のドウクツで{8207}女の子とあそんだことがあったわい！！」{8300}{94C8}おじいさん「あの女の子・・・今ごろどうして{8207}おるのかのぉ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「There was a hidden staircase beyond the cactus, you say?{8300}{94C8}Old Man「Oh, come to think of it, I used to play with a little girl in the cave under the town too!!{8300}{94C8}Old Man「That girl... I wonder what she's doing these days...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94C8}おばあさん「ううう・・・{8207}コシがひどくなるイッポウじゃ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Ooh... My back just keeps getting worse!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{94C8}おばあさん「ほう、ドウクツの中に入ったとな！」{8300}{94C8}おばあさん「・・・ふむふむ、中は外のタワーに{8207}つうじておったと・・・」{8300}{94C8}おばあさん「町に平和がもどったら、またあの{8207}ドウクツに入ってみるかのう・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「Oh, so you went into the cave!{8300}{94C8}Old Lady「...Mm-hm, and inside, it led to the tower outside...{8300}{94C8}Old Lady「Once peace comes back to the town, maybe I'll go into that cave again...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{94A0}「ウサ！！」{8207}（あたたかくなって助かったウサ！！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Bun!! (It warmed up, what a relief, bun!!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{94A0}「ワウ～ン！！」{8207}（ごシュジンさまにほめられたワン！！）{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94A0}Awooo!! (My master praised me, woof!!){8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FE358_018",

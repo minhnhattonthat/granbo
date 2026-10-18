@@ -13,7 +13,8 @@
     4
    ],
    "jp": "{8002}{94C8}おばさん「やっとこの子も{8207}おちついたみたい・・・」{8300}{94C8}おばさん「これもあなた達のおかげよ{8207}・・・本当にありがとう！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「My little one finally seems to have calmed down...{8300}{94C8}Lady「It's all thanks to you kids... Thank you so much!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F89BE_001",
@@ -21,7 +22,8 @@
     1
    ],
    "jp": "{8002}{94C8}男の子「ボク、もう平気だよ！」{8300}{94C8}男の子「お兄ちゃん・・・{8207}ケガをしないように{8207}これからもがんばってね！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「I'm fine now!{8300}{94C8}Boy「Hey... try not to get hurt, and keep doing your best!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F89BE_002",
@@ -29,7 +31,8 @@
     2
    ],
    "jp": "{8002}{9201}テレビカイギようのディスプレイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a display for video conferences.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F89BE_003",
@@ -37,7 +40,8 @@
     3
    ],
    "jp": "{8002}{94C8}おばさん「ウチの子、元気をとりもどて{8207}くれたのはいいけど・・・」{8300}{94C8}おばさん「元気になりすぎてグランボバトルに{8207}サンカするようになっちゃった！！」{8300}{94C8}おばさん「ケガなんかしてなきゃ{8207}いいけど・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「I'm glad my kid got his spirit back, but...{8300}{94C8}Lady「he's got so much of it now that he's started joining Granbo battles!!{8300}{94C8}Lady「I just hope he doesn't get hurt...{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

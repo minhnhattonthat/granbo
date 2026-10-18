@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}少年セイバー「ビックリしただろ？」{8300}{94C8}少年セイバー「この町ではセイバーステーションにある{8207}マシンがみんなオンセンの中に{8207}あるんだ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Surprised, huh?{8300}{94C8}Kid Saver「In this town, all the Saver Station machines are inside the hot spring!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC08E_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}少年セイバー「使い方はいつもと同じだから{8207}安心していいよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「They work the same as always, so don't worry!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC08E_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}少年セイバー「見てのとおり・・・{8207}ここもヒドイありさまさ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「As you can see... it's a terrible mess here too...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC08E_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}少年セイバー「マシンはいつもどおり使えるから{8207}安心していいよ！」{8300}{94C8}少年セイバー「・・・あまり入りたくないだろうけどね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「The machines work as usual, so don't worry!{8300}{94C8}Kid Saver「...Though you probably won't want to get in.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC08E_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}少年セイバー「水はあたたかくなったけど・・・{8207}やっぱり入りにくいよね・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「The water's warmed up, but... it's still hard to make yourself get in...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC08E_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}少年セイバー「マシンはいつもどおり使えるから{8207}安心していいよ！」{8300}{94C8}少年セイバー「・・・あまり入りたくないだろうけどね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「The machines work as usual, so don't worry!{8300}{94C8}Kid Saver「...Though you probably won't want to get in.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC08E_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}少年セイバー「スカイシャークを{8207}おい出してくれてありがとう！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Thanks for driving Sky Shark out of here!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC08E_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}少年セイバー「町を出る前にもう一ど入っていきなよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「Come in for one more soak before you leave town!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC08E_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}少年セイバー「この大陸の東って何もないだろう？{8207}ところがこの前オレがパトロールに{8207}行ったら・・・」{8300}{94C8}少年セイバー「見た事のないドウクツが{8207}シュツゲンしていたんだ！」{8300}{94C8}少年セイバー「え・・・その時のまわりのジョウタイ？{8207}たしかマグマが水になっていたと思うよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「There's nothing in the east of this continent, right? But the other day, when I went out on patrol...{8300}{94C8}Kid Saver「A cave I'd never seen before had appeared!{8300}{94C8}Kid Saver「Huh... What was it like around there at the time? I think the magma had turned into water.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC08E_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}少年セイバー「となりの子が言ってるドウクツに{8207}ボクも入ってみたんだけど・・・」{8300}{94C8}少年セイバー「どこまでも下におりていくかんじで{8207}・・・トチュウでこわくなって{8207}逃げてきちゃったよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「I went into that cave the kid next to me is talking about, too...{8300}{94C8}Kid Saver「It felt like it just kept going down and down forever... Partway in, I got scared and ran away!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC08E_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}ホテルに入る前には、ジュンビをバンゼンに！{8400}{8100}",
-   "en": ""
+   "en": "{8002}Be fully prepared before you go into the hotel!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC08E_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}ワーク01のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC08E_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC08E_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

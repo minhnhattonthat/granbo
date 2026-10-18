@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}少年セイバー「あの{940A}をたおしたの・・・！？」{8300}{94C8}少年セイバー「え・・・ジバク？{8207}・・・でも逃げずに戦ったからヤツを{8207}ジバクさせられたんだよ・・・きっと」{8300}{94C8}少年セイバー「ボクもあきらめずに{8207}もう一度がんばってみるよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「You beat that {940A}...?!{8300}{94C8}Kid Saver「Huh... it self-destructed? ...But it only blew itself up because you didn't run away and kept fighting... I'm sure of it.{8300}{94C8}Kid Saver「I won't give up either. I'll try my best one more time...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F84DE_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}少女セイバー「さっきカレイみたいな形をした{8207}スカイシップがとびさるのを見たわ！！」{8300}{94C8}少女セイバー「きっとあれに今回のクロマクが{8207}のっていたのよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「I just saw a Skyship shaped like a flounder fly off!!{8300}{94C8}Gal Saver「I bet the mastermind behind all this was on board!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F84DE_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{9201}グランボセイバーの作戦カイギ用ディスプレイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a display for Granbo Savers' strategy meetings.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F84DE_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{9201}「セイバーのこころえ！{8201}強敵と戦う時は相手のトクチョウを良く見きわめるべし」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A Saver's wisdom! When facing a strong foe, study its traits carefully.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F84DE_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}少女セイバー「セイバーステーションの前にいる{8207}男の子とはもう話した？」{8300}{94C8}少女セイバー「あの子、{8855}ラ・グーゲン{8800}と戦った時の{8207}キョウフからやっと立ちなおったの！」{8300}{94C8}少女セイバー「今は私と2人でこの町を守るために{8207}がんばってるわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「Have you talked to the boy in front of the Saver Station yet?{8300}{94C8}Gal Saver「He finally got over how scared he was after fighting {8855}La Gugen{8800}!{8300}{94C8}Gal Saver「Now he and I are working hard to protect this town together!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

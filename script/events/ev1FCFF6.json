@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おばさん「あついからってアイスばかり{8207}食べていたらおなかこわすわよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Just because it's hot doesn't mean you can eat nothing but ice cream! You'll get a tummy ache!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCFF6_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}男の子「ちきしょーーーっ！！{8207}一度でいいから思うぞんぶん{8207}アイスが食いたいぜーーーっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Daaang iiit!! Just once, I wanna eat all the ice cream I waaant!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCFF6_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おばさん「うちのバカむすこ・・・さむくなっても{8207}アイスを食べつづけて・・・」{8300}{94C8}おばさん「ついにおなかをこわしちゃったのよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「My silly boy... kept on eating ice cream even after it turned cold...{8300}{94C8}Lady「And he finally gave himself a tummy ache!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCFF6_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}男の子「うぐぐ・・・アイス食べすぎた・・・{8207}おなかがいたいけど・・・ガマンだ・・・」{8300}{94C8}男の子「うっかりおなかこわしたなんて言ったら{8207}2度とアイスを食べさせて{8207}もらえないからな！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Ugh... Too much ice cream... My stomach hurts, but... I gotta tough it out...{8300}{94C8}Boy「If I let slip that I gave myself a tummy ache, they'll never let me have ice cream again!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCFF6_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}おばさん「この子、あたたかくなったからって{8207}またアイスをたくさん食べてね・・・{8207}そのケッカがこれさ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Just because it warmed up, this kid went and ate loads of ice cream again... and this is the result...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCFF6_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}男の子「あつくなったらアイスを食う・・・{8207}トウゼンの事をしただけなのに{8207}なんでオレがこんな目に・・・！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「When it gets hot, you eat ice cream... I only did what anybody would, so why is this happening to me...!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCFF6_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}おばさん「この子は私がいないとホントだめだねぇ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「This kid really is hopeless without me.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCFF6_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}男の子「なさけない・・・ガマンできずに{8207}かあちゃんにクスリを出して{8207}もらっちゃったよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「How pathetic... I couldn't tough it out, and I had to get medicine from my ma...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCFF6_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}おばさん「この子のアイスずきはまるでなおらないよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「There's no curing this kid's love of ice cream.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCFF6_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}男の子「やったな！！{8207}これで安心してアイスが食えるぜ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「You did it!! Now I can eat ice cream in peace!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCFF6_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{9201}メッセージボードに\nメッセージが入っている{8300}『アイスは1日3つまで！』{9200}{8214}{8900}{9300}{9201}お母さんより{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There's a message on the Message Board.{8300}\"No more than 3 ice creams a day!\"{9200} {8900}{9300}{9201}From Mom{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCFF6_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1FCFF6_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1FCFF6_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1FCFF6_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1FCFF6_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1FCFF6_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

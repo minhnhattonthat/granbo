@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おじさん「おじいさん、あんまりこの子を{8207}あまやかさないで下さいよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Grandpa, please don't spoil the kid so much.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}おばさん「おじいさんったら{8207}この子がかわいくてしょうがないのよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Grandpa just adores her to pieces.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}女の子「アタシ、おじいちゃんが{8207}大スキ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I love my grandpa so much!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}おじいさん「ワシは・・・この子のためなら{8207}なんでもするつもりじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「For this child's sake... I'd do anything at all...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}おじさん「はあ・・・なんという事だ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Sigh... What a terrible thing...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}おばさん「おじいさん・・・{8207}一体どこへ行っちゃったのかしら？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Grandpa... Where on earth could he have gone?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}女の子「おじいちゃん・・・{8207}アタシがないているのを見て{8207}とびだして行っちゃった・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Grandpa... He saw me crying, and he ran right out...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}おじさん「え・・・町の下のドウクツをとおった？{8207}そこにウチのおじいさんは{8207}いなかったかい？」{8300}{94C8}おじさん「・・・そうか、いなかったか・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Huh... You went through the cave under the town? Was our grandpa down there?{8300}{94C8}Man「...I see, he wasn't...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}おばさん「おじいさん・・・{8207}一体どこへ行っちゃったのかしら？」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Grandpa... Where on earth could he have gone?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}女の子「おじいちゃん・・・{8207}早く帰ってきて・・・・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Grandpa... Please come home soon......{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}{94C8}おじさん「ありがとう！おかげでカゾクが{8207}元どおりになったよ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Thank you! Thanks to you, our family is back together!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}{94C8}おばさん「おじいさんがホテルに行ってたって{8207}きいて本当におどろいたわ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「I was so surprised to hear Grandpa had gone to the hotel!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}{94C8}女の子「アタシ、おじいちゃんの事が{8207}ダイダイ大スキ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I love love LOVE my grandpa!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{94C8}おじいさん「良かった、良かった！！{8207}これでひと安心じゃ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Wonderful, wonderful!! Now I can rest easy!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94C8}おじさん「キミの話はきいたよ！{8207}まったくすごいな、キミは！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「I heard all about you! You're really something, you know that?{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{94C8}おばさん「うちのおじいさんも{8207}すごいけど、あなたはそれいじょうね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「Our grandpa's amazing too, but you're even more amazing!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{94C8}女の子「アタシ、おじいちゃんも{8207}{9400}くんもダイダイ大スキ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I love love LOVE Grandpa, and {9400} too!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{94C8}おじいさん「マゴが安心してあそべるようになった{8207}・・・ありがとうよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Now my grandkid can play without a worry... Thank you kindly.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{9201}メッセージボードに\nメッセージが入っている{8300}『おじいさん、たまには娘をしかって下さい』{9200}{8214}{8900}{9300}{9201}お父さんより{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There's a message on the Message Board.{8300}\"Grandpa, please scold my daughter once in a while.\"{9200} {8900}{9300}{9201}From Dad{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{9201}ちょっとゴウカなかんじのおフロだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a rather fancy-looking bath.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1FC62A_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

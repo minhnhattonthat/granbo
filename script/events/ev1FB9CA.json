@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}店長の子ども「いらっしゃい！{8207}ボクはここの店長の子どもだよ！！」{8300}{94C8}店長の子ども「ウチは店は小さいけどサービスは{8207}どこにも負けないよ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid「Welcome! I'm the manager's kid!!{8300}{94C8}Kid「Our shop may be small, but our service can't be beat!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FB9CA_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}おじいさん「ワシもジダイにとりのこされないように{8207}{940A}を買ってみたんじゃが・・・」{8300}{94C8}おじいさん「使い方がさっぱりわからんのじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「I bought a {940A} so I wouldn't get left behind by the times...{8300}{94C8}Old Man「But I can't make heads or tails of how to use it...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FB9CA_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おじいさん「うう・・・グランボを使って{8207}戦えればいいんじゃが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Ugh... If only I could battle with a Granbo...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FB9CA_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}店長「客はジョウレンのじいさんが一人・・・{8207}もうこの店も終わりだよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Manager「The only customer is one old regular... This shop is finished...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FB9CA_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}おじいさん「うう・・・グランボを使って{8207}戦えればいいんじゃが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Ugh... If only I could battle with a Granbo...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FB9CA_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}店長「客はジョウレンのじいさんが一人・・・{8207}もうこの店も終わりだよ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Manager「The only customer is one old regular... This shop is finished...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FB9CA_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{94C8}店長の子ども「父ちゃんがやる気をとりもどしてくれて{8207}良かったよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid「I'm glad Dad got his drive back.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FB9CA_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{94C8}おじいさん「はぁ・・・ケッキョク少しも{8207}やくにたてんかったのぉ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Sigh... In the end, I wasn't any help at all...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FB9CA_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{94C8}店長の子ども「最近はキミが使っていたのと同じグランボ{8207}をほしがる子が多いんだよ」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid「Lately lots of kids want the same Granbo you were using.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FB9CA_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "{8002}{94C8}おじいさん「きいとくれ！やっとグランボを{8207}歩かせる事に成功したんじゃ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Listen to this! I finally managed to make my Granbo walk!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FB9CA_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "{8002}ワーク00のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 00 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FB9CA_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "{8002}ワーク01のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 01 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FB9CA_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "{8002}ワーク02のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FB9CA_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}ワーク03のしらべるメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FB9CA_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{94C8}店長の子ども「お客さんがこなくなって{8207}父ちゃんがやる気をなくしちゃった・・・{8207}今はボクががんばらないと・・・」{8300}{94C8}店長の子ども「いらっしゃいませ！{8207}どのようなごようけんですか？」{9200}\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid「Customers stopped coming, and Dad lost all his drive... It's up to me now...{8300}{94C8}Kid「Welcome! How may I help you?{9200} {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FB9CA_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{94C8}店長の子ども「ほかに何かございますか？」\n\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid「Is there anything else? {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FB9CA_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{94C8}店長「いらっしゃいませ！{8207}どのようなごようけんですか？」{9200}\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Manager「Welcome! How may I help you?{9200} {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FB9CA_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{94C8}店長「ほかに何かございますか？」\n\n{8E03}                {8F01}買う {8F00}売る {8F02}やめる{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Manager「Is there anything else? {8E03} {8F01}Buy {8F00}Sell {8F02}Quit{8100}",
+   "status": "translated"
   }
  ]
 }

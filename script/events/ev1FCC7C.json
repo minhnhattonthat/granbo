@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おじさん「こんど町のホテルにウチの子と{8207}いっしょにとまるヤクソクをしてるんです」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「I've promised my kid we'll stay at the hotel in town together soon.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCC7C_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}女の子「今までながめているだけだった{8207}あのホテルにとまれるの・・・」{8300}{94C8}女の子「今からすっごく楽しみ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「I've only ever gazed at that hotel, and now I get to stay there...{8300}{94C8}Girl「I'm sooo excited already!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCC7C_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おじさん「娘がムチャを言ってこまってるんです・・・{8207}気持ちはわかるんですが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「My daughter's making impossible demands, and I don't know what to do... I understand how she feels, but...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCC7C_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}女の子「お父さん、いっしょにホテルに{8207}とまりに行くって言ったのに・・・」{8300}{94C8}女の子「気持ち悪いホテルでも{8207}お父さんといっしょなら楽しいもん！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Dad, you said we'd go stay at the hotel together...{8300}{94C8}Girl「Even if the hotel's creepy, it'll be fun as long as I'm with you, Dad!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCC7C_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}おじさん「娘がムチャを言ってこまってるんです・・・{8207}気持ちはわかるんですが・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「My daughter's making impossible demands, and I don't know what to do... I understand how she feels, but...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCC7C_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}女の子「お父さん、いっしょにホテルに{8207}とまりに行くって言ったのに・・・」{8300}{94C8}女の子「気持ち悪いホテルでも{8207}お父さんといっしょなら楽しいもん！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Dad, you said we'd go stay at the hotel together...{8300}{94C8}Girl「Even if the hotel's creepy, it'll be fun as long as I'm with you, Dad!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCC7C_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{9201}メッセージボードに\nメールが入っている{8300}『ごシュクハク、おまちしています』{9200}{8215}{8900}{9300}{9201}ホテルより{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}There's mail on the Message Board.{8300}\"We look forward to your stay.\"{9200} {8900}{9300}{9201}From the Hotel{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCC7C_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{9201}ちょっとゴウカなかんじのおフロだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a rather fancy-looking bath.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1FCC7C_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1FCC7C_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1FCC7C_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1FCC7C_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1FCC7C_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   }
  ]
 }

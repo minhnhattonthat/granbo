@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おじさん「あああ・・・新しくたてたばかりの{8207}オレの家がああああああっ！！！」{8300}{94C8}おじさん「あは・・・{8207}あはは・・・{8207}アハハハハハハハッ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Man「Ahhh... My house... I only just built it... Noooooo!!!{8300}{94C8}Man「Aha... Ahaha... Ahahahahahaha...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}女の子「とつぜん、見たこともない{8207}大きな{940A}が{8207}北の方からとんできたの！！！」{8300}{94C8}女の子「そして、わたし達の家を{8207}どんどんこわしていったの・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「All of a sudden, a huge {940A} I'd never seen before came flying in from the north!!!{8300}{94C8}Girl「And then it smashed our houses one after another...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おばあさん「長生きはするもんですのぉ・・・」{8300}{94C8}おばあさん「あんな大きな{940A}を見られるとは{8207}思いませんでしたわい・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Lady「It pays to live a long life...{8300}{94C8}Old Lady「I never thought I'd get to see such a huge {940A}...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{94C8}おばさん「この子ったらすっかり{8207}おびえちゃって、私のそばをはなれようと{8207}しないんです・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Lady「My child is so frightened, he won't leave my side...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}{94C8}おじいさん「ワシはこれまで色々な{8207}{940A}を見てきたが・・・」{8300}{94C8}おじいさん「あんなおそろしいスガタをした{8207}{940A}は見た事がないっ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「I've seen all sorts of {940A} in my time...{8300}{94C8}Old Man「But I've never seen a {940A} that looked as terrifying as that!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}{94C8}男の子「おがあぢゃ～ん！！{8207}ごわいよ～ごわいよ～{8207}びええええええええ～～～んっ！！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Boy「Mommyyy!! I'm scaaared! I'm scaaared! Waaaaaaaaah!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}{9201}リサイクルボックスがたおれている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The Recycle Box has toppled over.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}{9201}コンテナがたおれている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The Container has toppled over.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}{9201}木がきりたおされている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The tree has been chopped down.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_009",
@@ -84,7 +93,8 @@
     9
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_010",
@@ -92,7 +102,8 @@
     10
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_011",
@@ -100,7 +111,8 @@
     11
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_012",
@@ -108,7 +120,8 @@
     12
    ],
    "jp": "",
-   "en": ""
+   "en": "",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_013",
@@ -116,7 +129,8 @@
     13
    ],
    "jp": "{8002}{8603}{9499}「{9400}さん・・・{8207}いやなヨカンがします」{8300}{8603}{9499}「くれぐれもムチャはしないで下さいね」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8603}{9499}{9400}... I have a bad feeling about this.{8300}{8603}{9499}Please, do not do anything reckless.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_014",
@@ -124,7 +138,8 @@
     14
    ],
    "jp": "{8002}{8611}{9497}「見てよ、この木のたおれ方！{8207}まともじゃないわ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8611}{9497}Look at the way these trees fell! That's not normal...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_015",
@@ -132,7 +147,8 @@
     15
    ],
    "jp": "{8002}{8602}{9498}「うわあ・・・ひどいや・・・」{8300}{8602}{9498}「これじゃあ、中にあった食べ物も{8207}ぜんぶダメになってるね～」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{8602}{9498}Whoa... That's awful...{8300}{8602}{9498}All the food that was inside must be ruined too~{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_016",
@@ -140,7 +156,8 @@
     16
    ],
    "jp": "{8002}{94C8}おじいさん「のう・・・キミの{8855}オウオウ{8800}を{8207}{8833}ENスチール中{8800}のワザとコウカンせんか？」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Say... would you trade your {8855}Owow{8800} for the move {8833}EN Steal 2{8800}?{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_017",
@@ -148,7 +165,8 @@
     17
    ],
    "jp": "{8002}{94C8}おじいさん「ありがたや・・・{8207}このグランボでげいをすれば子ども達を{8207}少しははげましてやれそうじゃ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Bless you... If this Granbo does a few tricks, I might be able to cheer the children up a little...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_018",
@@ -156,7 +174,8 @@
     18
    ],
    "jp": "{8002}{94C8}おじいさん「そうか・・・今後の戦いに{8207}{8855}オウオウ{8800}は外せんか・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「I see... You can't do without {8855}Owow{8800} in your battles ahead...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_019",
@@ -164,7 +183,8 @@
     19
    ],
    "jp": "{8002}{94C8}おじいさん「そのワザはタイミングをよくかんがえて{8207}使うんじゃぞ！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Think carefully about your timing when you use that move!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_020",
@@ -172,7 +192,8 @@
     20
    ],
    "jp": "{8002}{94C8}おじいさん「う～む・・・{8855}オウオウ{8800}は{8207}持っておらんのか・・・」{8300}{94C8}おじいさん「{8855}オウオウ{8800}を使って{8207}子ども達をはげますことはできないかと{8207}かんがえておったのだがな・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Hmm... You don't have an {8855}Owow{8800}...{8300}{94C8}Old Man「I was hoping I could use an {8855}Owow{8800} to cheer up the children...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_021",
@@ -180,7 +201,8 @@
     21
    ],
    "jp": "{8002}{94C8}おじいさん「ありがたい！{8207}おれいにキミのグランボも{8207}回復しておくぞ！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「Much obliged! As thanks, I'll heal your Granbo too!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_022",
@@ -188,7 +210,8 @@
     22
    ],
    "jp": "{8002}{94C8}女の子「とつぜん、見たこともない{8207}大きな{940A}が{8207}北の方からとんできたの！！！」{8300}{94C8}女の子「そして、わたし達の家を{8207}どんどんこわしていったの・・・」{8300}{94C8}女の子「おねがい、{8833}SPチップ{8800}をあげるから{8207}あのグランボをやっつけて！」\n{8D00}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「All of a sudden, a huge {940A} I'd never seen before came flying in from the north!!!{8300}{94C8}Girl「And then it smashed our houses one after another...{8300}{94C8}Girl「Please, I'll give you an {8833}SP Chip{8800}, so beat that Granbo!{8D00}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_023",
@@ -196,7 +219,8 @@
     23
    ],
    "jp": "{8002}{94C8}女の子「がんばってね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Good luck!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_024",
@@ -204,7 +228,8 @@
     24
    ],
    "jp": "{8002}{94C8}女の子「・・・そう・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「...Oh...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F948C_025",
@@ -212,7 +237,8 @@
     25
    ],
    "jp": "{8002}{94C8}女の子「ムリはしないでね！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Girl「Don't push yourself too hard!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

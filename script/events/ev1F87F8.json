@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}おじいさん「あの{940A}を{8207}たおしてくれた{9400}君に・・・」{8300}{94C8}おじいさん「町をなおしてくれた{8207}{9403}ちゃん、{9401}ちゃん{8207}そして{9402}君・・・」{8300}{94C8}おじいさん「こんなすばらしい子ども達が{8207}いるなら、この世界のみらいは{8207}きっと明るいにちがいない！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「To {9400}, who defeated that {940A}...{8300}{94C8}Old Man「And to {9403}, {9401} and {9402}, who fixed up the town...{8300}{94C8}Old Man「With wonderful children like you around, the future of this world is sure to be bright!!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F87F8_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{9201}ツクエの上はセイトンされている{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}The desk is neat and tidy.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F87F8_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{94C8}おじいさん「{9400}君に{9403}ちゃん{8207}そして、{9401}ちゃんと{8207}{9402}君・・・」{8300}{94C8}おじいさん「キミ達さえいれば{8207}この世界のミライは{8207}きっと明るいにちがいない！！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Old Man「{9400}, {9403}, and {9401} and {9402}...{8300}{94C8}Old Man「As long as we have you kids, the future of this world is sure to be bright!!{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

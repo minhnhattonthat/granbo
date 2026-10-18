@@ -12,7 +12,8 @@
     0
    ],
    "jp": "{8002}{94C8}少年セイバー「ボ、ボクは戦ったんだ・・・」{8300}{94C8}少年セイバー「でもアイツにはかなわなかった・・・{8207}かなうはずなかったんだ！！」{8300}{94C8}少年セイバー「ごめんよ・・・{8207}ボクのタロウ・・・ううっ・・・」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Kid Saver「I-I fought...{8300}{94C8}Kid Saver「But I was no match for it... I never stood a chance!!{8300}{94C8}Kid Saver「I'm sorry... My poor Taro... *sniff*...{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F9CEE_001",
@@ -20,7 +21,8 @@
     1
    ],
    "jp": "{8002}{94C8}少女セイバー「北のドウクツのそばで{8207}{8833}変なヘアスタイルをした男{8800}を{8207}何度か見かけたの・・・」{8300}{94C8}少女セイバー「もしかしたら今回の事と{8207}何かカンケイがあるのかも・・・！」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{94C8}Gal Saver「I've seen {8833}a man with a weird hairstyle{8800} near the cave to the north a few times...{8300}{94C8}Gal Saver「Maybe he has something to do with all this...!{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F9CEE_002",
@@ -28,7 +30,8 @@
     2
    ],
    "jp": "{8002}{9201}グランボセイバーの作戦カイギ用ディスプレイだ{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}It's a display for Granbo Savers' strategy meetings.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F9CEE_003",
@@ -36,7 +39,8 @@
     3
    ],
    "jp": "{8002}{9201}「セイバーのこころえ！{8201}強敵と戦う時は相手のトクチョウを良く見きわめるべし」{8400}{8100}",
-   "en": ""
+   "en": "{8002}{9201}A Saver's wisdom! When facing a strong foe, study its traits carefully.{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F9CEE_004",
@@ -44,7 +48,8 @@
     4
    ],
    "jp": "{8002}しらべるワーク02のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 02 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F9CEE_005",
@@ -52,7 +57,8 @@
     5
    ],
    "jp": "{8002}しらべるワーク03のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 03 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F9CEE_006",
@@ -60,7 +66,8 @@
     6
    ],
    "jp": "{8002}しらべるワーク04のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 04 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F9CEE_007",
@@ -68,7 +75,8 @@
     7
    ],
    "jp": "{8002}しらべるワーク05のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 05 examine message{8400}{8100}",
+   "status": "translated"
   },
   {
    "id": "ev1F9CEE_008",
@@ -76,7 +84,8 @@
     8
    ],
    "jp": "{8002}しらべるワーク06のメッセージ{8400}{8100}",
-   "en": ""
+   "en": "{8002}Work 06 examine message{8400}{8100}",
+   "status": "translated"
   }
  ]
 }

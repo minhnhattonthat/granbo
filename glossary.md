@@ -141,9 +141,14 @@ Pet nicknames are not species: バタキチ -> Batakichi (not "Hopper", which is
   アイテム / ヘンシン / ボウギョ / ニゲル -> Attack / Move / Item / Transform / Defend / Run (to match the menus once
   translated). ハントゲージ -> Hunt Gauge; ハントワザ -> Hunt Move; データボールこうかんマシン -> Data Ball Exchange
   Machine; 作戦カイギ -> strategy meeting. Granbo: モクモン -> Mokumon, チューバット -> Chubat.
+- ゲージカノン中 -> Gauge Cannon 2; プロハント -> Pro Hunt; ヘッドハマー -> Head Hammer; オンセン -> hot spring;
+  SPA stays SPA; dog cry ワン -> "Woof!".
 - オウオウ -> Owow (sea-lion species; Ashikamaru is one; cry オウッ -> "Ork!"); ストップアタック -> Stop Attack;
   イジョウ回復 -> Status Heal; ENチップ -> EN Chip; ソウガンキョウ -> binoculars; cry フキュ -> "Fukyu";
-  全HP回復中 -> All HP Heal 2 (全 = All, also 全HPカプセル -> All HP Capsule); グランドチェンジキー -> Grand Change Key;
+  全X (party-wide) -> Team X: 全HP回復中 -> Team HP Heal 2, 全バリア中 -> Team Barrier 2, 全HPカプセル -> Team HP
+  Capsule ("ALL" stays only for moves written ALL in the JP). Tier 様 -> EX (さいきどう様 -> Reboot EX, HPスチール様 ->
+  HP Steal EX). ENスチール中 -> EN Steal 2; SPチップ -> SP Chip; セイバーのこころえ -> "A Saver's wisdom";
+  グランドチェンジキー -> Grand Change Key;
   リョカン -> inn; ヒトジチ -> hostages.
 - バリアかいじょキー -> barrier release key; でんじバリア -> electric barrier; バクハそうち -> bomb; バクダンキー -> Bomb Key;
   スイモン -> floodgate (そうさする/しない -> Operate / Don't operate); 木トカゲ -> Wood Lizard;
