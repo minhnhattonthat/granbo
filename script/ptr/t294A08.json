@@ -1473,7 +1473,8 @@
     "0x294fb4"
    ],
    "jp": "{8833}かれた池に水がみたされた時、町の東{8800}に見た事のない\nドウクツへの入口がシュツゲンするらしい！",
-   "en": ""
+   "en": "{8833}Fill the dried pond, and east of town{8800}\na strange cave entrance will appear!",
+   "status": "translated"
   },
   {
    "id": "s29019E",
@@ -1482,7 +1483,8 @@
     "0x294fb8"
    ],
    "jp": "グランボしゅつげんジョウホウ",
-   "en": ""
+   "en": "Granbo Sighting Info",
+   "status": "translated"
   },
   {
    "id": "s2901BC",
@@ -1491,7 +1493,8 @@
     "0x294fbc"
    ],
    "jp": "グランボしゅつげんジョウホウをひょうじします",
-   "en": ""
+   "en": "Shows Granbo sighting info",
+   "status": "translated"
   },
   {
    "id": "s2901EA",
@@ -1500,7 +1503,8 @@
     "0x294fc0"
    ],
    "jp": "・{8833}町の東{8800}に時々あらわれるドウクツには\n スカイシャークのキャプテンが使っている物と\n 同じしゅるいのグランボを始め\n めずらしいグランボがたくさんいるようだ\n\n しかしいずれも強力なグランボなので\n じゅうぶんなジュンビなしで\n 入ってはいけない！！",
-   "en": ""
+   "en": "- {8833}The cave that appears east of town{8800}\n now and then is said to hold many rare\n Granbo, including the kind\n the Sky Shark Captain uses\n\n But they're all strong Granbo,\n so don't go inside\n unprepared!!",
+   "status": "translated"
   },
   {
    "id": "s2902EA",
@@ -1509,7 +1513,8 @@
     "0x294ff8"
    ],
    "jp": "なぞのドウクツのジョウホウ",
-   "en": ""
+   "en": "Mystery Cave Info",
+   "status": "translated"
   },
   {
    "id": "s290306",
@@ -1518,7 +1523,8 @@
     "0x294ffc"
    ],
    "jp": "なぞのドウクツのジョウホウをひょうじします",
-   "en": ""
+   "en": "Shows mystery cave info",
+   "status": "translated"
   },
   {
    "id": "s290332",
@@ -1527,7 +1533,8 @@
     "0x295000"
    ],
    "jp": "{8833}かれた池に水がみたされた時、大陸の南東{8800}に\n見た事のないドウクツへの入口が\nシュツゲンするらしい！",
-   "en": ""
+   "en": "{8833}Fill the dried pond, and in the southeast{8800}\nan unknown cave entrance\nis said to appear!",
+   "status": "translated"
   },
   {
    "id": "s290398",
@@ -1536,7 +1543,8 @@
     "0x295004"
    ],
    "jp": "グランボしゅつげんジョウホウ",
-   "en": ""
+   "en": "Granbo Sighting Info",
+   "status": "translated"
   },
   {
    "id": "s2903B6",
@@ -1545,7 +1553,8 @@
     "0x295008"
    ],
    "jp": "グランボしゅつげんジョウホウをひょうじします",
-   "en": ""
+   "en": "Shows Granbo sighting info",
+   "status": "translated"
   },
   {
    "id": "s2903E4",
@@ -1554,7 +1563,8 @@
     "0x29500c"
    ],
    "jp": "・あのシズクちゃんが持っている物と\n 同じグランボをほしいセイバーにビッグニュース！！\n\n {8833}大陸の南東{8800}に時々あらわれるドウクツに\n そのグランボがあらわれたらしい！\n\n ただ、ドウクツの中でもそのグランボがあらわれる\n 場所はかぎられているようなので\n よほどねばり強くさがさないと\n 手に入れるのはムリだろう",
-   "en": ""
+   "en": "- Big news for Savers who want\n the same Granbo that Shizuku has!!\n\n {8833}A cave in the continent's southeast{8800}\n that comes and goes holds it!\n\n But it only shows up in certain spots\n in the cave, so unless you\n search really stubbornly,\n you won't get it",
+   "status": "translated"
   }
  ]
 }
