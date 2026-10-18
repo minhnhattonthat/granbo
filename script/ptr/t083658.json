@@ -2,7 +2,8 @@
  "entries": [
   {
    "id": "s26E32E",
-   "at": "0x26e32e",   "ptrs": [
+   "at": "0x26e32e",
+   "ptrs": [
     "0x08365c",
     "0x083e2c",
     "0x08415c",
@@ -19,7 +20,7 @@
     "0x083660"
    ],
    "jp": "いくつおあずかりしましょうか？",
-   "en": "How many shall I store?",
+   "en": "How many will you deposit?",
    "status": "translated"
   }
  ]

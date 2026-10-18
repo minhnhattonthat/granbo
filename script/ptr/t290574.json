@@ -175,7 +175,7 @@
     "0x2905dc"
    ],
    "jp": "ツメでひっかいて攻撃\n高いカクリツでウイルスにする",
-   "en": "Slash with claws\nHigh chance of Virus",
+   "en": "Slash with claws\nLikely to cause Virus",
    "status": "translated"
   },
   {
@@ -205,7 +205,7 @@
     "0x2905e8"
    ],
    "jp": "ツメでひっかいて攻撃\nかなり高いカクリツでウイルスにする",
-   "en": "Slash with claws\nVery high chance of Virus",
+   "en": "Slash with claws\nVery likely to cause Virus",
    "status": "translated"
   },
   {
@@ -265,7 +265,7 @@
     "0x290600"
    ],
    "jp": "ツメでひっかいて攻撃\n高いカクリツでエラーにする",
-   "en": "Slash with claws\nHigh chance of Error",
+   "en": "Slash with claws\nLikely to cause Error",
    "status": "translated"
   },
   {
@@ -295,7 +295,7 @@
     "0x29060c"
    ],
    "jp": "ツメでひっかいて攻撃\nかなり高いカクリツでエラーにする",
-   "en": "Slash with claws\nVery high chance of Error",
+   "en": "Slash with claws\nVery likely to cause Error",
    "status": "translated"
   },
   {
@@ -355,7 +355,7 @@
     "0x290624"
    ],
    "jp": "ツメでひっかいて攻撃\n高いカクリツでストップにする",
-   "en": "Slash with claws\nHigh chance of Stop",
+   "en": "Slash with claws\nLikely to cause Stop",
    "status": "translated"
   },
   {
@@ -385,7 +385,7 @@
     "0x290630"
    ],
    "jp": "ツメでひっかいて攻撃\nかなり高いカクリツでストップにする",
-   "en": "Slash with claws\nVery high chance of Stop",
+   "en": "Slash with claws\nVery likely to cause Stop",
    "status": "translated"
   },
   {
@@ -473,7 +473,7 @@
     "0x290654"
    ],
    "jp": "ツノでつきさして攻撃\n高いカクリツでATを下げる",
-   "en": "Pierce with horn\nHigh chance to lower AT",
+   "en": "Pierce with horn\nLikely to lower AT",
    "status": "translated"
   },
   {
@@ -503,7 +503,7 @@
     "0x290660"
    ],
    "jp": "ツノでつきさして攻撃\nかなり高いカクリツでATを下げる",
-   "en": "Pierce with horn\nVery high chance to lower AT",
+   "en": "Pierce with horn\nVery likely to lower AT",
    "status": "translated"
   },
   {
@@ -563,7 +563,7 @@
     "0x290678"
    ],
    "jp": "ツノでつきさして攻撃\n高いカクリツでDFを下げる",
-   "en": "Pierce with horn\nHigh chance to lower DF",
+   "en": "Pierce with horn\nLikely to lower DF",
    "status": "translated"
   },
   {
@@ -593,7 +593,7 @@
     "0x290684"
    ],
    "jp": "ツノでつきさして攻撃\nかなり高いカクリツでDFを下げる",
-   "en": "Pierce with horn\nVery high chance to lower DF",
+   "en": "Pierce with horn\nVery likely to lower DF",
    "status": "translated"
   },
   {
@@ -653,7 +653,7 @@
     "0x29069c"
    ],
    "jp": "ツノでつきさして攻撃\n高いカクリツでSPを下げる",
-   "en": "Pierce with horn\nHigh chance to lower SP",
+   "en": "Pierce with horn\nLikely to lower SP",
    "status": "translated"
   },
   {
@@ -683,7 +683,7 @@
     "0x2906a8"
    ],
    "jp": "ツノでつきさして攻撃\nかなり高いカクリツでSPを下げる",
-   "en": "Horn-stab attack\nVery likely to lower SP",
+   "en": "Pierce with horn\nVery likely to lower SP",
    "status": "translated"
   },
   {
@@ -713,7 +713,7 @@
     "0x2906b4"
    ],
    "jp": "ツノでつきさして攻撃\nALLダウンにする事がある",
-   "en": "Horn-stab attack\nMay inflict ALL Down",
+   "en": "Pierce with horn\nMay inflict ALL Down",
    "status": "translated"
   },
   {
@@ -743,7 +743,7 @@
     "0x2906c0"
    ],
    "jp": "ツノでつきさして攻撃\n高いカクリツでALLダウンにする",
-   "en": "Horn-stab attack\nLikely to inflict ALL Down",
+   "en": "Pierce with horn\nLikely to inflict ALL Down",
    "status": "translated"
   },
   {
@@ -773,7 +773,7 @@
     "0x2906cc"
    ],
    "jp": "ツノでつきさして攻撃\nかなり高いカクリツでALLダウンにする",
-   "en": "Horn-stab attack\nVery likely to inflict ALL Down",
+   "en": "Pierce with horn\nVery likely to inflict ALL Down",
    "status": "translated"
   },
   {
@@ -2105,7 +2105,7 @@
     "0x2908e8"
    ],
    "jp": "全体にボムで攻撃\nウイルスにする事がある",
-   "en": "Bombs all foes\nMay inflict Virus",
+   "en": "Bombs all foes\nMay cause Virus",
    "status": "translated"
   },
   {
@@ -2115,7 +2115,7 @@
     "0x2908ec"
    ],
    "jp": "ゼンタイにボムでコウゲキ ウイルスにすることがある",
-   "en": "Bombs all foes   May inflict Virus",
+   "en": "Bombs all foes   May cause Virus",
    "status": "translated"
   },
   {
@@ -2135,7 +2135,7 @@
     "0x2908f4"
    ],
    "jp": "全体にボムで攻撃\n高いカクリツでウイルスにする",
-   "en": "Bombs all foes\nLikely to inflict Virus",
+   "en": "Bombs all foes\nLikely to cause Virus",
    "status": "translated"
   },
   {
@@ -2145,7 +2145,7 @@
     "0x2908f8"
    ],
    "jp": "ゼンタイにボムでコウゲキ ウイルスにすることがある",
-   "en": "Bombs all foes   May inflict Virus",
+   "en": "Bombs all foes   May cause Virus",
    "status": "translated"
   },
   {
@@ -2165,7 +2165,7 @@
     "0x290900"
    ],
    "jp": "全体にボムで攻撃\nかなり高いカクリツでウイルスにする",
-   "en": "Bombs all foes\nVery likely to inflict Virus",
+   "en": "Bombs all foes\nVery likely to cause Virus",
    "status": "translated"
   },
   {
@@ -2175,7 +2175,7 @@
     "0x290904"
    ],
    "jp": "ゼンタイにボムでコウゲキ ウイルスにすることがある",
-   "en": "Bombs all foes   May inflict Virus",
+   "en": "Bombs all foes   May cause Virus",
    "status": "translated"
   },
   {
@@ -2195,7 +2195,7 @@
     "0x29090c"
    ],
    "jp": "全体にボムで攻撃\nエラーにする事がある",
-   "en": "Bombs all foes\nMay inflict Error",
+   "en": "Bombs all foes\nMay cause Error",
    "status": "translated"
   },
   {
@@ -2205,7 +2205,7 @@
     "0x290910"
    ],
    "jp": "ゼンタイにボムでコウゲキ エラーにすることがある",
-   "en": "Bombs all foes   May inflict Error",
+   "en": "Bombs all foes   May cause Error",
    "status": "translated"
   },
   {
@@ -2225,7 +2225,7 @@
     "0x290918"
    ],
    "jp": "全体にボムで攻撃\n高いカクリツでエラーにする",
-   "en": "Bombs all foes\nLikely to inflict Error",
+   "en": "Bombs all foes\nLikely to cause Error",
    "status": "translated"
   },
   {
@@ -2235,7 +2235,7 @@
     "0x29091c"
    ],
    "jp": "ゼンタイにボムでコウゲキ エラーにすることがある",
-   "en": "Bombs all foes   May inflict Error",
+   "en": "Bombs all foes   May cause Error",
    "status": "translated"
   },
   {
@@ -2255,7 +2255,7 @@
     "0x290924"
    ],
    "jp": "全体にボムで攻撃\nかなり高いカクリツでエラーにする",
-   "en": "Bombs all foes\nVery likely to inflict Error",
+   "en": "Bombs all foes\nVery likely to cause Error",
    "status": "translated"
   },
   {
@@ -2265,7 +2265,7 @@
     "0x290928"
    ],
    "jp": "ゼンタイにボムでコウゲキ エラーにすることがある",
-   "en": "Bombs all foes   May inflict Error",
+   "en": "Bombs all foes   May cause Error",
    "status": "translated"
   },
   {
@@ -2285,7 +2285,7 @@
     "0x290930"
    ],
    "jp": "全体にボムで攻撃\nストップにする事がある",
-   "en": "Bombs all foes\nMay inflict Stop",
+   "en": "Bombs all foes\nMay cause Stop",
    "status": "translated"
   },
   {
@@ -2295,7 +2295,7 @@
     "0x290934"
    ],
    "jp": "ゼンタイにボムでこうげき ストップにすることがある",
-   "en": "Bombs all foes   May inflict Stop",
+   "en": "Bombs all foes   May cause Stop",
    "status": "translated"
   },
   {
@@ -2315,7 +2315,7 @@
     "0x29093c"
    ],
    "jp": "全体にボムで攻撃\n高いカクリツでストップにする",
-   "en": "Bombs all foes\nLikely to inflict Stop",
+   "en": "Bombs all foes\nLikely to cause Stop",
    "status": "translated"
   },
   {
@@ -2325,7 +2325,7 @@
     "0x290940"
    ],
    "jp": "ゼンタイにボムでこうげき ストップにすることがある",
-   "en": "Bombs all foes   May inflict Stop",
+   "en": "Bombs all foes   May cause Stop",
    "status": "translated"
   },
   {
@@ -2355,7 +2355,7 @@
     "0x29094c"
    ],
    "jp": "ゼンタイにボムでこうげき ストップにすることがある",
-   "en": "Bombs all foes; may cause Stop",
+   "en": "Bombs all foes   May cause Stop",
    "status": "translated"
   },
   {
@@ -2865,7 +2865,7 @@
     "0x290a18"
    ],
    "jp": "ゼンタイを        ビームでコウゲキ",
-   "en": "All foes        beam attack",
+   "en": "Beam attack        on all foes",
    "status": "translated"
   },
   {
@@ -2895,7 +2895,7 @@
     "0x290a24"
    ],
    "jp": "ゼンタイを        ビームでコウゲキ",
-   "en": "All foes        beam attack",
+   "en": "Beam attack        on all foes",
    "status": "translated"
   },
   {
@@ -2925,7 +2925,7 @@
     "0x290a30"
    ],
    "jp": "ゼンタイを        ビームでコウゲキ",
-   "en": "All foes        beam attack",
+   "en": "Beam attack        on all foes",
    "status": "translated"
   },
   {
@@ -3779,7 +3779,7 @@
     "0x290b88"
    ],
    "jp": "全体にカイオンパをはっして\nウイルスにする事がある",
-   "en": "Eerie waves hit all foes\nMay cause Virus",
+   "en": "Odd waves hit all foes\nMay cause Virus",
    "status": "translated"
   },
   {
@@ -3789,7 +3789,7 @@
     "0x290b8c"
    ],
    "jp": "ぜんたいにオンパをはっしてウイルスにすることがある",
-   "en": "Sound waves hit all foes; may cause Virus",
+   "en": "Waves hit all foes and may cause Virus",
    "status": "translated"
   },
   {
@@ -3809,7 +3809,7 @@
     "0x290b94"
    ],
    "jp": "全体にカイオンパをはっして\n高いカクリツでウイルスにする",
-   "en": "Eerie waves hit all foes\nLikely to cause Virus",
+   "en": "Odd waves hit all foes\nLikely to cause Virus",
    "status": "translated"
   },
   {
@@ -3819,7 +3819,7 @@
     "0x290b98"
    ],
    "jp": "ぜんたいにオンパをはっしてウイルスにすることがある",
-   "en": "Sound waves hit all foes; may cause Virus",
+   "en": "Waves hit all foes and may cause Virus",
    "status": "translated"
   },
   {
@@ -3839,7 +3839,7 @@
     "0x290ba0"
    ],
    "jp": "全体にカイオンパをはっして\nかなり高いカクリツでウイルスにする",
-   "en": "Eerie waves hit all foes\nVery likely to cause Virus",
+   "en": "Odd waves hit all foes\nVery likely to cause Virus",
    "status": "translated"
   },
   {
@@ -3849,7 +3849,7 @@
     "0x290ba4"
    ],
    "jp": "ぜんたいにオンパをはっしてウイルスにすることがある",
-   "en": "Sound waves hit all foes; may cause Virus",
+   "en": "Waves hit all foes and may cause Virus",
    "status": "translated"
   },
   {
@@ -3869,7 +3869,7 @@
     "0x290bac"
    ],
    "jp": "全体にカイオンパをはっして\nエラーにする事がある",
-   "en": "Eerie waves hit all foes\nMay cause Error",
+   "en": "Odd waves hit all foes\nMay cause Error",
    "status": "translated"
   },
   {
@@ -3879,7 +3879,7 @@
     "0x290bb0"
    ],
    "jp": "ぜんたいにオンパをはっしてエラーにすることがある",
-   "en": "Sound waves hit all foes; may cause Error",
+   "en": "Waves hit all foes and may cause Error",
    "status": "translated"
   },
   {
@@ -3899,7 +3899,7 @@
     "0x290bb8"
    ],
    "jp": "全体にカイオンパをはっして\n高いカクリツでエラーにする",
-   "en": "Odd waves hit all foes\nHigh odds of Error",
+   "en": "Odd waves hit all foes\nLikely to cause Error",
    "status": "translated"
   },
   {
@@ -3929,7 +3929,7 @@
     "0x290bc4"
    ],
    "jp": "全体にカイオンパをはっして\nかなり高いカクリツでエラーにする",
-   "en": "Odd waves hit all foes\nVery high odds of Error",
+   "en": "Odd waves hit all foes\nVery likely to cause Error",
    "status": "translated"
   },
   {
@@ -3989,7 +3989,7 @@
     "0x290bdc"
    ],
    "jp": "全体にカイオンパをはっして\n高いカクリツでストップにする",
-   "en": "Odd waves hit all foes\nHigh odds of Stop",
+   "en": "Odd waves hit all foes\nLikely to cause Stop",
    "status": "translated"
   },
   {
@@ -4019,7 +4019,7 @@
     "0x290be8"
    ],
    "jp": "全体にカイオンパをはっして\nかなり高いカクリツでストップにする",
-   "en": "Odd waves hit all foes\nVery high odds of Stop",
+   "en": "Odd waves hit all foes\nVery likely to cause Stop",
    "status": "translated"
   },
   {
@@ -4289,7 +4289,7 @@
     "0x290c54"
    ],
    "jp": "うたごえでまどわし\n敵のSPをかなり下げる",
-   "en": "Sings to confuse\nSlashes foe SP",
+   "en": "Sings to confuse\nSharply drops foe SP",
    "status": "translated"
   },
   {
@@ -4469,7 +4469,7 @@
     "0x290c9c"
    ],
    "jp": "あわでまどわし\n敵全体のATをかなり下げる",
-   "en": "Bubbles daze\nSlashes all foes' AT",
+   "en": "Bubbles daze\nSharply drops all foes' AT",
    "status": "translated"
   },
   {
@@ -4559,7 +4559,7 @@
     "0x290cc0"
    ],
    "jp": "あわでまどわし\n敵全体のDFをかなり下げる",
-   "en": "Bubbles daze\nSlashes all foes' DF",
+   "en": "Bubbles daze\nSharply drops all foes' DF",
    "status": "translated"
   },
   {
@@ -6625,7 +6625,7 @@
     "0x290ffc"
    ],
    "jp": "攻撃されると敵にはんしゃするバリアをはる",
-   "en": "Barrier that reflects attacks to the foe",
+   "en": "Barrier that reflects attacks back",
    "status": "translated"
   },
   {
@@ -6683,7 +6683,7 @@
     "0x291014"
    ],
    "jp": "攻撃されると敵にはんしゃするバリアをはる",
-   "en": "Barrier that reflects attacks to the foe",
+   "en": "Barrier that reflects attacks back",
    "status": "translated"
   },
   {
@@ -6741,7 +6741,7 @@
     "0x29102c"
    ],
    "jp": "攻撃されると敵にはんしゃするバリアをはる",
-   "en": "Barrier that reflects attacks to the foe",
+   "en": "Barrier that reflects attacks back",
    "status": "translated"
   },
   {
@@ -7393,7 +7393,7 @@
     "0x291134"
    ],
    "jp": "わすれていたかなり強い回復ワザを使う",
-   "en": "Forgotten very strong heal move",
+   "en": "Use a forgotten very strong heal",
    "status": "translated"
   },
   {
@@ -7543,7 +7543,7 @@
     "0x291170"
    ],
    "jp": "敵グランボのデータボールをうばう",
-   "en": "Steal an enemy's Data Ball",
+   "en": "Steal a foe's Data Ball",
    "status": "translated"
   },
   {
@@ -7573,7 +7573,7 @@
     "0x29117c"
    ],
    "jp": "敵グランボのデータボールをうばう\n成功のカクリツが高い",
-   "en": "Steal an enemy's Data Ball\nHigh success rate",
+   "en": "Steal a foe's Data Ball\nHigh success rate",
    "status": "translated"
   },
   {
@@ -7603,7 +7603,7 @@
     "0x291188"
    ],
    "jp": "敵グランボのデータボールをうばう\n成功のカクリツがかなり高い",
-   "en": "Steal an enemy's Data Ball\nVery high success rate",
+   "en": "Steal a foe's Data Ball\nVery high success rate",
    "status": "translated"
   },
   {
@@ -8461,7 +8461,7 @@
     "0x2912ec"
    ],
    "jp": "タコ8アタック",
-   "en": "Octo Attack",
+   "en": "Octo 8 Attack",
    "status": "translated"
   },
   {
@@ -8531,7 +8531,7 @@
     "0x291308"
    ],
    "jp": "光がはねまわってあたりをコンランにおとしいれる\n敵味方全体がエラーになる事も",
-   "en": "Bouncing light throws everything into chaos\nFoe or ally may get Error",
+   "en": "Bouncing light throws everything into chaos\nEveryone may get Error",
    "status": "translated"
   },
   {
@@ -9071,7 +9071,7 @@
     "0x2913e0"
    ],
    "jp": "あやしいほのおでまどわし\n高いカクリツでエラーにする",
-   "en": "Eerie flames confuse\nHigh odds of Error",
+   "en": "Eerie flames confuse\nLikely to cause Error",
    "status": "translated"
   },
   {
@@ -9131,7 +9131,7 @@
     "0x2913f8"
    ],
    "jp": "ネットを使って動きを止め\n高いカクリツでストップにする",
-   "en": "A net stops movement\nHigh odds of Stop",
+   "en": "A net stops movement\nLikely to cause Stop",
    "status": "translated"
   },
   {
@@ -9161,7 +9161,7 @@
     "0x291404"
    ],
    "jp": "スミをふきかけ\n高いカクリツでエラーにする",
-   "en": "Sprays ink\nHigh odds of Error",
+   "en": "Sprays ink\nLikely to cause Error",
    "status": "translated"
   },
   {
@@ -9191,7 +9191,7 @@
     "0x291410"
    ],
    "jp": "時間を止めて\n敵味方全体を高いカクリツでストップにする",
-   "en": "Stops time\nHigh odds of Stop on everyone",
+   "en": "Stops time\nLikely to cause Stop on everyone",
    "status": "translated"
   },
   {
@@ -10341,7 +10341,7 @@
     "0x2915e4"
    ],
    "jp": "ツノでつきさす攻撃\nたまにATを下げる事がある",
-   "en": "Stabs with a horn\nMay lower AT",
+   "en": "Stabs with a horn\nSometimes lowers AT",
    "status": "translated"
   },
   {
@@ -10399,7 +10399,7 @@
     "0x2915fc"
    ],
    "jp": "ツノでつきさす攻撃\nたまにSPを下げる事がある",
-   "en": "Stabs with a horn\nMay lower SP",
+   "en": "Stabs with a horn\nSometimes lowers SP",
    "status": "translated"
   },
   {
@@ -10485,7 +10485,7 @@
     "0x291620"
    ],
    "jp": "空から飛びかかる攻撃\nたまにクリティカルする事がある",
-   "en": "Swoops from above\nMay land a critical hit",
+   "en": "Swoops from above\nSometimes lands a critical hit",
    "status": "translated"
   },
   {
@@ -10495,7 +10495,7 @@
     "0x291624"
    ],
    "jp": "そらからとびかかるコウゲキクリティカルすることがある",
-   "en": "Swoops from the sky; may land a critical",
+   "en": "Swoops from above; may land a critical hit",
    "status": "translated"
   },
   {
@@ -10997,7 +10997,7 @@
     "0x2916f4"
    ],
    "jp": "なかまの助け弱",
-   "en": "Ally Help 1",
+   "en": "Friend Aid 1",
    "status": "translated"
   },
   {
@@ -11789,7 +11789,7 @@
     "0x291834"
    ],
    "jp": "ウイルスのカタマリをとばしたかいカクリツでウイルスに",
-   "en": "Hurls a virus lump; very likely to cause Virus",
+   "en": "Hurls a virus lump; likely to cause Virus",
    "status": "translated"
   },
   {
@@ -13961,7 +13961,7 @@
     "0x291ba8"
    ],
    "jp": "全体にじばくする事で攻撃\n使用後は戦闘不能になってしまう",
-   "en": "Explodes to hit all foes\nThe user faints afterward",
+   "en": "Explodes to hit all foes\nThe user is KO'd after use",
    "status": "translated"
   },
   {
@@ -13971,7 +13971,7 @@
     "0x291bac"
    ],
    "jp": "ぜんたいにじばくでこうげきしようごセントウフノウに",
-   "en": "Self-destructs at all foes; user faints after",
+   "en": "Self-destructs on all foes; the user is KO'd",
    "status": "translated"
   },
   {
@@ -14169,7 +14169,7 @@
     "0x291bfc"
    ],
    "jp": "全体にじばくする事で攻撃\n使用後は戦闘不能になってしまう",
-   "en": "Blows up to hit all foes\nThe user is KO'd after use",
+   "en": "Explodes to hit all foes\nThe user is KO'd after use",
    "status": "translated"
   },
   {
@@ -14209,7 +14209,7 @@
     "0x291c0c"
    ],
    "jp": "10かいれんぞくで    コウゲキ",
-   "en": "10 times in a row  Attack",
+   "en": "Attacks 10 times    in a row",
    "status": "translated"
   },
   {
@@ -14681,7 +14681,7 @@
     "0x291cd4"
    ],
    "jp": "きゅうきょくの攻撃ですさまじいダメージをあたえる\n敵はよけられない",
-   "en": "The ultimate attack deals massive damage\nAlways hits",
+   "en": "The ultimate attack deals massive damage\nUndodgeable",
    "status": "translated"
   },
   {
@@ -16173,7 +16173,7 @@
     "0x291f38"
    ],
    "jp": "戦闘中、敵のSPを下げる",
-   "en": "Lowers foe SP in battle",
+   "en": "Lowers a foe's SP",
    "status": "translated"
   },
   {
@@ -16333,7 +16333,7 @@
     "0x291f78"
    ],
    "jp": "いったことのあるマチに  ワープできる",
-   "en": "Warp to any town  you've visited",
+   "en": "Warp to any town you've visited",
    "status": "translated"
   },
   {
@@ -16477,7 +16477,7 @@
     "0x291fc0"
    ],
    "jp": "ホテルの北西にあるドウクツのカギらしい",
-   "en": "Said to open the cave NW of the hotel",
+   "en": "Key to a cave northwest of the hotel",
    "status": "translated"
   },
   {
@@ -16498,7 +16498,7 @@
     "0x291fcc"
    ],
    "jp": "子分がほしがっている物の一つ",
-   "en": "Something a Grunt wants",
+   "en": "Something the grunts want",
    "status": "translated"
   },
   {
@@ -16519,7 +16519,7 @@
     "0x291fd8"
    ],
    "jp": "全体のHPとEN、戦闘不能やジョウタイイジョウを完全回復",
-   "en": "Fully heals team HP, EN, KO and status",
+   "en": "Fully heals all allies, even KO and status",
    "status": "translated"
   },
   {
@@ -16540,7 +16540,7 @@
     "0x291fe4"
    ],
    "jp": "子分がほしがっている物の一つ",
-   "en": "Something a Grunt wants",
+   "en": "Something the grunts want",
    "status": "translated"
   },
   {
@@ -16708,7 +16708,7 @@
     "0x292044"
    ],
    "jp": "子分がほしがっている物の一つ",
-   "en": "Something a Grunt wants",
+   "en": "Something the grunts want",
    "status": "translated"
   },
   {
@@ -16812,7 +16812,7 @@
     "0x29207c"
    ],
    "jp": "HPを少し上げる",
-   "en": "Raises HP a bit",
+   "en": "Raises HP a little",
    "status": "translated"
   },
   {
@@ -16842,7 +16842,7 @@
     "0x292088"
    ],
    "jp": "ENを少し上げる",
-   "en": "Raises EN a bit",
+   "en": "Raises EN a little",
    "status": "translated"
   },
   {
@@ -16954,7 +16954,7 @@
     "0x2920c4"
    ],
    "jp": "ハントフード ハントゲージが攻撃でたまりやすくなる",
-   "en": "Hunt Food  Attacks fill the Hunt Gauge faster",
+   "en": "Hunt Food: attacks fill the Hunt Gauge faster",
    "status": "translated"
   },
   {
@@ -16984,7 +16984,7 @@
     "0x2920d0"
    ],
    "jp": "ハントフード ハントゲージが攻撃でたまりやすくなる",
-   "en": "Hunt Food  Attacks fill the Hunt Gauge faster",
+   "en": "Hunt Food: attacks fill the Hunt Gauge faster",
    "status": "translated"
   },
   {
@@ -17014,7 +17014,7 @@
     "0x2920dc"
    ],
    "jp": "ハントフード ハントゲージが攻撃でたまりやすくなる",
-   "en": "Hunt Food  Attacks fill the Hunt Gauge faster",
+   "en": "Hunt Food: attacks fill the Hunt Gauge faster",
    "status": "translated"
   },
   {
@@ -17104,7 +17104,7 @@
     "0x292100"
    ],
    "jp": "ハントフード ハントゲージが攻撃でたまりやすくなる",
-   "en": "Hunt Food  Attacks fill the Hunt Gauge faster",
+   "en": "Hunt Food: attacks fill the Hunt Gauge faster",
    "status": "translated"
   },
   {
@@ -17134,7 +17134,7 @@
     "0x29210c"
    ],
    "jp": "ハントフード ハントゲージが攻撃でたまりやすくなる",
-   "en": "Hunt Food  Attacks fill the Hunt Gauge faster",
+   "en": "Hunt Food: attacks fill the Hunt Gauge faster",
    "status": "translated"
   },
   {
@@ -17164,7 +17164,7 @@
     "0x292118"
    ],
    "jp": "ハントフード ハントゲージが攻撃でたまりやすくなる",
-   "en": "Hunt Food  Attacks fill the Hunt Gauge faster",
+   "en": "Hunt Food: attacks fill the Hunt Gauge faster",
    "status": "translated"
   },
   {
@@ -17194,7 +17194,7 @@
     "0x292124"
    ],
    "jp": "HPを200回復",
-   "en": "Heals 200 HP",
+   "en": "Restores 200 HP",
    "status": "translated"
   },
   {
@@ -17204,7 +17204,7 @@
     "0x292128"
    ],
    "jp": "HPを200かいふく",
-   "en": "Heals 200 HP",
+   "en": "Restores 200 HP",
    "status": "translated"
   },
   {
@@ -17224,7 +17224,7 @@
     "0x292130"
    ],
    "jp": "全体のHPを200回復",
-   "en": "Heals team 200 HP",
+   "en": "Heals all allies 200 HP",
    "status": "translated"
   },
   {
@@ -17234,7 +17234,7 @@
     "0x292134"
    ],
    "jp": "ゼンタイのHPを     200カイフク",
-   "en": "The whole team      heals 200 HP",
+   "en": "All allies' HP  +200",
    "status": "translated"
   },
   {
@@ -17284,7 +17284,7 @@
     "0x292148"
    ],
    "jp": "全体のENを150回復",
-   "en": "Restores team 150 EN",
+   "en": "Heals all allies 150 EN",
    "status": "translated"
   },
   {
@@ -17294,7 +17294,7 @@
     "0x29214c"
    ],
    "jp": "ゼンタイのENを     150カイフク",
-   "en": "The whole team      restores 150 EN",
+   "en": "All allies' EN  +150",
    "status": "translated"
   },
   {
@@ -17608,7 +17608,7 @@
     "0x2921f0"
    ],
    "jp": "「こいつの兄弟みたいな{940A}を使えば{8207}この{940A}はシンカではなくて{8207}バージョンアップするみたいよ！！」",
-   "en": "\"Use its sibling-like {940A}{8207}and this {940A}{8207}won't evolve, it'll upgrade!!\"",
+   "en": "\"Use a {940A} like its sibling,{8207}and this {940A} will{8207}upgrade, not evolve!!\"",
    "status": "translated"
   },
   {
@@ -17657,7 +17657,7 @@
     "0x292214"
    ],
    "jp": "「水中生物の{940A}を使えば{8207}こいつのトクチョウをいかしたまま{8207}ベツの{940A}にシンカできるわよ！」",
-   "en": "\"With water {940A},{8207}it can keep its traits and still{8207}evolve into another {940A}!\"",
+   "en": "\"With aquatic {940A},{8207}it can keep its traits and still{8207}evolve into another {940A}!\"",
    "status": "translated"
   },
   {
@@ -17706,7 +17706,7 @@
     "0x292238"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "\"Looks like this one{8207}evolves normally\"",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -18441,7 +18441,7 @@
     "0x292454"
    ],
    "jp": "「お目々の大きなサカナがた{940A}を{8207}使ってみたらどう？{8207}オモシロイすがたにシンカするかもよ！」",
-   "en": "\"A big-eyed fish-type {940A}{8207}why not try one?{8207}It might evolve into a funny shape!\"",
+   "en": "\"Try a big-eyed fish-type{8207}{940A}, why not?{8207}It might evolve into a funny shape!\"",
    "status": "translated"
   },
   {
@@ -20940,7 +20940,7 @@
     "0x292b80"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -20989,7 +20989,7 @@
     "0x292ba4"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -21038,7 +21038,7 @@
     "0x292bc8"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -21087,7 +21087,7 @@
     "0x292bec"
    ],
    "jp": "「3つのクビがトクチョウの{940A}を使えば{8207}とにかくすごい{940A}に{8207}シンカするわよ！！！」",
-   "en": "Use a three-headed {940A}{8207}and it'll evolve{8207}into a super {940A}!!",
+   "en": "\"Use a three-headed {940A}{8207}and it'll evolve{8207}into a super {940A}!!\"",
    "status": "translated"
   },
   {
@@ -21136,7 +21136,7 @@
     "0x292c10"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "Looks like this one{8207}evolves normally.",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -21185,7 +21185,7 @@
     "0x292c34"
    ],
    "jp": "「飛び道具を使った攻撃がとくいな{940A}を{8207}使えば、せいはんたいのイメージの{8207}グランボになりそうね」",
-   "en": "Use the {940A} skilled at ranged{8207}attacks, and it may evolve into{8207}its polar opposite.",
+   "en": "\"Use the {940A} skilled at ranged{8207}attacks, and it may evolve into{8207}its polar opposite.\"",
    "status": "translated"
   },
   {
@@ -21234,7 +21234,7 @@
     "0x292c58"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -21283,7 +21283,7 @@
     "0x292c7c"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -21332,7 +21332,7 @@
     "0x292ca0"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -21362,7 +21362,7 @@
     "0x292cbc"
    ],
    "jp": "土中攻撃は失敗することも多いので\nクローとの使い分けがヒツヨウ",
-   "en": "Underground attacks often fail,\nso use them alongside Claw",
+   "en": "Burrow often fails,\nso mix it up with Claw",
    "status": "translated"
   },
   {
@@ -21381,7 +21381,7 @@
     "0x292cc4"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -21430,7 +21430,7 @@
     "0x292ce8"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -21479,7 +21479,7 @@
     "0x292d0c"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -21528,7 +21528,7 @@
     "0x292d30"
    ],
    "jp": "「『ひゃくじゅうのおう』と言われる{8207}{940A}を使うと{8207}とんでもない{940A}にシンカするようね」",
-   "en": "Use the so-called \"King of Beasts\"{8207}{940A},{8207}and it'll evolve into a wild {940A}!",
+   "en": "\"Use the so-called 'King of Beasts'{8207}{940A},{8207}and it'll evolve into a wild {940A}!\"",
    "status": "translated"
   },
   {
@@ -21577,7 +21577,7 @@
     "0x292d54"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -21626,7 +21626,7 @@
     "0x292d78"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -21675,7 +21675,7 @@
     "0x292d9c"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "Looks like this one{8207}evolves normally.",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -21724,7 +21724,7 @@
     "0x292dc0"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "Looks like this one{8207}evolves normally.",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -21773,7 +21773,7 @@
     "0x292de4"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "Looks like this one{8207}evolves normally.",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -21822,7 +21822,7 @@
     "0x292e08"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -21871,7 +21871,7 @@
     "0x292e2c"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -21920,7 +21920,7 @@
     "0x292e50"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "Looks like this one{8207}evolves normally.",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -21969,7 +21969,7 @@
     "0x292e74"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -22018,7 +22018,7 @@
     "0x292e98"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "Looks like this one{8207}evolves normally.",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -22067,7 +22067,7 @@
     "0x292ebc"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -22116,7 +22116,7 @@
     "0x292ee0"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "Looks like this one{8207}evolves normally.",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -22165,7 +22165,7 @@
     "0x292f04"
    ],
    "jp": "「かわいい森のじゅうにんを使ってみたら？{8207}こいつのライバルにシンカできるみたいよ！」",
-   "en": "Why not try a cute forest dweller?{8207}Seems it can evolve into this one's rival!",
+   "en": "\"Why not try a cute forest dweller?{8207}Seems it can evolve into this one's rival!\"",
    "status": "translated"
   },
   {
@@ -22214,7 +22214,7 @@
     "0x292f28"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "Looks like this one{8207}evolves normally.",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -22263,7 +22263,7 @@
     "0x292f4c"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "Looks like this one{8207}evolves normally.",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -22312,7 +22312,7 @@
     "0x292f70"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "Looks like this one{8207}evolves normally.",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -22361,7 +22361,7 @@
     "0x292f94"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -22410,7 +22410,7 @@
     "0x292fb8"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -22459,7 +22459,7 @@
     "0x292fdc"
    ],
    "jp": "「こいつの兄弟みたいな{940A}を使えば{8207}この{940A}はシンカではなくて{8207}バージョンアップするみたいよ！！」",
-   "en": "Use a {940A} like its sibling{8207}and this {940A}{8207}gets upgraded, not evolved!!",
+   "en": "\"Use a {940A} like its sibling{8207}and this {940A}{8207}gets upgraded, not evolved!!\"",
    "status": "translated"
   },
   {
@@ -22508,7 +22508,7 @@
     "0x293000"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -22557,7 +22557,7 @@
     "0x293024"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -22606,7 +22606,7 @@
     "0x293048"
    ],
    "jp": "「変わった空飛ぶ{940A}を使えば{8207}変わったツバサの{940A}に{8207}シンカできそうね」",
-   "en": "Use an odd flying {940A}{8207}to evolve it into an{8207}odd-wing {940A}",
+   "en": "\"Try an odd flier {940A}{8207}to evolve it into an{8207}odd-wing {940A}\"",
    "status": "translated"
   },
   {
@@ -22655,7 +22655,7 @@
     "0x29306c"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -22704,7 +22704,7 @@
     "0x293090"
    ],
    "jp": "「何かとんでもない海の{940A}を使うと{8207}こいつもとんでもない{940A}に{8207}シンカできそうね」",
-   "en": "Use some wild sea {940A}{8207}and this may evolve into{8207}a wild {940A} too",
+   "en": "\"Use some wild sea {940A}{8207}and it, too, may become{8207}a wild {940A}.\"",
    "status": "translated"
   },
   {
@@ -22753,7 +22753,7 @@
     "0x2930b4"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -22802,7 +22802,7 @@
     "0x2930d8"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -22851,7 +22851,7 @@
     "0x2930fc"
    ],
    "jp": "「こいつには色々な{940A}を使ってみたら？{8207}2つのシンカ先がありそうよ」",
-   "en": "Why not try lots of {940A} on it?{8207}It may have two evolutions",
+   "en": "\"Why not try lots of {940A} on it?{8207}It might evolve two ways.\"",
    "status": "translated"
   },
   {
@@ -22900,7 +22900,7 @@
     "0x293120"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -22949,7 +22949,7 @@
     "0x293144"
    ],
    "jp": "「ソウコウのぶあつい{940A}を使えば{8207}大むかしの生物を元にした{940A}に{8207}シンカできそうよ！」",
-   "en": "Use a thick-armored {940A}{8207}and it may become a {940A}{8207}like a fossil beast!",
+   "en": "\"Use a thick-armored {940A}{8207}and it may become a {940A}{8207}like a fossil beast!\"",
    "status": "translated"
   },
   {
@@ -22998,7 +22998,7 @@
     "0x293168"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "Looks like this one{8207}evolves normally.",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -23047,7 +23047,7 @@
     "0x29318c"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -23096,7 +23096,7 @@
     "0x2931b0"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "Looks like this one{8207}evolves normally.",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -23145,7 +23145,7 @@
     "0x2931d4"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -23175,7 +23175,7 @@
     "0x2931f0"
    ],
    "jp": "成長するとハサミワザとボムワザをおぼえていく\n様にハサミワザはイリョクが高い",
-   "en": "Learns Pincer and Bomb moves as it grows\nEX Pincer moves are mighty",
+   "en": "Learns Pincer and Bomb moves as it grows\nIts Pincer moves are mightiest",
    "status": "translated"
   },
   {
@@ -23194,7 +23194,7 @@
     "0x2931f8"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -23243,7 +23243,7 @@
     "0x29321c"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -23292,7 +23292,7 @@
     "0x293240"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -23341,7 +23341,7 @@
     "0x293264"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -23390,7 +23390,7 @@
     "0x293288"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -23439,7 +23439,7 @@
     "0x2932ac"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -23488,7 +23488,7 @@
     "0x2932d0"
    ],
    "jp": "「こいつはウイルスがとくいな{940A}を{8207}使うと、アッとおどろくシンカをしそうね」",
-   "en": "Use a Virus-savvy {940A},{8207}and it may make a startling evolution",
+   "en": "\"Use a Virus-savvy {940A},{8207}and it may make a startling evolution\"",
    "status": "translated"
   },
   {
@@ -23537,7 +23537,7 @@
     "0x2932f4"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "Looks like this one{8207}evolves normally.",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -23586,7 +23586,7 @@
     "0x293318"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "Looks like this one{8207}evolves normally.",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -23635,7 +23635,7 @@
     "0x29333c"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -23684,7 +23684,7 @@
     "0x293360"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -23733,7 +23733,7 @@
     "0x293384"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -23782,7 +23782,7 @@
     "0x2933a8"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -23831,7 +23831,7 @@
     "0x2933cc"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -23880,7 +23880,7 @@
     "0x2933f0"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -23929,7 +23929,7 @@
     "0x293414"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "Looks like this one{8207}evolves normally.",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -23978,7 +23978,7 @@
     "0x293438"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -24027,7 +24027,7 @@
     "0x29345c"
    ],
    "jp": "「こいつは地中で生きる{940A}を使えば{8207}こいつも地中がすきな{940A}に{8207}シンカするようね」",
-   "en": "Use an underground {940A}{8207}and it may evolve into a{8207}digger {940A}",
+   "en": "\"Use an underground {940A}{8207}and it may evolve into a{8207}digger {940A}.\"",
    "status": "translated"
   },
   {
@@ -24076,7 +24076,7 @@
     "0x293480"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "Looks like this one{8207}evolves normally.",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -24125,7 +24125,7 @@
     "0x2934a4"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -24174,7 +24174,7 @@
     "0x2934c8"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -24223,7 +24223,7 @@
     "0x2934ec"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "Looks like this one{8207}evolves normally.",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -24272,7 +24272,7 @@
     "0x293510"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -24321,7 +24321,7 @@
     "0x293534"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -24370,7 +24370,7 @@
     "0x293558"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -24419,7 +24419,7 @@
     "0x29357c"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -24468,7 +24468,7 @@
     "0x2935a0"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -24517,7 +24517,7 @@
     "0x2935c4"
    ],
    "jp": "「こいつはオーソドックスな{8207}シンカをするようね」",
-   "en": "Looks like this one{8207}evolves normally.",
+   "en": "\"Looks like this one{8207}evolves normally.\"",
    "status": "translated"
   },
   {
@@ -24566,7 +24566,7 @@
     "0x2935e8"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -24615,7 +24615,7 @@
     "0x29360c"
    ],
    "jp": "「かわいい森のじゅうにんを使ってみたら？{8207}変わったシンカをするかもよ！」",
-   "en": "Why not try a cute forest dweller?{8207}It might evolve unusually!",
+   "en": "\"Why not try a cute forest dweller?{8207}It might evolve unusually!\"",
    "status": "translated"
   },
   {
@@ -24664,7 +24664,7 @@
     "0x293630"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -24713,7 +24713,7 @@
     "0x293654"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -24762,7 +24762,7 @@
     "0x293678"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -24811,7 +24811,7 @@
     "0x29369c"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -24860,7 +24860,7 @@
     "0x2936c0"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   },
   {
@@ -24910,7 +24910,7 @@
     "0x2936e4"
    ],
    "jp": "「こいつはもうコンプリートのようね」",
-   "en": "Looks like this one's complete.",
+   "en": "\"Looks like this one's complete.\"",
    "status": "translated"
   }
  ]

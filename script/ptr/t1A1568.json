@@ -47,7 +47,7 @@
     "0x1a1578"
    ],
    "jp": "{8A01}{8609}{949F}「そんな事ではシズクさんは{8205}かえせませんねぇ！！」{8400}{8B00}",
-   "en": "{8A01}{8609}{949F}Like that, I can't give{8205}Shizuku back to you!!{8400}{8B00}",
+   "en": "{8A01}{8609}{949F}At this rate, I can't{8205}give Shizuku back to you!!{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -107,7 +107,7 @@
     "0x1a1594"
    ],
    "jp": "{8A01}{8607}{949D}「フッ・・・やはりそのていどか」{8400}{8B00}",
-   "en": "{8A01}{8607}{949D}Heh... So that's all you've got{8400}{8B00}",
+   "en": "{8A01}{8607}{949D}Heh... So that's all you've got.{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -117,7 +117,7 @@
     "0x1a1598"
    ],
    "jp": "{8A01}{8607}{949D}「どうしたんだい？」{8300}{8607}{949D}「やっぱりバミューダ達をたおしたのは{8205}マグレだったみたいだね」{8400}{8B00}",
-   "en": "{8A01}{8607}{949D}What's wrong?{8300}{8607}{949D}So beating Bermuda's crew{8205}was just a fluke, huh{8400}{8B00}",
+   "en": "{8A01}{8607}{949D}What's wrong?{8300}{8607}{949D}So beating Bermuda's crew{8205}was just a fluke, huh?{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -397,7 +397,7 @@
     "0x1a1614"
    ],
    "jp": "{8A01}{861F}{94A5}「そうさ・・・どうせオレは{8205}世界一ホウキのにあう男さ・・・」{8400}{8B00}",
-   "en": "{8A01}{861F}{94A5}Yeah... I'm just the guy{8205}a broom suits best in the world...{8400}{8B00}",
+   "en": "{8A01}{861F}{94A5}Yeah... no guy in the world{8205}suits a broom better than me...{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -1787,7 +1787,7 @@
     "0x1a1884"
    ],
    "jp": "{8A01}{860F}{94A5}「子分のなんたるか・・・」{8300}{860F}{949F}「このオレがおしえてやるっ！！」{8400}{8B00}",
-   "en": "{8A01}{860F}{94A5}What it means to be a Grunt...{8300}{860F}{949F}I'll teach you myself!!{8400}{8B00}",
+   "en": "{8A01}{860F}{94A5}What it means to be a grunt...{8300}{860F}{949F}I'll teach you myself!!{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -1797,7 +1797,7 @@
     "0x1a1888"
    ],
    "jp": "{8A01}{860F}{94A5}「こういう時は『ち、ちきしょう！』って{8205}言うのが子分っぽくて良いぞ！」{8400}{8B00}",
-   "en": "{8A01}{860F}{94A5}In a spot like this, yell \"D-dammit!\"{8205}It's very Grunt-like!{8400}{8B00}",
+   "en": "{8A01}{860F}{94A5}In a spot like this, yell \"D-dammit!\"{8205}It's very grunt-like!{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -1807,7 +1807,7 @@
     "0x1a188c"
    ],
    "jp": "{8A01}{860F}{94A5}「ここでは『そ、そんなバカな・・・』って{8205}言うのがキホンだな！！」{8400}{8B00}",
-   "en": "{8A01}{860F}{94A5}Here, saying \"Th-that's impossible...\"{8205}is the basics!!{8400}{8B00}",
+   "en": "{8A01}{860F}{94A5}Here, the basic line to say is{8205}\"Th-that's impossible...\"!!{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -1827,7 +1827,7 @@
     "0x1a1894"
    ],
    "jp": "{8A01}{861F}{94A5}「おいおい、そんなにがんばったら{8205}子分になれないぞ・・・」{8400}{8B00}",
-   "en": "{8A01}{861F}{94A5}Hey, hey, if you try that hard,{8205}you'll never be a Grunt...{8400}{8B00}",
+   "en": "{8A01}{861F}{94A5}Hey, hey, if you try that hard,{8205}you'll never be a grunt...{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -1837,7 +1837,7 @@
     "0x1a1898"
    ],
    "jp": "{8A01}{861F}{94A5}「ま、まさか・・・」{8300}{861F}{94A5}「お前、子分じゃなくてカンブを{8205}目ざしているのか・・・？」{8400}{8B00}",
-   "en": "{8A01}{861F}{94A5}D-don't tell me...{8300}{861F}{94A5}You're not aiming to be a Grunt,{8205}but a boss...?{8400}{8B00}",
+   "en": "{8A01}{861F}{94A5}D-don't tell me...{8300}{861F}{94A5}You're not aiming to be a grunt,{8205}but a boss...?{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -1847,7 +1847,7 @@
     "0x1a189c"
    ],
    "jp": "{8A01}{861F}{94A5}「お前は子分シッカクだぁぁぁ！！」{8400}{8B00}",
-   "en": "{8A01}{861F}{94A5}You're not Grunt material at aaall!!{8400}{8B00}",
+   "en": "{8A01}{861F}{94A5}You're not grunt material at aaall!!{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -1937,7 +1937,7 @@
     "0x1a18c4"
    ],
    "jp": "{8A01}{8618}{949E}「さっさと本きょ地から{8205}出ていきなさい！！」{8400}{8B00}",
-   "en": "{8A01}{8618}{949E}Get out of our{8205}base this instant!!{8400}{8B00}",
+   "en": "{8A01}{8618}{949E}Get out of our{8205}headquarters this instant!!{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -3118,7 +3118,7 @@
     "0x1a1ae0"
    ],
    "jp": "{8A01}{8606}{949C}「ガッハッハ！これで子分になりたい{8205}というヤツが100人はふえたな！！」{8400}{8B00}",
-   "en": "{8A01}{8606}{949C}Gahahaha! Now there must be{8205}100 more who want to be my Grunts!!{8400}{8B00}",
+   "en": "{8A01}{8606}{949C}Gahahaha! Now there must be{8205}100 more who want to be my grunts!!{8400}{8B00}",
    "status": "translated"
   },
   {
@@ -3158,7 +3158,7 @@
     "0x1a1af0"
    ],
    "jp": "{8A01}{8615}{949C}「いかん・・・ここで負けたらまた子分を{8205}やめるヤツがでてくるかもしれん！！」{8400}{8B00}",
-   "en": "{8A01}{8615}{949C}No good... If I lose here, more{8205}Grunts might quit on me again!!{8400}{8B00}",
+   "en": "{8A01}{8615}{949C}No good... If I lose here, more{8205}grunts might quit on me again!!{8400}{8B00}",
    "status": "translated"
   },
   {

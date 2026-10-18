@@ -127,7 +127,7 @@
     "0x295100"
    ],
    "jp": "「しんか」と「しょきか」",
-   "en": "Evolve and Reset",
+   "en": "\"Evolve and Reset\"",
    "status": "translated"
   },
   {
@@ -158,7 +158,7 @@
     "0x295104"
    ],
    "jp": "「しんか」と「しょきか」についてせつめいします",
-   "en": "Explains evolving and resetting",
+   "en": "\"Explains evolving and resetting\"",
    "status": "translated"
   },
   {
@@ -567,7 +567,7 @@
     "0x294af4"
    ],
    "jp": "でたらめにボムをはっしゃするグランボの\nジョウホウが入った！\n\n敵に当たればラッキーだが、ミカタに\n当たるとヒジョウにいたいので\nやはり早目にたおすヒツヨウがあるだろう",
-   "en": " Info is in on a Granbo that fires\nbombs at random!\n\nLucky if it hits foes, but\nit really hurts allies, so\nyou'd better beat it early",
+   "en": "New info on a Granbo that fires\nbombs at random!\n\nLucky if it hits foes, but\nit really hurts allies, so\nyou'd better beat it early",
    "status": "translated"
   },
   {
@@ -1305,7 +1305,7 @@
     "0x294e90"
    ],
    "jp": "・{8833}外が暗くなった時、大陸の北東{8800}にあやしげな\n ドウクツへの入口がシュツゲンするらしい\n\n くわしいジョウホウはピーチタウンにいる\n 女の人が知っているという事だ",
-   "en": "- {8833}When it's dark, in the continent's NE{8800}, a\n suspicious cave entrance appears\n\n A woman in Peach Town is said to\n know more about it",
+   "en": "- {8833}When it's dark, in the far northeast{8800}, a\n suspicious cave entrance appears\n\n A woman in Peach Town is said to\n know more about it",
    "status": "translated"
   },
   {
@@ -1335,7 +1335,7 @@
     "0x294ed0"
    ],
    "jp": "・{8833}外が暗くなった時、大陸の北東{8800}にあやしげな\n ドウクツへの入口がシュツゲンするらしい\n\n 中には知らない間にベツの場所にとばされる\n シカケがあるそうなのでチュウイがヒツヨウ",
-   "en": "- {8833}When it's dark, in the continent's NE{8800}, a\n suspicious cave entrance appears\n\n Inside, there are said to be traps that\n send you elsewhere unawares. Beware",
+   "en": "- {8833}When it's dark, in the far northeast{8800}, a\n suspicious cave entrance appears\n\n Inside, there are said to be traps that\n send you elsewhere unawares. Beware",
    "status": "translated"
   },
   {
@@ -1365,7 +1365,7 @@
     "0x294edc"
    ],
    "jp": "・{8833}外が暗くなった時、大陸の北東{8800}にあらわれる\n ドウクツに入った男の子があの{88BB}ラ・グォンド{8800}を\n 見たと言っているが、他にはだれも見た者がなく\n ただの見まちがいではないかと思われる",
-   "en": "- In the cave {8833}in the NE when it's dark{8800}, a boy\n says he saw the {88BB}La Guondo{8800}, but no one\n else has seen it, so he was likely\n just mistaken",
+   "en": "- In the cave {8833}northeast at night{8800}, a boy\n says he saw the {88BB}La Guondo{8800}, but no one\n else has seen it, so he was likely\n just mistaken",
    "status": "translated"
   },
   {
@@ -1515,7 +1515,7 @@
     "0x294f74"
    ],
    "jp": "・{8833}大陸の南西{8800}に時々あらわれる山の中には\n きゅうきょくのトリがたグランボが\n シュツゲンするらしい\n\n 一度たおしてもフッカツするというウワサも\n あり、戦う時にはチュウイがヒツヨウ",
-   "en": "- The mountain seen at times {8833}in the SW{8800}\n is said to hold the ultimate\n bird-type Granbo\n\n Rumor says it revives even after\n defeat, so be careful fighting it",
+   "en": "- The {8833}southwest{8800} mountain seen at times\n is said to hold the ultimate\n bird-type Granbo\n\n Rumor says it revives even after\n defeat, so be careful fighting it",
    "status": "translated"
   },
   {
