@@ -18,6 +18,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 - The user's decisions, with the options and reasons: `docs/decisions.md`. Read it before asking the user anything; add each new ruling there the same session.
 - Text is u16 glyph codes (not bytes): a ROM offset into text is always even. Strings have several pointers (tables and code literal pools); never patch a word only because it equals a string offset.
 - Title screen needs Start pressed after ~1300 frames; earlier presses skip the intro and the title can reset to the attract loop.
+- Player bug reports: GitHub issues (`gh issue list --label bug`). Copy the attached save into `work/states/`, reproduce in the emulator, fix, commit with `Fixes #N`, and update `docs/status.md`.
 
 ## Status
 `docs/status.md`: done, next, open bugs. Update it at the end of every session.
