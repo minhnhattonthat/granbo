@@ -9,6 +9,19 @@ no game data you can play; you need your own dump of the Japanese game.
 **Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
 helps most.
 
+## Translation status
+
+| Part | Status |
+|---|---|
+| Dialogue / story, battle text, help pages | Translated |
+| Menus, items, moves, Granbo data | Translated |
+| Title logo and graphics with text | Translated (new GRANBO logo, battle command labels, element icons) |
+| Name entry | Translated (English keyboard) |
+| Staff credits | Translated |
+| Link-cable trading and battles | Not checked in play |
+
+Known issues: the transform battle command reads "Morph" on its small label; menus call it "Transform".
+
 ## What's here
 
 | Path | What it is |
