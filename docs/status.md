@@ -2,9 +2,9 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9 - playtest fixes in; release/Granbo_EN_v1.0.zip rebuilt 2026-10-19 from 14d7d0d (patched CRC32
-  5DC2BC16; all release steps pass). Visual QA gate passes on the new build: full re-tour, 419 sheets re-reviewed
-  (`work/qa/verdicts/`; v1.0 verdicts archived in `work/qa/verdicts_v1.0/`). Not published: the user's call.
+- **Phase:** 9 - released. v1.0 (patched CRC32 5DC2BC16) published 2026-10-18; v1.0.1 (fix #1, from a9c23ed,
+  patched CRC32 A75C838B, all release steps pass) published by the user 2026-11-14 on GitHub releases.
+  Visual QA gate: 419 sheets ok (`work/qa/verdicts/`; v1.0 verdicts archived in `work/qa/verdicts_v1.0/`).
   QA gotchas: `regen_states.py` defaults to the JP ROM (pass build/granbo_en.gba); the manifest's warp sheets are
   copies `work/qa/tour/warp_<scene>.png` of `work/qa/warp_<scene>/sheet.png` (copy them after a regen); the map
   tour is not deterministic, so every re-tour changes ~230 sheets.
