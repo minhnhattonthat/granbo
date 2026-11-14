@@ -44,12 +44,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
   dump.py rejected them; the JP text then drew through the EN font as garbage. dump.py now accepts them
   (`script/ptr/r1A0000.json`), test `test_event_script_messages_have_entries`, warp scene `grand_change_done`.
   Note: re-running dump.py rewrites `script/ptr/code.json` without its find_rel entries (ptrs []): restore those.
-- **Open bug (issue #1 screenshots, not fixed):** Grand Change screen (program table 0x08293FB0 entry 4, code
-  0x0807A095..) prompts 'Grand Change with this?    Yes  No' / 'Cancel the Grand Change?     Yes  No' overflow:
-  vwf_menu snaps a glyph after 2+ spaces to 8 px x its index, so Yes lands at index 27 (x=224) and No wraps. JP
-  はい/いいえ sit at index 20/24; a 3-glyph "Yes" + 2 spaces cannot reach 24, so it needs a decision (e.g. "OK"
-  or an engine snap rule). Same pattern in the other '    はい  いいえ' prompts of code.json (s26F8C6..s26F936).
-  No warp reaches that screen yet (PROG=4 from a cold boot gives the rename keyboard).
+- **Yes/No prompt overflow (issue #1 screenshots, fixed 2026-11-14, not in a release yet):** the 11
+  '...?    はい  いいえ' prompts (Grand Change, Data Ball, evolve, Is this OK?, terms, save before battle) put
+  Yes/No at their EN glyph index via the 2-space snap, past the cursor (drawn one cell left of the JP columns,
+  0x0807A8EC: x = 0xA0 + sel*32) and off the window. `build.yes_no` re-pads the last line with GAP glyphs and
+  single spaces so Yes/No start at the JP pixel columns (+0..2 px); test `test_yes_no_prompts_at_jp_columns`;
+  "Branch-evolve to this Granbo?" shortened to clear the cursor. Verified: GAP/pen math on the rename prompt
+  (`--qa` override; that window clips at ~17 cells). Not seen on the real Grand Change screen: still no warp
+  (PROG=4 gives the rename keyboard; poking game +8 to 3/4 does nothing). Needs a v1.0.2 release (user's call).
 - **Next (after user playtesting):**
   - Unverified screens (no warp scene): the second status page (0x0808AF70, icons moved to x=160), storage /
     Data Ball / shop prompts added by find_rel (ID_PX limits in ptrbatches are their current widths), link-battle

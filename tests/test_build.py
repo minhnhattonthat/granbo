@@ -70,6 +70,17 @@ def test_event_script_messages_have_entries(orig, files):
     assert len(hits) >= 3 and not [hex(p) for p in hits if p not in known]
 
 
+def test_yes_no_prompts_at_jp_columns(files):
+    """'...?  はい  いいえ' prompts: EN Yes/No start at the JP columns (the cursor's), no 2-space snap left."""
+    prompts = [e for f in files.values() for e in f["entries"] if e.get("en") and build.YESNO.search(e["jp"])]
+    assert len(prompts) >= 11
+    for e in prompts:
+        last, jp = build.yes_no(e["en"], e["jp"]).rsplit("\n", 1)[-1], e["jp"].rsplit("\n", 1)[-1]
+        assert "  " not in last, e["id"]
+        for word, ja in (("Yes", "はい"), ("No", "いいえ")):
+            assert 0 <= build.fit.width(last[:last.rindex(word)]) - 8 * jp.rindex(ja) <= 2, (e["id"], word)
+
+
 def test_marker_build_repoints(orig, files):
     """Marker build: every entry readable at its new home through its own pointers/table slots."""
     rom = build.build(orig, files, marker=build.MARKER).finish()

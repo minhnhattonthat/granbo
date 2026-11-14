@@ -101,6 +101,33 @@ def centre(s):
 
 
 GAP = "\N{EM SPACE}"  # blank glyph with an 8 px advance (engine.EN_CODES, font_en)
+YESNO = re.compile(r" +(はい) +(いいえ)$")
+
+
+def yes_no(s, jp):
+    """Yes/No prompts ('...?    はい  いいえ'): the game draws its cursor one cell left of the JP columns of はい and
+    いいえ (8 px x glyph index), but a 2+ space snap puts Yes/No at their EN index, past the cursor and off the
+    window when the EN question is longer (issue #1). Re-pad the last line with GAP glyphs and single spaces (no
+    snap) so Yes and No start at the JP columns, within 2 px."""
+    m = YESNO.search(jp.rsplit("\n", 1)[-1])
+    head, _, last = s.rpartition("\n")
+    q = re.fullmatch(r"(.*?) +Yes +No", last)
+    assert m and q, (s, jp)
+    out = q.group(1)
+    for word, col in (("Yes", m.start(1)), ("No", m.start(2))):
+        px = fit.width(out)
+        if px > 8 * (col - 1):
+            raise ValueError(f"{s!r}: text before {word} is {px} px, runs into the cursor at {8 * (col - 1)}")
+        out += next(pad for t in range(3) for b in range(8) for pad in [pad_px(8 * col - px + t, b)] if pad) + word
+    return head + "\n" * bool(head) + out
+
+
+def pad_px(d, b):
+    """d px of b single spaces (3 px) between GAPs (8 px), or None."""
+    a, r = divmod(d - 3 * b, 8)
+    if r or a < 0 or b > a + 1:
+        return None
+    return " " * (b > a) + (GAP + " ") * min(a, b) + GAP * (a - min(a, b))
 
 
 def clear_portrait(s):
@@ -213,6 +240,8 @@ def build(orig, files, lang="en", marker=None, engine_patch=True):
                         # battle box ({8A01}): text after the portrait at x=48 like its {8205} lines; message
                         # window: fit wraps it and tabs every line to x=64 (D8)
                         s = clear_portrait(s) if s.startswith("{8A01}") else fit.fit(s, e["jp"])
+                    if not marker and YESNO.search(e["jp"]):
+                        s = yes_no(s, e["jp"])
                     enc = text.encode_en(s)
                 if enc not in placed:
                     placed[enc] = r.alloc(enc, f"str {e['id']}", align=2)
