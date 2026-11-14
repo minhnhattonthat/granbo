@@ -115,6 +115,17 @@ S.prologue = { desc = "event program 17: prologue narration 'この大地はあ�
   W.palette_settled()  -- the storm fades in ~200 frames after the program's first palette load
 end }
 
+-- Map-load mode 15 (0x08001ABC) runs event script 0x081A12B0 when game +0x3A is set: the Grand Change result
+-- message (issue #1). The Grand Change screen sets it; here a poke before the warp's reload does.
+S.grand_change_done = { desc = "'グランドチェンジはかんりょうしました' after a Grand Change (game +0x3A, tower 4/0)",
+  run = function(W)
+  W.new_game()
+  W.wait(W.in_field, "field before poke")
+  W.w8(W.A.mode + 0x3A, 1)
+  W.warp(4, 0)
+  W.msg_page("Grand Change result")
+end }
+
 -- Any event program: --var "SCENE='program'" --var PROG=24
 S.program = { manual = true, desc = "event program (mode 9) from --var PROG", run = function(W)
   W.new_game(); W.warp(1, 0, 400, 300, 0); W.program(assert(PROG, "--var PROG=n"))

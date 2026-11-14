@@ -61,6 +61,15 @@ def test_rel_strings_follow_their_base(orig, files):
         assert rom[base + off:base + off + len(want)] == want, (by_at[t]["id"], b, hex(site))
 
 
+def test_event_script_messages_have_entries(orig, files):
+    """Event-script message commands {u32 0x38, u32 ptr} (issue #1: the Grand Change result) are all in the script."""
+    known = {int(p, 16) for f in files.values() for e in f.get("entries", []) for p in e.get("ptrs", [])}
+    w = struct.unpack("<%dI" % (len(orig) // 4), orig)
+    hits = [4 * i + 4 for i in range(len(w) - 1) if w[i] == 0x38 and 0x081A0000 <= w[i + 1] < 0x082A0000
+            and not w[i + 1] & 1 and struct.unpack_from("<H", orig, w[i + 1] - build.GBA - 2)[0] == text.END]
+    assert len(hits) >= 3 and not [hex(p) for p in hits if p not in known]
+
+
 def test_marker_build_repoints(orig, files):
     """Marker build: every entry readable at its new home through its own pointers/table slots."""
     rom = build.build(orig, files, marker=build.MARKER).finish()

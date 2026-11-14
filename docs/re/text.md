@@ -33,6 +33,9 @@ Codes >= 0x8000; high byte = command, low byte = argument (one u16, no extra wor
 - Tables: 0x2905B4 (1790 entries, skill/item names + descriptions 0x2797F0-0x285BC0), 0x1A1568 (439, battle
   dialogue 0x272D08-0x278C66), 0x1AA48C (names: ウッディーナ ...). More pointer runs: see `tools/` scans.
 - Code literal pools also point at text: 0x7F2A8 -> 0x27196A (intro subtitles, fixed-size zero-padded slots).
+- Event scripts (run by fn 0x080639F8) show a message with the command {u32 0x38, u32 ptr}. **verified** (issue #1):
+  script 0x081A12B0, run by map-load mode 15 when game +0x3A is set after a Grand Change, shows 0x26E4FA. These
+  pointers are isolated (no run), so dump.py accepts a pointer whose previous word is 0x38 (3 in the ROM).
 - **Base + offset** — verified: menu code often loads one string pointer and reaches its neighbours by adding
   constants (`adds r2, #0xa`; a literal word added with `add r2, r8` or `adds r4, r4, r3`; `movs r2, #0x34` +
   `rsbs` + `add r8, r2`, which also moves the base register). Those neighbours have no pointer, so the pointer scan

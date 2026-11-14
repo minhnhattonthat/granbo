@@ -24,6 +24,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SCRIPT = ROOT / "script"
 CODE_END = 0x1A0000
 TEXT_LO, TEXT_HI = 0x1A0000, 0x2A0000
+EV_MSG = 0x38  # event-script opcode word before a message pointer (docs/re/text.md)
 # Not text: compared byte for byte by code. Left untouched and out of the script.
 DATA_RANGES = [(0x28CB98, 0x28D440)]  # name-entry profanity filter list (romaji + kana words), guess: ends ~0x28D440
 
@@ -95,9 +96,11 @@ def pointer_strings(rom, event_lits, event_starts):
     inrun = {p for r in scan_ptrs.runs(hits) if len(r) >= 2 for p, _ in r}
     stride = strides([p for p, _ in hits if p >= CODE_END])
     code = {p for p, _ in hits if p < CODE_END and any(True for _ in map_blocks.literal_loads(rom, p))}
+    # event-script command 0x38 = show message {u32 0x38, u32 ptr} (script 0x081A12B0, run by mode 15: issue #1)
+    script = {p for p, _ in hits if p >= CODE_END and struct.unpack_from("<I", rom, p - 4)[0] == EV_MSG}
     good, rejected = defaultdict(list), []
     for p, t in hits:
-        if p in inrun or p in stride or p in code:
+        if p in inrun or p in stride or p in code or p in script:
             good[t].append(p)
         else:
             rejected.append((p, t))

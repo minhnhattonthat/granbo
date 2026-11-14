@@ -39,6 +39,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
     README from `docs/README-release.txt`, zip in release/; never publishes).
   - QA-pass fixes: battle dialogue clears the portrait (`build.clear_portrait`), battle move popup 12 cells in a
     14-wide box, small-font pair glyphs (Data Ball grids), element icon copies, fit width fixes for name codes.
+- **Issue #1 (2026-11-14):** the Grand Change result message ('グランドチェンジはかんりょうしました') and
+  '子分の服をきがえた' were never extracted: event-script message pointers {0x38, ptr} sat outside any run, so
+  dump.py rejected them; the JP text then drew through the EN font as garbage. dump.py now accepts them
+  (`script/ptr/r1A0000.json`), test `test_event_script_messages_have_entries`, warp scene `grand_change_done`.
+  Note: re-running dump.py rewrites `script/ptr/code.json` without its find_rel entries (ptrs []): restore those.
+- **Open bug (issue #1 screenshots, not fixed):** Grand Change screen (program table 0x08293FB0 entry 4, code
+  0x0807A095..) prompts 'Grand Change with this?    Yes  No' / 'Cancel the Grand Change?     Yes  No' overflow:
+  vwf_menu snaps a glyph after 2+ spaces to 8 px x its index, so Yes lands at index 27 (x=224) and No wraps. JP
+  はい/いいえ sit at index 20/24; a 3-glyph "Yes" + 2 spaces cannot reach 24, so it needs a decision (e.g. "OK"
+  or an engine snap rule). Same pattern in the other '    はい  いいえ' prompts of code.json (s26F8C6..s26F936).
+  No warp reaches that screen yet (PROG=4 from a cold boot gives the rename keyboard).
 - **Next (after user playtesting):**
   - Unverified screens (no warp scene): the second status page (0x0808AF70, icons moved to x=160), storage /
     Data Ball / shop prompts added by find_rel (ID_PX limits in ptrbatches are their current widths), link-battle

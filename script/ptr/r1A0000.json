@@ -1,0 +1,25 @@
+{
+ "entries": [
+  {
+   "id": "s26E4FA",
+   "at": "0x26e4fa",
+   "ptrs": [
+    "0x1a12d0",
+    "0x1daaec"
+   ],
+   "jp": "{8002}{9201}グランドチェンジはかんりょうしました{8300}データボールを回復します{8400}{8100}",
+   "en": "{8002}{9201}The Grand Change is complete.{8300}Your Data Balls have been healed.{8400}{8100}",
+   "status": "translated"
+  },
+  {
+   "id": "s26E59C",
+   "at": "0x26e59c",
+   "ptrs": [
+    "0x1a1294"
+   ],
+   "jp": "{8002}{9201}子分の服をきがえた{8400}{8100}",
+   "en": "{8002}{9201}You changed into the Grunt outfit.{8400}{8100}",
+   "status": "translated"
+  }
+ ]
+}
