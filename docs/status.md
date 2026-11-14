@@ -3,7 +3,9 @@
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
 - **Phase:** 9 - released. v1.0 (patched CRC32 5DC2BC16) published 2026-10-18; v1.0.1 (fix #1, from a9c23ed,
-  patched CRC32 A75C838B, all release steps pass) published by the user 2026-11-14 on GitHub releases.
+  patched CRC32 A75C838B, all release steps pass) published by the user 2026-11-14 on GitHub releases; v1.0.2
+  (Yes/No prompts, from ca0fa92, patched CRC32 168B6633, all release steps pass) published by the user 2026-11-14
+  (`gh release create` needs the full SHA for --target; the release hook only sees work/qa in the main checkout).
   Visual QA gate: 419 sheets ok (`work/qa/verdicts/`; v1.0 verdicts archived in `work/qa/verdicts_v1.0/`).
   QA gotchas: `regen_states.py` defaults to the JP ROM (pass build/granbo_en.gba); the manifest's warp sheets are
   copies `work/qa/tour/warp_<scene>.png` of `work/qa/warp_<scene>/sheet.png` (copy them after a regen); the map
@@ -44,14 +46,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
   dump.py rejected them; the JP text then drew through the EN font as garbage. dump.py now accepts them
   (`script/ptr/r1A0000.json`), test `test_event_script_messages_have_entries`, warp scene `grand_change_done`.
   Note: re-running dump.py rewrites `script/ptr/code.json` without its find_rel entries (ptrs []): restore those.
-- **Yes/No prompt overflow (issue #1 screenshots, fixed 2026-11-14, not in a release yet):** the 11
+- **Yes/No prompt overflow (issue #1 screenshots, fixed 2026-11-14, in v1.0.2):** the 11
   '...?    はい  いいえ' prompts (Grand Change, Data Ball, evolve, Is this OK?, terms, save before battle) put
   Yes/No at their EN glyph index via the 2-space snap, past the cursor (drawn one cell left of the JP columns,
   0x0807A8EC: x = 0xA0 + sel*32) and off the window. `build.yes_no` re-pads the last line with GAP glyphs and
   single spaces so Yes/No start at the JP pixel columns (+0..2 px); test `test_yes_no_prompts_at_jp_columns`;
   "Branch-evolve to this Granbo?" shortened to clear the cursor. Verified: GAP/pen math on the rename prompt
   (`--qa` override; that window clips at ~17 cells). Not seen on the real Grand Change screen: still no warp
-  (PROG=4 gives the rename keyboard; poking game +8 to 3/4 does nothing). Needs a v1.0.2 release (user's call).
+  (PROG=4 gives the rename keyboard; poking game +8 to 3/4 does nothing). Asked the reporter for the save (#1).
 - **Next (after user playtesting):**
   - Unverified screens (no warp scene): the second status page (0x0808AF70, icons moved to x=160), storage /
     Data Ball / shop prompts added by find_rel (ID_PX limits in ptrbatches are their current widths), link-battle
