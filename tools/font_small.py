@@ -117,6 +117,28 @@ def advances(codes):
     return bytes(out)
 
 
+def two_lines(text, px=64):
+    """text split at the space giving the narrowest longer line, drawn as 2 rows of px/8 tiles (top row = line 1,
+    bottom row = line 2; ink 1, background 3) -> bytes (4bpp, tiles row-major)."""
+    words = text.split(" ")
+    best = min(((" ".join(words[:i]), " ".join(words[i:])) for i in range(1, len(words))),
+               key=lambda p: max(sum(advance(c) for c in s) for s in p))
+    out = bytearray()
+    for line in best:
+        rows = [[3] * px for _ in range(8)]
+        pen = 0
+        for ch in line:
+            for y, r in enumerate(ART[ch]):
+                for x, c in enumerate(r):
+                    if c == "#":
+                        rows[TOP + y][pen + x] = 1
+            pen += advance(ch)
+        assert pen - 1 <= px, (text, line)
+        for t in range(px // 8):
+            out += bytes(rows[y][t * 8 + x] | rows[y][t * 8 + x + 1] << 4 for y in range(8) for x in range(0, 8, 2))
+    return bytes(out)
+
+
 def _check():
     for ch, rows in ART.items():
         assert width(ch) <= 7 and len(rows) <= 8 - TOP, ch

@@ -145,6 +145,9 @@ end }
 S.state_program = { manual = true, desc = "event program --var PROG from a --state-in field state", run = function(W)
   W.wait(W.in_field, "field"); W.program(assert(PROG, "--var PROG=n"))
 end }
+S.state_menu = { manual = true, desc = "field menu screen --var TOP/SUB from a --state-in field state", run = function(W)
+  W.menu_pick(TOP or 1, SUB or 0)
+end }
 
 -- Any map: --var "SCENE='map'" --var MAP=1 --var VAR=0 [--var X=400 --var Y=300 --var DIR=0]
 S.map = { manual = true, desc = "any map/variant from --var MAP/VAR/X/Y/DIR (list: docs/re/debug.md)",

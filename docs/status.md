@@ -65,8 +65,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Data Ball grid names proportional (`asm/hud_name.s` name_small hooked at 0x0804B4B0 for name6 buffers); shop
   greeting and every `\n{8E0n}` choice menu on the JP's line at JP cells (`fit.menu`; a word after a {8Fxx} snaps
   to its cell only if a space precedes the code). New warp scene `shop_greet`.
-  **Still open from #4:** the 2-column field item list (0x0806ECE0, × at name+64, columns 104 px apart) has no room;
-  battle item list (literal 0x14B at 0x0805EF04) and 0x0809324C not checked. Color menus ({8833} codes counted as
+  2-column field item list (0x0806ECE0, × at name+64; D12): names over 64 px as 2 compact-font lines
+  (`asm/item2.s` via veneer 0x0801480A, hooked at 0x0806EDBC); verified on the save, both columns and scrolled
+  (`work/qa/fitems_*`, scene `state_menu`). **Still open from #4:** battle item list (literal 0x14B at 0x0805EF04) and 0x0809324C not checked. Color menus ({8833} codes counted as
   0 cells) not seen on screen.
 - **Next (after user playtesting):**
   - Unverified screens (no warp scene): the second status page (0x0808AF70, icons moved to x=160), storage /

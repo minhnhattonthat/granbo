@@ -5,6 +5,7 @@
 - VWF for the message window: draw_glyph at 0x08056058 jumps to asm/vwf.s, which advances by WIDTHS[code].
 Codes not drawn by font_en keep their 8 px advance.
 """
+import json
 import struct
 import sys
 from pathlib import Path
@@ -17,6 +18,7 @@ import ligatures  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 FONT = 0x308BF8
+ITEM_NAMES = 0x291DB4  # item table, 12 bytes per id, name pointer first
 CODE_BASE = 0x7F3000  # 0xFF padding after the original data (ends 0x7F207B); inside the original 8 MiB
 VWF_STATE = 0x0203F000  # 16 bytes; only boot-time clears touch 0x0203E000-0x0203F5CF (docs/re/text.md)
 NAMEBUF = VWF_STATE + 0x70  # u32: last output buffer of name6 (asm/name6.s), after the two vwf_menu states
@@ -239,3 +241,22 @@ def patch(r, lig=None):
     # ldr r3,[pc,#8]; bl +2 (-> bx r3); b 0x0804B4EC; bx r3; nop; .word name_small|1; nops
     assert len(stub) == 20
     r.put(0x04B4B0, stub, "name_small hook")
+    # field item list (0x0806ECE0, 2 columns, x at name+64): names over 64 px as 2 compact lines -> asm/item2.s
+    ids = {}
+    for e in json.loads((ROOT / "script/ptr/t290574.json").read_text(encoding="utf-8"))["entries"]:
+        for p in e.get("ptrs", []):
+            k, m = divmod(int(p, 16) - ITEM_NAMES, 12)
+            if m == 0 and 0 <= k < 256 and sum(font_en.advance(c) for c in e["en"]) > 64:
+                ids[k] = 0x08000000 + r.alloc(font_small.two_lines(e["en"]), f"item {k} two lines")
+    count = max(ids) + 1
+    two = r.alloc(struct.pack(f"<{count}I", *(ids.get(k, 0) for k in range(count))), "item two-line table")
+    item2 = r.alloc(b"\0" * 0x100, "item2 code")
+    code = asm.assemble(ROOT / "asm/item2.s", 0x08000000 + item2, {"TWO": 0x08000000 + two, "COUNT": count})
+    assert len(code) <= 0x100
+    r.put(item2, code, "item2 code")
+    vn = 0x01480A  # dead nops after the hud name stub's literal; push {r4,r5}; ldr r4,[pc,#0]; bx r4; .word item2|1
+    assert r.data[vn:vn + 10] == bytes.fromhex("c046") * 5
+    r.put(vn, bytes.fromhex("30b4004c2047") + struct.pack("<I", 0x08000000 + item2 + 1), "item2 veneer")
+    assert r.orig[0x06EDBC:0x06EDC0] == bytes.fromhex("dcf7f6fa")  # bl draw_menu_string
+    off = (vn - (0x06EDBC + 4)) >> 1
+    r.put(0x06EDBC, struct.pack("<HH", 0xF000 | (off >> 11) & 0x7FF, 0xF800 | off & 0x7FF), "item2 call")
