@@ -51,6 +51,16 @@ S.shop = { desc = "map 3/1 SHOP B: cashier's buy list (mode 9) with prices", run
   W.wait(function() return W.r32(W.A.mode) == 9 and W.fade_done() end, "shop list")
 end }
 
+S.shop_greet = { desc = "map 3/1 SHOP B: cashier's greeting with the Buy/Sell/Quit choice", run = function(W)
+  W.new_game()
+  W.warp(3, 1)
+  W.press("up", 60, 2)
+  W.press("a")
+  W.msg_page("kid's line")
+  W.press("a")
+  W.frames(150)  -- greeting page with the Buy/Sell/Quit choice
+end }
+
 S.battle = { desc = "random battle in cave map 2/1 (2 ホッパー): battle screen with the command window",
   run = function(W)
   W.new_game()
@@ -129,6 +139,14 @@ end }
 -- Any event program: --var "SCENE='program'" --var PROG=24
 S.program = { manual = true, desc = "event program (mode 9) from --var PROG", run = function(W)
   W.new_game(); W.warp(1, 0, 400, 300, 0); W.program(assert(PROG, "--var PROG=n"))
+end }
+
+-- Same from a player's save in the field (--state-in): programs that need a party/items show real data
+S.state_program = { manual = true, desc = "event program --var PROG from a --state-in field state", run = function(W)
+  W.wait(W.in_field, "field"); W.program(assert(PROG, "--var PROG=n"))
+end }
+S.state_menu = { manual = true, desc = "field menu screen --var TOP/SUB from a --state-in field state", run = function(W)
+  W.menu_pick(TOP or 1, SUB or 0)
 end }
 
 -- Any map: --var "SCENE='map'" --var MAP=1 --var VAR=0 [--var X=400 --var Y=300 --var DIR=0]

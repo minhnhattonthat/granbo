@@ -54,6 +54,21 @@ Updated at the end of every session. Keep it to what the next session needs; his
   "Branch-evolve to this Granbo?" shortened to clear the cursor. Verified: GAP/pen math on the rename prompt
   (`--qa` override; that window clips at ~17 cells). Not seen on the real Grand Change screen: still no warp
   (PROG=4 gives the rename keyboard; poking game +8 to 3/4 does nothing). Asked the reporter for the save (#1).
+- **Issue #4 (2026-11-17, reporter's save `work/states/issue4.srm`; load: title Start at 1400, Start on Continue;
+  then `SCENE='state_program'` + `--state-in` runs any event program on that save: 16 Item Locker, 6 sell list,
+  5 buy list, 10 Data Ball deposit):** Item Locker's 3rd option showed the tail of another string ("ood luck!",
+  "t much"): base + `movs #0x81; lsls #3` was not traced. find_rel kind "shl", place_rel re-splits/pads it; the sweep
+  also found the shop sell prompt 0x26FB86 (showed "canceled"), now `s26FB86`. Fixed, verified on the save.
+  Round 2 (D9-D11, verified on the save; shots in `work/qa/{locker_w,locker_wi,locker_di,sell6,dball,
+  shopgreet_*}`): Item Locker deposit/withdraw lists and shop sell list: × and count +32 px, boxes and scroll bars
+  wider (`engine.py` "item list" sites; deposit's label "In storage"); withdraw/deposit prompt box 176 -> 192 px;
+  Data Ball grid names proportional (`asm/hud_name.s` name_small hooked at 0x0804B4B0 for name6 buffers); shop
+  greeting and every `\n{8E0n}` choice menu on the JP's line at JP cells (`fit.menu`; a word after a {8Fxx} snaps
+  to its cell only if a space precedes the code). New warp scene `shop_greet`.
+  2-column field item list (0x0806ECE0, × at name+64; D12): names over 64 px as 2 compact-font lines
+  (`asm/item2.s` via veneer 0x0801480A, hooked at 0x0806EDBC); verified on the save, both columns and scrolled
+  (`work/qa/fitems_*`, scene `state_menu`). **Still open from #4:** battle item list (literal 0x14B at 0x0805EF04) and 0x0809324C not checked. Color menus ({8833} codes counted as
+  0 cells) not seen on screen.
 - **Next (after user playtesting):**
   - Unverified screens (no warp scene): the second status page (0x0808AF70, icons moved to x=160), storage /
     Data Ball / shop prompts added by find_rel (ID_PX limits in ptrbatches are their current widths), link-battle

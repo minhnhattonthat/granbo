@@ -443,7 +443,7 @@
     "0x08394c"
    ],
    "jp": "おあずかりしている数",
-   "en": "Number deposited",
+   "en": "In storage",
    "status": "translated"
   },
   {
@@ -3227,6 +3227,14 @@
    "ptrs": [],
    "jp": "いくつ買われますか？",
    "en": "How many will you buy?",
+   "status": "translated"
+  },
+  {
+   "id": "s26FB86",
+   "at": "0x26fb86",
+   "ptrs": [],
+   "jp": "いくつ売っていただけますか？",
+   "en": "How many will you sell?",
    "status": "translated"
   },
   {

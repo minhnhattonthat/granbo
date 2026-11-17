@@ -143,6 +143,11 @@ def clear_portrait(s):
     return fit.PAGE.join(pages)
 
 
+def shl_ok(off):
+    """Shift n with off == imm8 << n (a `movs rX, #imm8; lsls rX, rX, #n` constant), or None."""
+    return next((n for n in range(32) if 0 <= off >> n < 256 and off == (off >> n) << n), None)
+
+
 def place_rel(r, orig, files, lang, marker):
     """Strings code reaches as base pointer + fixed offset (tools/find_rel.py: kind "adds" = `adds rX, #off` at
     site, "subs" = `subs rX, #-off`, "word" = a literal word holding off, "neg" = `movs rX, #-off`, then
@@ -158,10 +163,18 @@ def place_rel(r, orig, files, lang, marker):
         for i in ga | gb:
             group[i] = ga | gb
     new = {}
+    shl = {}  # target id -> base ids it is reached from by a movs/lsls constant (needs imm8 << n)
+    for a, b, kind, _ in rels:
+        if kind == "shl":
+            shl.setdefault(a, set()).add(b)
     for g in {frozenset(g) for g in group.values()}:
         if not any(text_of(ents[i], lang, marker) for i in g):
             continue  # nothing translated: leave the original strings and offsets alone
         for i in sorted(g, key=lambda i: int(ents[i]["at"], 16)):
+            pad = 0  # skip bytes until every movs/lsls offset to this string is encodable
+            while not all(shl_ok(r.free + pad - new[b]) is not None for b in shl.get(i, ())):
+                pad += 2
+            r.free += pad
             s = text_of(ents[i], lang, marker)
             new[i] = r.alloc(text.encode_en(s) if s else text.encode(ents[i]["jp"]), f"str {i} (rel)", align=2)
     seen = {}
@@ -173,6 +186,13 @@ def place_rel(r, orig, files, lang, marker):
         if kind == "word":
             assert struct.unpack_from("<i", orig, site)[0] == old, (a, hex(site))
             r.put(site, struct.pack("<i", off), f"rel {a}")
+            continue
+        if kind == "shl":  # movs rX, #imm8 at site, lsls rX, rX, #n at site+2: re-split off as imm8 << n
+            mv, sh = struct.unpack_from("<HH", orig, site)
+            assert mv >> 11 == 0b00100 and sh >> 11 == 0 and (mv & 0xFF) << (sh >> 6 & 31) == old, (a, hex(site))
+            n = shl_ok(off)
+            assert n is not None, (a, b, hex(site), hex(off))
+            r.put(site, struct.pack("<HH", mv & 0xFF00 | off >> n, sh & ~(31 << 6) | n << 6), f"rel {a}")
             continue
         hw = struct.unpack_from("<H", orig, site)[0]
         sign = 1 if kind == "adds" else -1
