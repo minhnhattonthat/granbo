@@ -4,8 +4,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** 9 - released. v1.0 (patched CRC32 5DC2BC16) published 2026-10-18; v1.0.1 (fix #1, from a9c23ed,
   patched CRC32 A75C838B, all release steps pass) published by the user 2026-11-14 on GitHub releases; v1.0.2
-  (Yes/No prompts, from ca0fa92, patched CRC32 168B6633, all release steps pass) published by the user 2026-11-14
-  (`gh release create` needs the full SHA for --target; the release hook only sees work/qa in the main checkout).
+  (Yes/No prompts, from ca0fa92, patched CRC32 168B6633, all release steps pass) published by the user 2026-11-14; v1.0.3
+  (fix #4, from dfa8907, patched CRC32 CD5DB2B2, all release steps pass) published by the user 2026-11-17
+  (`gh release create` needs the full SHA for --target; the release hook only sees work/qa in the main checkout,
+  so a session started in a worktree must hand the command to the user; gh active account nathantonsoniq can't
+  edit/merge PRs: use `GH_TOKEN=$(gh auth token -u minhnhattonthat)`).
   Visual QA gate: 419 sheets ok (`work/qa/verdicts/`; v1.0 verdicts archived in `work/qa/verdicts_v1.0/`).
   QA gotchas: `regen_states.py` defaults to the JP ROM (pass build/granbo_en.gba); the manifest's warp sheets are
   copies `work/qa/tour/warp_<scene>.png` of `work/qa/warp_<scene>/sheet.png` (copy them after a regen); the map
