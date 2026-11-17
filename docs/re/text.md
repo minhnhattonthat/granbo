@@ -38,7 +38,8 @@ Codes >= 0x8000; high byte = command, low byte = argument (one u16, no extra wor
   pointers are isolated (no run), so dump.py accepts a pointer whose previous word is 0x38 (3 in the ROM).
 - **Base + offset** — verified: menu code often loads one string pointer and reaches its neighbours by adding
   constants (`adds r2, #0xa`; a literal word added with `add r2, r8` or `adds r4, r4, r3`; `movs r2, #0x34` +
-  `rsbs` + `add r8, r2`, which also moves the base register). Those neighbours have no pointer, so the pointer scan
+  `rsbs` + `add r8, r2`, which also moves the base register; `movs r2, #0x81` + `lsls r2, r2, #3` = 0x408, issue #4:
+  Item Locker's やめる and the shop's いくつ売っていただけますか？, which the build re-splits and pads to stay encodable). Those neighbours have no pointer, so the pointer scan
   missed them (status labels, card/save labels, options values, Yes/No, shop/storage prompts), and relocating the
   base sent the offsets into other strings. `tools/find_rel.py` traces them; the build places each linked group in
   original order and rewrites every offset (`build.place_rel`); a test checks every derived string has an entry.

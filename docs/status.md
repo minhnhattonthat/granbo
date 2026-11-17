@@ -54,6 +54,20 @@ Updated at the end of every session. Keep it to what the next session needs; his
   "Branch-evolve to this Granbo?" shortened to clear the cursor. Verified: GAP/pen math on the rename prompt
   (`--qa` override; that window clips at ~17 cells). Not seen on the real Grand Change screen: still no warp
   (PROG=4 gives the rename keyboard; poking game +8 to 3/4 does nothing). Asked the reporter for the save (#1).
+- **Issue #4 (2026-11-17, reporter's save `work/states/issue4.srm`; load: title Start at 1400, Start on Continue;
+  then `SCENE='state_program'` + `--state-in` runs any event program on that save: 16 Item Locker, 6 sell list,
+  5 buy list, 10 Data Ball deposit):** Item Locker's 3rd option showed the tail of another string ("ood luck!",
+  "t much"): base + `movs #0x81; lsls #3` was not traced. find_rel kind "shl", place_rel re-splits/pads it; the sweep
+  also found the shop sell prompt 0x26FB86 (showed "canceled"), now `s26FB86`. Fixed, verified on the save.
+  **Still open from #4:**
+  - Item lists: names over 64 px (28, e.g. "Team HP Capsule 1", "Mecha Veggies") hide the `×` (drawn first at name
+    x+64 by 0x0806ED6A; the VWF name's cells blank it) and can touch the count. The 2-column field list has no room to
+    widen (left column 104 px, right ~88 px incl. count). Options: shorten the 28 names to <= 64 px (glossary change,
+    D4 last resort) or a condensed font for over-wide names. Needs the user's call.
+  - Data Ball grid names (small 8x8 font, draw_menu_string small path 0x0804B4A8 -> glyph8 0x0804B260, one tile per
+    code): a pair glyph squeezes 2 letters into 8 px while single letters take 8 px each ("Gat c h i n"). Fix idea:
+    hook the small path at a name6 string (r6 == [NAMEBUF]) and draw the 6 tiles proportionally as asm/hud_name.s.
+  - Shop greeting speaker "Kid" (s1) and the name-entry screenshot (s5): match the JP / no defect found.
 - **Next (after user playtesting):**
   - Unverified screens (no warp scene): the second status page (0x0808AF70, icons moved to x=160), storage /
     Data Ball / shop prompts added by find_rel (ID_PX limits in ptrbatches are their current widths), link-battle

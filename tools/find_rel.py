@@ -6,7 +6,8 @@ so the pointer scan never extracted them, and relocating the base breaks them (d
 literal-pool load of an extracted string (a code pointer, < 0x100000), this follows the base forward through
 straight-line Thumb code (moves, adds, hi-register adds, negation; calls clobber r0-r3; branches ignored) and
 lists each derived pointer that lands on a string start: target, base entry, kind (adds = `adds rX, #off`,
-word = literal word off, neg = `movs rX, #-off` negated) and the site holding the offset. The build places these
+word = literal word off, neg = `movs rX, #-off` negated, shl = `movs rX, #imm8; lsls rX, rX, #n` = imm8 << n, site
+= the movs) and the site holding the offset. The build places these
 (tools/build.py place_rel); a target with no script entry still shows Japanese, so --missing (exit 1) gates it.
 Approximate: check unusual hits by disassembly (scripts/disasm.py).
     python -X utf8 tools/find_rel.py [--window 0x400] [--missing]
@@ -75,6 +76,10 @@ def _path(rom, a, end, regs, work, seen):
                 regs[rd] = ("B", b[1] + k[1])
             else:
                 regs.pop(rd, None)
+        elif op5 == 0b00000 and regs.get(rs, ("",))[0] == "K" and regs[rs][3] == "neg" and regs[rs][2] == a - 2:
+            # movs rX, #imm8 then lsls rd, rX, #n right after it: the constant imm8 << n (Item Locker's Quit, +0x408)
+            k = regs[rs]
+            regs[rd] = ("K", k[1] << ((hw >> 6) & 31), k[2], "shl")
         elif op5 == 0b00100:  # movs rd, #imm8
             regs[(hw >> 8) & 7] = ("K", hw & 0xFF, a, "neg")
         elif op5 == 0b00110:  # adds rd, #imm8
@@ -99,7 +104,7 @@ def _path(rom, a, end, regs, work, seen):
                      else rd, None)
         elif hw >> 10 == 0b010000:  # ALU
             alu = (hw >> 6) & 15
-            if alu == 9 and rs in regs and regs[rs][0] == "K":  # rsbs rd, rs, #0
+            if alu == 9 and rs in regs and regs[rs][0] == "K" and regs[rs][3] != "shl":  # rsbs rd, rs, #0
                 k = regs[rs]
                 regs[rd] = ("K", -k[1], k[2], "neg")
             elif alu not in (8, 10, 11):

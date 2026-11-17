@@ -52,11 +52,14 @@ def test_rel_strings_follow_their_base(orig, files):
     by_at, by_id = {int(e["at"], 16): e for e in ents}, {e["id"]: e for e in ents}
     rels = find_rel.relations(orig, ents)
     assert not [hex(t) for t, *_ in rels if t not in by_at]
+    # issue #4: Item Locker's Quit is base + (0x81 << 3) (movs/lsls), shown as the tail of another string before
+    assert (0x26F68E, "s26F286", "shl", 0x85B04) in rels
     rom = build.build(orig, files, marker=build.MARKER).finish()
     for t, b, kind, site in rels:
         base = struct.unpack_from("<I", rom, int(by_id[b]["ptrs"][0], 16))[0] - build.GBA
-        hw = struct.unpack_from("<H", rom, site)[0]
-        off = {"adds": hw & 0xFF, "neg": -(hw & 0xFF), "subs": -(hw & 0xFF), "word": struct.unpack_from("<i", rom, site)[0]}[kind]
+        hw, hw2 = struct.unpack_from("<HH", rom, site)
+        off = {"adds": hw & 0xFF, "neg": -(hw & 0xFF), "subs": -(hw & 0xFF), "word": struct.unpack_from("<i", rom, site)[0],
+               "shl": (hw & 0xFF) << (hw2 >> 6 & 31)}[kind]
         want = text.encode_en(build.MARKER(by_at[t]))
         assert rom[base + off:base + off + len(want)] == want, (by_at[t]["id"], b, hex(site))
 

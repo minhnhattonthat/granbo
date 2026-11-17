@@ -131,6 +131,11 @@ S.program = { manual = true, desc = "event program (mode 9) from --var PROG", ru
   W.new_game(); W.warp(1, 0, 400, 300, 0); W.program(assert(PROG, "--var PROG=n"))
 end }
 
+-- Same from a player's save in the field (--state-in): programs that need a party/items show real data
+S.state_program = { manual = true, desc = "event program --var PROG from a --state-in field state", run = function(W)
+  W.wait(W.in_field, "field"); W.program(assert(PROG, "--var PROG=n"))
+end }
+
 -- Any map: --var "SCENE='map'" --var MAP=1 --var VAR=0 [--var X=400 --var Y=300 --var DIR=0]
 S.map = { manual = true, desc = "any map/variant from --var MAP/VAR/X/Y/DIR (list: docs/re/debug.md)",
   run = function(W)
