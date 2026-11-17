@@ -84,6 +84,18 @@ def test_yes_no_prompts_at_jp_columns(files):
             assert 0 <= build.fit.width(last[:last.rindex(word)]) - 8 * jp.rindex(ja) <= 2, (e["id"], word)
 
 
+def test_choice_menus_on_jp_line(files):
+    """'\\n{8E0n}...' menus (shop Buy/Sell/Quit, issue #4) stay on their own last line, every item inside the box,
+    and the shop menu keeps a space before each later cursor (else the word runs on from the last)."""
+    menus = [e for f in files.values() for e in f["entries"] if e.get("en") and build.fit.MENU.search(e["jp"])]
+    assert len(menus) >= 40
+    for e in menus:
+        out = build.fit.fit(e["en"], e["jp"])
+        assert build.fit.MENU.search(out) and not build.fit.problems(out), e["id"]
+    shop = build.fit.fit(*next((e["en"], e["jp"]) for e in menus if "{8F01}Buy" in e["en"]))
+    assert shop.endswith("\n{8E03}            {8F01}Buy {8F00}Sell {8F02}Quit{8100}"), shop
+
+
 def test_marker_build_repoints(orig, files):
     """Marker build: every entry readable at its new home through its own pointers/table slots."""
     rom = build.build(orig, files, marker=build.MARKER).finish()

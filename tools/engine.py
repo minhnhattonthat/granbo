@@ -166,6 +166,28 @@ def patch(r, lig=None):
                            (0x0730B6, 0x88, 0x78), (0x0733D0, 0x78, 0x70), (0x0733E8, 0xA0, 0x98)):
         assert r.orig[site:site + 2] == bytes([old, 0x20])  # movs r0, #old
         r.put(site, bytes([new, 0x20]), "card column x")
+    # Item Locker deposit/withdraw choice box (0x08069F00 x=32 y=80 w h=64): "What would you like to withdraw?" runs
+    # past the 176 px box (issue #4); 192 px ends it at x=224
+    for site in (0x085CBE, 0x085ED6):
+        assert r.orig[site:site + 2] == bytes([0xB0, 0x22])  # movs r2, #0xB0
+        r.put(site, bytes([0xC0, 0x22]), "item locker box width")
+    # Item Locker item lists (issue #4): names up to ~93 px ran over the "×" drawn at name x+64 (rows: deposit
+    # 0x08084930, withdraw 0x08084A20). × and count move 32 px right; list boxes, scroll bars widen to match; on the
+    # deposit screen the "in storage" box (label 0x0826F3D8) moves 8 px right and loses 8 px.
+    for site, old, new, what in (
+            *[(s, "40 30", "60 30", "x") for s in (0x084996, 0x084A86)],  # adds r0, #0x40: × x
+            *[(s, "48 30", "68 30", "count") for s in (0x0849BA, 0x084AAA)],  # adds r0, #0x48: count x
+            *[(s, "70 22", "90 22", "deposit box") for s in (0x083166, 0x08350C)],  # (0, 0, 0x70, 0x70)
+            *[(s, "80 22", "a0 22", "withdraw box") for s in (0x083D0A, 0x08401A)],  # (0, 0, 0x80, 0x70)
+            (0x08329C, "68 22", "88 22", "deposit scroll bar"), (0x083DEA, "78 22", "98 22", "withdraw scroll bar"),
+            *[(s, "88 20 00 21 68 22", "90 20 00 21 60 22", "storage box") for s in (0x08317C, 0x083466, 0x083774)],
+            *[(s, "90 20", "98 20", "storage label") for s in (0x083194, 0x08347C, 0x083790)],
+            # shop sell list, same layout (rows 0x0807EB7C, scroll bar 0x0807EC6C); the Money box at x=152 stays
+            (0x07EBE2, "40 30", "60 30", "sell ×"), (0x07EC06, "48 30", "68 30", "sell count"),
+            *[(s, "70 22", "90 22", "sell box") for s in (0x07DEE6, 0x07E1FA)],
+            *[(s, "68 20", "88 20", "sell scroll bar") for s in (0x07ECA2, 0x07ECAA)]):
+        assert r.orig[site:site + len(bytes.fromhex(old))] == bytes.fromhex(old), (hex(site), what)
+        r.put(site, bytes.fromhex(new), f"item list: {what}")
     # name-entry keyboard: the かな and カナ pages (layout strings 0x08295C44 / 0x08295D88, read by 0x08091820) become
     # an upper|lower-case page and a digits/symbols page; the ABC page (0x08295ECC) already is Latin. Codes < 256 only:
     # a Granbo's name is 6 bytes.
@@ -198,10 +220,10 @@ def patch(r, lig=None):
         pt[2 * c], pt[2 * c + 1] = EN_CODES[p[0]], EN_CODES[p[1]]
     syms = {"BUF": HUD_BUF, "PAIRS": 0x08000000 + r.alloc(bytes(pt), "hud name pairs"),
             "FONT": 0x08000000 + r.alloc(font_small.tiles(EN_CODES), "hud name font"),
-            "ADV": 0x08000000 + r.alloc(font_small.advances(EN_CODES), "hud name advances")}
-    hud = r.alloc(b"\0" * 0x100, "hud_name code")
+            "ADV": 0x08000000 + r.alloc(font_small.advances(EN_CODES), "hud name advances"), "NAMEBUF": NAMEBUF}
+    hud = r.alloc(b"\0" * 0x200, "hud_name code")
     code = asm.assemble(ROOT / "asm/hud_name.s", 0x08000000 + hud, syms)
-    assert len(code) <= 0x100
+    assert len(code) <= 0x200
     r.put(hud, code, "hud_name code")
     assert r.orig[0x0147EE:0x014814] == bytes.fromhex(
         "288800194001c023db04c01839190a785201534619688918202238f03cfd0134052cedd91be0")
@@ -211,3 +233,9 @@ def patch(r, lig=None):
     # (name); ldr r3,[pc,#8]; bl +2 (-> bx r3); b 0x0801484C; bx r3; .word hud_name|1; nops
     assert len(stub) == 38
     r.put(0x0147EE, stub, "hud name call")
+    # Data Ball grid names: draw_menu_string's small-font tile block (0x0804B4B0-0x0804B4C3) -> name_small (hud+2)
+    assert r.orig[0x04B4B0:0x04B4C4] == bytes.fromhex("680150443188fff7d3fe404628432080681c10e0")
+    stub = bytes.fromhex("024b00f001f819e01847c046") + struct.pack("<I", 0x08000000 + hud + 2 + 1) + bytes.fromhex("c046c046")
+    # ldr r3,[pc,#8]; bl +2 (-> bx r3); b 0x0804B4EC; bx r3; nop; .word name_small|1; nops
+    assert len(stub) == 20
+    r.put(0x04B4B0, stub, "name_small hook")

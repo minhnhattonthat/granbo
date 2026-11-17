@@ -51,6 +51,16 @@ S.shop = { desc = "map 3/1 SHOP B: cashier's buy list (mode 9) with prices", run
   W.wait(function() return W.r32(W.A.mode) == 9 and W.fade_done() end, "shop list")
 end }
 
+S.shop_greet = { desc = "map 3/1 SHOP B: cashier's greeting with the Buy/Sell/Quit choice", run = function(W)
+  W.new_game()
+  W.warp(3, 1)
+  W.press("up", 60, 2)
+  W.press("a")
+  W.msg_page("kid's line")
+  W.press("a")
+  W.frames(150)  -- greeting page with the Buy/Sell/Quit choice
+end }
+
 S.battle = { desc = "random battle in cave map 2/1 (2 ホッパー): battle screen with the command window",
   run = function(W)
   W.new_game()

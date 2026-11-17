@@ -156,8 +156,50 @@ def fit_page(page, jp_page, cont_header, names=None):
     return PAGE.join(pages) + tail
 
 
+MENU = re.compile(r"\n(\{8E[0-9A-F]{2}\}.*)\Z", re.S)  # choice menu ({8E0n} n items) on its own last line
+ITEM = re.compile(r"(\{8F[0-9A-F]{2}\})((?:\{(?!8F|81)[0-9A-F]{4}\})*[^{]*?) *(?=\{8F|\{81|\Z)")
+
+
+def menu_cells(m):
+    """Cell index of each {8Fxx} choice code: every character and space takes one 8 px cell, other codes none."""
+    out, n = [], 0
+    for tok in TOKEN.findall(m):
+        if tok.startswith("{8F"):
+            out.append(n)
+        n += not tok.startswith("{")
+    return out
+
+
+def menu(en, jp):
+    """A choice menu line: the game draws each {8Fxx} cursor in its cell (x = 8 + 8 * cell) and the word after it
+    starts a new VWF run there if a space precedes the code (with none it runs on from the last word, measured
+    issue #4). Put each item at its JP cell, moved left as a whole until the last word ends by LINE_END."""
+    lead = re.match(r"\{8E[0-9A-F]{2}\}", en).group(0)
+    items = ITEM.findall(en)
+    tail = re.search(r"(?:\{81[0-9A-F]{2}\})*\Z", en).group(0)
+    jp_cells = menu_cells(jp)
+    assert len(items) == len(jp_cells), (en, jp)
+    for shift in range(jp_cells[0] + 1):
+        out, cell = lead, 0
+        for (code, word), want in zip(items, jp_cells):
+            at = max(want - shift, cell + (cell > 0))  # a space before {8Fxx} or the word runs on from the last
+            out += " " * (at - cell) + code + word
+            cell = at + 1 + len(TOKEN.findall(re.sub(r"\{[0-9A-F]{4}\}", "", word)))
+            end = LINE_X + 8 * (at + 1) + width(word)
+        if end <= LINE_END:
+            return out + tail
+    # too long for cells: items run on proportionally, each after its 8 px cursor cell
+    end = LINE_X + sum(8 + width(w) for _, w in items)
+    if end > LINE_END:
+        raise ValueError(f"menu {en!r} ends at {end} px > {LINE_END}")
+    return lead + "".join(c + w for c, w in items) + tail
+
+
 def fit(en, jp):
     """Fit a whole message. Pages map to the JP's pages by index (for the newline code)."""
+    jm, em = MENU.search(jp), re.search(r"\s*(\{8E[0-9A-F]{2}\}.*)\Z", en, re.S)
+    if jm and em:  # text fitted as a prompt: the menu stays on the JP's line (issue #4 shop greeting)
+        return fit(en[:em.start()], jp[:jm.start() + 1]) + menu(em.group(1), jm.group(1))
     jp_pages = split_pages(jp)
     out = []
     for i, page in enumerate(split_pages(en)):
